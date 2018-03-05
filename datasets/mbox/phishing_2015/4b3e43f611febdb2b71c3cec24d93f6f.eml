@@ -1,0 +1,139 @@
+Return-Path: <aicashop@aicanet.it>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 63CDDF4169
+	for <jose@login.monkey.org>; Sat, 17 Oct 2015 11:01:46 -0500 (CDT)
+Received: from smtpin20.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 2EDC634E364
+	for <jose@login.monkey.org>; Sat, 17 Oct 2015 16:01:46 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70752065412.20.fifth78_66aff911c481c
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=nxdomain; dkim-atps=neutral
+X-Spam-Summary: 50,0,0,b7f2c2393c3e85df,d41d8cd98f00b204,aicashop@aicanet.it,:,RULES_HIT:2:41:72:355:375:379:800:920:967:969:973:978:983:988:989:1021:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1430:1431:1433:1434:1437:1515:1516:1517:1535:1606:1699:1714:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2551:2560:2563:2610:2682:2685:2731:2859:2890:2892:2894:2898:2900:2902:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3351:3586:3664:3865:3867:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4878:5007:6117:6119:6261:6650:6669:6678:7903:8518:8551:8568:8583:8603:8660:9025:9072:9080:9121:9388:10049:10231:10234:10346:10946:11233:11657:11658:11914:12043:12050:12295:12438:12555:12955:12963:12973:13139:13148:13230:13374:13894:14096:14149:21067:21080:21094:21212,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0
+X-HE-Tag: fifth78_66aff911c481c
+X-Filterd-Recvd-Size: 5800
+Received: from aicamagento.webscience.it (93-62-254-110.ip25.fastwebnet.it [93.62.254.110])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 17 Oct 2015 16:01:45 +0000 (UTC)
+Received: by aicamagento.webscience.it (Postfix, from userid 48)
+	id 87C0F36AA0; Sat, 17 Oct 2015 17:57:31 +0200 (CEST)
+To: jose@monkey.org
+Subject: Account Notification
+X-PHP-Originating-Script: 48:sq.php
+From: Account Support <no-reply@aicamagento.webscience.it>
+Reply-To: no-reply@aicamagento.webscience.it
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20151017155731.87C0F36AA0@aicamagento.webscience.it>
+Date: Sat, 17 Oct 2015 17:57:31 +0200 (CEST)
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 206
+
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<table style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 12.8px; width: 710px; background-color: rgb(255, 255, 255);">
+	<tr>
+		<td align="center" style="font-family: arial, sans-serif; margin: 0px; background-color: rgb(233, 233, 233);">
+		<table width="600" border="0">
+			<tr>
+				<td style="font-family: arial, sans-serif; margin: 0px;">
+				<div>
+					<table cellspacing="0" cellpadding="0" width="600" border="0">
+						<tr>
+							<td style="font-family: arial, sans-serif; line-height: 22px; border-radius: 10px 10px 0px 0px; margin: 0px; background: rgb(255, 255, 255)">
+							<table cellspacing="0" cellpadding="0" width="600" align="left" border="0">
+								<tr>
+									<td style="font-family: arial, sans-serif; margin: 0px;">
+									<div style="font-size: 14px; font-family: Arial; color: rgb(116, 116, 116); margin-left: 30px;">
+										<p align="left"> </p>
+										<div style="font-size: 10px; font-family: 'Arial black'; color: rgb(145, 145, 145);">
+											<p style="font-size: 22px;"><strong>
+											<em><font color="#253b80">Pay</font><font color="#179bd7">Pal</font></em></strong><font size="1"><sub><span class="Apple-converted-space"> </span>Secure</sub></font></p></div>
+										<p> </p></div>
+									</td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div>
+					<table cellspacing="0" cellpadding="0" width="600" border="0">
+						<tr>
+							<td style="font-family: arial, sans-serif; line-height: 22px; margin: 0px; background: rgb(243, 243, 255)">
+							<table cellspacing="0" cellpadding="0" width="600" align="left" border="0">
+								<tr>
+									<td style="font-family: arial, sans-serif; margin: 0px;">
+									<p align="justify" style="padding-left: 30px; padding-right: 30px; font-family: Arial; color: rgb(116, 116, 116); font-size: 15px;">
+									<strong>Dear Client,</strong><br>
+									We have noticed that some data from your 
+									account information seems inaccurate or 
+									unverified. You have to check your 
+									information in order to continue using our 
+									service smoothly, please check your account 
+									information by clicking the link below.</p></td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div>
+					<table cellspacing="0" cellpadding="0" width="600" border="0">
+						<tr>
+							<td style="font-family: arial, sans-serif; line-height: 27px; margin: 0px; background: rgb(255, 255, 255)">
+							<table width="600" align="left" border="0">
+								<tr>
+									<td style="font-family: arial, sans-serif; margin: 0px;">
+									<p style="margin-left: 30px;">
+									<a target="_blank" style="color: rgb(34, 34, 34);" href="https://multiprice.co.uk/system/7759/7a1a52df2e07e2c4036747a41bdb5235/7a1a52df2e07e2c4036747a41bdb5235/8953/7759/jose@monkey.org/3707/red.html">
+									<span style="font-size: 14px; font-family: Arial; width: 200px; color: rgb(255, 255, 255); text-align: center; display: inline-block; border-radius: 7px; background-color: rgb(22, 174, 255);">
+									<strong>Check My Account</strong></span></a></p></td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div>
+					<table cellspacing="0" cellpadding="0" width="600" border="0">
+						<tr>
+							<td style="font-family: arial, sans-serif; line-height: 22px; border-radius: 0px 0px 10px 10px; margin: 0px; background: rgb(255, 255, 255)">
+							<table cellspacing="0" cellpadding="0" width="600" align="left" border="0">
+								<tr>
+									<td style="font-family: arial, sans-serif; margin: 0px;">
+									<div style="font-size: 11px; font-family: Arial; color: rgb(116, 116, 116); margin-left: 30px; margin-right: 30px;">
+										<hr size="2" color="#F0F0F0" width="100%">
+										<p align="center">| Help | Contact | 
+										Fees | Security | Apps | Shop | Ebay | 
+										Secure</p>
+										<hr size="2" color="#F0F0F0" width="100%">
+									</div>
+									</td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+					</table>
+				</div>
+				</td>
+			</tr>
+			<tr>
+				<td align="center" style="font-family: arial, sans-serif; margin: 0px; padding-top: 10px;">
+				<div style="font-size: 9px; font-family: Arial; color: rgb(149, 149, 149); margin-left: 30px; margin-right: 30px;">
+					If you need help or have any questions, call us at 
+					65-6510-4584, 7:00 WIB to 21:00 WIB from Monday to Friday, 
+					8:00 WIB to 17:00 WIB from Saturday to Sunday</div>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>    </body> </html>
+

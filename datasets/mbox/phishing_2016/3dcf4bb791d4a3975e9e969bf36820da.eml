@@ -1,0 +1,456 @@
+Return-Path: usaa.web.services@customermail.usaa.com
+Delivered-To: jose@monkey.org
+X-FDA: 71700734532.21.rub67_97bfdf194a51
+X-Spam-Summary: 50,0,0,0fbcef949e075315,d41d8cd98f00b204,usaa.web.services@customermail.usaa.com,:usaa.web.services@customermail.usaa.com,RULES_HIT:41:72:327:379:800:962:967:969:973:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1719:1730:1744:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2568:2610:2639:2682:2685:2737:2741:2859:2890:2891:2894:2903:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3154:3352:3586:3865:3867:3868:3870:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4700:5007:6238:6248:6261:6671:6678:7208:7809:7903:8516:8568:8599:8603:8784:8957:9025:9060:9121:9130:9149:9177:9388:9416:9466:9908:10004:10030:10049:10149:10346:10946:11026:11233:11473:11651:11657:11658:11914:11967:12043:12438:12555:12663:12679:12700:12729:12737:12740:12776:12812:12963:13007:13110:13139:13439:13972:14001:14096:14195:14651:14827:14829:21080:21107:21220:2132
+X-HE-Tag: rub67_97bfdf194a51
+X-Filterd-Recvd-Size: 22772
+Received: from mta04.svc.cra.dublin.eircom.net (mta04.svc.cra.dublin.eircom.net [159.134.118.171])
+	by imf04.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Tue,  5 Jul 2016 02:17:44 +0000 (UTC)
+Received: (qmail 1071 messnum 14362593 invoked from network[213.94.190.12/avas01.vendorsvc.cra.dublin.eircom.net]); 5 Jul 2016 02:17:44 -0000
+Received: from avas01.vendorsvc.cra.dublin.eircom.net (HELO avas01) (213.94.190.12)
+  by mta04.svc.cra.dublin.eircom.net (qp 1071) with SMTP; 5 Jul 2016 02:17:44 -0000
+Received: from SBS.bayview.local ([86.43.126.163])
+	by Cloudmark Gateway with SMTP
+	id KC0Qb26wxcuixKFvhbEq1H; Tue, 05 Jul 2016 03:17:44 +0100
+X-Spam-Flag: NO
+X-CNFS-Analysis: v=2.1 cv=FoClhzfq c=1 sm=1 tr=0
+ a=6G2MlHasjSYhazfoJ82anQ==:117 a=6G2MlHasjSYhazfoJ82anQ==:17
+ a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=9cA053aazHEA:10
+ a=PqCfyzlyTWAA:10 a=KXl77lDgDEgIEtoqJYcA:9 a=uDLs4MyHAAAA:8
+ a=pSejkEJHZAr3Djb-hDsA:9 a=Tp6Ci6JH1bYybsrq:21 a=Okw8MirDCtM8Vm6D:21
+ a=wPNLvfGTeEIA:10 a=1XWaLZrsAAAA:8 a=2zJYuC2nAAAA:20 a=iuldHvUDAAAA:8
+ a=3j4BkbkPAAAA:8 a=JqEG_dyiAAAA:8 a=VKSB8i_3oqeaB4QylZwA:9
+ a=mFcw64wQa7gAVyqS:21 a=-8Ef4abyKXq5nwNu:21 a=VBAQLpHnPkUURXc1:21
+ a=_W_S_7VecoQA:10 a=r8J82v2LDz0A:10 a=d5Tk2X25c3oA:10 a=NWVoK91CQyQA:10
+ a=ZzrZOYrxvvmggl5jovW2:22 a=G6qx4dswAM52_Q7HEfjP:22 a=KJq8R4nz-IFbowNEO7Dg:22
+ a=nJcEw6yWrPvoIXZ49MH8:22 a=1oyjNGY7DiCiXHsSQtik:22 a=sJh6Skxnaek_REti9G3X:22
+ a=U04FSIGNRx3ScUM3zguK:22
+Content-Type: multipart/alternative; boundary="===============0830921703=="
+MIME-Version: 1.0
+Subject: Sign On to View Important Notice
+To: subscribers <USAA.Web.Services@customermail.usaa.com>
+From: "USAA" <USAA.Web.Services@customermail.usaa.com>
+Date: Tue, 05 Jul 2016 03:17:38 +0100
+X-CMAE-Envelope: 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
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 288
+
+You will not see this in a MIME-aware mail reader.
+--===============0830921703==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+   =
+
+   To ensure delivery to your inbox, please add USAA.Web.Services@customerm=
+ail.usaa.com to your address book.	 =
+
+
+ =
+
+   =
+
+	  =
+
+   =
+
+
+  	  =
+
+   Documents Online
+  View Accounts | Privacy Promise | Contact Us
+	  =
+
+    =
+
+   	 =
+
+  	 =
+
+  =
+
+	 =
+
+	  =
+
+   USAA SECURITY ZONE =
+
+
+USAA # ending in: 7882
+	  =
+
+   =
+
+  =
+
+  =
+
+   =
+
+  =
+
+
+ =
+
+    Dear Member,
+You have new documents on usaa.com. Log on to view your documents.
+
+ If you don't want to receive this e-mail notification when your new docume=
+nts are posted to usaa.com, you can change your preferences. =
+
+ =
+
+   	 View Your Documents
+ Thank you,
+USAA
+ P.S. Texting and driving ... it can wait. Take the pledge to never text an=
+d drive.
+	  =
+
+  =
+
+  =
+
+	 =
+
+	 =
+
+
+  =
+
+	 =
+
+	 =
+
+	 =
+
+
+   =
+
+  Please do not reply to this e-mail. To send a secure message to USAA, ple=
+ase contact us.
+
+Privacy Promise
+USAA, 9800 Fredericksburg Road, San Antonio, Texas 78288
+
+  =
+
+
+  =
+
+	 USAA means United Services Automobile Association and its insurance, bank=
+ing, investment and other companies. Banks Member FDIC. Investments provide=
+d by USAA Investment Management Company and USAA Financial Advisors Inc., b=
+oth registered broker dealers. 	 =
+
+
+  =
+
+
+  66676-0514   =
+
+
+
+ =
+
+=20
+
+--===============0830921703==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><DIV class=3Dgmail_quote>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D650 bgColor=3D#b5d7e6 border=
+=3D0>
+<TBODY>
+<TR>
+<TD height=3D35 vAlign=3Dmiddle width=3D650 align=3Dcenter><FONT style=3D"F=
+ONT-SIZE: 9px; COLOR: rgb(146,146,146)" face=3D"Verdana, sans-serif">To ens=
+ure delivery to your inbox, please add <SPAN style=3D"COLOR: rgb(104,167,19=
+7)"><A href=3D"mailto:USAA.Web.Services@customermail.usaa.com" target=3D_bl=
+ank>USAA.Web.Services@<WBR>customermail.usaa.com</A></SPAN> to your address=
+ book.</FONT></TD>
+<TD><BR></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D650 bgColor=3D#b5d7e6 border=
+=3D0>
+<TBODY>
+<TR>
+<TD width=3D10><BR></TD>
+<TD bgColor=3Dwhite width=3D630 align=3Dcenter>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D604 border=3D0>
+<TBODY>
+<TR>
+<TD height=3D5 colSpan=3D4><BR></TD></TR>
+<TR>
+<TD height=3D45 width=3D54><A href=3D"https://www.usaa.com/inet/ent_logon/L=
+ogon?EID=3D66676-0514_head" rel=3Dnofollow target=3D_blank data-saferedirec=
+turl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttps://www.usaa.com/ine=
+t/ent_logon/Logon?EID%3D66676-0514_head&amp;source=3Dgmail&amp;ust=3D146775=
+5833357000&amp;usg=3DAFQjCNEN7UCspIBvg_s78bvkkmsplRUuLA"><IMG border=3D0 al=
+t=3D"" src=3D"https://ci4.googleusercontent.com/proxy/U0RKK-68hu6LgjAfA1jBq=
+J14QGkCUxkkcuzfVgJZRMAgGp-B4wCEM2WQuMmqMY_hhx8klDZRxSzTmfy8kyoLfS7w2CCXC2cO=
+lPA8E-CRLgExdwOLA6j852wY=3Ds0-d-e1-ft#https://content.usaa.com/mcontent/sta=
+tic_assets/Media/email_logo.gif" width=3D61 height=3D41></A></TD>
+<TD>
+<TABLE cellSpacing=3D0 cellPadding=3D0 border=3D0>
+<TBODY>
+<TR>
+<TD style=3D"COLOR: rgb(109,109,109); FONT: bold 16px Arial,sans-serif" hei=
+ght=3D22 align=3Dleft><SPAN style=3D"MARGIN-TOP: 9px; DISPLAY: block">Docum=
+ents Online</SPAN></TD></TR>
+<TR>
+<TD height=3D23 noWrap align=3Dleft><FONT size=3D1 face=3D"Verdana, sans-se=
+rif"><A style=3D"COLOR: rgb(109,109,109); TEXT-DECORATION: none" href=3D"ht=
+tps://www.usaa.com/inet/ent_home/CpHome?EID=3D66676-0514_head" rel=3Dnofoll=
+ow target=3D_blank data-saferedirecturl=3D"https://www.google.com/url?hl=3D=
+en&amp;q=3Dhttps://www.usaa.com/inet/ent_home/CpHome?EID%3D66676-0514_head&=
+amp;source=3Dgmail&amp;ust=3D1467755833357000&amp;usg=3DAFQjCNHyrk3Ylnd_KWv=
+4iMBEdoBqWiqh-w">View Accounts</A> | <A style=3D"COLOR: rgb(109,109,109); T=
+EXT-DECORATION: none" href=3D"https://www.usaa.com/inet/ent_utils/McStaticP=
+ages?key=3Dprivacy_promise&amp;EID=3D66676-0514_head" rel=3Dnofollow target=
+=3D_blank data-saferedirecturl=3D"https://www.google.com/url?hl=3Den&amp;q=
+=3Dhttps://www.usaa.com/inet/ent_utils/McStaticPages?key%3Dprivacy_promise%=
+26EID%3D66676-0514_head&amp;source=3Dgmail&amp;ust=3D1467755833357000&amp;u=
+sg=3DAFQjCNH9tgNmBLzFC_gp1uxjznPrhHvZLA">Privacy Promise</A> | <A style=3D"=
+COLOR: rgb(109,109,109); TEXT-DECORATION: none" href=3D"https://www.usaa.co=
+m/inet/ent_contactus/CpLevelZeroContactUs?ContactUsPageId=3DPublicContactUs=
+&amp;EID=3D66676-0514_head" rel=3Dnofollow target=3D_blank data-saferedirec=
+turl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttps://www.usaa.com/ine=
+t/ent_contactus/CpLevelZeroContactUs?ContactUsPageId%3DPublicContactUs%26EI=
+D%3D66676-0514_head&amp;source=3Dgmail&amp;ust=3D1467755833358000&amp;usg=
+=3DAFQjCNH8xB57AIWYjNKz1A2--Ai2gyGSYg">Contact Us</A></FONT></TD></TR></TBO=
+DY></TABLE></TD>
+<TD height=3D45 vAlign=3Dmiddle width=3D367 align=3Dright>
+<TABLE height=3D65 cellSpacing=3D0 cellPadding=3D0 width=3D188 border=3D0>
+<TBODY>
+<TR>
+<TD width=3D22>
+<TABLE height=3D65 cellSpacing=3D0 cellPadding=3D0 width=3D22 border=3D0>
+<TBODY>
+<TR>
+<TD style=3D"LINE-HEIGHT: 0" height=3D29 vAlign=3Dtop width=3D8><IMG style=
+=3D"DISPLAY: block" border=3D0 alt=3D"" src=3D"https://ci4.googleuserconten=
+t.com/proxy/JTIIB2eVhjvrKb9XFlAiU4kP6VN1ys12jl6Fg11uzrMxtwV_DSX3JzVAQ9RRjGZ=
+P4KYQLdHEyZm01nrQWJgnmAbFkmPNMknmOo80SVEb1wFzc2x2PbogqH9vqXf6bSU_g7YAmKyero=
+zSsSCC=3Ds0-d-e1-ft#https://content.usaa.com/mcontent/static_assets/Media/e=
+mail_sec_1-1.gif?EID=3D3304031293" width=3D8 height=3D29></TD>
+<TD style=3D"LINE-HEIGHT: 0" bgColor=3D#e7e7e8 height=3D29 vAlign=3Dtop wid=
+th=3D14><IMG style=3D"DISPLAY: block" border=3D0 alt=3D"" src=3D"https://ci=
+5.googleusercontent.com/proxy/vMOlYe-5W7Hn5D8SSem02uE85zY5gJ-GGNnEKxojoZFQP=
+66ZGjjiq8nzShDYj0gCMUKDg7eVmGrcoOsnk9rJM7g8Q_xJAfFPo_SW59sS8OP4cEoEdMrOW5M6=
+K30J=3Ds0-d-e1-ft#https://content.usaa.com/mcontent/static_assets/Media/ema=
+il_sec_1-2.gif" width=3D14 height=3D29></TD></TR>
+<TR>
+<TD style=3D"LINE-HEIGHT: 0" height=3D29 vAlign=3Dtop width=3D8><IMG style=
+=3D"DISPLAY: block" border=3D0 alt=3D"" src=3D"https://ci4.googleuserconten=
+t.com/proxy/oz0x72b7BlCaGH8IPbQbX_hSzXnVLKA8IkAVzuk-7QSTtgXEhP4UomOz_dIm7EZ=
+TeZoD4E8zDlfByMuxzwWzKtArsu3qVV1VS8wNHm_EBbx2byafEki0jWXLZW1Utw54=3Ds0-d-e1=
+-ft#https://content.usaa.com/mcontent/static_assets/Media/email_sec_spacer.=
+gif" width=3D8 height=3D29></TD>
+<TD style=3D"LINE-HEIGHT: 0" bgColor=3D#e7e7e8 height=3D29 vAlign=3Dtop wid=
+th=3D14><IMG style=3D"DISPLAY: block" border=3D0 alt=3D"" src=3D"https://ci=
+4.googleusercontent.com/proxy/oz0x72b7BlCaGH8IPbQbX_hSzXnVLKA8IkAVzuk-7QSTt=
+gXEhP4UomOz_dIm7EZTeZoD4E8zDlfByMuxzwWzKtArsu3qVV1VS8wNHm_EBbx2byafEki0jWXL=
+ZW1Utw54=3Ds0-d-e1-ft#https://content.usaa.com/mcontent/static_assets/Media=
+/email_sec_spacer.gif" width=3D14 height=3D29></TD></TR>
+<TR>
+<TD style=3D"LINE-HEIGHT: 0" height=3D7 vAlign=3Dbottom width=3D8><BR></TD>
+<TD style=3D"LINE-HEIGHT: 0" bgColor=3D#e7e7e8 height=3D7 vAlign=3Dbottom w=
+idth=3D14><IMG style=3D"DISPLAY: block" border=3D0 alt=3D"" src=3D"https://=
+ci4.googleusercontent.com/proxy/QpItTHbCMIqp9uIGJcz5CZt6z7lXd3M9qFTIfX2kOXd=
+mIBv0Ncveo5yhFsWiI6w0tsnQeFByn2ZDce_EHZSt9oMlCOpHu0bjKhHjwvjkR6CGss7ikXUO0j=
+YDP9tK=3Ds0-d-e1-ft#https://content.usaa.com/mcontent/static_assets/Media/e=
+mail_sec_2-1.gif" width=3D14 height=3D7></TD></TR></TBODY></TABLE></TD>
+<TD bgColor=3D#e7e7e8 align=3Dleft>
+<TABLE height=3D65 cellSpacing=3D0 cellPadding=3D5 width=3D"100%" border=3D=
+0>
+<TBODY>
+<TR>
+<TD style=3D"FONT-SIZE: 9px; TEXT-ALIGN: left; LINE-HEIGHT: 12px" vAlign=3D=
+middle align=3Dleft><FONT style=3D"FONT-SIZE: 10px; COLOR: rgb(0,54,91)" fa=
+ce=3D"Arial, Helvetica, sans-serif"><B>USAA SECURITY ZONE</B></FONT> <BR><B=
+R><FONT style=3D"FONT-SIZE: 9px; COLOR: rgb(0,54,91)" face=3D"Arial, Helvet=
+ica, sans-serif">USAA # ending in: 7882</FONT></TD></TR></TBODY></TABLE></T=
+D>
+<TD bgColor=3D#ffffff width=3D7>
+<TABLE height=3D65 cellSpacing=3D0 cellPadding=3D0 width=3D7 border=3D0>
+<TBODY>
+<TR>
+<TD style=3D"LINE-HEIGHT: 0" bgColor=3D#e7e7e8 height=3D7 vAlign=3Dtop widt=
+h=3D7 align=3Dright><IMG style=3D"DISPLAY: block" border=3D0 alt=3D"" src=
+=3D"https://ci6.googleusercontent.com/proxy/AKIhTrGxlc8dRLYqFBbhjPqRmcW28Dd=
+WAgQz2w58zTHNrQlyHQ-9_5gSMB5v9RNrAkCfWwxc0GVEnwGOlL-a8WhHxAvWtBE2p6Zn6osXYg=
+AnO1cXyrSjg-l1_Mtv=3Ds0-d-e1-ft#https://content.usaa.com/mcontent/static_as=
+sets/Media/email_sec_1-3.gif" width=3D7 height=3D7></TD></TR>
+<TR>
+<TD style=3D"LINE-HEIGHT: 0" bgColor=3D#e7e7e8 height=3D51 vAlign=3Dtop wid=
+th=3D7 align=3Dright><IMG style=3D"DISPLAY: block" border=3D0 alt=3D"" src=
+=3D"https://ci4.googleusercontent.com/proxy/oz0x72b7BlCaGH8IPbQbX_hSzXnVLKA=
+8IkAVzuk-7QSTtgXEhP4UomOz_dIm7EZTeZoD4E8zDlfByMuxzwWzKtArsu3qVV1VS8wNHm_EBb=
+x2byafEki0jWXLZW1Utw54=3Ds0-d-e1-ft#https://content.usaa.com/mcontent/stati=
+c_assets/Media/email_sec_spacer.gif" width=3D7 height=3D51></TD></TR>
+<TR>
+<TD style=3D"LINE-HEIGHT: 0" bgColor=3D#e7e7e8 height=3D7 vAlign=3Dbottom w=
+idth=3D7 align=3Dright><IMG style=3D"DISPLAY: block" border=3D0 alt=3D"" sr=
+c=3D"https://ci3.googleusercontent.com/proxy/3Hs3pOcNCDxgktK_1_a5AHLBDBql5Q=
+iLAfWrzR51scCv4wVEQfayt17itPWHf4l54oiIuD-BpBrKWOUxO7PLo-pmMxV0XMPNWXE_8xfq4=
+VJ-I_wL_mELE2Iv1lj6=3Ds0-d-e1-ft#https://content.usaa.com/mcontent/static_a=
+ssets/Media/email_sec_2-2.gif" width=3D7 height=3D7></TD></TR></TBODY></TAB=
+LE></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height=3D20 colSpan=3D4>&nbsp;</TD></TR>
+<TR>
+<TD height=3D1 colSpan=3D4><BR></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"95%" border=3D0>
+<TBODY>
+<TR>
+<TD width=3D"95%" align=3Dleft><FONT style=3D"FONT-SIZE: 12px; COLOR: rgb(5=
+1,51,51); LINE-HEIGHT: 18px" face=3D"Verdana, sans-serif">
+<P style=3D"MARGIN-BOTTOM: 1em">Dear Member,</P>You have new documents on <=
+A href=3D"http://www.addictedtodesigners.com/new.html" target=3D_blank data=
+-saferedirecturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttp://usaa.=
+com&amp;source=3Dgmail&amp;ust=3D1467755833358000&amp;usg=3DAFQjCNEo44wUQfq=
+Tep4NlbRr1UB5qrRSWg">usaa.com</A>. Log on to view your documents.<BR><BR>
+<P style=3D"MARGIN-BOTTOM: 1em">If you don't want to receive this e-mail no=
+tification when your new documents are posted to <A href=3D"http://www.addi=
+ctedtodesigners.com/new.html" target=3D_blank data-saferedirecturl=3D"https=
+://www.google.com/url?hl=3Den&amp;q=3Dhttp://usaa.com&amp;source=3Dgmail&am=
+p;ust=3D1467755833358000&amp;usg=3DAFQjCNEo44wUQfqTep4NlbRr1UB5qrRSWg">usaa=
+.com</A>, you can change your preferences. </P>
+<TABLE height=3D15 cellSpacing=3D0 cellPadding=3D0 bgColor=3D#6cae35 border=
+=3D0>
+<TBODY>
+<TR bgColor=3D#6cae35>
+<TD bgColor=3D#6cae35 vAlign=3Dmiddle width=3D15 align=3Dcenter><IMG src=3D=
+"https://ci3.googleusercontent.com/proxy/FYiEznfFXDgvusVPr3vor_t23hJgnzhX16=
+GxAWxVbe9HWt0xXsu9vLejdvQh3Hjvb68Y4tWwrUpGNT2Y6QFk8aKi57x58_2VneLXUETCs33l8=
+9HYtbdpus00vO8sY0c=3Ds0-d-e1-ft#https://content.usaa.com/mcontent/static_as=
+sets/Media/email_cta_arrow.gif" width=3D15 height=3D15></TD>
+<TD bgColor=3D#6cae35 vAlign=3Dmiddle width=3D134 align=3Dcenter><A style=
+=3D"COLOR: rgb(255,255,255); FONT: bold 11px arial,sans-serif; TEXT-DECORAT=
+ION: none" href=3D"http://www.addictedtodesigners.com/new.html" rel=3Dnofol=
+low target=3D_blank data-saferedirecturl=3D"https://www.google.com/url?hl=
+=3Den&amp;q=3Dhttps://www.usaa.com/inet/ent_logon/Logon&amp;source=3Dgmail&=
+amp;ust=3D1467755833358000&amp;usg=3DAFQjCNFTFh0MPT5nRi585eCI-0M8KSxZaA">Vi=
+ew Your Documents</A></TD></TR></TBODY></TABLE>
+<P style=3D"MARGIN-BOTTOM: 1em">Thank you,<BR>USAA</P>
+<P><B>P.S. Texting and driving ... it can wait. <A href=3D"https://www.usaa=
+.com/inet/ent_logon/Logon" rel=3Dnofollow target=3D_blank data-saferedirect=
+url=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttps://www.usaa.com/inet=
+/ent_logon/Logon&amp;source=3Dgmail&amp;ust=3D1467755833358000&amp;usg=3DAF=
+QjCNFTFh0MPT5nRi585eCI-0M8KSxZaA">Take the pledge</A> to <I>never</I> text =
+and drive.</B></P></FONT></TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD height=3D30 colSpan=3D2 align=3Dleft><BR><A href=3D"http://www.facebook=
+.com/USAA" rel=3Dnofollow target=3D_blank data-saferedirecturl=3D"https://w=
+ww.google.com/url?hl=3Den&amp;q=3Dhttp://www.facebook.com/USAA&amp;source=
+=3Dgmail&amp;ust=3D1467755833358000&amp;usg=3DAFQjCNGUCLO_eryNdPM6Pf6YddHva=
+3znYg"><IMG border=3D0 alt=3DFacebook src=3D"https://ci5.googleusercontent.=
+com/proxy/GVcWnv9QC4MpNVNwWPaRAwC1MdZzw3T1tv9I9mxAn3awo_7Em2cL7vEDfPrIjkyZ7=
+hsZ3L1h8Jv6_2saLO8bu1yaeT8eaZuOR0c1OABLBOa56Mpsz_i7RhbK5A5FSUobQN6F8w7R0zqy=
+=3Ds0-d-e1-ft#http://content.usaa.com/mcontent/static_assets/om/Media/thumb=
+nails/facebookIcon.gif" width=3D32 height=3D32></A>&nbsp;&nbsp;<A href=3D"h=
+ttp://twitter.com/usaa" rel=3Dnofollow target=3D_blank data-saferedirecturl=
+=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttp://twitter.com/usaa&amp;=
+source=3Dgmail&amp;ust=3D1467755833358000&amp;usg=3DAFQjCNHPjL3njhZg9emrdKF=
+syNLueb8huw"><IMG border=3D0 alt=3DTwitter src=3D"https://ci6.googleusercon=
+tent.com/proxy/1JCP_WgMmUyzN5lgyAUnxYoXZEz8E8E9LkKJKX6kK31j_vxdL-A8CV04xaLm=
+whXLs6wLRUozX-pHJSSb5lGMjuWuIUuuVPBkGUoESle27SX0Lee4OtAUQ1f_dPzWiBMoA4f8U68=
+VMQg=3Ds0-d-e1-ft#http://content.usaa.com/mcontent/static_assets/om/Media/t=
+humbnails/twitterIcon.gif" width=3D32 height=3D32></A></TD></TR></TBODY></T=
+ABLE></TD>
+<TD width=3D5><BR></TD>
+<TD width=3D5><BR></TD></TR>
+<TR>
+<TD height=3D5 width=3D10><BR></TD>
+<TD height=3D5 width=3D630><BR></TD>
+<TD height=3D5 width=3D5><BR></TD>
+<TD height=3D5 width=3D5><BR></TD></TR>
+<TR>
+<TD height=3D20 colSpan=3D4>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=3D4 align=3Dcenter><FONT style=3D"FONT-SIZE: 10px; COLOR: rgb(1=
+09,109,109); LINE-HEIGHT: 18px" face=3D"Verdana, sans-serif">Please do not =
+reply to this e-mail. To send a secure message to USAA, please <A style=3D"=
+COLOR: rgb(64,140,176); TEXT-DECORATION: none" href=3D"https://www.usaa.com=
+/inet/ent_references/CpSendUsAMessage?ContentArea=3Dcp&amp;EID=3D66676-0514=
+_foot" rel=3Dnofollow target=3D_blank data-saferedirecturl=3D"https://www.g=
+oogle.com/url?hl=3Den&amp;q=3Dhttps://www.usaa.com/inet/ent_references/CpSe=
+ndUsAMessage?ContentArea%3Dcp%26EID%3D66676-0514_foot&amp;source=3Dgmail&am=
+p;ust=3D1467755833358000&amp;usg=3DAFQjCNH5VqqkMyi9lwId1S08XMeCWrx7kw">cont=
+act us</A>.<BR><BR><A style=3D"COLOR: rgb(109,109,109)" href=3D"https://www=
+.usaa.com/inet/ent_utils/McStaticPages?key=3Dprivacy_promise&amp;EID=3D6667=
+6-0514_foot" rel=3Dnofollow target=3D_blank data-saferedirecturl=3D"https:/=
+/www.google.com/url?hl=3Den&amp;q=3Dhttps://www.usaa.com/inet/ent_utils/McS=
+taticPages?key%3Dprivacy_promise%26EID%3D66676-0514_foot&amp;source=3Dgmail=
+&amp;ust=3D1467755833358000&amp;usg=3DAFQjCNHuoUutk6TvdG_5YXH9V0tzKwx7iw">P=
+rivacy Promise</A><BR>USAA, 9800 Fredericksburg Road, San Antonio, Texas 78=
+288<BR></FONT></TD></TR>
+<TR>
+<TD height=3D15 width=3D10><BR></TD></TR>
+<TR>
+<TD width=3D5 align=3Dleft><BR></TD>
+<TD width=3D630 colSpan=3D2 align=3Dleft><FONT style=3D"FONT-SIZE: 10px; CO=
+LOR: rgb(109,109,109); LINE-HEIGHT: 18px" face=3D"Verdana, sans-serif">USAA=
+ means United Services Automobile Association and <A style=3D"COLOR: rgb(64=
+,140,176); TEXT-DECORATION: none" href=3D"https://www.usaa.com/inet/ent_uti=
+ls/McStaticPages?key=3Dabout_usaa_overview&amp;EID=3D66676-0514_foot" rel=
+=3Dnofollow target=3D_blank data-saferedirecturl=3D"https://www.google.com/=
+url?hl=3Den&amp;q=3Dhttps://www.usaa.com/inet/ent_utils/McStaticPages?key%3=
+Dabout_usaa_overview%26EID%3D66676-0514_foot&amp;source=3Dgmail&amp;ust=3D1=
+467755833358000&amp;usg=3DAFQjCNGIKCvRiGF6t6QgnOWAVC5DhjCDcg">its insurance=
+, banking, investment and other companies</A>. Banks Member FDIC. Investmen=
+ts provided by USAA Investment Management Company and USAA Financial Adviso=
+rs Inc., both registered broker dealers.</FONT> </TD>
+<TD width=3D5 align=3Dleft><BR></TD></TR>
+<TR>
+<TD height=3D15 width=3D10><BR></TD></TR>
+<TR>
+<TD colSpan=3D4 align=3Dright><FONT style=3D"FONT-SIZE: 10px; COLOR: rgb(10=
+9,109,109); LINE-HEIGHT: 18px" face=3D"Verdana, sans-serif">66676-0514&nbsp=
+;&nbsp;&nbsp;</FONT><BR><BR></TD></TR></TBODY></TABLE></DIV></DIV></DIV>
+<P><BR>&nbsp;</P></BODY></HTML>
+--===============0830921703==--

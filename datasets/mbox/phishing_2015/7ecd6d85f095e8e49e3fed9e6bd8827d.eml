@@ -1,0 +1,32 @@
+Return-Path: usaa.user.services@us.army.mil
+Delivered-To: jose@monkey.org
+X-FDA: 70945169610.24.swing24_3d66dc1530334
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,12800b58e1282957,d41d8cd98f00b204,usaa.user.services@us.army.mil,:jose.ramos@qatar.army.mil,RULES_HIT:41:355:375:379:543:581:967:983:988:989:1208:1216:1224:1260:1261:1263:1313:1345:1381:1389:1431:1432:1516:1517:1520:1526:1534:1537:1565:1569:1699:1711:1714:1730:1747:1777:1792:2393:2525:2561:2564:2610:2682:2685:2828:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6114:6642:8597:8599:8987:9025:9388:9933:10004:10234:10400:10482:11473:11658:11914:12043:12555:13110:13311:13357:14106:19901:19997:21080:21212,0,RBL:50.77.49.209:@us.army.mil:.lbl8.mailshell.net-62.22.55.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:70,LUA_SUMMARY:none
+X-HE-Tag: swing24_3d66dc1530334
+X-Filterd-Recvd-Size: 1136
+Received: from TSERVER.CPCInc.local (50-77-49-209-static.hfc.comcastbusiness.net [50.77.49.209])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  9 Dec 2015 21:10:21 +0000 (UTC)
+Received: from TSERVER ([127.0.0.1]) by TSERVER.CPCInc.local with Microsoft SMTPSVC(7.0.6001.18000);
+	 Wed, 9 Dec 2015 15:00:00 -0600
+From: "USAA" <USAA.user.services@us.army.mil>
+Subject: Important Notification
+To: jose.ramos@qatar.army.mil
+Content-Type: text/html;iso-8859-1
+Reply-To: USAA.user.services@us.army.mil
+Date: Wed, 9 Dec 2015 15:00:00 -0600
+X-Priority: 3
+X-Library: Indy 8.0.25
+Return-Path: USAA.user.services@us.army.mil
+Message-ID: <TSERVER8s4KWiGtXsL100000660@TSERVER.CPCInc.local>
+X-OriginalArrivalTime: 09 Dec 2015 21:00:00.0207 (UTC) FILETIME=[913C1DF0:01D132C4]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 283
+
+<img src="http://www.vecogest.pt/media/.svn/usaaMessage.png" alt="" usemap="#map1449582424669">
+<map id="map1449582424669" name="map1449582424669"><area shape="rect" coords="11,288,141,307" title="" alt="" href="http://www.vecogest.pt/media/redirect-true.php" target="_self"><area shape="rect" coords="515,591,516,592" alt="

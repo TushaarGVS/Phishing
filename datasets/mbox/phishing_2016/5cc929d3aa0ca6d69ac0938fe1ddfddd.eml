@@ -1,0 +1,94 @@
+Return-Path: maggialan898@gmail.com
+Delivered-To: jose@monkey.org
+X-FDA: 71170411620.07.loaf34_3001efafe2c4f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,5a9ab64390ac33c8,d41d8cd98f00b204,maggialan898@gmail.com,:maggialan898@gmail.com,RULES_HIT:41:72:355:379:474:962:967:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1538:1561:1575:1588:1592:1594:1711:1714:1730:1749:1777:1792:2194:2199:2525:2560:2563:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3421:3690:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4184:4361:4362:5007:6248:6261:6687:7078:9025:9059:9060:9108:9121:9388:9411:9413:9416:9873:9908:10004:10346:10400:11233:11658:11914:12043:12561:13071:13235:13237:14196:14687:21060:21080:30026:30054:30070:30083,0,RBL:196.11.146.166:@gmail.com:.lbl8.mailshell.net-62.22.247.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:none,Custom_rules:0:0:0,LFtime:69,LUA_SUMMARY:none
+X-HE-Tag: loaf34_3001efafe2c4f
+X-Filterd-Recvd-Size: 2474
+Received: from vodamail.co.za (relay4.vodamail.co.za [196.11.146.166])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  9 Feb 2016 22:52:09 +0000 (UTC)
+Received: from vodamail.co.za (smtp6.vodamail.internal [10.113.154.85])
+	by relay4.vodamail.internal (Postfix) with ESMTP id D15BEC13D875;
+	Wed, 10 Feb 2016 00:52:08 +0200 (SAST)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp6.vodamail.co.za (Postfix) with ESMTP id C056E80796D7;
+	Wed, 10 Feb 2016 00:52:07 +0200 (SAST)
+X-Virus-Scanned: amavisd-new at vodamail.co.za
+Received: from vodamail.co.za ([127.0.0.1])
+	by localhost (smtp6.vodamail.internal [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id qNSFvcvDADht; Wed, 10 Feb 2016 00:52:05 +0200 (SAST)
+Received: from Mash.www.huaweimobilewifi.com (vc-nat-gp-s-41-13-52-115.umts.vodacom.co.za [41.13.52.115])
+	by smtp6.vodamail.co.za (Postfix) with ESMTP id 0B1E98110D39;
+	Wed, 10 Feb 2016 00:51:39 +0200 (SAST)
+Content-Type: multipart/alternative; boundary="===============1531348129=="
+MIME-Version: 1.0
+Subject: :Doc
+To: Recipients <maggialan898@gmail.com>
+From: "Maggie Captain" <maggialan898@gmail.com>
+Date: Wed, 10 Feb 2016 00:51:25 +0200
+Message-Id: <20160209225140.0B1E98110D39@smtp6.vodamail.co.za>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 58
+
+You will not see this in a MIME-aware mail reader.
+--===============1531348129==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+Hi,
+
+ I have been trying to send you some docs but haven't been able to attach t=
+hem on here. I uploaded them via Tripod docs so you can view them
+ =
+
+ =
+
+ =
+
+  Click here to view  =
+
+
+ Thank you. =
+
+ Await your soonest reply.
+ Best Regards
+ =
+
+ =
+
+ R
+--===============1531348129==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><br>Hi,<br><br>
+
+I have been trying to send you some docs but haven't been able to attach th=
+em on here. I uploaded them via Tripod docs so you can view them<br> =
+
+<br>
+<br>
+<br>
+<a href=3D"http://maggiclinksey.tripod.com">
+Click here to view </a>
+<br><br>
+Thank you.
+<br>
+Await your soonest reply.<br>
+Best Regards<br>
+
+<br>
+<br>
+R</html>
+--===============1531348129==--

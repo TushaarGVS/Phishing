@@ -1,0 +1,394 @@
+Return-Path: f.lyu@soton.ac.uk
+Delivered-To: jose@monkey.org
+X-FDA: 71634846108.03.apple52_2a2d6d76abb5f
+X-Spam-Summary: 30,2,0,bb7c516313e677eb,d41d8cd98f00b204,f.lyu@soton.ac.uk,:f.lyu@soton.ac.uk,RULES_HIT:10:41:355:379:582:599:960:967:973:978:981:988:989:1152:1158:1256:1260:1261:1263:1277:1311:1313:1314:1345:1359:1381:1437:1513:1515:1516:1518:1521:1534:1541:1593:1594:1711:1730:1747:1777:1792:2393:2525:2551:2553:2561:2564:2682:2685:2693:2828:2859:2890:2894:2895:2901:2908:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3865:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4699:4860:5007:6261:6659:7576:7809:7903:8784:8960:9025:9149:9388:9545:9855:10007:10128:10400:11658:11855:11875:11914:12043:12050:12051:12291:12438:12519:12657:12661:12679:12683:12740:13005:13017:13018:13019:13069:13163:13180:13229:13311:13357:13439:13893:13993:14096:14097:14110:14764:21067:21080:21364:21433:30001:30037:30054:30069:30070:30090:30091,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL
+X-HE-Tag: apple52_2a2d6d76abb5f
+X-Filterd-Recvd-Size: 3734
+Received: from mailgate7.iss.soton.ac.uk (mailgate7.iss.soton.ac.uk [152.78.128.16])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 16 Jun 2016 22:31:29 +0000 (UTC)
+Received: from mailgate7.iss.soton.ac.uk (localhost.localdomain [127.0.0.1])
+	by mailgate7.iss.soton.ac.uk (8.13.8/8.13.4) with ESMTP id u5GLxNOH026705;
+	Thu, 16 Jun 2016 22:59:23 +0100
+Received: from UOS-MSG00037-VS.soton.ac.uk (uos-msg00037-vs.soton.ac.uk [152.78.119.51])
+	by mailgate7.iss.soton.ac.uk (mailgate7.iss.soton.ac.uk [152.78.128.16]) envelope-from <F.Lyu@soton.ac.uk> with ESMTP
+	id s5FMxN0759164433uH ret-id none; Thu, 16 Jun 2016 23:05:31 +0100
+Received: from SRV00047.soton.ac.uk ([169.254.10.12]) by
+ UOS-MSG00037-VS.soton.ac.uk ([152.78.119.51]) with mapi id 14.03.0248.002;
+ Thu, 16 Jun 2016 22:43:23 +0100
+From: "Lyu F." <F.Lyu@soton.ac.uk>
+To: "Lyu F." <f.lyu@soton.ac.uk>
+Subject: RE: ITS HELP DESK: PASSWORD UPDATE
+Thread-Topic: ITS HELP DESK: PASSWORD UPDATE
+Thread-Index: AdHIE/13VMhW7i17QUej55aruY5zawAA8pm0
+Date: Thu, 16 Jun 2016 21:43:22 +0000
+Message-ID: <4E811877FAF79F4BBF0E2855B642AAF010C69CC5@SRV00047.soton.ac.uk>
+References: <4E811877FAF79F4BBF0E2855B642AAF010C69669@SRV00047.soton.ac.uk>
+In-Reply-To: <4E811877FAF79F4BBF0E2855B642AAF010C69669@SRV00047.soton.ac.uk>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [105.112.34.118]
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-smtpf-Report: sid=s5FMak075916443300; tid=s5FMxN0759164433uH; client=relay,white,ipv6; mail=; rcpt=; nrcpt=495:0; fails=0
+Received-SPF: None; receiver=mailgate7.iss.soton.ac.uk; client-ip=152.78.119.51; helo=<UOS-MSG00037-VS.soton.ac.uk>
+Received-SPF: None; receiver=mailgate7.iss.soton.ac.uk; client-ip=152.78.119.51; envelope-from=<F.Lyu@soton.ac.uk>
+X-UOS-MailScanner-Information: Please contact Serviceline@soton.ac.uk for more information
+X-UOS-MailScanner-ID: u5GLxNOH026705
+X-UOS-MailScanner: Found to be clean
+X-UOS-MailScanner-From: f.lyu@soton.ac.uk
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 267
+
+
+
+________________________________
+From: Lyu F.
+Sent: Thursday, June 16, 2016 10:13 PM
+To: Lyu F.
+Subject: ITS HELP DESK: PASSWORD UPDATE
+
+
+Admin Notice;
+
+
+
+
+
+
+Your Current password will expire in the next 24 hours , you are here by di=
+rected to kindly click on ITS HELPDESK/RESET PASSWORD<http://www.routineche=
+ckup.me/> to kindly reset your password or you will loose access to your ac=
+count soon as your password expires.
+NOTE: Your login will time out after 60 minutes. Your responses will be los=
+t if you do not click on the "ITS HELPDESK/RESET PASSWORD<http://www.routin=
+echeckup.me/>" button before 60 minutes lapses. There is no prompt when you=
+r 60 minute session has expired. Please save extensive comments periodicall=
+y and check your time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*****************************************************************
+Passed Our Spam Filter Security System;
+****************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

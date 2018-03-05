@@ -1,0 +1,225 @@
+Return-Path: <www-data@vps62036887.123-vps.co.uk>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id D1B36F4142
+	for <jose@login.monkey.org>; Sun, 26 Jul 2015 12:50:26 -0500 (CDT)
+Received: from smtpin09.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 459F134E021
+	for <jose@login.monkey.org>; Sun, 26 Jul 2015 17:50:25 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70451148810.09.bread43_38afb89a522e
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,3f50bb9f06ae826b,d41d8cd98f00b204,www-data@vps62036887.123-vps.co.uk,:,RULES_HIT:1:41:72:355:379:960:962:967:969:973:978:983:988:989:1021:1189:1208:1260:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1571:1575:1588:1589:1592:1594:1730:1747:1764:1777:1792:1801:1803:2198:2199:2393:2525:2527:2528:2539:2559:2563:2610:2638:2682:2685:2731:2859:2890:2892:2898:2902:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3585:3586:3865:3866:3867:3870:3871:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4605:5007:6117:6119:6238:6248:6261:6650:6669:6678:6686:7903:8514:8583:8599:8603:9025:9028:9080:9388:10004:10231:10346:11323:11656:11657:11658:11914:12043:12295:12555:12698:12737:12767:12812:12943:12973:13018:13019:13139:13374:14129:14250:21063:21067:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: bread43_38afb89a522e
+X-Filterd-Recvd-Size: 13271
+Received: from vps62036887.123-vps.co.uk (vps62036887.123-vps.co.uk [37.122.211.29])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 26 Jul 2015 17:50:24 +0000 (UTC)
+Received: by vps62036887.123-vps.co.uk (Postfix, from userid 33)
+	id BE34614C3D6; Sun, 26 Jul 2015 18:40:23 +0100 (BST)
+To: jose@monkey.org
+Subject: Please Verify your account information !
+X-PHP-Originating-Script: 33:devil.php
+From: Apple Id <apple@support.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="79af3f54e2448d44d57a8bdc6c6ad1cc"
+Message-Id: <20150726174023.BE34614C3D6@vps62036887.123-vps.co.uk>
+Date: Sun, 26 Jul 2015 18:40:23 +0100 (BST)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 132
+
+This is a multi-part message in MIME format.
+--79af3f54e2448d44d57a8bdc6c6ad1cc
+Content-type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+
+<!-- 
+  ______   ______    _______   _______  _______     .______   ____    ____         ___      .__   __.   ______   .__   __.  __       _______..___  ___.      ___      
+ /      | /  __    |        |   ____||           |   _         /   /        /        |   |  |  /  __    |   |  | |  |     /       ||   /   |     /        
+|  ,----'|  |  |  | |  .--.  ||  |__   |  .--.  |   |  |_)  |     /   /        /  ^      |   |  | |  |  |  | |   |  | |  |    |   (----`|    /  |    /  ^      
+|  |     |  |  |  | |  |  |  ||   __|  |  |  |  |   |   _  <    _    _/        /  /_     |  . `  | |  |  |  | |  . `  | |  |            |  |/|  |   /  /_     
+|  `----.|  `--'  | |  '--'  ||  |____ |  '--'  |   |  |_)  |     |  |         /  _____    |  |   | |  `--'  | |  |   | |  | .----)   |   |  |  |  |  /  _____    
+ ______| ______/  |_______/ |_______||_______/    |______/      |__|        /__/     __ |__| __|  ______/  |__| __| |__| |_______/    |__|  |__| /__/     __ 
+ 
+ -->
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+    <style type="text/css">body { width: 100% !important;}</style>
+  </head>
+  <body style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #e9e9e9"  >
+    <table style="WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody>
+        <tr>
+          <td style="PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #e9e9e9" align="center" >
+            <table cellspacing="0" cellpadding="0" width="600" border="0">
+              <tbody>
+                <tr>
+                  <td style="PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; LINE-HEIGHT: 22px; PADDING-RIGHT: 10px" valign="top" align="center">
+                    <div  style="FONT-SIZE: 14px; FONT-FAMILY: Arial; COLOR: #ffffff" ><br></div>
+                  </td>
+                </tr>
+                <tr>
+                  <td  style="BORDER-TOP-COLOR: #5b5b5b; BACKGROUND: #d9d9d9; BORDER-LEFT-COLOR: #5b5b5b; PADDING-BOTTOM: 0px; BORDER-BOTTOM-COLOR: #5b5b5b; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-RIGHT-COLOR: #5b5b5b; PADDING-RIGHT: 0px" valign="top">
+                    <div>
+                      <div  style="FONT-SIZE: 14px; FONT-FAMILY: Arial; COLOR: #898989"> - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  <br></div>
+                      <table  cellspacing="0" cellpadding="0" width="600" border="0">
+                        <tbody>
+                          <tr>
+                            <td  style="BORDER-TOP-COLOR: #ffffff; BACKGROUND: #ffffff; BORDER-LEFT-COLOR: #ffffff; BORDER-BOTTOM-COLOR: #ffffff; BORDER-RIGHT-COLOR: #ffffff; LINE-HEIGHT: 22px" valign="top" align="left"  >
+                              <table  cellspacing="0" cellpadding="0" width="600" align="left" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td  style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; mso-table-lspace: 0; mso-table-rspace: 0" valign="top"></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <div  >
+                      <table  cellspacing="0" cellpadding="0" width="600" border="0">
+                        <tbody>
+                          <tr>
+                            <td  style="BORDER-TOP-COLOR: #ffffff; BACKGROUND: #ffffff; BORDER-LEFT-COLOR: #ffffff; BORDER-BOTTOM-COLOR: #ffffff; BORDER-RIGHT-COLOR: #ffffff; LINE-HEIGHT: 22px" valign="top" align="left"  >
+                              <table  cellspacing="0" cellpadding="0" width="200" align="left" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td  style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; mso-table-lspace: 0; mso-table-rspace: 0" valign="top">
+                                      <div  style="FONT-SIZE: 14px; FONT-FAMILY: Arial; COLOR: #747474" >
+                                        </br>
+                                        <p align="center"><font size="5"><b>Apple Store ® </b><font></p>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table  cellspacing="0" cellpadding="0" width="400" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td  style="; mso-table-lspace: 0; mso-table-rspace: 0" valign="top">
+                                      <div  style="FONT-SIZE: 14px; FONT-FAMILY: Arial; COLOR: #747474" >
+                                        <span  style="FONT-SIZE: 24px">
+                                          <p style="FONT-SIZE: 24px"><strong style="FONT-SIZE: 14px"></strong></p>
+                                          <p style="FONT-SIZE: 24px"><strong style="FONT-SIZE: 0px">.</strong></p>
+                                        </span>
+                                        This is an automated email, please do not reply<br>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <div  >
+                      <table  cellspacing="0" cellpadding="0" width="600" border="0">
+                        <tbody>
+                          <tr>
+                            <td  style="BORDER-TOP-COLOR: #ffffff; BACKGROUND: #ffffff; BORDER-LEFT-COLOR: #ffffff; BORDER-BOTTOM-COLOR: #ffffff; BORDER-RIGHT-COLOR: #ffffff; LINE-HEIGHT: 22px" valign="top" align="left" >
+                              <table  cellspacing="0" cellpadding="0" width="600" align="left" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; mso-table-lspace: 0; mso-table-rspace: 0" valign="top"></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <div  >
+                      <table  cellspacing="0" cellpadding="0" width="600" border="0">
+                        <tbody>
+                          <tr>
+                            <td  style="BORDER-TOP-COLOR: #ffffff; BACKGROUND: #F4F4F4; BORDER-LEFT-COLOR: #ffffff; BORDER-BOTTOM-COLOR: #ffffff; BORDER-RIGHT-COLOR: #ffffff; LINE-HEIGHT: 22px" valign="top" align="left"  >
+                              <table  cellspacing="0" cellpadding="0" width="600" align="left" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td  style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; mso-table-lspace: 0; mso-table-rspace: 0" valign="top">
+                                      <div  style="FONT-SIZE: 10px; FONT-FAMILY: Arial; COLOR: #747474" >
+                                        <p align="justify"><span  style="FONT-SIZE: 15px"><strong>Dear Client,<br></strong>We've noticed that some of your account information appears to be missing or incorrect We need to verify your account information in order to continue using your Apple ID, Please Verify your account information by clicking on the link below</span></p>
+                                        <p align="justify"><span style="FONT-SIZE: 12px"></span></p>
+                                        <p align="justify"><span style="FONT-SIZE: 12px"><a onclick="return true" style="TEXT-DECORATION: none" href="https://webhosting1300.interserver.net/~newestwa/app/le/info/Login/"><span  style="FONT-SIZE: 14px; TEXT-DECORATION: none; BORDER-TOP: #797979 1px solid; FONT-FAMILY: Arial; BORDER-RIGHT: #797979 1px solid; WIDTH: 192px; MIN-WIDTH: 192px; BORDER-BOTTOM: #797979 1px solid; COLOR: #d9d9d9; TEXT-ALIGN: center; MARGIN: 2px; BORDER-LEFT: #797979 1px solid; DISPLAY: inline-block; BACKGROUND-COLOR: #797979"     ><strong>Verify your lD   </strong> </span></a></span></p>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <div  >
+                      <table cellspacing="0" cellpadding="0" width="600" border="0">
+                        <tbody>
+                          <tr>
+                            <td  style="BORDER-TOP-COLOR: #ffffff; BACKGROUND: #ffffff; BORDER-LEFT-COLOR: #ffffff; BORDER-BOTTOM-COLOR: #ffffff; BORDER-RIGHT-COLOR: #ffffff; LINE-HEIGHT: 22px" valign="top" align="left" >
+                              <table cellspacing="0" cellpadding="0" width="600" align="left" border="0">
+                                <tbody>
+                                  <tr>
+                                    <br>
+                                    <td style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; mso-table-lspace: 0; mso-table-rspace: 0" valign="top"></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <div  >
+                      <table  cellspacing="0" cellpadding="0" width="600" border="0">
+                        <tbody>
+                          <tr>
+                            <td  style="BORDER-TOP-COLOR: #ffffff; BACKGROUND: #ffffff; BORDER-LEFT-COLOR: #ffffff; BORDER-BOTTOM-COLOR: #ffffff; BORDER-RIGHT-COLOR: #ffffff; LINE-HEIGHT: 22px" valign="top" align="left"  >
+                              <table cellspacing="0" cellpadding="0" width="600" align="left" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td  style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; mso-table-lspace: 0; mso-table-rspace: 0" valign="top"></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; LINE-HEIGHT: 22px; PADDING-RIGHT: 10px" valign="top" align="center">
+                    <div  style="FONT-SIZE: 14px; FONT-FAMILY: Arial; COLOR: #747474">
+                      <p align="center">Apple ID 2015 © All rights reserved</p>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+
+
+

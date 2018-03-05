@@ -1,0 +1,162 @@
+Return-Path: info@zimbra.com
+Delivered-To: jose@monkey.org
+X-FDA: 71400761502.19.rub75_7b2ea7044c81f
+X-Spam-Summary: 44,2.7,0,5c869082ac8b895e,d41d8cd98f00b204,info@zimbra.com,:info@zimbra.com,RULES_HIT:2:41:72:355:379:962:966:967:969:973:978:983:988:989:1042:1189:1208:1213:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1575:1588:1589:1592:1594:1606:1714:1719:1730:1744:1776:1792:1803:2069:2070:2196:2198:2199:2200:2525:2527:2567:2610:2682:2685:2731:2859:2890:2895:2899:2902:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3351:3650:3836:3866:3867:3868:3870:3871:3873:3874:3884:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4119:4321:4361:4385:4605:5007:6238:6261:6669:6687:7652:7903:8599:8603:8957:8985:9025:9411:9416:9908:10215:11209:11232:11473:11657:11658:11914:12043:12050:12051:12295:12517:12519:12555:12561:12740:13025:13139:13234:13235:13236:13237:13374:13439:14096:14194:14525:14596:21080:21259:21325:21366:30001:30022:30025:30026:30051:30054:30069:30070:30075,0,RBL:error,CacheIP:non
+X-HE-Tag: rub75_7b2ea7044c81f
+X-Filterd-Recvd-Size: 8867
+Received: from mail.boilermaster.biz (zimbra.boilermaster.biz [202.128.161.44])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 13 Apr 2016 10:20:46 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.boilermaster.biz (Postfix) with ESMTP id 836243CC0786;
+	Wed, 13 Apr 2016 18:14:54 +0800 (SGT)
+Received: from mail.boilermaster.biz ([127.0.0.1])
+	by localhost (mail.boilermaster.biz [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id BMMQDdaZ6IMf; Wed, 13 Apr 2016 18:14:52 +0800 (SGT)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.boilermaster.biz (Postfix) with ESMTP id 2CF843CC080D;
+	Wed, 13 Apr 2016 18:14:51 +0800 (SGT)
+X-Virus-Scanned: amavisd-new at boilermaster.biz
+Received: from mail.boilermaster.biz ([127.0.0.1])
+	by localhost (mail.boilermaster.biz [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id pM44ctjULZzB; Wed, 13 Apr 2016 18:14:51 +0800 (SGT)
+Received: from [172.20.10.5] (unknown [156.174.147.174])
+	by mail.boilermaster.biz (Postfix) with ESMTPSA id 454E73CC07F2;
+	Wed, 13 Apr 2016 18:14:39 +0800 (SGT)
+Content-Type: multipart/alternative; boundary="===============1652341540=="
+MIME-Version: 1.0
+Subject: Account Verification
+To: Recipients <info@zimbra.com>
+From: "Zimbra Alert"<info@zimbra.com>
+Date: Wed, 13 Apr 2016 11:14:31 +0100
+X-Antivirus: avast! (VPS 160412-1, 04/12/2016), Outbound message
+X-Antivirus-Status: Clean
+Message-Id: <20160413101440.454E73CC07F2@mail.boilermaster.biz>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 162
+
+You will not see this in a MIME-aware mail reader.
+--===============1652341540==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ Dear Zimbra User,
+ 
+This is to inform you that someone else was trying to log into your Zimbra =
+account from a different location {IP:27.167.158.432 CHINA : 13/04/2016 by =
+11:10 AM GTM}
+ 
+If this is not you kindly click below to sign in to update and verify your =
+account for you have only 12 hours to do this in order to keep your Zimbra =
+account active.
+
+Click Here to verify your Account.
+ 
+ This Email is Subject to mandatory follow, Failure to comply would lead to=
+ Permanent closure of Account.
+Regards,
+Technical support team
+
+---
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+--===============1652341540==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDE=
+NT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; C=
+OLOR: rgb(0,0,0); WORD-SPACING: 0px"><SPAN><SPAN style=3D"TEXT-TRANSFORM: n=
+one; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPAC=
+ING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px"><SPAN style=3D"TEXT-TRAN=
+SFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LET=
+TER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px"><SPAN style=3D"T=
+EXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: nor=
+mal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px"><SPAN st=
+yle=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SP=
+ACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px">=
+<SPAN><SPAN style=3D"COLOR: #550055"><SPAN style=3D"TEXT-ALIGN: left; TEXT-=
+TRANSFORM: none; TEXT-INDENT: 0px; FONT: medium 'Times New Roman'; WHITE-SP=
+ACE: normal; LETTER-SPACING: normal; COLOR: #000000; WORD-SPACING: 0px"><SP=
+AN style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHI=
+TE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: =
+0px">
+<DIV><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verd=
+ana; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-S=
+PACING: 0px"><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 1=
+0pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0)=
+; WORD-SPACING: 0px"><SPAN><SPAN style=3D"FONT-FAMILY: Verdana; COLOR: #000=
+000"><B>Dear <SPAN>Zimbra</SPAN> User,<BR></B></SPAN></SPAN></SPAN></SPAN>
+<DIV><BR></DIV><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT:=
+ 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,=
+0); WORD-SPACING: 0px"><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0p=
+x; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: =
+rgb(0,0,0); WORD-SPACING: 0px"><SPAN>This is to inform you that someone els=
+e was trying to log into your <SPAN>Zimbra</SPAN> account from a different =
+location {IP:27.167.158.432&nbsp;CHINA : <SPAN class=3DaBn tabIndex=3D0 dat=
+a-term=3D"goog_1198086829"><SPAN class=3DaQJ>13/04/2016</SPAN></SPAN> by 11=
+:10<SPAN> AM</SPAN> GTM}<SPAN style=3D"COLOR: #550055"><BR></SPAN></SPAN></=
+SPAN></SPAN>
+<DIV><BR></DIV><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT:=
+ 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,=
+0); WORD-SPACING: 0px"><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0p=
+x; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: =
+rgb(0,0,0); WORD-SPACING: 0px"><SPAN><SPAN style=3D"COLOR: #550055">If this=
+ is not you kindly click below to sign in to update and verify your account=
+ for you have only 12 hours to do this in order to keep your <SPAN>Zimbra</=
+SPAN> account active.<BR style=3D"TEXT-ALIGN: left; TEXT-TRANSFORM: none; T=
+EXT-INDENT: 0px; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; LETTE=
+R-SPACING: normal; COLOR: #000000; WORD-SPACING: 0px"><BR style=3D"TEXT-ALI=
+GN: left; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: medium 'Times New R=
+oman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: #000000; WORD-SP=
+ACING: 0px"><SPAN style=3D"TEXT-ALIGN: left; TEXT-TRANSFORM: none; TEXT-IND=
+ENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; =
+COLOR: #000000; WORD-SPACING: 0px"><SPAN style=3D"TEXT-TRANSFORM: none; TEX=
+T-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: nor=
+mal; COLOR: #000000; WORD-SPACING: 0px">Click<SPAN>&nbsp;<SPAN style=3D"TEX=
+T-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: norma=
+l; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px"><A style=
+=3D"FONT-WEIGHT: bold" href=3D"http://www.google.com/url?q=3Dhttp%3A%2F%2Ft=
+inyurl.com%2Fzw258hb&amp;sa=3DD&amp;sntz=3D1&amp;usg=3DAFQjCNFhK18TNxZi-k53=
+MdUYghS3Z6W8ww" rel=3D"nofollow noreferrer" target=3D_blank><SPAN>Here to v=
+erify your Account.</SPAN></A></SPAN></SPAN></SPAN></SPAN><BR></SPAN></SPAN=
+></SPAN></SPAN>
+<DIV><BR></DIV>
+<DIV style=3D"TEXT-ALIGN: left; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FON=
+T: medium 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; C=
+OLOR: #000000; WORD-SPACING: 0px">This Email is Subject to mandatory follow=
+, Failure to comply would lead to Permanent closure of Account.</DIV><SPAN =
+style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-=
+SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px=
+"><SPAN><SPAN style=3D"COLOR: #550055"><BR style=3D"TEXT-ALIGN: left; TEXT-=
+TRANSFORM: none; TEXT-INDENT: 0px; FONT: medium 'Times New Roman'; WHITE-SP=
+ACE: normal; LETTER-SPACING: normal; COLOR: #000000; WORD-SPACING: 0px"><SP=
+AN style=3D"TEXT-ALIGN: left; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT:=
+ medium 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COL=
+OR: #000000; WORD-SPACING: 0px">Regards,<BR>Technical support team</SPAN></=
+SPAN></SPAN></SPAN></DIV></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN><=
+/SPAN></SPAN></SPAN><br />
+<table style=3D"border-top: 1px solid #aaabb6;">
+	<tr>
+        <td style=3D"width: 55px; padding-top: 13px;"><a href=3D"https://ww=
+w.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_campaign=3Ds=
+ig-email&utm_content=3Demailclient&utm_term=3Doa-2200-b" target=3D"_blank">=
+<img src=3D"https://ipmcdn.avast.com/images/2016/icons/icon-envelope-tick-r=
+ound-orange-v1.png" /></a></td>
+		<td style=3D"width: 470px; padding-top: 15px; color: #41424e; font-size: =
+13px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Virus-=
+free. <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&utm_sou=
+rce=3Dlink&utm_campaign=3Dsig-email&utm_content=3Demailclient&utm_term=3Doa=
+-2200-b" target=3D"_blank" style=3D"color: #4453ea;">www.avast.com</a>
+		</td>
+	</tr>
+</table></BODY></HTML>
+--===============1652341540==--

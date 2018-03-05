@@ -1,0 +1,647 @@
+Return-Path: <nobody@coho3-2.cbncloud.co.id>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 42E9BF4005
+	for <jose@login.monkey.org>; Sun, 21 Jun 2015 21:43:44 -0500 (CDT)
+Received: from smtpin04.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id E9ADE27A99A
+	for <jose@login.monkey.org>; Mon, 22 Jun 2015 02:43:43 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70325484726.04.plane59_341b90b95411
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=nxdomain; dkim-atps=neutral
+X-Spam-Summary: 73,5,0,80769f08fdbd99d9,d41d8cd98f00b204,nobody@coho3-2.cbncloud.co.id,:,RULES_HIT:41:46:72:150:152:327:355:375:379:455:960:962:967:968:973:978:979:983:988:989:1147:1183:1189:1208:1224:1260:1311:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1513:1515:1516:1517:1521:1545:1556:1588:1589:1592:1593:1594:1605:1676:1685:1730:1744:1747:1777:1792:1801:1803:2194:2198:2199:2200:2393:2525:2527:2528:2549:2553:2568:2610:2682:2685:2693:2741:2859:2890:2892:2894:2897:2898:2901:2903:2909:2916:2919:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3043:3138:3139:3140:3141:3142:3148:3195:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4039:4042:4383:4384:4395:4605:5007:6096:6117:6119:6248:6261:6650:6669:7211:7688:7809:7875:7882:7903:8516:8603:8885:8957:9025:9040:9080:9149:9908:9941:10004:10128:10299:10305:10346:11026:11289:11656:11657:11658:11914:11984:12043:12114:12217:12295:12438:12555:12663:12679:12812:12956:
+X-HE-Tag: plane59_341b90b95411
+X-Filterd-Recvd-Size: 26709
+Received: from coho3-2.cbncloud.co.id (coho3-2.cbncloud.co.id [103.24.13.85])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 22 Jun 2015 02:43:42 +0000 (UTC)
+Received: from nobody by coho3-2.cbncloud.co.id with local (Exim 4.85)
+	(envelope-from <nobody@coho3-2.cbncloud.co.id>)
+	id 1Z6ri0-0007WO-8P
+	for jose@monkey.org; Mon, 22 Jun 2015 09:43:40 +0700
+To: jose@monkey.org
+Subject: =?UTF-8?Q?Reminder_=3a_We_noticed_your_account_has_been_limited_=28Ref_=23PP=2d=30=30=33=2d=34=32=32=2d=33=34=34=2d=35=38=34=29?=
+X-PHP-Script: dpcimbniaga.co.id/dpfile/kipet.php for 180.246.243.229
+From: =?UTF-8?Q?Paypal_Servicec?= <service@intl.pyypal.com>
+Reply-To: noreply@coho3-2.cbncloud.co.id
+Message-ID: <313371356.976@intl.pyypal.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 22 Jun 2015 09:43:40 +0700
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - coho3-2.cbncloud.co.id
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - coho3-2.cbncloud.co.id
+X-Get-Message-Sender-Via: coho3-2.cbncloud.co.id: uid via acl_c_vhost_owner from authenticated_id: nobody from /only user confirmed/virtual account not confirmed
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 112
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ maximum-scale=3D1" />=20
+<meta content=3D"width=3Ddevice-width; initial-scale=3D1.0; maximum-scale=
+=3D1.0; user-scalable=3Dyes;" name=3D"viewport" />
+<style type=3D"text/css">
+/* Email Client BUG Fixes */
+.ReadMsgBody, .ExternalClass { width: 100%; background-color: #ffffff;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100%;}
+body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none;}
+body { margin: 0; padding: 0;}
+* { margin: 0; padding: 0;}
+table { border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt=
+; mso-table-rspace: 0pt;}
+
+table td { border-collapse:  collapse; border-spacing: 0;}
+img { border: 0;}
+html { width: 100%; height: 100%;}
+.applelinks a { color: #8c8c8c !important; text-decoration: none !important=
+;}
+.applelinks2 a { color: #ffffff !important; text-decoration: none !importan=
+t;}
+
+             =20
+              =20
+/* Clickable phone numbers */
+a[href^=3D"tel"], a[href^=3D"sms"] {  text-decoration: none; color: #767676=
+; pointer-events: none; cursor: default;}
+.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] { text-decorat=
+ion: default;  color: #767676 !important; pointer-events: auto;  cursor: de=
+fault;}
+=20
+ =20
+/* Media Queries */=20
+@media only screen and (max-width: 639px) {
+
+=20
+/* Default */
+* { line-height: normal!important;}
+body {width: auto!important;}
+body[yahoo] .nomob {display:none !important;}      =20
+
+body[yahoo] .logoresize {
+=09
+=09
+
+background-size: 119px 31px !important;
+width:119px !important;
+=09height:31px !important;
+=09display:block !important;
+}      =20
+body[yahoo] .nobg { background: none !important;}   =20
+body[yahoo] .nopadding { padding: 0 0 0 0 !important;}  =20
+body[yahoo] .nopaddinglc { padding: 0 0 0 0 !important; text-align:center !=
+important;} =20
+body[yahoo] .noheight { height: auto !important;}  =20
+=20
+/* Adjust table widths at smaller screen sizes */
+body[yahoo] .table {width: 100%  !important; height:auto; border: none !imp=
+ortant;}
+
+body[yahoo] .table200 {width: 100%  !important; border: none !important;}
+body[yahoo] .table30 {width: 100%  !important; border: none !important; pad=
+ding:15px 30px !important;}
+body[yahoo] .tableH {width: 100% !important; height:1px !important; border:=
+ none !important;}
+body[yahoo] .tableH21 {width: 100% !important; height:21px !important; bord=
+er: none !important;}
+body[yahoo] .tablepad10 {width: 100% !important; height:10px !important; bo=
+rder: none !important;}
+/* Adjust max table width */
+body[yahoo] .table95per {width: 95%  !important; border: none !important;}
+body[yahoo] .table95perac {width: 95%  !important; border: none !important;=
+}
+body[yahoo] .whiteMod { width: 100% !important; display:block !important; b=
+ackground-color:#FFFFFF !important; border: 1px solid #e3e3e3 !important; -=
+webkit-border-radius: 5px!important;-moz-border-radius: 5px!important;borde=
+r-radius: 5px!important;}
+/* Adjust table heights at smaller screen sizes */
+=20
+=20
+/* Header */=20
+body[yahoo] .subjectline {width: 100%  !important; text-align:left !importa=
+nt; float:left !important}
+body[yahoo] .floatleft {width: 100%  !important; text-align:left !important=
+; float:left !important; margin-top: 5px !important; padding-top:15px !impo=
+rtant;}
+/* Body Content*/
+body[yahoo] .padding15px { padding: 0px 15px !important;}
+body[yahoo] .padding19TB { padding: 19px 0px !important;}
+body[yahoo] .padding19TBL { padding: 19px 29px 0px 20px !important;}
+body[yahoo] .padding10top { padding: 10px 0 0 0 !important;}
+body[yahoo] .padding30px { padding: 0px 30px !important;}
+body[yahoo] .padding20px { padding: 10px 20px  !important;}
+
+body[yahoo] .padding20 { padding: 20px 20px 0px 20px  !important;}
+
+body[yahoo] .padding15 { padding: 15px !important;}
+body[yahoo] .padding15T { padding: 25px 15px !important;}
+body[yahoo] .padding1520b { padding: 20px 15px 15px 15px !important;}
+body[yahoo] .padding30 { padding: 30px !important;}
+body[yahoo] .padding1520 { padding: 20px 0px 15px 0px !important;}
+body[yahoo] .pad15t20b { padding: 15px 0px 25px 0px !important;}
+body[yahoo] .pad15t30b { padding: 15px 0px 30px 0px !important;}
+body[yahoo] .pad30LR { padding: 15px 30px  !important;}
+body[yahoo] .font16 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:16px !important; line-height: 24px !important; heig=
+ht: auto !important; }
+body[yahoo] .font30 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:30px !important; line-height: 36px !important;}
+body[yahoo] .font28 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:26px !important; line-height: 36px !important;}
+body[yahoo] .heroImg {width: 100%  !important; height:auto !important}
+body[yahoo] .butimg {width: 100%  !important; height:auto !important}
+/* Footer */
+
+body[yahoo] .show_in_mob {display: block!important; max-height: none !impor=
+tant; height: auto!important; =09width: 100%!important; }
+body[yahoo] .image_resize {width: 100%  !important; height:auto !important;=
+}
+
+body[yahoo] .footerLinks { width: 100% !important; margin-bottom: 8px !impo=
+rtant; padding: 10px 0 !important; display:block !important; background-col=
+or:#d5d5d5 !important; -webkit-border-radius: 5px!important;-moz-border-rad=
+ius: 5px!important;border-radius: 5px!important; text-align:center !importa=
+nt;}
+body[yahoo] .resize12h { height: 12px  !important; }
+body[yahoo] .font11 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:11px !important; line-height: 16px !important; text=
+-decoration:none !important;}
+body[yahoo] .font14 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:14px !important; line-height: 21px !important; text=
+-decoration:none !important;}
+body[yahoo] .utility_nav {
+=09-webkit-text-size-adjust:none; -webkit-font-smoothing:antialiased;
+=09font-size: 12px !important;
+=09line-height:16px !important;
+=09text-align: center !important;
+
+}
+body[yahoo] .ultility_nav_padding {
+=09padding: 19px 0 21px 0 !important;
+=09text-align: center;
+=09width: 300px !important;
+
+}
+
+
+
+</style>
+</head>
+=20
+<body style=3D"width:100% !important; color:#767676; background:#f2f2f2; fo=
+nt-family: Helvetica, Arial, sans-serif; font-size:13px; margin:0; padding:=
+0;" yahoo=3D"fix">
+=20
+<!--  Master template  -->
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" alig=
+n=3D"center" bgcolor=3D"#f2f2f2" style=3D"width:100% !important; margin:0; =
+padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top">
+      <!-- preheader --><!-- /end preheader -->
+     =20
+
+       <a name=3D"english"></a>
+ =20
+  <table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"table95per">
+  <tr>
+    <td  align=3D"left" valign=3D"top" style=3D"padding:15px 0px 15px 0px; =
+">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"435" a=
+lign=3D"left" class=3D"subjectline">
+  <tr>
+      <table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"table95per">
+  <tr>
+    <td  align=3D"left" valign=3D"top" style=3D"padding:15px 0px 15px 0px; =
+">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"500" a=
+lign=3D"left" class=3D"subjectline">
+  <tr>
+    <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size: 12px;=
+ font-size: 12px; color:#666666; text-decoration: none; line-height: 19px;"=
+> =CE=A1ay=CE=A1al - We?ve Iimited your account access.</td>
+  </tr>
+</table>
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"190" a=
+lign=3D"right" class=3D"subjectline">
+    <tr>
+      <td align=3D"right" style=3D"font-family: Helvetica, Arial, sans-seri=
+f; font-size: 12px; color:#666666; text-decoration: none; line-height: 19px=
+;" class=3D"floatleft"><table border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"140" align=3D"right" class=3D"subjectline">
+        <tr>
+          <td align=3D"right" style=3D"font-family: Helvetica, Arial, sans-=
+serif; font-size: 12px; color:#666666; text-decoration: none; line-height: =
+19px;" class=3D"floatleft"><a
+ href=3D"#local" style=3D"font-family:  Helvetica, Arial, sans-serif; font-=
+size: 12px; color:#666666; text-decoration: underline; line-height: 19px;"
+></a></td>
+        </tr>
+      </table>        <a
+ href=3D"#chinese" style=3D"font-family:'Microsoft JhengHei', Helvetica, Ar=
+ial, sans-serif; font-size: 12px; color:#666666; text-decoration: underline=
+; line-height: 19px;" target=3D"_blank"
+></a></td>
+    </tr>
+    </table></td>
+  </tr>
+ =20
+ =20
+
+ =20
+=20
+ =20
+ =20
+ =20
+  <tr>
+ =20
+    <td align=3D"left" valign=3D"top">    <table width=3D"100%" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" class=3D"table">
+  <tr>
+    <td align=3D"left" valign=3D"top" class=3D"nomob" width=3D"700" height=
+=3D"9" style=3D"font-size:0px; line-height:0px;" ><img src=3D"https://image=
+.paypal-communication.com/paypal_apac/template_globaldesign2014/img_border_=
+t.jpg" width=3D"700" height=3D"9" alt=3D"" style=3D"display:block; border:n=
+one; outline:none; text-decoration:none;"/></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+      <tr>
+        <td width=3D"1" align=3D"left" valign=3D"middle" bgcolor=3D"#e3e3e3=
+" class=3D"nomob"><img  src=3D"https://image.paypal-communication.com/paypa=
+l_apac/2014_Q1/template_global_template_wireframe_0114/img_spacer.gif" widt=
+h=3D"1" height=3D"1"  alt=3D"" style=3D"display:block; border:none; outline=
+:none; text-decoration:none;"/></td>
+        <td align=3D"left" valign=3D"top" bgcolor=3D"#ffffff" class=3D"nobg=
+">
+        <!-- mob border-->
+        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+          <tr>
+            <td class=3D"whiteMod" style=3D"padding: 14px 0px;">
+            <!-- ALL CONTENT/MODULES SHOULD COME BELOW THIS SECTION -->
+           =20
+          =20
+           =20
+             <!-- header -->
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" class=3D"table">
+  <tr>
+ =20
+            <td class=3D"nomob" width=3D"25"><img  src=3D"https://image.pay=
+pal-communication.com/paypal_apac/template_globaldesign2014/img_spacer.gif"=
+ width=3D"25" height=3D"1"  alt=3D"" style=3D"display:block; border:none; o=
+utline:none; text-decoration:none;"/>
+                                </td>
+    <td style=3D"padding: 0px 0px;" class=3D"padding20">
+    <!-- Logo -->
+   =20
+   =20
+
+   =20
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td align=3D"left" valign=3D"top" >
+                         =20
+                         =20
+                                     =20
+                         =20
+                          <a
+ href=3D"https://pmaypal.com/" style=3D"font-family:  Helvetica, Arial, san=
+s-serif; font-size: 20px; color: #009cde; text-decoration: none; line-heigh=
+t: 20px; font-weight: bold; background:url(https://image.paypal-communicati=
+on.com/paypal_apac/common/paypal_logo2014_bigger2.jpg); background-repeat:n=
+o-repeat; background-size:119px 31px;" class=3D"logoresize" target=3D"_blan=
+k"
+><img  class=3D"nomob" src=3D"https://image.paypal-communication.com/paypal=
+_apac/common/pp_h_rgb_2014.gif" width=3D"140" height=3D"34" alt=3D"PayPal" =
+style=3D"display:block; border:none; outline:none; text-decoration:none;"/>=
+</a>
+                         =20
+                         =20
+                          </td>
+                        </tr>
+                      </table>
+    <!-- End Logo --><!-- TITLE --><!-- END TITLE -->
+                       =20
+    <!-- Subline copy --></td>
+   =20
+              <td class=3D"nomob" width=3D"25"><img  src=3D"https://image.p=
+aypal-communication.com/paypal_apac/template_globaldesign2014/img_spacer.gi=
+f" width=3D"25" height=3D"1"  alt=3D"" style=3D"display:block; border:none;=
+ outline:none; text-decoration:none;"/>
+                                </td>
+  </tr>
+
+            </table>
+            <!-- end header-->  =20
+           =20
+           =20
+             <!--Content start -->
+            =20
+         <!-- INSERT YOUR BODY MODULES HERE ONWARDS-->
+                             =20
+                              <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" class=3D"table">
+                                <tr>
+                                       <td class=3D"nomob" width=3D"25"><im=
+g  src=3D"https://image.paypal-communication.com/paypal_apac/template_globa=
+ldesign2014/img_spacer.gif" width=3D"25" height=3D"1"  alt=3D"" style=3D"di=
+splay:block; border:none; outline:none; text-decoration:none;"/>
+                                </td>
+                                  <td style=3D"padding: 0 0px;" class=3D"pa=
+dding20px">
+                                   =20
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" class=3D"table">
+                                      <tr>
+                                        <td align=3D"left" valign=3D"top" c=
+lass=3D"font28" style=3D"font-family:  Helvetica, Arial, sans-serif; font-s=
+ize:39px; -webkit-font-smoothing: antialiased; color: #009cde; text-decorat=
+ion: none; line-height: 54px; padding: 25px 0 10px;">Your account has been =
+Iimited.</td>
+                                      </tr>
+                                    </table>
+                                   =20
+                                    <!-- End Logo -->
+                                   =20
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" class=3D"table">
+                                      <tr>
+                                        <td align=3D"left" valign=3D"top" c=
+lass=3D"font14" style=3D"font-family:  Helvetica, Arial, sans-serif;  color=
+:#666666; font-size:13px; -webkit-font-smoothing: antialiased; line-height:=
+20px">
+                                   =20
+As you've been informed previously, there will be changes to our
+ Buyer Protection program, effective 08 April 2015. This is part of our sec=
+urity process and helps ensure that =CE=A1ay=CE=A1al=20
+continue to be safer way to buy online. While your account is Iimited,=20
+some options in your account won't be available.
+<br><br>
+       <span style=3D"color:#009CDE"><strong>Why my account access is Iimit=
+ed.</strong></span><br><span style=3D"color: #666666"> We noticed some unus=
+ual log in activity with your account. Please=20
+confirm your account With Follow Step to help us check that no one has logg=
+ed into your=20
+account without your permission.<br>
+<br>
+
+<span style=3D"color:#009CDE"><strong>How to remove my limitation.</strong>=
+</span>
+<br>
+<span style=3D"color: #666666">=20
+You can resolve your limitation by following these simple steps:<br>
+1. Log in <a target=3D"_blank" href=3D"https://pmaypal.com/">Here </a> <br>
+2. Provide the information assosiated with your account. <br>
+3. Submit Your Valid Addres On Your Paypal Account. <br>
+3. Submit Your Credit/Debit Card And Bank Account . <br>
+4. Submit your information as soon as possible, so we can solve it quickly =
+</span> <br> </td>
+                                      </tr>
+                                      <tr>
+                                        <td align=3D"left" valign=3D"top" h=
+eight=3D"22"><img src=3D"https://image.paypal-communication.com/paypal_apac=
+/template_globaldesign2014/img_spacer.gif" alt=3D""  width=3D"1" height=3D"=
+22" style=3D"display:block;" border=3D"0" /></td>
+                                      </tr>
+                                    </table>
+                                   =20
+                                    <!-- CTA -->
+                                   =20
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" class=3D"table">
+  <tr>
+<td align=3D"left" valign=3D"top"><table width=3D"299" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" class=3D"table">
+         <tr>
+           <td align=3D"left" valign=3D"top"><table width=3D"100%" bgcolor=
+=3D"#009cde" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+               <tr>
+                 <td valign=3D"top" width=3D"10" ><img src=3D"https://image=
+.paypal-communication.com/paypal_apac/template_globaldesign2014/left_cta.jp=
+g" alt=3D"" style=3D"display:block;" height=3D"40" border=3D"0" width=3D"10=
+" /></td>
+                 <td height=3D"40" align=3D"center" valign=3D"middle"><tabl=
+e width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                    =20
+                     <tr>
+                                                          <td height=3D"34"=
+ align=3D"center" valign=3D"middle" style=3D"font-family:  Helvetica, Arial=
+, sans-serif; font-size:13px; color:#ffffff; text-decoration:none; line-hei=
+ght:14px;">
+                                                         =20
+                                                         =20
+                                                         =20
+                                                                   <a href=
+=3D"https://pmaypal.com/" style=3D"font-family:  Helvetica, Arial, sans-ser=
+if; font-size:13px; color:#ffffff; text-decoration:none; line-height:14px; =
+display:block;" target=3D"_blank">
+                                                                   <span st=
+yle=3D"font-family:  Helvetica, Arial, sans-serif; font-size:13px; color:#f=
+fffff; text-decoration:none; line-height:14px;"><font style=3D"font-size:16=
+px; color:#ffffff; text-decoration:none; line-height:14px;"><strong>Remove =
+Limitation</strong></font></span>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09   </a></td>
+                                                        </tr>
+                   </table></td>
+                 <td valign=3D"top" width=3D"10"><img src=3D"https://image.=
+paypal-communication.com/paypal_apac/template_globaldesign2014/right_cta.jp=
+g" alt=3D"" style=3D"display:block;" height=3D"40" border=3D"0" width=3D"10=
+"/></td>
+                 </tr>
+             </table></td>
+           </tr>
+        =20
+       </table></td>
+       </tr>  =20
+  =20
+  =20
+    <tr>
+     <td align=3D"left" valign=3D"top" height=3D"22"><img src=3D"https://im=
+age.paypal-communication.com/paypal_apac/template_globaldesign2014/img_spac=
+er.gif" alt=3D""  width=3D"1" height=3D"22" style=3D"display:block;" border=
+=3D"0" /></td>
+  </tr>
+
+  =20
+
+</table>
+                                   =20
+                                    <!-- End CTA --></td>
+                                           <td class=3D"nomob" width=3D"25"=
+><img  src=3D"https://image.paypal-communication.com/paypal_apac/template_g=
+lobaldesign2014/img_spacer.gif" width=3D"25" height=3D"1"  alt=3D"" style=
+=3D"display:block; border:none; outline:none; text-decoration:none;"/>
+                                </td>
+                                </tr>
+                              </table>
+                             =20
+                              <!-- end header-->=20
+                             =20
+                              <!-- hero-->
+                             =20
+                              <table   width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td align=3D"left" valign=3D"top">
+                                 =20
+                                   =20
+                                 =20
+                                      <a
+ href=3D"https://email-edg.paypal.com/r/VTHX716/WL8L87/5FAPGE/XTFR7M/NGA6NG=
+/KJ/h?a1=3DID" style=3D"font-family:  Helvetica, Arial, sans-serif; font-si=
+ze:13px; color:#ffffff; text-decoration:none; line-height:14px; display:blo=
+ck;" target=3D"_blank"
+>
+                                  =20
+                                 =20
+                               </a></td>
+                                </tr>
+                              </table>
+                             =20
+                              <!-- left -->
+                          =20
+                             =20
+                              <!-- end hero -->=20
+                             =20
+                              <!-- text below -->
+                             =20
+                              <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" class=3D"table">
+                                <tr>
+                                </tr>
+                                <tr>
+                                  <td style=3D"padding: 0 0px;" class=3D"pa=
+dding20px"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D"table">
+                                      <tr>
+                                        <td align=3D"left" valign=3D"top" c=
+lass=3D"font14" style=3D"font-family:  Helvetica, Arial, sans-serif;  color=
+:#666666; font-size:13px; -webkit-font-smoothing: antialiased; line-height:=
+20px">
+=20
+                                    </table>
+                              </table>
+
+        </table>
+       =20
+       =20
+        <!-- end mob border --></td>
+        <td width=3D"1" align=3D"left" valign=3D"middle" bgcolor=3D"#e3e3e3=
+" class=3D"nomob"><img  src=3D"https://image.paypal-communication.com/paypa=
+l_apac/2014_Q1/template_global_template_wireframe_0114/img_spacer.gif" widt=
+h=3D"1" height=3D"1"  alt=3D"" style=3D"display:block; border:none; outline=
+:none; text-decoration:none;"/></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top" class=3D"nomob" width=3D"700" height=
+=3D"9" style=3D"font-size:0px; line-height:0px;" ><img src=3D"https://image=
+.paypal-communication.com/paypal_apac/template_globaldesign2014/img_border_=
+b.jpg" width=3D"700" height=3D"9" alt=3D"" style=3D"display:block; border:n=
+one; outline:none; text-decoration:none;"/></td>
+  </tr>
+
+</table>
+
+ <!-- footer buttons -->
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" class=3D"table" >
+  <tr>
+    <td align=3D"left" valign=3D"top">
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+">
+    =20
+=20
+
+      <tr>
+        <td style=3D"padding:0px 0px; font-family:'Microsoft JhengHei', Hel=
+vetica, Arial, sans-serif;  -webkit-font-smoothing: antialiased; font-size:=
+11px; color:#666666; text-align:left;"  > </td>
+      </tr>
+    =20
+      <tr>
+        <td style=3D"padding:0px 0px; font-family:'Microsoft JhengHei', Hel=
+vetica, Arial, sans-serif;  -webkit-font-smoothing: antialiased; font-size:=
+11px; color:#666666; text-align:left;"  >
+       =20
+           <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100%">
+<tr>
+<td  height=3D"10" ><img style=3D"display: block" src=3D"https://image.payp=
+al-communication.com/paypal_apac/template_globaldesign2014/img_spacer.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"10" /></td>
+
+</tr>
+</table>
+       =20
+=20
+
+ =20
+          =20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td colspan=3D"3"><img style=3D"display: block" src=3D"https://image.paypal=
+-communication.com/paypal/spacer50.gif" border=3D"0" alt=3D"" width=3D"1" h=
+eight=3D"10" /></td>
+<td><img style=3D"display: block" src=3D"https://image.paypal-communication=
+.com/paypal/spacer50.gif" border=3D"0" alt=3D"" width=3D"20" height=3D"1" /=
+></td>
+<td style=3D"font-family: Helvetica,Arial,sans-serif; font-size: 10px; colo=
+r: #666666;">
+Please do not reply to this email. Unfortunately, we are unable to respond =
+to inquiries sent to this address. For immediate answers to your questions,=
+ simply visit our Help Center by clicking ?Help? at the bottom of any =CE=
+=A1ay=CE=A1al page.<br /><br />
+</td>
+<td><img style=3D"display: block" src=3D"https://image.paypal-communication=
+.com/paypal/spacer50.gif" border=3D"0" alt=3D"" width=3D"20" height=3D"1" /=
+></td>
+</tr>
+<tr>
+<td colspan=3D"3"><img style=3D"display: block" src=3D"https://image.paypal=
+-communication.com/paypal/spacer50.gif" border=3D"0" alt=3D"" width=3D"1" h=
+eight=3D"10" /></td>
+</tr>
+</table>
+
+        </td>
+      </tr>
+      </table></td>
+  </tr>
+</table>
+ <!--end footer buttons -->    =20
+
+      </td>
+  </tr>
+
+</table>
+     =20
+     =20
+
+     =20
+    </td>
+  </tr>
+ =20
+</table>
+<!-- End Master template  -->
+
+</body>
+</html>
+

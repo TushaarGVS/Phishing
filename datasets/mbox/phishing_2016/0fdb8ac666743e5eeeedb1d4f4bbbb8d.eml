@@ -1,0 +1,23 @@
+Return-Path: codewizard@approject.com
+Delivered-To: jose@monkey.org
+X-FDA: 71161023150.18.corn54_73abd757ce222
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 85,1,0,d41d8cd98f00b204,d41d8cd98f00b204,codewizard@approject.com,:,RULES_HIT:355:379:988:989:1260:1314:1345:1381:1522:1692:1730:1747:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6642:10004:10018:11914:13110:21080:30001:30054:30055:30070,0,RBL:71.13.15.42-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:60,LUA_SUMMARY:none
+X-HE-Tag: corn54_73abd757ce222
+X-Filterd-Recvd-Size: 434
+Received: from approject.com (71-13-15-42.static.ftbg.wi.charter.com [71.13.15.42])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  7 Feb 2016 08:46:34 +0000 (UTC)
+From: "USAA" <codewizard@approject.com>
+To: jose@monkey.org
+Subject: Your USAA Checking/Savings Urgent  Account Review
+Date: 07 Feb 2016 03:03:00 -0600
+Message-ID: <20160207030259.2E28821E4424E1A9@approject.com>
+MIME-Version: 1.0
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 53
+

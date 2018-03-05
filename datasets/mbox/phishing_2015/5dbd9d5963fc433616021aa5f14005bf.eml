@@ -1,0 +1,81 @@
+Return-Path: <info.security@paypal.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 2FCD4F40B8
+	for <jose@login.monkey.org>; Thu, 22 Jan 2015 16:56:02 -0600 (CST)
+Received: from smtpin11.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id DDE9227ABE6
+	for <jose@login.monkey.org>; Thu, 22 Jan 2015 22:56:01 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69780590922.11.space15_348c0ce64dd47
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=discard (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 58,1,0,b541b0903f7efb23,d41d8cd98f00b204,info.security@paypal.com,:,RULES_HIT:41:46:72:150:152:355:375:379:455:581:962:967:969:973:983:988:989:1021:1026:1185:1189:1208:1224:1260:1311:1313:1314:1345:1381:1431:1432:1436:1437:1514:1515:1516:1517:1534:1542:1559:1565:1588:1589:1592:1593:1594:1711:1714:1730:1747:1777:1792:1803:2198:2199:2393:2524:2525:2527:2543:2561:2564:2682:2685:2859:2890:2894:2895:2900:2910:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3865:3866:3867:3868:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4180:4181:5007:6117:6119:6674:6678:7903:8583:8599:8603:8957:8960:9025:9388:9416:9908:10004:10049:10346:11026:11256:11529:11638:11639:11651:11658:11914:11984:12043:12438:12891:12956:12958:12959:12967:12968:13038:13139:14037:14093:14094:14096:21080,0,RBL:83.103.165.138:@paypal.com:.lbl8.mailshell.net-62.22.8.147 64.201.201.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bu
+X-HE-Tag: space15_348c0ce64dd47
+X-Filterd-Recvd-Size: 3956
+Received: from e-lupeni.ro (ns.e-lupeni.ro [83.103.165.138])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 22 Jan 2015 22:56:00 +0000 (UTC)
+Received: from DEDICAT-TKAV3KF ([46.32.239.46]) by e-lupeni.ro with Microsoft SMTPSVC(6.0.3790.0);
+	 Fri, 23 Jan 2015 01:00:02 +0200
+MIME-Version: 1.0
+From: PayPal <info.security@paypal.com>
+To: jose@monkey.org
+Reply-To: info.security@paypal.com
+Date: 22 Jan 2015 22:55:57 +0000
+Subject: =?utf-8?B?0KDOkVnOodCQ1LwgzpHQoUPQnlXOnc6kOiA4MDQ5NDkxMjE=?=
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-ID: <PMLWZw0VclXez2NoKMH00032742@e-lupeni.ro>
+X-OriginalArrivalTime: 22 Jan 2015 23:00:02.0641 (UTC) FILETIME=[279E9410:01D03697]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 10
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEvL0VOIiAiaHR0
+cDovL3d3dy53My5vcmcvVFIvaHRtbDQvc3RyaWN0LmR0ZCI+DQo8aHRtbD48aGVhZD48bWV0
+YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNPLTg4NTktMSIgaHR0cC1lcXVpdj0i
+Y29udGVudC10eXBlIj48dGl0bGU+c2RnZGRmZzwvdGl0bGU+PC9oZWFkPjxib2R5PjxkaXYg
+c3R5bGU9InRleHQtYWxpZ246IGxlZnQ7Ij48aW1nIHN0eWxlPSJ3aWR0aDogMTQwcHg7IGhl
+aWdodDogMzRweDsiIGFsdD0iUGF5UGFsIiBzcmM9Imh0dHBzOi8vaW1hZ2UucGF5cGFsLWNv
+bW11bmljYXRpb24uY29tL3BheXBhbF9ldS9jb21tb24vbW9kdWxlX3N5c3RlbS93aXJlZnJh
+bWUvaW1hZ2VzL3BwX2hfcmdiLmdpZiI+PGJyPjxicj48YnI+PGgyIGNsYXNzPSJoMyBsYXJn
+ZSIgc3R5bGU9Im1hcmdpbjogMHB4OyBmb250LXdlaWdodDogMzAwOyBjb2xvcjogcmdiKDY4
+LCA2OCwgNjgpOyBwYWRkaW5nLXRvcDogMHB4OyBwYWRkaW5nLWJvdHRvbTogMHB4OyBsZXR0
+ZXItc3BhY2luZzogMC4wMWVtOyBsaW5lLWhlaWdodDogMS4yNWVtOyBmb250LWZhbWlseTog
+J0hlbHZldGljYSBOZXVlJyxIZWx2ZXRpY2EsQXJpYWwsc2Fucy1zZXJpZjsgZm9udC1zdHls
+ZTogbm9ybWFsOyBmb250LXZhcmlhbnQ6IG5vcm1hbDsgdGV4dC1hbGlnbjogc3RhcnQ7IHRl
+eHQtaW5kZW50OiAwcHg7IHRleHQtdHJhbnNmb3JtOiBub25lOyB3aGl0ZS1zcGFjZTogbm9y
+bWFsOyB3b3JkLXNwYWNpbmc6IDBweDsgYmFja2dyb3VuZC1jb2xvcjogcmdiKDI1NSwgMjU1
+LCAyNTUpOyI+PHNtYWxsPjxzbWFsbD48c21hbGw+PHNwYW4gY2xhc3M9InRleHRfbGlnaHRi
+bHVlX2hlYWRlciIgc3R5bGU9ImNvbG9yOiByZ2IoMCwgMTU2LCAyMjIpOyBmb250LXNpemU6
+IDQycHg7IGZvbnQtZmFtaWx5OiBIZWx2ZXRpY2EsQXJpYWwsc2Fucy1zZXJpZjsiPjxzbWFs
+bD48c21hbGw+RGVhciBDdXN0b21lcjwvc21hbGw+PC9zbWFsbD48c21hbGw+PHNtYWxsPiw8
+L3NtYWxsPjwvc21hbGw+PC9zcGFuPjwvc21hbGw+PC9zbWFsbD48L3NtYWxsPjwvaDI+PHAg
+Y2xhc3M9ImNvbnRlbnRQYXJhIiBzdHlsZT0ibWFyZ2luOiAwcHg7IHBhZGRpbmctdG9wOiA2
+cHg7IHBhZGRpbmctYm90dG9tOiA5cHg7IGxpbmUtaGVpZ2h0OiAxLjVlbTsgY29sb3I6IHJn
+YigxMTksIDExOSwgMTE5KTsgZm9udC1mYW1pbHk6ICdIZWx2ZXRpY2EgTmV1ZScsSGVsdmV0
+aWNhLEFyaWFsLHNhbnMtc2VyaWY7IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC12YXJpYW50
+OiBub3JtYWw7IGZvbnQtd2VpZ2h0OiBub3JtYWw7IGxldHRlci1zcGFjaW5nOiBub3JtYWw7
+IHRleHQtYWxpZ246IHN0YXJ0OyB0ZXh0LWluZGVudDogMHB4OyB0ZXh0LXRyYW5zZm9ybTog
+bm9uZTsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgd29yZC1zcGFjaW5nOiAwcHg7IGJhY2tncm91
+bmQtY29sb3I6IHJnYigyNTUsIDI1NSwgMjU1KTsiPjxzcGFuIHN0eWxlPSJjb2xvcjogcmdi
+KDEwMiwgMTAyLCAxMDIpOyBmb250LXNpemU6IDE2cHg7Ij5Gb3IgdGhlIGltcHJvdmVtZW50
+IG9mIG91ciBzZXJ2aWNlIGFuZCBmb3IgdGhlIHNlY3VyaXR5IG9mIHlvdXIgYWNjb3VudCB5
+b3UgbmVlZCB0byB1cGRhdGUgeW91ciBhY2NvdW50Ljxicj48L3NwYW4+PC9wPjxhIGNsYXNz
+PSJjb250ZW50TGluayIgaHJlZj0iaHR0cDovL3Nob3J0bi5tZS9ra2dUIiBzdHlsZT0ibWFy
+Z2luOiAwcHggNnB4IDBweCAwcHg7IGJhY2tncm91bmQ6IHJnYigyNTUsIDI1NSwgMjU1KSBu
+b25lIHJlcGVhdCBzY3JvbGwgMCUgNTAlOyAtbW96LWJhY2tncm91bmQtY2xpcDogaW5pdGlh
+bDsgLW1vei1iYWNrZ3JvdW5kLW9yaWdpbjogaW5pdGlhbDsgLW1vei1iYWNrZ3JvdW5kLWlu
+bGluZS1wb2xpY3k6IGluaXRpYWw7IGxpbmUtaGVpZ2h0OiAxLjVlbTsgZm9udC13ZWlnaHQ6
+IGJvbGQ7IGNvbG9yOiByZ2IoMCwgMTIxLCAxNzMpOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7
+IHBhZGRpbmctbGVmdDogMHB4OyBib3JkZXItbGVmdC1zdHlsZTogbm9uZTsgZm9udC1mYW1p
+bHk6ICdIZWx2ZXRpY2EgTmV1ZScsSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWY7IGZvbnQt
+c3R5bGU6IG5vcm1hbDsgZm9udC12YXJpYW50OiBub3JtYWw7IGxldHRlci1zcGFjaW5nOiBu
+b3JtYWw7IHRleHQtYWxpZ246IHN0YXJ0OyB0ZXh0LWluZGVudDogMHB4OyB0ZXh0LXRyYW5z
+Zm9ybTogbm9uZTsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgd29yZC1zcGFjaW5nOiAwcHg7Ij5M
+b2cgdG8geW91ciBhY2NvdW50PC9hPjwvZGl2PjwvYm9keT48L2h0bWw+

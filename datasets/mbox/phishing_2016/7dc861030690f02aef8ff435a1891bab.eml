@@ -1,0 +1,1621 @@
+Return-Path: contact@user-service1up.site
+Delivered-To: jose@monkey.org
+X-FDA: 72133189296.02.error34_5869b22dc292a
+X-Spam-Summary: 30,2,0,aba557fce308622b,d41d8cd98f00b204,contact@user-service1up.site,:,RULES_HIT:69:72:355:375:379:455:539:541:543:599:960:962:967:968:969:973:982:983:988:989:1021:1147:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1390:1430:1431:1432:1433:1434:1436:1437:1515:1516:1517:1545:1546:1547:1550:1555:1556:1571:1588:1589:1605:1685:1730:1744:1747:1777:1792:1801:1803:1981:2194:2198:2199:2200:2393:2525:2527:2528:2543:2549:2568:2610:2682:2685:2859:2890:2894:2895:2897:2902:2903:2909:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3154:3865:3866:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4039:4042:4180:4181:4310:4605:5007:6261:6650:6653:6669:6693:6757:7652:7872:7875:7903:8524:8551:8557:8583:8599:8603:8869:8957:9025:9072:9080:9149:9203:9208:9388:9908:10049:10053:10085:10086:10305:10346:10919:11026:11641:11656:11914:12043:12295:12438:12517:12519:12555:12663:12679:12683:12760:12956:12958:12960:129
+X-HE-Tag: error34_5869b22dc292a
+X-Filterd-Recvd-Size: 66686
+Received: from gateway24.websitewelcome.com (gateway24.websitewelcome.com [192.185.51.139])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  1 Nov 2016 06:26:47 +0000 (UTC)
+Received: from cm1.websitewelcome.com (cm.websitewelcome.com [192.185.0.102])
+	by gateway24.websitewelcome.com (Postfix) with ESMTP id 0121FAB59EE58
+	for <jose@monkey.org>; Tue,  1 Nov 2016 01:26:47 -0500 (CDT)
+Received: from gator3173.hostgator.com ([198.57.247.137])
+	by cm1.websitewelcome.com with 
+	id 2WMk1u0192yc6su01WMmZT; Tue, 01 Nov 2016 01:21:46 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=user-service1up.site; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Date:Subject:To:From:Reply-To:Message-ID:Sender:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=NWK1vi+Zdh7KBDsXd5O9mtU+qeMi2eZrtL0KllM6L9E=; b=Y52MMveYkHQmSr8HOFJW+dmbSm
+	YIwCR1F9PcI1Iy6za+KlC5j8XMM9FZ7HzjKsT5mp9m/hiahdLx2vNFjreaNEKsFhdeGAabaxzzGrL
+	xdsKA/Fva/42kFu0kOJNma3CZdtRtOlKW729XYIsJgzW2A91Y6w13eDOzl2FfptRwr7ybXm3RoReJ
+	f+szhz+X46JWG12Kdmd/lLXOIMRpdD3NzCwrkgXc4+iLWik9C1+q4/rSiRcAJ8nG958dLvmnAJjDP
+	lN++dxQBWv1s+oMQyAi3KN9EQXrXhIDmsJSpmq0FpcnDSCIew/14FUgWfLfLfOysdoRVpIYgLaIIO
+	Kp4lSvVQ==;
+Received: from [197.27.35.192] (port=53464 helo=Slowest-PC)
+	by gator3173.hostgator.com with esmtpsa (TLSv1:EDH-RSA-DES-CBC3-SHA:168)
+	(Exim 4.87)
+	(envelope-from <contact@user-service1up.site>)
+	id 1c1SS5-000FCj-Ln
+	for jose@monkey.org; Tue, 01 Nov 2016 01:21:44 -0500
+Message-ID: <037b81ed-42675-0d6d3063360417@slowest-pc>
+Reply-To: "Pay-PaI_updates" <mail@usr-support.com>
+From: "Pay-PaI_updates" <contact@user-service1up.site>
+To: jose@monkey.org
+Subject: RE: update required
+Date: Tue, 1 Nov 2016 07:20:16 +0000
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-Mailer: Hello
+X-MimeOLE: Email
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3173.hostgator.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - user-service1up.site
+X-BWhitelist: no
+X-Source-IP: 197.27.35.192
+X-Exim-ID: 1c1SS5-000FCj-Ln
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: (Slowest-PC) [197.27.35.192]:53464
+X-Source-Auth: info@user-service1up.site
+X-Email-Count: 87
+X-Source-Cap: YWRtaW54eHh4ZDthZG1pbnh4eHhkO2dhdG9yMzE3My5ob3N0Z2F0b3IuY29t
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 414
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>paypaI&trade;</title>
+<meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width,height=device-height,target-densitydpi=device-dpi,user-scalable=no">
+<style type="text/css">
+.ReadMsgBody {
+	width: 100%;
+}
+.ExternalClass {
+	width: 100%;
+}
+*[class=button_style] {
+	border-radius: 7px !important;
+	-webkit-border-radius: 7px !important;
+	-moz-border-radius: 7px !important;
+	-o-border-radius: 7px !important;
+	-ms-border-radius: 7px !important;
+}
+*[class=button_style]:active {
+	background: #008bdb !important;
+}
+*[class=button_style]:hover {
+	background: #008bdb !important;
+}
+
+@media screen and (max-device-width: 640px) {
+
+/* -------------------------------generic------------------------------- */
+table[class=nomob], span[class=nomob], td[class=nomob], img[class=nomob] {
+display:none !important;}
+
+table[class=nobk], span[class=nobk], td[class=nobk], img[class=nobk] {
+background:none!important;}
+
+table[class=email320resize], td[class=email320resize] {
+width:320px!important;
+border:0px!important;
+}
+
+table[class=mobile_table_width], td[class=mobile_table_width] {
+width:320px!important;
+margin: 0px!important;}
+
+table[class=mobile_table_width_smaller], td[class=mobile_table_width_smaller]{
+width:280px!important;
+margin: 0px!important;}
+/* -------------------------------shell------------------------------- */
+
+/* header */
+*[class=resize10width] {
+width: 10px!important;}
+
+*[class=resize8width] {
+width: 8px!important;}
+
+*[class=resize50width] {
+width: 50px!important;}
+
+*[class=resize28height] {
+height: 28px!important;}
+
+/*Images*/
+
+img[class=resize5] {
+width: 5px !important;}
+
+img[class=resize8] {
+width: 8px !important;}
+
+img[class=resize10] {
+width: 10px !important;}
+
+img[class=resize50] {
+width: 50px !important;}
+
+img[class=resize5h] {
+height: 5px !important;}
+
+img[class=resize8h] {
+height: 8px !important;}
+
+img[class=resize10h] {
+height: 10px !important;}
+
+img[class=resize12h] {
+height: 12px !important;}
+
+img[class=resize13h] {
+height: 13px !important;}
+
+img[class=resize20h] {
+height: 20px !important;}
+
+img[class=resize26h] {
+height: 26px !important;}
+
+img[class=resize30h] {
+height: 30px !important;}
+
+img[class=resize95]{
+	width: 95px !important;
+	height:auto!important;
+}
+
+img[class=resize17width]{
+	width: 17px !important;
+}
+
+img[class=img130] { width:130px !important;
+height: auto !important;}
+
+img[class=resize280]{
+	width: 280px !important;
+}
+
+img[class=resize300]{
+	width: 280px !important;
+	margin: 8px 0px 14px 0px!important;
+}
+
+img[class=resize300hero1]{
+	width: 300px !important;
+	height: auto!important;
+} 
+
+img[class=resize300hero2]{
+	width: 300px !important;
+	height:150px!important;
+	background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html2/images/img_hero_nl_mobile.png) no-repeat!important;
+} 
+
+img[class=resize320]{
+	width: 320px !important;
+}
+
+img[class=heroresize]{
+	width:100px !important;	
+	height:auto !important;
+}
+
+img[class=heroresize140]{
+	width:140px !important;	
+	height:auto !important;
+}
+
+img[class=heroresize2]{
+	width:150px !important;	
+	height:auto !important;
+}
+
+
+/*BACKGROUND IMAGES*/
+
+td[class=smallDivider] {
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/images/img_divider.gif)!important;
+background-position:top!important;
+background-repeat:no-repeat!important;
+width:280px!important;
+height: auto!important;
+margin-bottom: 15px!important;}
+
+td[class=eduTop] {
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/images/img_eduTopMOB.gif)!important;
+background-position:top!important;
+background-repeat:no-repeat!important;
+height:14px!important;
+width:280px!important;}
+
+td[class=eduBottom] {
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/images/img_eduBottomMOB.gif)!important;
+background-position:top!important;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+background-repeat:no-repeat!important;
+height:14px!important;
+width:280px!important;}
+
+
+
+/*font sizes*/
+
+*[class=fontsize12]{
+	font-size: 12px !important;
+	line-height: 16px !important;
+}
+
+td[class=fontsize16]{
+	font-size: 16px !important;
+	line-height: 19px !important;
+}
+
+td[class=fontsize18]{
+	font-size: 18px !important;
+	line-height: 21px !important;
+}
+
+
+
+*[class=fontsize18blue]{
+	font-size: 18px !important;
+	line-height: 21px !important;
+	color:#717074;
+	text-decoration:none;
+}
+
+td[class=fontsize24]{
+	font-size: 24px !important;
+	line-height: 28px !important;
+}
+
+
+
+*[class=fontsize24blue]{
+	font-size: 24px !important;
+	line-height: 28px !important;
+	color:#717074;
+	text-decoration:none;
+}
+
+
+
+
+
+/* footer */
+td[class=emailcolsplit280] {
+width:280px!important;
+float:left!important;}
+
+td[class=emailcolsplit260_2] {
+width:260px!important;
+float:left!important;
+margin: 0  20px!important;
+}
+
+td[class=emailcolsplit300] {
+width:290px!important;
+float:left!important;}
+
+*[id=padding14bottom] {
+margin-bottom:16px!important;}
+	
+*[id=padding14] {
+margin:16px 0px!important;}
+
+*[class=resize11font] {
+font-size:11px!important;
+line-height: 15px!important;}
+
+*[class=resize14height] {
+height: 14px!important;}
+
+*[class=resize14font] {
+font-size:14px!important;
+line-height: 18px!important;}
+
+
+/* CTA */
+*[class=footer300cta] {
+font-size: 14px!important;
+color:#FFF!important;
+width:280px!important;
+float:left!important;
+text-align:center!important;
+margin: 0px 0px 4px 0px!important;
+padding: 2px 0px 2px 0px!important;
+border: 0px!important;
+border-radius: 10px !important;
+background-color:#009CDE !important;}
+
+
+*[class=blueband78width] {
+width: 78px!important;
+height: auto!important;
+margin: 12px  0px!important;}
+
+}
+
+/* ---------------------- IPAD ---------------------- */
+@media only screen and (min-device-width: 700px) and (max-device-width: 1024px) {
+*[class=display_on] {
+	display: block !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_app_display_on] {
+	margin-left: 187px !important;
+	display: block !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_mobapp] {
+	display: block !important;
+	width: 698px !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+} /* END IPAD */
+/* ---------------------- PHONE ---------------------- */
+@media 
+only screen and (max-width: 480px), 
+only screen and (device-aspect-ratio: 9/16), 
+only screen and (device-aspect-ratio: 5/8) and (max-width : 400px), 
+only screen and (device-aspect-ratio: 3/5) { 
+/* ------ OVERALL TABLE CONTROLS ------ */
+*[class=display_on] {
+	display: block !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_app_display_on] {
+	display: block !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=no_mobile_all] {
+	display: none !important;
+}
+*[class=no_mobile_phone] {
+	display: none !important;
+}
+*[class=mobile_table_width_social] {
+	display: block !important;
+	width: 320px !important;
+	float: left !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_table_width] {
+
+	width: 320px !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+
+table[class=mobile_table_width_smaller], td[class=mobile_table_width_smaller]{
+width:280px!important;
+margin: 0px!important;}
+
+*[class=column_split_preheader] {
+	display: block !important;
+	width: 320px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 5px 3px !important;
+}
+*[class=mobile_body_table_width_pad29_4up_1] {
+	display: block !important;
+	width: 260px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+}
+*[class=column_split_large_promo_hero] {
+	display: block !important;
+	width: 260px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+}
+*[class=column_split_large_promo_hero278] {
+	display: block !important;
+	width: 278px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+}
+*[class=column_split_bml_banner] {
+	display: block !important;
+	width: 260px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 16px 0 0 0 !important;
+}
+*[class=column_split_statement_login] {
+	display: block !important;
+	width: 260px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 16px 0 0 0 !important;
+}
+*[class=column_split_bml_banner_phone] {
+	display: block !important;
+	width: 260px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 5px 0 0 0 !important;
+}
+*[class=column_split_one_up_large_image] {
+	display: block !important;
+	width: 260px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 0 0 10px 0 !important;
+}
+*[class=column_split_one_up_large_image278] {
+	display: block !important;
+	width: 278px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 0 0 10px 0 !important;
+}
+*[class=column_split_one_up_large_text] {
+	display: block !important;
+	width: 260px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 0 !important;
+}
+*[class=mobile_body_table_width_pad29_3up] {
+	display: block !important;
+	width: 278px !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29_4up] {
+	display: block !important;
+	width: 278px !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	padding: 0 !important;
+}
+*[class=mobile_body_table_width_pad29_5up] {
+	display: block !important;
+	width: 278px !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	padding: 0 !important;
+}
+*[class=mobile_body_table_width] {
+	width: 318px !important; /* 320px - 2px border */
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_mobapp] {
+	display: block !important;
+	width: 318px !important; /* 320px - 2px border */
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29] {
+	display: block !important;
+	width: 260px !important; /* 320px - 2px border - 29px left padding - 29px right padding */
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad20] {
+	width: 278px !important; /* 320px - 2px border - 20px left padding - 20px right padding */
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_only_body_table_width_pad20] {
+	width: 278px !important; /* 320px - 2px border - 20px left padding - 20px right padding */
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=addPadding25h] {
+	padding-bottom: 25px !important;
+}
+*[class=removePadding] {
+	padding: 0 !important;
+}
+*[class=showmobile]{
+	display:block !important; 
+	width:318px !important; 
+	height:auto !important; 
+	padding:0; 
+	max-height:inherit !important; 
+	overflow:visible !important;
+	}
+*[class=showmobile320]{
+	display:block !important; 
+	width:320px !important; 
+	height:auto !important; 
+	padding:0; 
+	max-height:inherit !important; 
+	overflow:visible !important;
+	}
+*[class=showmobileApp]{
+	display:block !important; 
+	width:318px !important; 
+	height:auto !important; 
+	padding:0; 
+	max-height:inherit !important; 
+	overflow:visible !important;
+	}
+
+/* ------ HEADER CONTROLS ------ */
+*[class=head_top_320px] {
+	display: block !important;
+}
+*[class=head_top_160px] {
+	display: none !important;
+}
+*[class=head_top_220px] {
+	display: none !important;
+}
+/* ------ BODY SPACER CONTROLS ------ */
+*[class=img_body_spacer] {
+	width: 318px !important;
+}
+*[class=bml_banner_height_spacer] {
+	width: 20px !important;
+	height: 130px !important;
+}
+*[class=leftRightMargin20] {
+	width: 20px !important;
+}
+
+*[class=leftRightMargin20top] {
+	width: 10px !important;
+}
+
+/* ------ IMAGE CONTROLS ------ */
+*[class=mobile_hero_width] {
+	width: 318px !important;
+
+	height: auto !important;
+}
+*[class=mobile_promo_hero_width] {
+	width: 194px !important;
+	height: auto !important;
+	margin: 20px 0 0 0 !important;
+}
+*[class=one_up_small_image] {
+	margin: 0 0 0 0px !important;
+}
+*[class=body_horizontal_rule] {
+	width: 318px !important;
+	height: 1px !important;
+}
+*[class=mobile_promo_hero_width_4_up] {
+	width: 138px !important;
+	height: auto !important;
+}
+*[class=mobile_promo_hero_width_5_up] {
+	margin: 0 !important;
+}
+*[class=mobile_app_width] {
+	width: 235px !important;
+	height: 10px !important;
+}
+*[class=mobile_app_button_width] {
+	width: 95px !important;
+	height: 1px !important;
+}
+*[class=oneUpSmallSpacer] {
+	width: 30px !important;
+	height: 20px !important;
+	display: block !important;
+	float: left !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 0 !important;
+}
+/* ------ TEXT CONTROLS ------ */
+*[class=text_darkblue_header] {
+	font-size: 28px !important;
+}
+*[class=text_lightblue_header] {
+	font-size: 28px !important;
+}
+*[class=text_gray_paragraph] {
+	font-size: 14px !important;
+}
+.appleLinksBlue a {
+	color:#009CDE !important; 
+	text-decoration: none !important;
+}
+
+.appleLinksGrey a {
+	color:#666666 !important; 
+	text-decoration: none !important;
+}
+/* ------ UTILITY NAV CONTROLS ------ */
+*[class=mobile_table_width_utility_nav_phone] {
+	display: block !important;
+	width: 320px !important;
+	float: left !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_table_width_utility_nav] {
+	display: block !important;
+	width: 320px !important;
+	float: left !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=utility_nav] {
+	/*display: block !important;
+	background: #666 !important;
+	color: #fff !important;
+	border-radius: 5px !important;
+	-webkit-border-radius: 5px !important;
+	-moz-border-radius: 5px !important;
+	width: 320px !important;
+	padding: 5px 0 !important;
+	margin: 5px 0 !important;
+	line-height:26px !important;*/
+	font-size: 12px !important;
+	text-align: center !important;
+}
+*[class=ultility_nav_padding] {
+	padding: 19px 0 21px 0 !important;
+	text-align: center;
+	width: 320px !important;
+}
+*[class=column_split_utility_nav] {
+	display: block !important;
+	width: 320px !important;
+	float: left !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+/* ------ BUTTON CONTROLS ------ */
+*[class=button_style] {
+	border-radius: 7px !important;
+	-webkit-border-radius: 7px !important;
+	-moz-border-radius: 7px !important;
+	-o-border-radius: 7px !important;
+	-ms-border-radius: 7px !important;
+}
+*[class=button_style]:active {
+	background: #009CDE !important;
+}
+*[class=button_style]:hover {
+	background: #009CDE !important;
+}
+*[class=mobile_button] {
+	width: 278px !important;
+}
+/* ------ FOOTER CONTROLS ------ */
+*[class=horizontal_rule] {
+	width: 320px !important;
+	height: 2px !important;
+}
+} /* END PHONE CSS */
+
+
+
+/* ---------------------- TABLET ---------------------- */
+@media only screen and (min-device-width: 481px) and (max-device-width: 699px) {
+/* ------ OVERALL TABLE CONTROLS ------ */
+*[class=display_on] {
+	display: block !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_app_display_on] {
+	margin-left: 75px !important;
+	display: block !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=no_mobile] {
+	display: none !important;
+}
+*[class=mobile_table_width] {
+	display: block !important;
+	width: 480px !important;
+	height: auto !important;
+	padding: 0;
+
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+
+table[class=mobile_table_width_smaller], td[class=mobile_table_width_smaller]{
+width:280px!important;
+margin: 0px!important;}
+
+*[class=column_split] {
+	display: block !important;
+	width: 480px !important;
+	float: left !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width] {
+	display: block !important;
+	width: 478px !important; /* 480px - 2px border */
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_mobapp] {
+	display: block !important;
+	width: 478px !important; /* 480px - 2px border */
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29] {
+	display: block !important;
+	width: 420px !important; /* 480px - 2px border - 29px left padding - 29px right padding */
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad20] {
+	display: block !important;
+	width: 438px !important; /* 480px - 2px border - 29px left padding - 29px right padding */
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29_3up] {
+	display: block !important;
+	width: 134px !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29_4up] {
+	display: block !important;
+	width: 98px !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29_5up] {
+	display: block !important;
+	width: 78px !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+*[class=column_split_bml_banner] {
+	display: block !important;
+	width: 420px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 16px 0 0 0 !important;
+}
+*[class=column_split_statement_login] {
+	display: block !important;
+	width: 210px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+	padding: 8px 0 0 0 !important;
+}
+*[class=mobile_body_table_width_pad29_4up_1] {
+	display: block !important;
+	width: 420px !important;
+	float: left !important;
+	height: auto !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+	text-align: left !important;
+}
+*[class=addPadding25h] {
+	padding-bottom: 25px !important;
+}
+
+*[class=showmobileApp]{
+	display:block !important; 
+	width:448px !important; 
+	height:auto !important; 
+	padding:0; 
+	max-height:inherit !important; 
+	overflow:visible !important;
+	}
+/* ------ HEADER CONTROLS ------ */
+*[class=head_top_320px] {
+	display: block !important;
+}
+*[class=head_top_160px] {
+	display: block !important;
+}
+*[class=head_top_220px] {
+	display: none !important;
+}
+/* ------ BODY SPACER CONTROLS ------ */
+*[class=img_body_spacer] {
+	width: 478px !important;
+}
+*[class=bml_banner_height_spacer] {
+	width: 20px !important;
+	height: 100px !important;
+}
+*[class=leftRightMargin20] {
+	width: 20px !important;
+}
+*[class=leftRightMargin20top] {
+	width: 10px !important;
+}
+
+*[class=three_up_horizontal_spacer_19] {
+	width: 19px !important;
+}
+*[class=three_up_horizontal_spacer_9] {
+	width: 9px !important;
+}
+*[class=four_up_horizontal_spacer_7] {
+	width: 7px !important;
+}
+*[class=four_up_horizontal_spacer_4] {
+	width: 4px !important;
+}
+*[class=five_up_horizontal_spacer_1] {
+	width: 4px !important;
+}
+*[class=five_up_horizontal_spacer_6] {
+	width: 6px !important;
+}
+/* ------ IMAGE CONTROLS ------ */
+*[class=mobile_hero_width] {
+	width: 478px !important;
+	height: auto !important;
+}
+*[class=mobile_promo_hero_width] {
+	width: 134px !important;
+	height: auto !important;
+
+}
+*[class=mobile_promo_hero_width_4_up] {
+	width: 98px !important;
+	height: auto !important;
+}
+*[class=mobile_promo_hero_width_5_up] {
+	width: 78px !important;
+	height: auto !important;
+}
+*[class=body_horizontal_rule] {
+	width: 478px !important;
+	height: 1px !important;
+}
+
+
+*[class=mobile_app_width] {
+	width: 398px !important;
+	height: 10px !important;
+}
+*[class=mobile_app_button_width] {
+	width: 173px !important;
+	height: 1px !important;
+}
+*[class=oneUpSmallSpacer] {
+	width: 30px !important;
+	height: 20px !important;
+}
+/* ------ TEXT CONTROLS ------ */
+*[class=text_darkblue_header] {
+	font-size: 32px !important;
+}
+*[class=text_lightblue_header] {
+	font-size: 32px !important;
+}
+*[class=text_gray_paragraph] {
+	font-size: 14px !important;
+}
+.appleLinksBlue a {
+	color:#009CDE !important; 
+	text-decoration: none !important;
+}
+/* ------ UTILITY NAV CONTROLS ------ */
+*[class=utility_nav_spacer] {
+	width: 10px !important;
+}
+*[class=mobile_table_width_social] {
+	width: 78px !important;
+}
+*[class=mobile_table_width_utility_nav] {
+	width: 400px !important;
+}
+*[class=mobile_table_width_utility_nav_phone] {
+	display: none !important;
+}
+/* ------ FOOTER CONTROLS ------ */
+*[class=horizontal_rule] {
+	width: 480px !important;
+	height: 2px !important;
+}
+/* ------ BUTTON CONTROLS ------ */
+*[class=button_style] {
+	border-radius: 7px !important;
+	-webkit-border-radius: 7px !important;
+	-moz-border-radius: 7px !important;
+	-o-border-radius: 7px !important;
+	-ms-border-radius: 7px !important;
+}
+*[class=button_style]:active {
+	background: #008bdb !important;
+}
+*[class=button_style]:hover {
+	background: #009CDE !important;
+}
+*[class=mobile_button] {
+	width: 278px !important;
+}
+} /* END TABLET CSS */
+</style>
+</head>
+<body style="padding:0; margin:0; background:#f2f2f2;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top" style="padding:0; margin:0; background:#f2f2f2;"><table class="mobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+        <!-- TEMPLATE: PREHEADER -->
+      <tr>
+          <td><table class="no_mobile_phone" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+              <tr>
+                <td class="column_split_preheader" width="471" align="left" style="padding:15px 0; font-family:Helvetica,Arial,sans-serif;  -webkit-font-smoothing: antialiased; font-size:12px; color:#666; text-align:left;"><a
+ href="http://update-notice.blogspot.com/" style="text-decoration:none; color:#666;" target="_blank"
+><strong>paypaI costumer Support</strong> </a></td>
+                <td class="no_mobile_phone" width="38"><img src="http://img.ed4.net/spacer10.gif" height="1" width="38" border="0" style="display:block;" /></td>
+                <td class="column_split_preheader" width="191" align="right" style="padding:15px 0; font-family:Helvetica,Arial,sans-serif;  -webkit-font-smoothing: antialiased; font-size:12px; color:#666; text-align:right;"><a
+ href="http://update-notice.blogspot.com/" style="font-weight:normal; text-decoration:underline; color:#666;" target="_blank"
+><span style="font-family:Helvetica,Arial,sans-serif;  font-size:12px; color:#666; text-align:right;">View Online</span></a></td>
+              </tr>
+            </table>
+            
+            
+            <!--[if !mso]><!-->
+<div style="display:none; width:0px; max-height:0px; overflow:hidden;" class="showmobile320">
+            <table width="320" border="0" cellpadding="0" cellspacing="0" align="center" style="display:none; width:0px; max-height:0px; overflow:hidden;" class="showmobile320">
+              <tr>
+                <td width="320" align="left" style="padding:5px 3px; font-family:Helvetica,Arial,sans-serif;  -webkit-font-smoothing: antialiased; font-size:12px; color:#666; text-align:left;"><a
+ href="http://update-notice.blogspot.com/" style="text-decoration:none; color:#666;" target="_blank"
+><strong>Dear valued costumer, </strong></a></td>
+                </tr>
+                <tr>
+                
+                <td width="320" align="left" style="padding:5px 3px; font-family:Helvetica,Arial,sans-serif;  -webkit-font-smoothing: antialiased; font-size:12px; color:#666; text-align:left;"><a
+ href="http://update-notice.blogspot.com/" style="font-weight:normal; text-decoration:underline; color:#666;" target="_blank"
+><span style="font-family:Helvetica,Arial,sans-serif;  font-size:12px; color:#666; text-align:right;">View Online</span></a></td>
+                
+              </tr>
+            </table>
+            </div>
+<!--<![endif]--></td>
+        </tr>
+        <!-- TEMPLATE: PREHEADER --> 
+        <!-- TEMPLATE: TOP BORDER -->
+        <tr>
+          <td><table class="mobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+              <tr>
+                <td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_left_1px.jpg" width="1" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_left_3px.jpg" width="3" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img class="head_top_320px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_312px.jpg" width="312" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img class="head_top_160px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_160px.jpg" width="160" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img class="head_top_220px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_220px.jpg" width="220" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_right_3px.jpg" width="3" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_right_1px.jpg" width="1" height="20" alt="" border="0" style="display:block;"></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!-- / TEMPLATE: TOP BORDER --> 
+        <!-- TEMPLATE: BODY -->
+        <tr>
+          <td style="background:#f2f2f2;"><table class="mobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#f2f2f2;">
+              <!-- TEMPLATE: BODY: FORCED SPACERS -->
+              <tr>
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td>
+                <td style="background:#fff;"><img class="img_body_spacer" src="http://img.ed4.net/spacer10.gif" height="1" width="698" border="0" style="display:block;" /></td>
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td>
+              </tr>
+              <!-- / TEMPLATE: BODY: FORCED SPACERS --> 
+              <!-- TEMPLATE: BODY: LEFT BORDER -->
+              <tr>
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td>
+                <!-- / TEMPLATE: BODY: LEFT BORDER -->
+                <td align="left" valign="top" style="background:#fff;"><!-- TEMPLATE: PAYPAL LOGO AND SPACERS -->
+                  
+                  <table class="mobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+                    <tr>
+                      <td><table class="mobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+                          <tr>
+                          <td width="29" style="background:#fff;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+                            <td width="140" style="background:#fff;"><a
+ href="http://update-notice.blogspot.com/" style="font-family:Arial, Helvetica, sans-serif; color:#00447c; font-size:20px; text-decoration:none; line-height:22px; font-weight:bold;" target="_blank"
+><img width="130" height="24" border="0" style="display:block" alt="paypaI" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTztlStLmzY0ROBsNuxDTVqUuTQ6XLhloov_6hsRYk4NF3TysM"></a></td>
+                            <td width="40" style="background:#fff;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="40" border="0" style="display:block;" /></td>
+                            <!-- Partner Logo #1 -->
+                            <td width="174" style="background:#fff;">&nbsp;</td>
+                            <!-- / Partner Logo #1 -->
+                            <td width="40" style="background:#fff;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="40" border="0" style="display:block;" /></td>
+                            <!-- Partner Logo #2 -->
+                            <td style="background:#fff;">&nbsp;</td>
+                            <!-- / Partner Logo #2 --> 
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td style="background:#fff;"><img src="http://img.ed4.net/spacer10.gif" height="29" width="1" border="0" style="display:block;" /></td>
+                    </tr>
+                  </table>
+                  
+                  <!-- / TEMPLATE: PAYPAL LOGO AND SPACERS --></td>
+                <!-- TEMPLATE: BODY: RIGHT BORDER -->
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td>
+              </tr>
+              <!-- / TEMPLATE: BODY: RIGHT BORDER --> 
+              <!-- TEMPLATE: BODY: LEFT BORDER -->
+          
+                <!-- / TEMPLATE: BODY: LEFT BORDER -->
+                <tr>
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td>
+                <!-- / TEMPLATE: BODY: LEFT BORDER -->
+                <td align="left" valign="top" style="background:#fff; font-family:Helvetica,Arial,sans-serif;  -webkit-font-smoothing: antialiased; font-size:13px; color:#666; padding-bottom:9px;"><table class="mobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+                    <tr>
+                      <td class="mobile_body_table_width_pad29" width="640" style="background:#fff;"><!-- BODY CONTENT HERE --> <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#e3e3e3" class="mobile_table_width"><tr>
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td></tr></table>
+<table class="mobile_table_width" border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#F5F5F5">
+<tr>
+<td class="resize10width" width="35" align="left" valign="top"><img class="resize10width" style="display:block;" src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif" border="0" alt="" width="35" height="1" /></td>
+<td align="left" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr><td colspan="2" align="left" valign="top" ><img style="display:block;" src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif" width="1" height="15" border="0"/></td></tr>
+
+<tr>
+<td class="font26" style="font-family:Arial, Helvetica, sans-serif; font-size:28px; line-height:28px; color:#009CDE; text-decoration:none;" align="center" valign="top">update your account to avoid any issues.<span class="block1"> </span></td>
+<tr><td colspan="2" align="left" valign="top" ><img style="display:block;" src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif" width="1" height="15" border="0"/></td></tr>
+
+</table>
+</td>
+<td class="nomob" width="35" align="left" valign="top"><img style="display:block;" src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif" border="0" alt="" width="35" height="1" /></td>
+</tr>  
+</table><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#e3e3e3" class="mobile_table_width"><tr>
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td></tr></table><table class="mobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+  <tr>
+    <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+    <td style="padding: 25px 0 25px 0;"><!-- START 29PX-LEFT, 29PX-RIGHT INDENTED CONTENT --><table class="mobile_body_table_width_pad20" width="640" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+        <tr>
+          <td  style="font-family:Helvetica,Arial,sans-serif; color:#717074; font-size:13px; -webkit-font-smoothing: antialiased;"><span style="font-size:13px; color:#717074; font-family:Helvetica,Arial,sans-serif;">Dear valued costumer,               
+<br/>
+<br/>
+Please update your account to retain all your advantages like sending money and purchasing, and to prevent limitations.
+<br />
+<br />
+<span style="font-weight:bold;">Why is my paypaI account limited?</span>
+<br />
+We need to ensure our users maximum security at all times.
+
+<br />
+<br />
+<span style="font-weight:bold;">What can I do to resolve the problem?</span>
+<br />
+To confirm your account use the link below to sign in from a trusted device and follow the update instructions.
+If The Link Doesn't Work, or you have any questions or complains please visit our support section.
+</td>
+                <td align="left" valign="top"><img class="resize12height" src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif" alt="" width="1" height="21" border="0" style="display:block;" /></td>
+              </tr>
+
+       
+           
+      </table><!-- / START 29PX-LEFT, 29PX-RIGHT INDENTED CONTENT --></td>
+    <td width="29" class="leftRightMargin20top"><img class="leftRightMargin20top" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+  </tr>
+</table>
+<table class="mobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+  <tr>
+    <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+    <td style="padding: 0 0 25px 0;"><!-- START 29PX-LEFT, 29PX-RIGHT INDENTED CONTENT -->
+      
+      <table class="mobile_body_table_width_pad20" width="640" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+        <tr>
+          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><table id="blue_button" width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td><table class="mobile_button" width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="1" id="button_force_width"><img class="mobile_button" src="http://img.ed4.net/spacer10.gif" height="1" width="299" border="0" style="display:block;" /></td>
+                          </tr>
+                       <tr>
+                                              <td valign="top"><table cellpadding="0" cellspacing="0" bgcolor="#009cde" border="0" width="300">
+                                                  <tbody>
+                                                    <tr>
+                                                      
+                                                      <td height="34" valign="top"><table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                          <tbody>
+                                                            <tr>
+                                                              <td style="font-family:'Helvetica Neue Light',Helvetica,Arial,sans-serif;font-size:15px" align="center" height="34" nowrap=""><a href="http://update-notice.blogspot.com/" style="color:#ffffff;text-decoration:none;display:block;line-height:30px" title="Add A Payment Method" target="_blank"><span style="font-family:'Helvetica Neue Light',Helvetica,Arial,sans-serif;font-size:15px;color:#ffffff;text-decoration:none"><font style="font-size:15px;color:#ffffff;text-decoration:none"><strong>confirm your account </strong></font></span></a></td>
+                                                            </tr>
+                                                          </tbody>
+                                                        </table></td>
+                                                     
+                                                    </tr>
+                                                  </tbody>
+                                                </table></td>
+                                            </tr>
+
+	<table cellpadding="0" cellspacing="0" border="0" width="698">
+                          <tbody>
+                            <tr>
+                             
+                            <tr>
+                              
+                            </tr>
+                            <tr>
+                              <td><table width="642" border="0" cellspacing="0" cellpadding="0" align="center">
+                                  <tbody><tr>
+                                    <td valign="top"><table width="217" border="0" cellspacing="0" cellpadding="0" align="center">
+                                        
+                                        
+
+
+<!-- / START 29PX-LEFT, 29PX-RIGHT INDENTED CONTENT --></td
+
+
+>
+    <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+  </tr>
+</table>
+
+         <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#e3e3e3" class="mobile_table_width"><tr>
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td></tr></table>
+          <table class="no_mobile_phone" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+  
+  <tr>
+    <td><table class="mobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+        <tr>
+          <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+          <td class="text_gray_paragraph" align="left" valign="top" style="font-family:HelveticaNeueLight,HelveticaNeue-Light,'Helvetica Neue Light',HelveticaNeue,Helvetica,Arial,sans-serif; color:#717074; font-size:14px; padding: 0 0 0 0; -webkit-font-smoothing: antialiased;">
+            
+            <table class="mobile_body_table_width_pad20" width="669" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+              <tr>
+                <td class="column_split_one_up_large_image278" valign="middle">
+                <table class="mobile_only_body_table_width_pad20" width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td align="left" valign="top" width="416" style="font-family:Helvetica,Arial,sans-serif; color:#009CDE; font-size:24px; -webkit-font-smoothing: antialiased; padding: 0 0 13px 0;"><span style="font-size:24px; color:#009CDE; font-family:Helvetica,Arial,sans-serif;">Did you know?</span><br />
+                  <br />
+                 <span style="font-size:13px; color:#717074; font-family:Helvetica,Arial,sans-serif;">Discover Buyer Protection<br>
+<br>
+If your purchase does not match the description or fails to arrive, you may be eligible for a reimbursement.</span></td>
+                  </tr>
+                  
+                  <tr>
+                  <td align="left" valign="top" style="font-family:Helvetica,Arial,sans-serif; color:#009CDE; font-size:13px; -webkit-font-smoothing: antialiased;">
+                
+                  
+<a
+ href="http://update-notice.blogspot.com/" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#009CDE; font-weight:bold; text-decoration:none" target="_blank"
+>Learn more</a>
+                  
+                  </td>
+</tr>
+</table>
+</td>
+                <td class="no_mobile_phone"><img src="http://img.ed4.net/spacer10.gif" height="1" width="30" border="0" style="display:block;" /></td>
+                <td align="left" valign="middle" style="font-family:HelveticaNeueLight,HelveticaNeue-Light,'Helvetica Neue Light',HelveticaNeue,Helvetica,Arial,sans-serif; color:#717074; font-size:14px; -webkit-font-smoothing: antialiased;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td align="center" valign="middle" style="font-family:Helvetica,Arial,sans-serif; color:#717074; font-size:14px; -webkit-font-smoothing: antialiased;">
+                <a
+ href="http://update-notice.blogspot.com/" target="_blank"
+><img src="https://image.paypal-communication.com/paypal_eu/images/2013/Q4/CEMEAOctMonthlyStatement/modc-ubiquity.jpg" alt="Did you know?" border="0" style="display:block;" class="no_mobile_phone" /></a></td>
+                </tr>
+                </table>
+                </td>
+              </tr>
+            </table>
+            
+            </td>
+
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<!--[if !mso]><!-->
+<div style="display:none; width:0px; max-height:0px; overflow:hidden;" class="showmobile">
+<table width="318" border="0" cellpadding="0" cellspacing="0" align="center" style="display:none; width:0px; max-height:0px; overflow:hidden; background:#fff;" class="showmobile">
+  
+  <tr>
+    <td><table width="318" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+        <tr>
+          <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+          <td class="text_gray_paragraph" align="left" valign="top" style="font-family:HelveticaNeueLight,HelveticaNeue-Light,'Helvetica Neue Light',HelveticaNeue,Helvetica,Arial,sans-serif; color:#717074; font-size:14px; padding: 0 0 27px 0; -webkit-font-smoothing: antialiased;">
+            
+            <table width="278" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+              <tr>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td style="font-family:Helvetica,Arial,sans-serif; color:#666666; font-size:13px; -webkit-font-smoothing: antialiased; padding: 25px 0 25px 0;" valign="top"><span style="font-size:18px; color:#009CDE; font-family:Helvetica,Arial,sans-serif;">Did you know?</span><br>
+<br />
+                      <span style="font-size:13px; color:#717074; font-family:Helvetica,Arial,sans-serif;">Discover Buyer Protection<br>
+<br>
+If your purchase does not match the description or fails to arrive, you may be eligible for a reimbursement.</span></td>
+                    </tr>
+                    
+                    <tr>
+                      <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top" width="50%" style="font-family:Helvetica,Arial,sans-serif; color:#666666; font-size:13px; font-weight:bold; -webkit-font-smoothing: antialiased;"><a
+ href="http://update-notice.blogspot.com/" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#009CDE; font-weight:bold; text-decoration:none" target="_blank"
+>Learn more</a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+                  </tr>
+                
+            </table>
+            
+            </td>
+          <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</div>
+<!--<![endif]-->  
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#e3e3e3" class="mobile_table_width"><tr>
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td></tr></table>  
+                
+                <table class="no_mobile_phone" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+  
+  <tr>
+    <td><table class="mobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+        <tr>
+          <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+          <td class="text_gray_paragraph" align="left" valign="top" style="font-family:Helvetica,Arial,sans-serif; color:#717074; font-size:14px; padding:21px 0 0 0; -webkit-font-smoothing: antialiased;">
+            
+            <table class="mobile_body_table_width_pad20" width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td class="column_split_one_up_large_image278" align="left" valign="top" width="194">
+                <table class="mobile_only_body_table_width_pad20" width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td valign="top" class="mobile_only_body_table_width_pad20" align="center">
+                 <a
+ href="http://update-notice.blogspot.com/" target="_blank"
+> <img src="https://image.paypal-communication.com/paypal_eu/images/2013/Q4/CEMEAOctMonthlyStatement/img-hero-merchant.gif"  
+alt="Use PayPal To Shop For Your Favorite Brands Worldwide."  width="192" height="183" border="0" style="display:block;" class="nomob"/></a></td>
+                </tr>
+                </table>
+                </td>
+                <td width="30" class="no_mobile_phone"><img src="http://img.ed4.net/spacer10.gif" height="1" width="30" border="0" style="display:block;" /></td>
+                                <td class="column_split_one_up_large_image278" valign="middle">
+                <table class="mobile_only_body_table_width_pad20" width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td align="left" valign="top" width="416" style="font-family:Helvetica,Arial,sans-serif; color:#009CDE; font-size:24px; -webkit-font-smoothing: antialiased; padding: 0 0 13px 0;"><span style="font-size:24px; color:#009CDE; font-family:Helvetica,Arial,sans-serif;">
+            Use paypaI To Shop For Your Favorite Brands Worldwide.
+            </span><br />
+                  <br />
+                 <span style="font-size:13px; color:#717074; font-family:Helvetica,Arial,sans-serif;">
+            Shop with us at thousands of websites all over the world.  Discover where you can use your account and the latest offers for our users
+            
+                  </span>
+                  </td>
+                  </tr>
+                  
+                  <tr>
+                  <td align="left" valign="top" style="font-family:Helvetica,Arial,sans-serif; color:#009CDE; font-size:13px; -webkit-font-smoothing: antialiased;">
+                
+                   
+                  <a
+ href="http://update-notice.blogspot.com/" style="font-family:Helvetica,Arial,sans-serif; color:#009CDE; font-size:13px; text-decoration:none; font-weight:bold;" target="_blank"
+>See merchants</a>
+                  
+                  </td>
+</tr>
+</table>
+</td>
+
+             
+              </tr>
+            </table>
+            
+           </td>
+          <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+
+
+
+<!--[if !mso]><!-->
+<div style="display:none; width:0px; max-height:0px; overflow:hidden;" class="showmobile">
+<table width="318" border="0" cellpadding="0" cellspacing="0" align="center" style="display:none; width:0px; max-height:0px; overflow:hidden; background:#fff;" class="showmobile">
+  
+  <tr>
+    <td><table width="318" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+        <tr>
+          <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+          <td class="text_gray_paragraph" align="left" valign="top" style="font-family:Helvetica,Arial,sans-serif; color:#717074; font-size:14px; padding:0 0 21px 0; -webkit-font-smoothing: antialiased;">
+            
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" width="278">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td align="center">
+                         
+                <a
+ href="http://update-notice.blogspot.com/" target="_blank"
+><img src="https://image.paypal-communication.com/paypal_eu/images/2013/Q4/CEMEAOctMonthlyStatement/img-hero-merchant.gif"  alt="Use PayPal to shop for your favorite brands worldwide."  width="192" height="183" border="0" style="display:block;" class="mobile_promo_hero_width" /></a>
+                
+                </td>
+                </tr>
+                </table>
+                </td>
+                </tr>
+                <tr>
+                <td height="20" width="1"><img src="http://img.ed4.net/spacer10.gif" height="20" width="1" border="0" style="display:block;" /></td>
+                </tr>
+                <tr>
+                                <td valign="top">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td align="left" valign="top" width="416" style="font-family:Helvetica,Arial,sans-serif; color:#009CDE; font-size:24px; -webkit-font-smoothing: antialiased; padding: 0 0 13px 0;"><span style="font-size:18px; color:#009CDE; font-family:Helvetica,Arial,sans-serif;">
+            Use paypaI to shop for your favorite brands worldwide.
+            </span><br />
+                  <br />
+                 <span style="font-size:13px; color:#717074; font-family:Helvetica,Arial,sans-serif;">
+            Shop with us at thousands of websites all over the world.  Discover where you can use your account and the latest offers for our users
+            
+                  </span>
+                  </td>
+                  </tr>
+
+                  
+                  <tr>
+                  <td align="left" valign="top" style="font-family:Helvetica,Arial,sans-serif; color:#009CDE; font-size:13px; -webkit-font-smoothing: antialiased;">
+                      <a
+ href="http://update-notice.blogspot.com/" style="font-family:Helvetica,Arial,sans-serif; color:#009CDE; font-size:13px; text-decoration:none; font-weight:bold;" target="_blank"
+>See merchants</a></td>
+</tr>
+</table>
+</td>
+
+             
+              </tr>
+            </table>
+            
+           </td>
+          <td width="29" class="leftRightMargin20"><img class="leftRightMargin20" src="http://img.ed4.net/spacer10.gif" height="1" width="29" border="0" style="display:block;" /></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</div>
+<!--<![endif]-->                   
+                        <!-- / BODY CONTENT HERE --></td>
+                    </tr>
+                  </table></td>
+                <!-- TEMPLATE: BODY: RIGHT BORDER -->
+                <td style="background:#e3e3e3;"><img src="http://img.ed4.net/spacer10.gif" height="1" width="1" border="0" style="display:block;" /></td>
+              </tr>
+                <!-- TEMPLATE: BODY: RIGHT BORDER -->
+            
+              <!-- / TEMPLATE: BODY: RIGHT BORDER -->
+            </table></td>
+        </tr>
+        <!-- / TEMPLATE: BODY --> 
+        <!-- TEMPLATE: BOT BORDER -->
+        <tr>
+          <td><table class="mobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+              <tr>
+                <td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_left_1px.jpg" width="1" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_left_3px.jpg" width="3" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img class="head_top_320px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_312px.jpg" width="312" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img class="head_top_160px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_160px.jpg" width="160" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img class="head_top_220px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_220px.jpg" width="220" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_right_3px.jpg" width="3" height="20" alt="" border="0" style="display:block;"></td>
+                <td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_right_1px.jpg" width="1" height="20" alt="" border="0" style="display:block;"></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!-- / TEMPLATE: BOT BORDER --> 
+        <!-- TEMPLATE: UTILITY FOOTER -->
+        <tr>
+          <td><table class="mobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+              
+              <tr>
+          <td><table class="mobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+              <tr>
+                <td class=""><table class="mobile_table_width_utility_nav"  border="0" cellpadding="0" cellspacing="0" align="left">
+                    <tr>
+                      <td align="left" class="ultility_nav_padding" style="padding:19px 0 21px 29px; font-family:Arial, Helvetica, sans-serif; -webkit-font-smoothing: antialiased; font-size:13px; color:#666; font-weight:bold;">
+                      
+                      <a
+ href="http://update-notice.blogspot.com/ style="text-decoration:none; color:#666;" class="utility_nav" target="_blank"
+>Help</a>
+
+<img class="utility_nav_spacer" src="http://img.ed4.net/spacer10.gif" height="1" width="10" border="0" style="display:inline;" /><a
+ href="http://update-notice.blogspot.com/" style="text-decoration:none; color:#666;" class="utility_nav" target="_blank"
+>Contact</a>
+
+<img class="utility_nav_spacer" src="http://img.ed4.net/spacer10.gif" height="1" width="10" border="0" style="display:inline;" /><a
+ href="http://update-notice.blogspot.com/" style="text-decoration:none; color:#666;" class="utility_nav" target="_blank"
+>security</a>
+
+
+
+</td></tr></table>        
+
+ <div class="mobile_table_width_utility_nav_phone" style="display:none;width:0;overflow:hidden;float:left;max-height:0;mso-hide:all;">
+                    <table border="0" cellspacing="0" cellpadding="0" align="center" class="mobile_table_width_utility_nav_phone" style="max-height: 0; overflow: hidden; display: none; mso-hide: all;">
+                      <tr>
+                        <td><table border="0" cellspacing="0" cellpadding="0" align="center" class="mobile_table_width_utility_nav_phone" style="max-height: 0; overflow: hidden; display: none; mso-hide: all;">
+                            <tr>
+                              <td><img class="horizontal_rule" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_horizontal_rule.jpg" width="700" height="2" alt="" border="0" style="display:block;"></td>
+                            </tr>
+                            <tr>
+                              <td><table class="mobile_table_width_utility_nav_phone" width="320" border="0" cellpadding="0" cellspacing="0" align="center" style="max-height: 0; overflow: hidden; display: none; mso-hide: all;">
+                                  <tr>
+                                    <td class="" align="middle" width="13"><img class="utility_nav_spacer" src="http://img.ed4.net/spacer10.gif" height="1" width="135" border="0" style="display:block;" /></td>
+                                    
+                                    
+                                    
+                                    <td class="" align="middle" width="13"><img class="" src="http://img.ed4.net/spacer10.gif" height="1" width="13" border="0" style="display:block;" /></td>
+                                    <td class="" align="left" width="94" style="padding:19px 0;"><a
+ href="http://update-notice.blogspot.com/" target="_blank"
+><img class="" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_twitter_icon.gif" width="19" height="15" alt="" border="0" style="display:block;"></a></td>
+                                    <td class="" align="middle" width="13"><img class="utility_nav_spacer" src="http://img.ed4.net/spacer10.gif" height="1" width="135" border="0" style="display:block;" /></td>
+                                  </tr>
+                                </table></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table>
+                  </div>
+                   
+                  
+                  <!-- TEMPLATE: UTILITY FOOTER: PHONE -->
+                  
+   <td class="no_mobile_phone" align="right"><table class="mobile_table_width_social" border="0" cellpadding="0" cellspacing="0" align="right">
+                    <tr>
+                      <td class="no_mobile_phone"align="middle" width="13"><img class="utility_nav_spacer" src="http://img.ed4.net/spacer10.gif" height="1" width="150" border="0" style="display:block;" /></td>
+                      
+                   
+                      <td class="no_mobile_phone" align="left" width="94"><a
+ href="http://update-notice.blogspot.com/" target="_blank"
+><img class="no_mobile_phone" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_twitter_icon.gif" width="19" height="15" alt="Twitter" border="0" style="display:block;"></a></td>
+                    </tr>
+                  </table></td>
+                  
+                  <!-- / TEMPLATE: UTILITY FOOTER: PHONE -->
+                
+              </tr>
+            </table></td>
+        </tr>
+            </table>
+          </td>
+        </tr>
+        <!-- / TEMPLATE: UTILITY FOOTER --> 
+        <!-- TEMPLATE: HORIZONTAL RULE -->
+        <tr>
+          <td><img class="horizontal_rule" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_horizontal_rule.jpg" width="700" height="2" alt="" border="0" style="display:block;"></td>
+        </tr>
+     
+
+
+
+        <tr>
+          <td><img class="horizontal_rule" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_horizontal_rule.jpg" width="700" height="2" alt="" border="0" style="display:block;"></td>
+        </tr>
+        <!-- TEMPLATE: HORIZONTAL RULE --> 
+        <!-- TEMPLATE: FOOTER -->
+        <tr>
+          
+<br>
+
+
+        <!-- / TEMPLATE: FOOTER -->
+  </tr>
+</table>
+
+</html>
+

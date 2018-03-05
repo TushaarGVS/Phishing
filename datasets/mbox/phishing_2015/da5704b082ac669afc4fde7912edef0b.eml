@@ -1,0 +1,48 @@
+Return-Path: <miguel.criollo@gobiernogalapagos.gob.ec>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id C84FAF4193
+	for <jose@login.monkey.org>; Tue, 28 Jul 2015 10:14:31 -0500 (CDT)
+Received: from smtpin15.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 8EC5F34E377
+	for <jose@login.monkey.org>; Tue, 28 Jul 2015 15:14:31 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70458013542.15.talk61_4472c3af64a4a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,8c6a3278bc87efb4,d41d8cd98f00b204,miguel.criollo@gobiernogalapagos.gob.ec,,RULES_HIT:10:41:152:355:379:387:541:901:967:973:988:989:1256:1260:1261:1263:1277:1303:1311:1313:1314:1345:1381:1437:1515:1516:1518:1534:1536:1560:1593:1594:1711:1714:1730:1747:1777:1792:1803:2393:2525:2559:2563:2682:2685:2693:2859:2890:2895:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3690:3867:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:5007:6261:8778:9025:10004:10400:11658:11914:12050:12225:12679:13069:13180:13229:13311:13357:13868,0,RBL:190.214.44.243-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: talk61_4472c3af64a4a
+X-Filterd-Recvd-Size: 1283
+Received: from mail.gobiernogalapagos.gob.ec (unknown [190.214.44.243])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 28 Jul 2015 15:14:30 +0000 (UTC)
+Received: from mail.gobiernogalapagos.gob.ec (localhost [127.0.0.1])
+	by mail.gobiernogalapagos.gob.ec (Postfix) with ESMTP id 7EB81D9121B;
+	Tue, 28 Jul 2015 08:40:03 -0600 (GALT)
+Received: from mail.gobiernogalapagos.gob.ec (mail.gobiernogalapagos.gob.ec [192.168.33.34])
+	by mail.gobiernogalapagos.gob.ec (Postfix) with ESMTP id 281ABD90C1C;
+	Tue, 28 Jul 2015 08:40:00 -0600 (GALT)
+Date: Tue, 28 Jul 2015 08:40:00 -0600 (GALT)
+From: Account Warning <miguel.criollo@gobiernogalapagos.gob.ec>
+Reply-To: "a_mail77@yahoo.com" <a_mail77@yahoo.com>
+Message-ID: <844372481.123160.1438094400085.JavaMail.zimbra@gobiernogalapagos.gob.ec>
+Subject: 24 Hours Deadline
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: Zimbra 8.0.6_GA_5922 (zclient/8.0.6_GA_5922)
+Thread-Topic: 24 Hours Deadline
+Thread-Index: 9jKmI6Rkzg02bZPkWYb47V6DLAs+3w==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 136
+
+This is to inform you that your password will expire in 3 days, please update your account or your new mails will remain pending.
+
+Note: Open http://www.portal86.zyro.com
+
+Open to update now

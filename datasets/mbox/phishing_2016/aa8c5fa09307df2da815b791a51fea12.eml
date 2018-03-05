@@ -1,0 +1,62 @@
+Return-Path: jhayes1107@mscc.edu
+Delivered-To: jose@monkey.org
+X-FDA: 71045097186.20.crow01_5eff4c457f61f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 18,1.407,0,704627de6b7e58b1,d41d8cd98f00b204,jhayes1107@mscc.edu,:info@oooooo.org,RULES_HIT:10:41:355:379:589:960:967:978:988:989:1256:1260:1261:1263:1277:1311:1313:1314:1345:1381:1513:1515:1516:1518:1521:1533:1534:1536:1593:1594:1711:1714:1730:1747:1777:1792:2393:2525:2560:2563:2682:2685:2693:2828:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4362:5007:6261:7688:8778:9025:9111:9388:9411:9855:10004:10400:11257:11658:11914:12043:12050:12196:12519:12855:13069:13311:13357:21080:30021:30037:30054:30069:30070:30075,0,RBL:170.178.138.19:@mscc.edu:.lbl8.mailshell.net-62.20.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:71,LUA_SUMMARY:none
+X-HE-Tag: crow01_5eff4c457f61f
+X-Filterd-Recvd-Size: 2220
+Received: from mail.mscc.edu (mail.mscc.edu [170.178.138.19])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  6 Jan 2016 10:04:12 +0000 (UTC)
+Authentication-Results: mail.mscc.edu; dkim=neutral (message not signed) header.i=none
+Received-SPF: None (mail.mscc.edu: no sender authenticity
+  information available from domain of jhayes1107@mscc.edu)
+  identity=pra; client-ip=10.100.6.15; receiver=mail.mscc.edu;
+  envelope-from="jhayes1107@mscc.edu";
+  x-sender="jhayes1107@mscc.edu"; x-conformance=sidf_compatible
+Received-SPF: Fail (mail.mscc.edu: domain of jhayes1107@mscc.edu
+  does not designate 10.100.6.15 as permitted sender)
+  identity=mailfrom; client-ip=10.100.6.15;
+  receiver=mail.mscc.edu; envelope-from="jhayes1107@mscc.edu";
+  x-sender="jhayes1107@mscc.edu";
+  x-conformance=sidf_compatible; x-record-type="v=spf1"
+Received-SPF: None (mail.mscc.edu: no sender authenticity
+  information available from domain of
+  postmaster@email.mscc.edu) identity=helo;
+  client-ip=10.100.6.15; receiver=mail.mscc.edu;
+  envelope-from="jhayes1107@mscc.edu";
+  x-sender="postmaster@email.mscc.edu";
+  x-conformance=sidf_compatible
+X-IronPort-AV: E=Sophos;i="5.20,528,1444712400"; 
+   d="scan'208";a="66823845"
+Received: from mscc.edu (HELO email.mscc.edu) ([10.100.6.15])
+  by mail.mscc.edu with ESMTP/TLS/RC4-MD5; 06 Jan 2016 04:04:13 -0600
+Received: from mscc-nas.mscc.edu ([10.100.6.15]) by mscc-nas.mscc.edu
+ ([10.100.6.15]) with mapi; Wed, 6 Jan 2016 03:32:07 -0600
+From: jhayes1107 <jhayes1107@mscc.edu>
+To: "info@oooooo.org" <info@oooooo.org>
+Date: Wed, 6 Jan 2016 03:32:06 -0600
+Subject: IT Scheduled Maintenance!!!
+Thread-Topic: IT Scheduled Maintenance!!!
+Thread-Index: AQHRSGUbAQcZ9REX0EuDsTB4HcBAqw==
+Message-ID: <2E5C8745B72E6141AEC64D43D3A4EAEC0157F38D31@mscc-nas.mscc.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 4
+
+Password will expire in 3 days. Click Here<http://www.electro-univers.ro/d6=
+55@dd/> To Validate E-mail
+
+Thank you,
+=A9 2014 Microsoft

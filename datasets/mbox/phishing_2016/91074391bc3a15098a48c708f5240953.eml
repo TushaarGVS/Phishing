@@ -1,0 +1,238 @@
+Return-Path: tiziana.borsello@marionegri.it
+Delivered-To: jose@monkey.org
+X-FDA: 71762958036.02.egg91_5410e291e1d26
+X-Spam-Summary: 30,2,0,3762849706cb680c,d41d8cd98f00b204,tiziana.borsello@marionegri.it,,RULES_HIT:2:4:10:41:69:72:152:355:379:474:541:555:800:920:962:967:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1394:1395:1431:1436:1437:1516:1517:1518:1575:1588:1589:1592:1594:1730:1776:1792:1801:2525:2527:2553:2561:2564:2610:2682:2685:2741:2859:2895:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3865:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4052:4321:4362:4552:4605:5007:6261:6300:6630:6650:6674:6678:7875:7903:8518:8583:8599:8603:8825:9025:9040:9080:9121:9177:9388:9411:10004:10249:10346:11245:11658:11914:12043:12331:12555:12658:12679:12740:12776:12921:13018:13019:13139:13163:13229:13237:13846:14096:14158:14651:14659:21433:30023:30048:30054:30070:30083:30090,0,RBL:93.51.235.151:@marionegri.it:.lbl8.mailshell.net-62.2.122.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:no
+X-HE-Tag: egg91_5410e291e1d26
+X-Filterd-Recvd-Size: 15200
+Received: from caino.marionegri.it (caino-out-1.marionegri.it [93.51.235.151])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 22 Jul 2016 05:49:37 +0000 (UTC)
+X-AuditID: ac12041f-557ff700000014ee-7e-5791b3ce2cd0
+Received: from telesforo.marionegri.it (telesforo.marionegri.it [172.18.1.45])
+	by  (Symantec Mail Security) with SMTP id F9.98.05358.EC3B1975; Fri, 22 Jul 2016 07:49:02 +0200 (CEST)
+To: undisclosed-recipients:;
+Received: from localhost (localhost [127.0.0.1])
+	by telesforo.marionegri.it (Postfix) with ESMTP id B90EA10279608;
+	Fri, 22 Jul 2016 07:49:25 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at marionegri.it
+Received: from telesforo.marionegri.it ([127.0.0.1])
+	by localhost (telesforo.marionegri.it [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id vfDpHcxpGSNA; Fri, 22 Jul 2016 07:49:25 +0200 (CEST)
+Received: from romolo.marionegri.it (romolo.marionegri.it [172.18.1.39])
+	by telesforo.marionegri.it (Postfix) with ESMTP id 2D10A102797E0;
+	Fri, 22 Jul 2016 07:49:24 +0200 (CEST)
+Date: Fri, 22 Jul 2016 07:49:24 +0200 (CEST)
+From: Tiziana Borsello <tiziana.borsello@marionegri.it>
+Reply-To: crisbyna@live.cn
+Message-ID: <225368384.3640651.1469166564020.JavaMail.zimbra@marionegri.it>
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3640650_1870669434.1469166564018"
+X-Mailer: Zimbra 8.6.0_GA_1200 (ZimbraWebClient - GC51 (Win)/8.6.0_GA_1200)
+Thread-Topic: 
+Thread-Index: VfC3C1fwxmmDcjWbmRt0lBVjInLrAg==
+X-Brightmail-Tracker: H4sIAAAAAAAAA2WTe0xTdxTH8+u97b0Q2K6FxZ/djN01YwuuhILoMQM2F7Jd0T2SLWNRM3dt
+	b6Bbe8vauuk0rojVAo5XExBmQSjiUtvJynhIGQsgQckcjMecEOaMEGJ88HBsYObYhbrEZL+/
+	Pvme8/2dk5NzaEJZRalog2gTLCJvZBXhpE+JNJqfGksy4otan4O/hpwIcjt9Cnhg75PB174A
+	gjbvDQr+7L1GQPGAi4Tii7+S0H2qloCJniYEZaO5ktZfoIAR/xQCz9UgAdVjx+XwrcuhgMDw
+	TQR1PzaS0NCwBs7OjxEwdsQlhxpnMwmXi07K4ZuFV2GmeZYEzyE40XhMBtdrzkiVxodJuBqo
+	pSA420JB/vDTMO/5Ug5Tiyo40yd9XP1gkYKaI3dkcLTWIQPf6ByCxYZNcKtgL3jPvguFVTky
+	aP5O6m2mQwR7X5CEyfZuBBPefgrq224QcCXvofyVBO5ip4vifL8Mybji3tOIWxq/gLhRp5fg
+	3J335FxpvgtxOfef5Ap/mERcz5VuisvpS+ba587JuNGZSsSNBYso7vaclN84HPH22p12lMyL
+	otnG2wS1XrDqUtg0g1Vn5A0mwaKO+WSf2fZSkjpbYpPBaBRCAqs26FPYBFadbeR1gkkQbSks
+	n50tiHo2NVz9v5cspRlEtSDqzHqDmJnCbnvnLQ1A0haNlk3VaD7sicqqON+syC5/Y79nKZey
+	I2daPgqjMbMRN/lHFPkonFYyLQhfKvyZWg5EM89g91c35aGAG2Fvx4I85NDgh91tKBS4hPAf
+	I9cf2ZsQrjvRsmInmRfxUmM7kY9oWsFsxvN2dllWMio8sFBCLnMksx37B4dXOIoJw4GCfiqk
+	r8KXKyZWdIL5APfk3SJChbfjquOdilB3T+CyqWkyxHHY65mhitGqysfslY/ZQ/w8/rtq8BGv
+	wy13T0lMSxyD6x1sSN6A62tuE6eRwouidNI8zXEm3mIwi0KmxRBnsAXQym2Q61pR/f34LsTQ
+	iI2ItM8WZyjl/KfWA6YuhGmCjY6EQEmGMlLPH/hcsJj3WPYZBWsXSpKmUkKontKZpUsTbXu0
+	CdpNCdqkjQmJmxPj2dWRhw4rMpRMprQkHwuCtA3/+WR0mMqOIkqjhdSJu8LYUVfFonPvdNoX
+	2vfl5QfrXotSmXe66d09paz9pH/65QsDuYM7nJ9N12smN8Q4PO7cjsw4+/o8/72PKne8rj+c
+	uO2axv+7bfW5oOOFod7O/md3vcmPdrSO7z9Yvavc//0/WWvLtmyN352+Nb3qvT7fmmPpv8We
+	D7pj7zhY0prFa2MJi5X/F6beq/kxBAAA
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 304
+
+------=_Part_3640650_1870669434.1469166564018
+Content-Type: text/plain; charset=utf-8
+content-transfer-encoding: base64
+
+DQoNCllvdXIgbWFpbGJveCBoYXMgZXhjZWVkZWQgdGhlIHN0b3JhZ2UgbGltaXQgaXMgMS45
+OSBHQiwgDQoNCldoaWNoIGlzIGRlZmluZWQgYnkgdGhlIGFkbWluaXN0cmF0b3IsIHlvdSBh
+cmUgcnVubmluZyBhdCAxLjk5IGdpZ2FieXRlcyBhbmQgDQoNCnlvdSBtYXkgbm90IGJlIGFi
+bGUgdG8gc2VuZCBvciByZWNlaXZlIG5ldyBtZXNzYWdlcyB1bnRpbCB5b3UgdXBkYXRlIHlv
+dXIgbWFpbGJveC4gDQoNCg0KDQpUbyBVcGRhdGUgeW91ciBtYWlsYm94IENsaWNrIEhlcmUg
+DQoNCg0KDQpUaGFuayB5b3UhIA0KV2VibWFpbCBzeXN0ZW0gYWRtaW5pc3RyYXRvciEgDQoN
+Cg0KDQoNCi0tLS0tLS0tLS0NCkwnSVJDQ1MgLSBJc3RpdHV0byBkaSBSaWNlcmNoZSBGYXJt
+YWNvbG9naWNoZSBNYXJpbyBOZWdyaSBkZXNpZGVyYSByaW5ncmF6aWFyZSB0dXR0aSBpIGRv
+bmF0b3JpIGNoZSBoYW5ubyBkZXZvbHV0byBpbCBsb3JvIDUgcGVyIG1pbGxlIC0gZSBjaSBh
+dWd1cmlhbW8gdm9ycmFubm8gY29udGludWFyZSBhIGZhcmxvIGluIGZ1dHVybyAtIGEgc29z
+dGVnbm8gZGVsbGEgbm9zdHJhIGF0dGl2aXTDoCBlIGFzc2ljdXJhcmUgbG9ybyBjaGUgdHV0
+dG8gcXVhbnRvIHJpY2V2dXRvIHNhcsOgIGVzY2x1c2l2YW1lbnRlIGltcGllZ2F0byBwZXIg
+bGUgbm9zdHJlIHJpY2VyY2hlLg0KDQpSaWNvcmRpYW1vIGRpIGZpcm1hcmUgZWQgaW5kaWNh
+cmUgaWwgbm9zdHJvIGNvZGljZSBmaXNjYWxlDQoNCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAwMzI1NDIxMDE1MA0KDQpuZWwgcmlxdWFkcm8gIkZpbmFuemlhbWVudG8gYWdsaSBlbnRp
+IGRlbGxhIHJpY2VyY2Egc2NpZW50aWZpY2EgZSBkZWxsJ3VuaXZlcnNpdMOgIi4NCg0KUGVy
+IG1hZ2dpb3JpIGluZm9ybWF6aW9uaToNCg0KSVJDQ1MgLSBJc3RpdHV0byBkaSBSaWNlcmNo
+ZSBGYXJtYWNvbG9naWNoZSBNYXJpbyBOZWdyaSwgVmlhIExhIE1hc2EgMTkgLSAyMDE1NiBN
+aWxhbm8NClRlbDogKzM5IDAyIDM5MDE0MSAtIEZheDogKzM5IDAyIDM1NDYyNzcgKzM5IDAy
+IDM5MDAxOTE4DQpJbnRlcm5ldDogd3d3Lm1hcmlvbmVncmkuaXQsIG1uZWdyaUBtYXJpb25l
+Z3JpLml0DQo=
+
+------=_Part_3640650_1870669434.1469166564018
+Content-Type: text/html; charset=utf-8
+content-transfer-encoding: quoted-printable
+
+<html><body><div style=3D"font-family: Verdana; font-size: 12pt; color: #000=
+000"><div><p style=3D"color: #000000; font-size: 16px; font-style: normal; f=
+ont-variant: normal; font-weight: normal; letter-spacing: normal; line-heigh=
+t: normal; orphans: auto; text-align: start; text-indent: 0px; text-transfor=
+m: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-str=
+oke-width: 0px; margin: 0px; font-family: arial, helvetica, sans-serif; back=
+ground-color: #ffffff;" data-mce-style=3D"color: #000000; font-size: 16px; f=
+ont-style: normal; font-variant: normal; font-weight: normal; letter-spacing=
+: normal; line-height: normal; orphans: auto; text-align: start; text-indent=
+: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0=
+px; -webkit-text-stroke-width: 0px; margin: 0px; font-family: arial, helveti=
+ca, sans-serif; background-color: #ffffff;"><span data-mce-style=3D"font-siz=
+e: 10pt; font-family: Arial, sans-serif;" style=3D"font-size: 10pt; font-fam=
+ily: Arial, sans-serif;">Your mailbox has exceeded the storage limit is 1.99=
+ GB,</span></p><p style=3D"color: #000000; font-size: 16px; font-style: norm=
+al; font-variant: normal; font-weight: normal; letter-spacing: normal; line-=
+height: normal; orphans: auto; text-align: start; text-indent: 0px; text-tra=
+nsform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-tex=
+t-stroke-width: 0px; margin: 0px; font-family: arial, helvetica, sans-serif;=
+ background-color: #ffffff;" data-mce-style=3D"color: #000000; font-size: 16=
+px; font-style: normal; font-variant: normal; font-weight: normal; letter-sp=
+acing: normal; line-height: normal; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: 1; word-spaci=
+ng: 0px; -webkit-text-stroke-width: 0px; margin: 0px; font-family: arial, he=
+lvetica, sans-serif; background-color: #ffffff;"><span data-mce-style=3D"fon=
+t-size: 10pt; font-family: Arial, sans-serif;" style=3D"font-size: 10pt; fon=
+t-family: Arial, sans-serif;">Which is defined by the administrator, you are=
+ running at 1.99 gigabytes and</span></p><p style=3D"color: #000000; font-si=
+ze: 16px; font-style: normal; font-variant: normal; font-weight: normal; let=
+ter-spacing: normal; line-height: normal; orphans: auto; text-align: start;=
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 1; wor=
+d-spacing: 0px; -webkit-text-stroke-width: 0px; margin: 0px; font-family: ar=
+ial, helvetica, sans-serif; background-color: #ffffff;" data-mce-style=3D"co=
+lor: #000000; font-size: 16px; font-style: normal; font-variant: normal; fon=
+t-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto=
+; text-align: start; text-indent: 0px; text-transform: none; white-space: no=
+rmal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; margin:=
+ 0px; font-family: arial, helvetica, sans-serif; background-color: #ffffff;"=
+><span data-mce-style=3D"font-size: 10pt; font-family: Arial, sans-serif;" s=
+tyle=3D"font-size: 10pt; font-family: Arial, sans-serif;">you may not be abl=
+e to&nbsp;send or receive new messages until you update your mailbox.</span>=
+</p><p style=3D"color: #000000; font-size: 16px; font-style: normal; font-va=
+riant: normal; font-weight: normal; letter-spacing: normal; line-height: nor=
+mal; orphans: auto; text-align: start; text-indent: 0px; text-transform: non=
+e; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-wi=
+dth: 0px; margin: 0px; font-family: arial, helvetica, sans-serif; background=
+-color: #ffffff;" data-mce-style=3D"color: #000000; font-size: 16px; font-st=
+yle: normal; font-variant: normal; font-weight: normal; letter-spacing: norm=
+al; line-height: normal; orphans: auto; text-align: start; text-indent: 0px;=
+ text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -w=
+ebkit-text-stroke-width: 0px; margin: 0px; font-family: arial, helvetica, sa=
+ns-serif; background-color: #ffffff;"><span data-mce-style=3D"font-size: 10p=
+t; font-family: Arial, sans-serif;" style=3D"font-size: 10pt; font-family: A=
+rial, sans-serif;">&nbsp;</span></p><p style=3D"color: #000000; font-size: 1=
+6px; font-style: normal; font-variant: normal; font-weight: normal; letter-s=
+pacing: normal; line-height: normal; orphans: auto; text-align: start; text-=
+indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spac=
+ing: 0px; -webkit-text-stroke-width: 0px; margin: 0px; font-family: arial, h=
+elvetica, sans-serif; background-color: #ffffff;" data-mce-style=3D"color: #=
+000000; font-size: 16px; font-style: normal; font-variant: normal; font-weig=
+ht: normal; letter-spacing: normal; line-height: normal; orphans: auto; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; margin: 0px;=
+ font-family: arial, helvetica, sans-serif; background-color: #ffffff;"><spa=
+n data-mce-style=3D"font-size: 10pt; font-family: Arial, sans-serif;" style=
+=3D"font-size: 10pt; font-family: Arial, sans-serif;">To Update your&nbsp;ma=
+ilbox&nbsp;</span><a href=3D"http://gh398493.6te.net/feedback/feedback.html"=
+ data-mce-href=3D"http://gh398493.6te.net/feedback/feedback.html"><strong><s=
+pan data-mce-style=3D"font-size: 10pt; font-family: Arial, sans-serif;" styl=
+e=3D"font-size: 10pt; font-family: Arial, sans-serif;">Click Here</span></st=
+rong></a></p><p style=3D"color: #000000; font-size: 16px; font-style: normal=
+; font-variant: normal; font-weight: normal; letter-spacing: normal; line-he=
+ight: normal; orphans: auto; text-align: start; text-indent: 0px; text-trans=
+form: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-=
+stroke-width: 0px; margin: 0px; font-family: arial, helvetica, sans-serif; b=
+ackground-color: #ffffff;" data-mce-style=3D"color: #000000; font-size: 16px=
+; font-style: normal; font-variant: normal; font-weight: normal; letter-spac=
+ing: normal; line-height: normal; orphans: auto; text-align: start; text-ind=
+ent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing=
+: 0px; -webkit-text-stroke-width: 0px; margin: 0px; font-family: arial, helv=
+etica, sans-serif; background-color: #ffffff;"><span data-mce-style=3D"font-=
+size: 10pt; font-family: Arial, sans-serif;" style=3D"font-size: 10pt; font-=
+family: Arial, sans-serif;">&nbsp;</span></p><p style=3D"color: #000000; fon=
+t-size: 16px; font-style: normal; font-variant: normal; font-weight: normal;=
+ letter-spacing: normal; line-height: normal; orphans: auto; text-align: sta=
+rt; text-indent: 0px; text-transform: none; white-space: normal; widows: 1;=
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; margin: 0px; font-family=
+: arial, helvetica, sans-serif; background-color: #ffffff;" data-mce-style=
+=3D"color: #000000; font-size: 16px; font-style: normal; font-variant: norma=
+l; font-weight: normal; letter-spacing: normal; line-height: normal; orphans=
+: auto; text-align: start; text-indent: 0px; text-transform: none; white-spa=
+ce: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; ma=
+rgin: 0px; font-family: arial, helvetica, sans-serif; background-color: #fff=
+fff;"><span data-mce-style=3D"font-size: 10pt; font-family: Arial, sans-seri=
+f;" style=3D"font-size: 10pt; font-family: Arial, sans-serif;">Thank you!<br=
+>Webmail system administrator!</span></p><p style=3D"color: #000000; font-si=
+ze: 16px; font-style: normal; font-variant: normal; font-weight: normal; let=
+ter-spacing: normal; line-height: normal; orphans: auto; text-align: start;=
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 1; wor=
+d-spacing: 0px; -webkit-text-stroke-width: 0px; margin: 0px; font-family: Ca=
+libri, Arial, Helvetica, sans-serif; background-color: #ffffff;" data-mce-st=
+yle=3D"color: #000000; font-size: 16px; font-style: normal; font-variant: no=
+rmal; font-weight: normal; letter-spacing: normal; line-height: normal; orph=
+ans: auto; text-align: start; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;=
+ margin: 0px; font-family: Calibri, Arial, Helvetica, sans-serif; background=
+-color: #ffffff;"><br></p><div data-mce-style=3D"color: #000000; font-family=
+: Calibri, Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal=
+; font-variant: normal; font-weight: normal; letter-spacing: normal; line-he=
+ight: normal; orphans: auto; text-align: start; text-indent: 0px; text-trans=
+form: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-=
+stroke-width: 0px;" style=3D"color: rgb(0, 0, 0); font-size: 16px; font-styl=
+e: normal; font-variant: normal; font-weight: normal; letter-spacing: normal=
+; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; t=
+ext-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -web=
+kit-text-stroke-width: 0px; font-family: Calibri, Arial, Helvetica, sans-ser=
+if; background-color: rgb(255, 255, 255);"><br></div></div></div><html>
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Diso-8859-1=
+">  </head>
+<body>
+<br>
+<hr>
+<div align=3D'center'>
+<font face=3D"arial" size=3D"2px" color=3D"#151B8D">L'IRCCS - Istituto di Ri=
+cerche Farmacologiche Mario Negri desidera
+ringraziare tutti i donatori che hanno devoluto il loro 5 per mille - e ci a=
+uguriamo vorranno continuare a farlo in futuro - a sostegno
+della nostra attivit&#224; e assicurare loro che tutto quanto ricevuto sar&#=
+224; esclusivamente impiegato per le nostre 
+
+ricerche.<br><br>
+<b>Ricordiamo di firmare ed indicare il nostro codice fiscale</b>
+<div STYLE=3D"Color:red; font-family:Arial; font-size:22px; font-weight:bold=
+"><center>03254210150</center></div>
+<b>nel riquadro "Finanziamento agli enti della ricerca scientifica e dell'un=
+iversit&#224;</b>"<br><br>
+Per maggiori informazioni:<BR><BR>IRCCS - Istituto di Ricerche Farmacologich=
+e Mario Negri, Via La Masa 19 - 20156
+Milano<BR>Tel: +39 02 390141 - Fax: +39 02 3546277 +39 02 39001918<BR>Intern=
+et:
+<A href=3D"http://www.marionegri.it">www.marionegri.it</A>, <A href=3D"mailt=
+o:mnegri@marionegri.it">mnegri@marionegri.it</A>
+</font>
+</div>
+<hr>
+</body>
+</html>
+</body></html>
+------=_Part_3640650_1870669434.1469166564018--

@@ -1,0 +1,138 @@
+Return-Path: <www0@utsc.utoronto.ca>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 4C3A4F412C
+	for <jose@login.monkey.org>; Wed,  8 Jul 2015 15:19:45 -0500 (CDT)
+Received: from smtpin06.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 1AEF327A96A
+	for <jose@login.monkey.org>; Wed,  8 Jul 2015 20:19:45 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70386206730.06.brake44_720f7da0e7156
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 84,2.2,0,09360ddc8cb3c82f,d41d8cd98f00b204,www0@utsc.utoronto.ca,:,RULES_HIT:2:41:72:355:375:379:543:967:969:973:983:988:989:1208:1216:1224:1256:1260:1263:1311:1313:1314:1345:1381:1431:1432:1433:1434:1437:1515:1516:1517:1535:1571:1606:1685:1699:1719:1730:1747:1777:1792:2107:2194:2198:2199:2200:2393:2525:2527:2538:2539:2568:2610:2627:2682:2685:2741:2743:2859:2890:2891:2892:2895:2900:2902:2910:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3747:3865:3866:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4365:5007:6669:6684:6688:7901:8603:8957:9025:9199:9388:9416:9908:10008:10346:11026:11657:11658:11914:12043:12217:12438:12555:12891:12956:12958:12959:13019:13139:13161:13229:13894:21080,0,RBL:85.18.95.87-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0
+X-HE-Tag: brake44_720f7da0e7156
+X-Filterd-Recvd-Size: 5891
+Received: from mr003msb.fastweb.it (mr003msb.fastweb.it [85.18.95.87])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  8 Jul 2015 20:19:43 +0000 (UTC)
+Received: from pc05 (2.228.233.81) by mr003msb.fastweb.it (8.5.140.03)
+        id 55501C9F0453C980 for jose@monkey.org; Wed, 8 Jul 2015 22:19:43 +0200
+Message-ID: <028a5819-42193-02d99303109375@pc05>
+From: "Member FDIC" <www0@utsc.utoronto.ca>
+To: jose@monkey.org
+Subject: Enable validation My Online ID
+Date: Wed, 8 Jul 2015 22:18:39 +0200
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 121
+
+
+<div style="margin:0;padding:0">
+<table bgcolor="#f1f1f1" width="100%" height="100%" align="center" style="border-collapse:collapse" border="0" cellspacing="0" cellpadding="0">
+<tr align="center">
+<td valign="top">
+<table bgcolor="#f1f1f1" height="60" style="border-collapse:collapse" border="0" cellspacing="0" cellpadding="0">
+<tr valign="middle" height="40">
+<td width="9"></td>
+<td width="217" valign="middle">
+<img src="/mail/u/0/h/1sbwcghdflsw2/?view=att&amp;th=148ea5fe394ecb9e&amp;attid=0.1&amp;disp=emb&amp;zw&amp;atsh=1" border="0" alt="Online ID Accounts" style="display:block" height="40">
+</td>
+<td width="327" style="font-size:13px;font-family:arial,sans-serif;color:#777777;text-align:right">
+ 
+</td>
+<td width="10"></td>
+<td><img src="/mail/u/0/h/1sbwcghdflsw2/?view=att&amp;th=148ea5fe394ecb9e&amp;attid=0.2&amp;disp=emb&amp;zw&amp;atsh=1"></td>
+<td width="10"></td>
+</tr>
+
+</table>
+<table border="1" cellspacing="0" cellpadding="0" bgcolor="#ffffff" style="text-align:left">
+<tr>
+<td height="15" style="border-top:none;border-bottom:none;border-left:none;border-right:none">
+</td>
+</tr>
+<tr>
+<td width="15" style="border-top:none;border-bottom:none;border-left:none;border-right:none">
+</td>
+<td width="568" valign="top" style="font-size:83%;border-top:none;border-bottom:none;border-left:none;border-right:none;font-size:13px;font-family:arial,sans-serif;color:#222222;line-height:18px">
+Dear Member FDIC,
+<br>
+<br>
+The password for your Online ID Account a was recently changed.
+<br>
+If you made this change, you don't need to do anything more. 
+
+<br>
+<br>
+<br>
+If you didn't change your password, your account might have been hijacked. To get back into your account, you'll need to reset your password.
+<br>
+<br>
+<a href="http://xn--90aqqd2gvj.com/en" style="text-align:center;font-size:11px;font-family:arial,sans-serif;color:white;font-weight:bold;border-color:#3079ed;background-color:#4d90fe;background-image:linear-gradient(top,#4d90fe,#4787ed);text-decoration:none;display:inline-block;min-height:27px;padding-left:8px;padding-right:8px;line-height:27px;border-radius:2px;border-width:1px" target="_blank">
+<span style="color:white">
+Reset password
+</span>
+</a>
+<br>
+<br>
+
+
+Sincerely,<br> The Online ID Accounts team
+</td>
+
+
+
+<td width="15" style="border-top:none;border-bottom:none;border-left:none;border-right:none">
+</td>
+</tr>
+<tr>
+<td height="15" style="border-top:none;border-bottom:none;border-left:none;border-right:none">
+</td>
+</tr>
+<tr>
+<td width="15" style="border-top:none;border-bottom:none;border-left:none;border-right:none"></td>
+<td width="568" style="font-size:11px;font-family:arial,sans-serif;color:#777777;border-top:none;border-bottom:none;border-left:none;border-right:none">
+This email can't receive replies. For more information, visit the <a href="http://xn--90aqqd2gvj.com/en" style="text-decoration:none;color:#4d90fe" target="_blank"><span style="color:#4d90fe">Bank of America, N.A. Member FDIC</span></a>.
+</td>
+<td width="15" style="border-top:none;border-bottom:none;border-left:none;border-right:none"></td>
+</tr>
+<tr>
+<td height="15" style="border-top:none;border-bottom:none;border-left:none;border-right:none">
+</td>
+</tr>
+</table>
+<table bgcolor="#f1f1f1" height="80" style="text-align:left">
+<tr valign="middle">
+<td style="font-size:11px;font-family:arial,sans-serif;color:#777777">
+You received this mandatory email service announcement to update you about important changes to your Online ID product or account. 
+
+<br>
+<br>
+
+
+<div style="direction:ltr">
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><div style="min-height: 1px;" height="1"></div></td></tr>
+<tr><td style="width: 100%;"><img src="https://ci3.googleusercontent.com/proxy/BskpQQOswEcEktlcWHTJ1GXqrB9aFVLijUYlXi-wmYLZuNmb9EXeeReH-d3DFfp9dXd7-ZKXAP0d6pmDLqyZut7X3x5SOIxKAHPOuFAkp08FDquIHn0r_kfgoizesg=s0-d-e1-ft#https://statici.icloud.com/emailimages/v4/common/footer_gradient_web.png" style="display: block; width: 100%;" height="16"></td></tr>
+<tr><td style="padding: 0pt; text-align: center; font: 11px/15px Geneva,Verdana,Arial,Helvetica,sans-serif; color: rgb(136, 136, 136);"><a href="https://www.google.com/url?q=https%3A%2F%2Fappleid.apple.com%2Fchoose-your-country&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHVHSdy75rpkmu2wikHSJTVmdp_Sw" role="link" target="_blank" rel="noreferrer">My FDIC ID</a> | <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.apple.com%2Fsupport%2Fcountry%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFZCYm8nKTpGc3Wnk3tyIzxb_tINA" role="link" target="_blank" rel="noreferrer">Support</a> | <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.apple.com%2Flegal%2Finternet-services%2Fprivacy%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE00ZA9DQBe3vpiwcZurakEn_chIQ" role="link" target="_blank" rel="noreferrer">Privacy Policy</a></td></tr>
+
+<tr><td style="padding: 0pt; margin-bottom: 0pt; text-align: center; font: 11px/15px Geneva,Verdana,Arial,Helvetica,sans-serif; color: rgb(136, 136, 136);">Copyright © 2015 <span dir="ltr">Bank of America,N.A. Member FDI,</span> <span>All Rights Reserved.</span>
+</div>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>

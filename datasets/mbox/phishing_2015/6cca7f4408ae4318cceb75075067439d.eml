@@ -1,0 +1,73 @@
+Return-Path: <skrl@skra.is>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 31BC1F412C
+	for <jose@login.monkey.org>; Sat,  4 Jul 2015 17:59:08 -0500 (CDT)
+Received: from smtpin02.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id E7F27183F7B
+	for <jose@login.monkey.org>; Sat,  4 Jul 2015 22:59:07 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70372093134.02.base61_6cc79594bbc30
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,dad2f497df0542a1,d41d8cd98f00b204,skrl@skra.is,:,RULES_HIT:41:72:355:379:539:540:541:542:543:560:567:962:967:973:983:988:989:1155:1189:1208:1221:1260:1263:1308:1309:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1530:1534:1538:1569:1575:1587:1588:1589:1592:1594:1685:1711:1714:1730:1748:1777:1792:2073:2076:2525:2560:2563:2610:2682:2685:2859:2909:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3866:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:5007:6114:6117:6119:6261:6642:6678:7628:7652:7809:8518:8603:9025:9082:9388:9908:10004:10049:10244:10346:10400:11257:11473:11657:11658:11914:12043:12324:12517:12519:12555:12740:13110:13139:13237:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: base61_6cc79594bbc30
+X-Filterd-Recvd-Size: 2030
+Received: from gene.futureservers.net (gene.futureservers.net [37.75.236.9])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  4 Jul 2015 22:59:07 +0000 (UTC)
+Received: from [96.89.243.1] (port=50813 helo=DAPR-007)
+	by gene.futureservers.net with esmtpa (Exim 4.76)
+	(envelope-from <skrl@skra.is>)
+	id 1ZBWOm-0008FG-B1
+	for jose@monkey.org; Sat, 04 Jul 2015 23:59:06 +0100
+Message-ID: <634FA7A5C3A44B62A5EC1C206EA3E9AE@DAPR-007>
+Reply-To: "Skrill" <noreply@skra.is>
+From: "Skrill" <skrl@skra.is>
+To: <jose@monkey.org>
+Subject: Confirmation needed
+Date: Sat, 4 Jul 2015 18:58:20 -0400
+Organization: =?windows-1251?B?ICIgIg==?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_25BE_01D0B68B.6513F320"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-bounce-key: futureservers.net-040107;skrl@skra.is;1436050747;2be6eb7d;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 119
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_25BE_01D0B68B.6513F320
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+Please confirm your date of birth Login Website=20
+
+------=_NextPart_000_25BE_01D0B68B.6513F320
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1252" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.17842"></HEAD>
+<BODY bottomMargin=3D5 leftMargin=3D5 rightMargin=3D5 topMargin=3D5=20
+bgColor=3D#ffffff><FONT color=3D#000000 size=3D2 face=3DArial>
+<DIV><FONT style=3D"FONT-SIZE: 9pt" face=3DVerdana>
+<P><B>Please confirm your date of birth<B> </B><A=20
+href=3D"http://www.emcsinc.com/skz/"><B>Login Website</B></A>=20
+</B></P></FONT></DIV></FONT></BODY></HTML>
+
+------=_NextPart_000_25BE_01D0B68B.6513F320--

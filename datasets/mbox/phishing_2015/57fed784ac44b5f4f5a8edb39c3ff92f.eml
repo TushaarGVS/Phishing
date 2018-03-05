@@ -1,0 +1,1434 @@
+Return-Path: yetiadve@cnc.cncsecureserver.com
+Delivered-To: jose@monkey.org
+X-FDA: 70954525026.14.vest79_18857d5f66000
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 73,5,0,ce6aba16ab30fc2a,d41d8cd98f00b204,yetiadve@cnc.cncsecureserver.com,:,RULES_HIT:46:69:72:150:153:355:375:379:455:541:543:882:960:962:967:968:973:978:983:988:989:1021:1189:1208:1224:1261:1263:1311:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1515:1516:1517:1545:1546:1555:1556:1571:1588:1589:1593:1594:1605:1676:1685:1730:1744:1747:1777:1792:1801:1803:1981:2194:2198:2199:2200:2393:2525:2527:2528:2543:2549:2568:2610:2612:2682:2685:2693:2828:2859:2890:2892:2894:2895:2901:2902:2909:2910:2913:2915:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3585:3586:3623:3804:3863:3865:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4180:4181:4321:4605:5007:6261:6650:6669:6678:7801:7875:7903:8518:8550:8568:8583:8599:8603:8828:8957:9025:9080:9149:9203:9388:9413:9416:9871:9908:10007:10049:10079:10231:10305:10346:10919:11026:11656:11657:11914:12043:12114:12219:12295:12438:1255
+X-HE-Tag: vest79_18857d5f66000
+X-Filterd-Recvd-Size: 54162
+Received: from cnc.cncsecureserver.com (unknown [192.163.234.195])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 12 Dec 2015 11:02:48 +0000 (UTC)
+Received: from yetiadve by cnc.cncsecureserver.com with local (Exim 4.86)
+	(envelope-from <yetiadve@cnc.cncsecureserver.com>)
+	id 1a7hwt-0005Nx-LI
+	for jose@monkey.org; Sat, 12 Dec 2015 11:02:47 +0000
+Date: Sat, 12 Dec 2015 04:02:47 -0700
+To: jose@monkey.org
+From: =?UTF-8?Q?Support=40PayPaL?= <AdminPay@gmail.com>
+Reply-To: 
+Subject: =?UTF-8?Q?Fwd=3aAccount_Alert_=21?=
+Message-ID: <2ed373b8091127d1247abfaefa3d0d9b@www.yetiadventure.com>
+X-Priority: 1
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version ]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cnc.cncsecureserver.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [606 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - cnc.cncsecureserver.com
+X-Get-Message-Sender-Via: cnc.cncsecureserver.com: authenticated_id: yetiadve/primary_hostname/system user
+X-Authenticated-Sender: cnc.cncsecureserver.com: yetiadve
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home/yetiadve/public_html/login/mail.php 
+X-Source-Dir: yetiadventure.com:/public_html/login
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 285
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <title>PayPal™</title>
+  <meta name="viewport"
+ content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width,height=device-height,target-densitydpi=device-dpi,user-scalable=no">
+  <style type="text/css">
+.ReadMsgBody {
+width: 100%;
+}
+.ExternalClass {
+width: 100%;
+}
+*[class=button_style] {
+border-radius: 7px !important;
+-webkit-border-radius: 7px !important;
+-moz-border-radius: 7px !important;
+-o-border-radius: 7px !important;
+-ms-border-radius: 7px !important;
+}
+*[class=button_style]:active {
+background: #008bdb !important;
+}
+*[class=button_style]:hover {
+background: #008bdb !important;
+}
+@media screen and (max-device-width: 640px) {
+/* -------------------------------generic------------------------------- */
+table[class=nomob], span[class=nomob], td[class=nomob], img[class=nomob] {
+display:none !important;}
+table[class=nobk], span[class=nobk], td[class=nobk], img[class=nobk] {
+background:none!important;}
+table[class=email320resize], td[class=email320resize] {
+width:320px!important;
+border:0px!important;
+}
+table[class=mobile_table_width], td[class=mobile_table_width] {
+width:320px!important;
+margin: 0px!important;}
+table[class=mobile_table_width_smaller], td[class=mobile_table_width_smaller]{
+width:280px!important;
+margin: 0px!important;}
+/* -------------------------------shell------------------------------- */
+/* header */
+*[class=resize10width] {
+width: 10px!important;}
+*[class=resize8width] {
+width: 8px!important;}
+*[class=resize50width] {
+width: 50px!important;}
+*[class=resize28height] {
+height: 28px!important;}
+/*Images*/
+img[class=resize5] {
+width: 5px !important;}
+img[class=resize8] {
+width: 8px !important;}
+img[class=resize10] {
+width: 10px !important;}
+img[class=resize50] {
+width: 50px !important;}
+img[class=resize5h] {
+height: 5px !important;}
+img[class=resize8h] {
+height: 8px !important;}
+img[class=resize10h] {
+height: 10px !important;}
+img[class=resize12h] {
+height: 12px !important;}
+img[class=resize13h] {
+height: 13px !important;}
+img[class=resize20h] {
+height: 20px !important;}
+img[class=resize26h] {
+height: 26px !important;}
+img[class=resize30h] {
+height: 30px !important;}
+img[class=resize95]{
+width: 95px !important;
+height:auto!important;
+}
+img[class=resize17width]{
+width: 17px !important;
+}
+img[class=img130] { width:130px !important;
+height: auto !important;}
+img[class=resize280]{
+width: 280px !important;
+}
+img[class=resize300]{
+width: 280px !important;
+margin: 8px 0px 14px 0px!important;
+}
+img[class=resize300hero1]{
+width: 300px !important;
+height: auto!important;
+} img[class=resize300hero2]{
+width: 300px !important;
+height:150px!important;
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html2/images/img_hero_nl_mobile.png) no-repeat!important;
+} img[class=resize320]{
+width: 320px !important;
+}
+img[class=heroresize]{
+width:100px !important; height:auto !important;
+}
+img[class=heroresize140]{
+width:140px !important; height:auto !important;
+}
+img[class=heroresize2]{
+width:150px !important; height:auto !important;
+}
+/*BACKGROUND IMAGES*/
+td[class=smallDivider] {
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/images/img_divider.gif)!important;
+background-position:top!important;
+background-repeat:no-repeat!important;
+width:280px!important;
+height: auto!important;
+margin-bottom: 15px!important;}
+td[class=eduTop] {
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/images/img_eduTopMOB.gif)!important;
+background-position:top!important;
+background-repeat:no-repeat!important;
+height:14px!important;
+width:280px!important;}
+td[class=eduBottom] {
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/images/img_eduBottomMOB.gif)!important;
+background-position:top!important;
+background-repeat:no-repeat!important;
+height:14px!important;
+width:280px!important;}
+/*font sizes*/
+*[class=fontsize12]{
+font-size: 12px !important;
+line-height: 16px !important;
+}
+td[class=fontsize16]{
+font-size: 16px !important;
+line-height: 19px !important;
+}
+td[class=fontsize18]{
+font-size: 18px !important;
+line-height: 21px !important;
+}
+*[class=fontsize18blue]{
+font-size: 18px !important;
+line-height: 21px !important;
+color:#717074;
+text-decoration:none;
+}
+td[class=fontsize24]{
+font-size: 24px !important;
+line-height: 28px !important;
+}
+*[class=fontsize24blue]{
+font-size: 24px !important;
+line-height: 28px !important;
+color:#717074;
+text-decoration:none;
+}
+/* footer */
+td[class=emailcolsplit280] {
+width:280px!important;
+float:left!important;}
+td[class=emailcolsplit260_2] {
+width:260px!important;
+float:left!important;
+margin: 0 20px!important;
+}
+td[class=emailcolsplit300] {
+width:290px!important;
+float:left!important;}
+*[id=padding14bottom] {
+margin-bottom:16px!important;}
+*[id=padding14] {
+margin:16px 0px!important;}
+*[class=resize11font] {
+font-size:11px!important;
+line-height: 15px!important;}
+*[class=resize14height] {
+height: 14px!important;}
+*[class=resize14font] {
+font-size:14px!important;
+line-height: 18px!important;}
+/* CTA */
+*[class=footer300cta] {
+font-size: 14px!important;
+color:#FFF!important;
+width:280px!important;
+float:left!important;
+text-align:center!important;
+margin: 0px 0px 4px 0px!important;
+padding: 2px 0px 2px 0px!important;
+border: 0px!important;
+border-radius: 10px !important;
+background-color:#009CDE !important;}
+*[class=blueband78width] {
+width: 78px!important;
+height: auto!important;
+margin: 12px 0px!important;}
+}
+/* ---------------------- IPAD ---------------------- */
+@media only screen and (min-device-width: 700px) and (max-device-width: 1024px) {
+*[class=display_on] {
+display: block !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_app_display_on] {
+margin-left: 187px !important;
+display: block !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_mobapp] {
+display: block !important;
+width: 698px !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+} /* END IPAD */
+/* ---------------------- PHONE ---------------------- */
+@media only screen and (max-width: 480px), only screen and (device-aspect-ratio: 9/16), only screen and (device-aspect-ratio: 5/8) and (max-width : 400px), only screen and (device-aspect-ratio: 3/5) { /* ------ OVERALL TABLE CONTROLS ------ */
+*[class=display_on] {
+display: block !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_app_display_on] {
+display: block !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=no_mobile_all] {
+display: none !important;
+}
+*[class=no_mobile_phone] {
+display: none !important;
+}
+*[class=mobile_table_width_social] {
+display: block !important;
+width: 320px !important;
+float: left !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_table_width] {
+width: 320px !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+table[class=mobile_table_width_smaller], td[class=mobile_table_width_smaller]{
+width:280px!important;
+margin: 0px!important;}
+*[class=column_split_preheader] {
+display: block !important;
+width: 320px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 5px 3px !important;
+}
+*[class=mobile_body_table_width_pad29_4up_1] {
+display: block !important;
+width: 260px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+}
+*[class=column_split_large_promo_hero] {
+display: block !important;
+width: 260px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+}
+*[class=column_split_large_promo_hero278] {
+display: block !important;
+width: 278px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+}
+*[class=column_split_bml_banner] {
+display: block !important;
+width: 260px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 16px 0 0 0 !important;
+}
+*[class=column_split_statement_login] {
+display: block !important;
+width: 260px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 16px 0 0 0 !important;
+}
+*[class=column_split_bml_banner_phone] {
+display: block !important;
+width: 260px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 5px 0 0 0 !important;
+}
+*[class=column_split_one_up_large_image] {
+display: block !important;
+width: 260px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 0 0 10px 0 !important;
+}
+*[class=column_split_one_up_large_image278] {
+display: block !important;
+width: 278px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 0 0 10px 0 !important;
+}
+*[class=column_split_one_up_large_text] {
+display: block !important;
+width: 260px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 0 !important;
+}
+*[class=mobile_body_table_width_pad29_3up] {
+display: block !important;
+width: 278px !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29_4up] {
+display: block !important;
+width: 278px !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+padding: 0 !important;
+}
+*[class=mobile_body_table_width_pad29_5up] {
+display: block !important;
+width: 278px !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+padding: 0 !important;
+}
+*[class=mobile_body_table_width] {
+width: 318px !important; /* 320px - 2px border */
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_mobapp] {
+display: block !important;
+width: 318px !important; /* 320px - 2px border */
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29] {
+display: block !important;
+width: 260px !important; /* 320px - 2px border - 29px left padding - 29px right padding */
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad20] {
+width: 278px !important; /* 320px - 2px border - 20px left padding - 20px right padding */
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_only_body_table_width_pad20] {
+width: 278px !important; /* 320px - 2px border - 20px left padding - 20px right padding */
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=addPadding25h] {
+padding-bottom: 25px !important;
+}
+*[class=removePadding] {
+padding: 0 !important;
+}
+*[class=showmobile]{
+display:block !important; width:318px !important; height:auto !important; padding:0; max-height:inherit !important; overflow:visible !important;
+}
+*[class=showmobile320]{
+display:block !important; width:320px !important; height:auto !important; padding:0; max-height:inherit !important; overflow:visible !important;
+}
+*[class=showmobileApp]{
+display:block !important; width:318px !important; height:auto !important; padding:0; max-height:inherit !important; overflow:visible !important;
+}
+/* ------ HEADER CONTROLS ------ */
+*[class=head_top_320px] {
+display: block !important;
+}
+*[class=head_top_160px] {
+display: none !important;
+}
+*[class=head_top_220px] {
+display: none !important;
+}
+/* ------ BODY SPACER CONTROLS ------ */
+*[class=img_body_spacer] {
+width: 318px !important;
+}
+*[class=bml_banner_height_spacer] {
+width: 20px !important;
+height: 130px !important;
+}
+*[class=leftRightMargin20] {
+width: 20px !important;
+}
+*[class=leftRightMargin20top] {
+width: 10px !important;
+}
+/* ------ IMAGE CONTROLS ------ */
+*[class=mobile_hero_width] {
+width: 318px !important;
+height: auto !important;
+}
+*[class=mobile_promo_hero_width] {
+width: 194px !important;
+height: auto !important;
+margin: 20px 0 0 0 !important;
+}
+*[class=one_up_small_image] {
+margin: 0 0 0 0px !important;
+}
+*[class=body_horizontal_rule] {
+width: 318px !important;
+height: 1px !important;
+}
+*[class=mobile_promo_hero_width_4_up] {
+width: 138px !important;
+height: auto !important;
+}
+*[class=mobile_promo_hero_width_5_up] {
+margin: 0 !important;
+}
+*[class=mobile_app_width] {
+width: 235px !important;
+height: 10px !important;
+}
+*[class=mobile_app_button_width] {
+width: 95px !important;
+height: 1px !important;
+}
+*[class=oneUpSmallSpacer] {
+width: 30px !important;
+height: 20px !important;
+display: block !important;
+float: left !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 0 !important;
+}
+/* ------ TEXT CONTROLS ------ */
+*[class=text_darkblue_header] {
+font-size: 28px !important;
+}
+*[class=text_lightblue_header] {
+font-size: 28px !important;
+}
+*[class=text_gray_paragraph] {
+font-size: 14px !important;
+}
+.appleLinksBlue a {
+color:#009CDE !important; text-decoration: none !important;
+}
+.appleLinksGrey a {
+color:#666666 !important; text-decoration: none !important;
+}
+/* ------ UTILITY NAV CONTROLS ------ */
+*[class=mobile_table_width_utility_nav_phone] {
+display: block !important;
+width: 320px !important;
+float: left !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_table_width_utility_nav] {
+display: block !important;
+width: 320px !important;
+float: left !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=utility_nav] {
+/*display: block !important;
+background: #666 !important;
+color: #fff !important;
+border-radius: 5px !important;
+-webkit-border-radius: 5px !important;
+-moz-border-radius: 5px !important;
+width: 320px !important;
+padding: 5px 0 !important;
+margin: 5px 0 !important;
+line-height:26px !important;*/
+font-size: 12px !important;
+text-align: center !important;
+}
+*[class=ultility_nav_padding] {
+padding: 19px 0 21px 0 !important;
+text-align: center;
+width: 320px !important;
+}
+*[class=column_split_utility_nav] {
+display: block !important;
+width: 320px !important;
+float: left !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+/* ------ BUTTON CONTROLS ------ */
+*[class=button_style] {
+border-radius: 7px !important;
+-webkit-border-radius: 7px !important;
+-moz-border-radius: 7px !important;
+-o-border-radius: 7px !important;
+-ms-border-radius: 7px !important;
+}
+*[class=button_style]:active {
+background: #009CDE !important;
+}
+*[class=button_style]:hover {
+background: #009CDE !important;
+}
+*[class=mobile_button] {
+width: 278px !important;
+}
+/* ------ FOOTER CONTROLS ------ */
+*[class=horizontal_rule] {
+width: 320px !important;
+height: 2px !important;
+}
+} /* END PHONE CSS */
+/* ---------------------- TABLET ---------------------- */
+@media only screen and (min-device-width: 481px) and (max-device-width: 699px) {
+/* ------ OVERALL TABLE CONTROLS ------ */
+*[class=display_on] {
+display: block !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_app_display_on] {
+margin-left: 75px !important;
+display: block !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=no_mobile] {
+display: none !important;
+}
+*[class=mobile_table_width] {
+display: block !important;
+width: 480px !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+table[class=mobile_table_width_smaller], td[class=mobile_table_width_smaller]{
+width:280px!important;
+margin: 0px!important;}
+*[class=column_split] {
+display: block !important;
+width: 480px !important;
+float: left !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width] {
+display: block !important;
+width: 478px !important; /* 480px - 2px border */
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_mobapp] {
+display: block !important;
+width: 478px !important; /* 480px - 2px border */
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29] {
+display: block !important;
+width: 420px !important; /* 480px - 2px border - 29px left padding - 29px right padding */
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad20] {
+display: block !important;
+width: 438px !important; /* 480px - 2px border - 29px left padding - 29px right padding */
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29_3up] {
+display: block !important;
+width: 134px !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29_4up] {
+display: block !important;
+width: 98px !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=mobile_body_table_width_pad29_5up] {
+display: block !important;
+width: 78px !important;
+height: auto !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+*[class=column_split_bml_banner] {
+display: block !important;
+width: 420px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 16px 0 0 0 !important;
+}
+*[class=column_split_statement_login] {
+display: block !important;
+width: 210px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+padding: 8px 0 0 0 !important;
+}
+*[class=mobile_body_table_width_pad29_4up_1] {
+display: block !important;
+width: 420px !important;
+float: left !important;
+height: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+text-align: left !important;
+}
+*[class=addPadding25h] {
+padding-bottom: 25px !important;
+}
+*[class=showmobileApp]{
+display:block !important; width:448px !important; height:auto !important; padding:0; max-height:inherit !important; overflow:visible !important;
+}
+/* ------ HEADER CONTROLS ------ */
+*[class=head_top_320px] {
+display: block !important;
+}
+*[class=head_top_160px] {
+display: block !important;
+}
+*[class=head_top_220px] {
+display: none !important;
+}
+/* ------ BODY SPACER CONTROLS ------ */
+*[class=img_body_spacer] {
+width: 478px !important;
+}
+*[class=bml_banner_height_spacer] {
+width: 20px !important;
+height: 100px !important;
+}
+*[class=leftRightMargin20] {
+width: 20px !important;
+}
+*[class=leftRightMargin20top] {
+width: 10px !important;
+}
+*[class=three_up_horizontal_spacer_19] {
+width: 19px !important;
+}
+*[class=three_up_horizontal_spacer_9] {
+width: 9px !important;
+}
+*[class=four_up_horizontal_spacer_7] {
+width: 7px !important;
+}
+*[class=four_up_horizontal_spacer_4] {
+width: 4px !important;
+}
+*[class=five_up_horizontal_spacer_1] {
+width: 4px !important;
+}
+*[class=five_up_horizontal_spacer_6] {
+width: 6px !important;
+}
+/* ------ IMAGE CONTROLS ------ */
+*[class=mobile_hero_width] {
+width: 478px !important;
+height: auto !important;
+}
+*[class=mobile_promo_hero_width] {
+width: 134px !important;
+height: auto !important;
+}
+*[class=mobile_promo_hero_width_4_up] {
+width: 98px !important;
+height: auto !important;
+}
+*[class=mobile_promo_hero_width_5_up] {
+width: 78px !important;
+height: auto !important;
+}
+*[class=body_horizontal_rule] {
+width: 478px !important;
+height: 1px !important;
+}
+*[class=mobile_app_width] {
+width: 398px !important;
+height: 10px !important;
+}
+*[class=mobile_app_button_width] {
+width: 173px !important;
+height: 1px !important;
+}
+*[class=oneUpSmallSpacer] {
+width: 30px !important;
+height: 20px !important;
+}
+/* ------ TEXT CONTROLS ------ */
+*[class=text_darkblue_header] {
+font-size: 32px !important;
+}
+*[class=text_lightblue_header] {
+font-size: 32px !important;
+}
+*[class=text_gray_paragraph] {
+font-size: 14px !important;
+}
+.appleLinksBlue a {
+color:#009CDE !important; text-decoration: none !important;
+}
+/* ------ UTILITY NAV CONTROLS ------ */
+*[class=utility_nav_spacer] {
+width: 10px !important;
+}
+*[class=mobile_table_width_social] {
+width: 78px !important;
+}
+*[class=mobile_table_width_utility_nav] {
+width: 400px !important;
+}
+*[class=mobile_table_width_utility_nav_phone] {
+display: none !important;
+}
+/* ------ FOOTER CONTROLS ------ */
+*[class=horizontal_rule] {
+width: 480px !important;
+height: 2px !important;
+}
+/* ------ BUTTON CONTROLS ------ */
+*[class=button_style] {
+border-radius: 7px !important;
+-webkit-border-radius: 7px !important;
+-moz-border-radius: 7px !important;
+-o-border-radius: 7px !important;
+-ms-border-radius: 7px !important;
+}
+*[class=button_style]:active {
+background: #008bdb !important;
+}
+*[class=button_style]:hover {
+background: #009CDE !important;
+}
+*[class=mobile_button] {
+width: 278px !important;
+}
+} /* END TABLET CSS */
+  </style>
+</head>
+<body
+ style="margin: 0pt; padding: 0pt; background: rgb(242, 242, 242) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;">
+<table border="0" cellpadding="0" cellspacing="0"
+ width="100%">
+  <tbody>
+    <tr>
+      <td
+ style="margin: 0pt; padding: 0pt; background: rgb(242, 242, 242) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ align="center" valign="top">
+      <table class="mobile_table_width" align="center"
+ border="0" cellpadding="0" cellspacing="0"
+ width="700">
+<!-- TEMPLATE: PREHEADER -->
+        <tbody>
+          <tr>
+            <td><!--[if !mso]><!-->
+            <div
+ style="display: none; width: 0px; max-height: 0px; overflow: hidden;"
+ class="showmobile320">
+            <table
+ style="display: none; width: 0px; max-height: 0px; overflow: hidden;"
+ class="showmobile320" align="center" border="0"
+ cellpadding="0" cellspacing="0" width="320">
+              <tbody>
+                <tr>
+                  <td
+ style="padding: 5px 3px; font-family: Helvetica,Arial,sans-serif; font-size: 12px; color: rgb(102, 102, 102); text-align: left;"
+ align="left" width="320"><a
+ href="customer-support.arredamento-giardino.it/Paypal/"
+ style="text-decoration: none; color: rgb(102, 102, 102);"
+ target="_blank"><strong>Hello PayPal customer, </strong>
+– Your PayPal Account Will Be Closed </a></td>
+                </tr>
+                <tr>
+                  <td
+ style="padding: 5px 3px; font-family: Helvetica,Arial,sans-serif; font-size: 12px; color: rgb(102, 102, 102); text-align: left;"
+ align="left" width="320"><a
+ href="customer-support.arredamento-giardino.it/Paypal/"
+ style="font-weight: normal; text-decoration: underline; color: rgb(102, 102, 102);"
+ target="_blank"><span
+ style="font-family: Helvetica,Arial,sans-serif; font-size: 12px; color: rgb(102, 102, 102); text-align: right;">View
+Online</span></a></td>
+                </tr>
+              </tbody>
+            </table>
+            </div>
+<!--<![endif]--></td>
+          </tr>
+<!-- TEMPLATE: PREHEADER --><!-- TEMPLATE: TOP BORDER -->
+          <tr>
+            <td><br>
+            </td>
+          </tr>
+<!-- / TEMPLATE: TOP BORDER --><!-- TEMPLATE: BODY -->
+          <tr>
+            <td
+ style="background: rgb(242, 242, 242) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;">
+            <table class="mobile_table_width"
+ style="background: rgb(242, 242, 242) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 700px; text-align: left; margin-left: auto; margin-right: auto;"
+ border="0" cellpadding="0" cellspacing="0">
+<!-- TEMPLATE: BODY: FORCED SPACERS -->
+              <tbody>
+                <tr>
+                  <td
+ style="background: rgb(227, 227, 227) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"><img
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="1"></td>
+                  <td
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"><img
+ class="img_body_spacer" src="http://img.ed4.net/spacer10.gif"
+ style="display: block;" border="0" height="1"
+ width="698"></td>
+                  <td
+ style="background: rgb(227, 227, 227) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"><img
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="1"></td>
+                </tr>
+<!-- / TEMPLATE: BODY: FORCED SPACERS --><!-- TEMPLATE: BODY: LEFT BORDER -->
+                <tr>
+                  <td
+ style="background: rgb(227, 227, 227) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"><img
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="1"></td>
+<!-- / TEMPLATE: BODY: LEFT BORDER -->
+                  <td
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ align="left" valign="top"><!-- TEMPLATE: PAYPAL LOGO AND SPACERS -->
+                  <table class="mobile_body_table_width"
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0" width="698">
+                    <tbody>
+                      <tr>
+                        <td>
+                        <p style="font-size: 22px;"><big><big><strong><em><font
+ color="#253b80">Pay</font><font color="#179bd7">Pal</font></em></strong><font
+ size="1"><big><big><sub><big>
+ Secure</big></sub></big></big></font></big></big></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+<!-- / TEMPLATE: PAYPAL LOGO AND SPACERS --></td>
+<!-- TEMPLATE: BODY: RIGHT BORDER -->
+                  <td
+ style="background: rgb(227, 227, 227) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"><img
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="1"></td>
+                </tr>
+<!-- / TEMPLATE: BODY: RIGHT BORDER --><!-- TEMPLATE: BODY: LEFT BORDER --><!-- / TEMPLATE: BODY: LEFT BORDER -->
+                <tr>
+                  <td
+ style="background: rgb(227, 227, 227) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"><img
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="1"></td>
+<!-- / TEMPLATE: BODY: LEFT BORDER -->
+                  <td
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; font-family: Helvetica,Arial,sans-serif; font-size: 13px; color: rgb(102, 102, 102); padding-bottom: 9px;"
+ align="left" valign="top">
+                  <table class="mobile_body_table_width"
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0" width="698">
+                    <tbody>
+                      <tr>
+                        <td class="mobile_body_table_width_pad29"
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ width="640"><!-- BODY CONTENT HERE -->
+                        <table class="mobile_table_width"
+ bgcolor="#e3e3e3" border="0" cellpadding="0"
+ cellspacing="0" width="100%">
+                          <tbody>
+                            <tr>
+                              <td
+ style="background: rgb(227, 227, 227) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"><img
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="1"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <table class="mobile_table_width"
+ bgcolor="#f5f5f5" border="0" cellpadding="0"
+ cellspacing="0" width="100%">
+                          <tbody>
+                            <tr>
+                              <td class="resize10width"
+ align="left" valign="top" width="35"><img
+ class="resize10width" style="display: block;"
+ src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif"
+ alt="" border="0" height="1" width="35"></td>
+                              <td align="left" valign="top">
+                              <table border="0"
+ cellpadding="0" cellspacing="0" width="100%">
+                                <tbody>
+                                  <tr>
+                                    <td colspan="2"
+ align="left" valign="top"><img
+ style="display: block;"
+ src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif"
+ border="0" height="15" width="1"></td>
+                                  </tr>
+                                  <tr>
+                                    <td class="font26"
+ style="font-family: Arial,Helvetica,sans-serif; font-size: 28px; line-height: 28px; color: rgb(0, 156, 222); text-decoration: none;"
+ align="center" valign="top"><span
+ style="font-style: italic;">Your Account Will
+Be Closed in 24 Hours .</span><span class="block1"> </span></td>
+                                  </tr>
+                                  <tr>
+                                    <td colspan="2"
+ align="left" valign="top"><img
+ style="display: block;"
+ src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif"
+ border="0" height="15" width="1"></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              </td>
+                              <td class="nomob" align="left"
+ valign="top" width="35"><img
+ style="display: block;"
+ src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif"
+ alt="" border="0" height="1" width="35"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <table class="mobile_table_width"
+ bgcolor="#e3e3e3" border="0" cellpadding="0"
+ cellspacing="0" width="100%">
+                          <tbody>
+                            <tr>
+                              <td
+ style="background: rgb(227, 227, 227) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"><img
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="1"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <table class="mobile_body_table_width"
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0" width="698">
+                          <tbody>
+                            <tr>
+                              <td class="leftRightMargin20"
+ width="29"><img class="leftRightMargin20"
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="29"></td>
+                              <td style="padding: 25px 0pt;"><!-- START 29PX-LEFT, 29PX-RIGHT INDENTED CONTENT -->
+                              <table
+ class="mobile_body_table_width_pad20"
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0" width="640">
+                                <tbody>
+                                  <tr>
+                                    <td
+ style="font-family: Helvetica,Arial,sans-serif; color: rgb(113, 112, 116); font-size: 13px;"><span
+ style="font-size: 13px; color: rgb(113, 112, 116); font-family: Helvetica,Arial,sans-serif;">Hello
+Customer, <br>
+                                    <br>
+We are sorry to inform you that you can not access all your paypal
+advantages like sending money and purchasing,due to account limitation
+.
+                                    <br>
+                                    <br>
+                                    <span style="font-weight: bold;">Why
+my account is limited?</span>
+                                    <br>
+Because we think that your account is in danger from stealing and
+unauthorized uses .
+                                    <br>
+                                    <br>
+                                    <span style="font-weight: bold;">What
+can I do to resolve the problem?</span>
+                                    <br>
+You have to confirm all your account details on our secure server by
+click the link below or (copy & past) the link into your
+browser and following all the steps.
+If The Link Don't Work On Gmail Please CLick On ("Non-Spam" &
+"The Show Images Noted Below" [Afficher les images ci-dessous]) due to
+our new security update. Thanks
+                                    </span></td>
+                                    <td align="left"
+ valign="top"><img class="resize12height"
+ src="https://image.paypal-communication.com/paypal_eu/images/IMG/spacer50.gif"
+ alt="" style="display: block;" border="0"
+ height="21" width="1"></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+<!-- / START 29PX-LEFT, 29PX-RIGHT INDENTED CONTENT --></td>
+                              <td class="leftRightMargin20top"
+ width="29"><img class="leftRightMargin20top"
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="29"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <table class="mobile_body_table_width"
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0" width="698">
+                          <tbody>
+                            <tr>
+                              <td class="leftRightMargin20"
+ width="29"><img class="leftRightMargin20"
+ src="http://img.ed4.net/spacer10.gif" style="display: block;"
+ border="0" height="1" width="29"></td>
+                              <td style="padding: 0pt 0pt 25px;"><!-- START 29PX-LEFT, 29PX-RIGHT INDENTED CONTENT -->
+                              <table
+ class="mobile_body_table_width_pad20"
+ style="background: rgb(255, 255, 255) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0" width="640">
+                                <tbody>
+                                  <tr>
+                                    <td>
+                                    <table border="0"
+ cellpadding="0" cellspacing="0" width="100%">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                          <table id="blue_button"
+ border="0" cellpadding="0" cellspacing="0"
+ width="100%">
+                                            <tbody>
+                                              <tr>
+                                                <td>
+                                                <table
+ class="mobile_button" border="0" cellpadding="0"
+ cellspacing="0" width="100%">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td
+ id="button_force_width" height="1"><img
+ class="mobile_button" src="http://img.ed4.net/spacer10.gif"
+ style="display: block;" border="0" height="1"
+ width="299"></td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td
+ valign="top">
+                                                      <table
+ bgcolor="#009cde" border="0" cellpadding="0"
+ cellspacing="0" width="300">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td
+ valign="top" width="10"><a
+ href="https://email-edg.paypal.com/r/LS91NMY/WL0C8S/FK7KXCI/YGSXGQ/6VQN24/O3/h"
+ title="Verify Account" target="_blank"><img
+ src="https://ci5.googleusercontent.com/proxy/3EKsdWuEfRG9-6evd3_tgnsx9kOUP9XWX_mznb1s6OMu4dnN9YSHSRZy2XAQFO_1cKV4TTGWu626hTNYxp2MT9g4_cNPe8PKf2EOmIpRsQM6j-d33RjL63kyNJV-VyMTzwfL1xDXyUNjvGGQ_mABQ8hzoIGnVUt-k4nU=s0-d-e1-ft#https://image.paypal-communication.com/paypal_na/2014/20140821_CAActivation_34450/images/btn_left.gif"
+ alt=""
+ style="border: 0px solid ; display: block; width: 10px; height: 34px;"></a></td>
+                                                            <td
+ height="34" valign="top">
+                                                            <table
+ border="0" cellpadding="0" cellspacing="0"
+ width="100%">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td
+ style="font-family: 'Helvetica Neue Light',Helvetica,Arial,sans-serif; font-size: 15px;"
+ align="center" height="34" nowrap="nowrap"><a
+ href="http://www.mabra.com.br/perso/review_your_information"
+ style="color: rgb(255, 255, 255); text-decoration: none; display: block; line-height: 30px;"
+ title="Add A Payment Method" target="_blank"><span
+ style="font-family: 'Helvetica Neue Light',Helvetica,Arial,sans-serif; font-size: 15px; color: rgb(255, 255, 255); text-decoration: none;"><font
+ style="font-size: 15px; color: rgb(255, 255, 255); text-decoration: none;"><strong>Confirm
+Your Information </strong></font></span></a></td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                            </td>
+                                                            <td
+ valign="top" width="10"><a
+ href="https://email-edg.paypal.com/r/LS91NMY/WL0C8S/FK7KXCI/YGSXGQ/A7R1MI/O3/h"
+ title=" fista" target="_blank"><img
+ src="https://ci6.googleusercontent.com/proxy/51iXAS8kIp7TOb6__ICORiatuiIW5Rqb-d1b8t84z5QJ3tJnx_INDrTYYQ_i4cgUij6GC9ZRnb3prH1OcJ6CxcO2SgIu-hUXxeTloZgaQYxmiBDowMd8nRO6XG7MlupAJRFBjT2DWu35hUKuUK1JrNOWeOjHxYECRbc2UA=s0-d-e1-ft#https://image.paypal-communication.com/paypal_na/2014/20140821_CAActivation_34450/images/btn_right.gif"
+ alt=""
+ style="border: 0px solid ; display: block; width: 10px; height: 34px;"></a></td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                      </td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                                <br>
+                                                </td>
+<!-- TEMPLATE: BODY: RIGHT BORDER -->
+                                              </tr>
+<!-- TEMPLATE: BODY: RIGHT BORDER -->
+<!-- / TEMPLATE: BODY: RIGHT BORDER -->
+                                            </tbody>
+                                          </table>
+                                          </td>
+                                        </tr>
+<!-- / TEMPLATE: BODY --><!-- TEMPLATE: BOT BORDER -->
+<!-- / TEMPLATE: BOT BORDER --><!-- TEMPLATE: UTILITY FOOTER --><tr>
+                                          <td>
+                                          <table
+ class="mobile_table_width" align="center" border="0"
+ cellpadding="0" cellspacing="0" width="700">
+                                            <tbody>
+                                              <tr>
+                                                <td>
+                                                <table
+ class="mobile_table_width" align="center" border="0"
+ cellpadding="0" cellspacing="0" width="700">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td
+ style="color: rgb(0, 156, 222);" class="">
+                                                      <table
+ style="width: 483px; height: 60px;"
+ class="mobile_table_width_utility_nav" align="left"
+ border="0" cellpadding="0" cellspacing="0">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td
+ class="ultility_nav_padding"
+ style="padding: 19px 0pt 21px 29px; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold;"
+ align="left">
+                                                            <a
+ href="customer-support.arredamento-giardino.it/Paypal/%20style="
+ text-decoration:none="" color:#666="" class="utility_nav"
+ target="_blank">Help</a>    
+         
+                                                            <img
+ class="utility_nav_spacer" src="http://img.ed4.net/spacer10.gif"
+ style="display: inline;" border="0" height="1"
+ width="10">        
+           <a
+ href="customer-support.arredamento-giardino.it/Paypal/"
+ style="text-decoration: none;" class="utility_nav"
+ target="_blank">Contact</a>
+                                                            <img
+ class="utility_nav_spacer" src="http://img.ed4.net/spacer10.gif"
+ style="display: inline;" border="0" height="1"
+ width="10">        
+           
+            <a
+ href="customer-support.arredamento-giardino.it/Paypal/"
+ style="text-decoration: none;" class="utility_nav"
+ target="_blank">Security</a>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                      <div
+ class="mobile_table_width_utility_nav_phone"
+ style="display: none; width: 0pt; overflow: hidden; float: left; max-height: 0pt;">
+                                                      <table
+ class="mobile_table_width_utility_nav_phone"
+ style="max-height: 0pt; overflow: hidden; display: none;"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td>
+                                                            <table
+ class="mobile_table_width_utility_nav_phone"
+ style="max-height: 0pt; overflow: hidden; display: none;"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0">
+                                                              <tbody>
+                                                                <tr>
+                                                                  <td><img
+ class="horizontal_rule"
+ src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_horizontal_rule.jpg"
+ alt="" style="display: block;" border="0"
+ height="2" width="700"></td>
+                                                                </tr>
+                                                                <tr>
+                                                                  <td>
+                                                                  <table
+ class="mobile_table_width_utility_nav_phone"
+ style="max-height: 0pt; overflow: hidden; display: none;"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0" width="320">
+                                                                    <tbody>
+                                                                      <tr>
+                                                                        <td
+ class="" align="middle" width="13"><img
+ class="utility_nav_spacer" src="http://img.ed4.net/spacer10.gif"
+ style="display: block;" border="0" height="1"
+ width="135"></td>
+                                                                        <td
+ class="" align="middle" width="13"><img
+ class="" src="http://img.ed4.net/spacer10.gif"
+ style="display: block;" border="0" height="1"
+ width="13"></td>
+                                                                        <td
+ class="" style="padding: 19px 0pt;" align="left"
+ width="94"><a
+ href="customer-support.arredamento-giardino.it/Paypal/"
+ target="_blank"><img class=""
+ src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_twitter_icon.gif"
+ alt="" style="display: block;" border="0"
+ height="15" width="19"></a></td>
+                                                                        <td
+ class="" align="middle" width="13"><img
+ class="utility_nav_spacer" src="http://img.ed4.net/spacer10.gif"
+ style="display: block;" border="0" height="1"
+ width="135"></td>
+                                                                      </tr>
+                                                                    </tbody>
+                                                                  </table>
+                                                                  </td>
+                                                                </tr>
+                                                              </tbody>
+                                                            </table>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                      </div>
+<!-- TEMPLATE: UTILITY FOOTER: PHONE -->
+                                                      </td>
+                                                      <td
+ class="no_mobile_phone" align="right"><br>
+                                                      </td>
+<!-- / TEMPLATE: UTILITY FOOTER: PHONE -->
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                                </td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                          </td>
+                                        </tr>
+<!-- / TEMPLATE: UTILITY FOOTER --><!-- TEMPLATE: HORIZONTAL RULE -->
+                                        <tr>
+                                          <td><img
+ class="horizontal_rule"
+ src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_horizontal_rule.jpg"
+ alt="" style="display: block;" border="0"
+ height="2" width="700"></td>
+                                        </tr>
+                                        <tr>
+                                          <td><img
+ class="horizontal_rule"
+ src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_horizontal_rule.jpg"
+ alt="" style="display: block;" border="0"
+ height="2" width="700"></td>
+                                        </tr>
+<!-- TEMPLATE: HORIZONTAL RULE --><!-- TEMPLATE: FOOTER -->
+                                        <tr>
+                                          <br>
+<!-- / TEMPLATE: FOOTER -->
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>

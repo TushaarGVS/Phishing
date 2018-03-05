@@ -1,0 +1,110 @@
+Return-Path: srrivers@email.sc.edu
+Delivered-To: jose@monkey.org
+X-FDA: 70987882476.06.look05_39f84c2c4a90a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,56509ce469207c55,d41d8cd98f00b204,srrivers@email.sc.edu,:career@gmail.com,RULES_HIT:10:41:355:379:582:962:967:973:978:988:989:1147:1152:1189:1221:1260:1261:1263:1313:1314:1345:1381:1436:1437:1516:1517:1518:1535:1540:1561:1575:1588:1589:1592:1594:1686:1711:1714:1730:1749:1777:1792:2194:2199:2525:2527:2528:2540:2557:2561:2564:2612:2677:2682:2685:2693:2741:2859:2890:2902:2914:2915:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3586:3690:3865:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4552:4886:5007:6658:6678:6703:7809:7903:7904:8603:9025:9165:9388:10004:10049:10197:10400:11257:11473:11656:11658:11788:11914:12043:12050:12292:12295:12438:12519:12521:12555:12660:12679:13139:13163:13229:13845:14096:14659:21080:30001:30003:30021:30054:30069:30070:30091,0,RBL:157.56.110.64:@email.sc.edu:.lbl8.mailshell.net-62.22.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MS
+X-HE-Tag: look05_39f84c2c4a90a
+X-Filterd-Recvd-Size: 5108
+Received: from na01-bn1-obe.outbound.protection.outlook.com (mail-bn1on0064.outbound.protection.outlook.com [157.56.110.64])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 21 Dec 2015 15:39:58 +0000 (UTC)
+Received: from BY2PR0201MB1590.namprd02.prod.outlook.com (10.163.154.140) by
+ BY2PR0201MB1591.namprd02.prod.outlook.com (10.163.154.141) with Microsoft
+ SMTP Server (TLS) id 15.1.361.13; Mon, 21 Dec 2015 15:39:56 +0000
+Received: from BY2PR0201MB1590.namprd02.prod.outlook.com ([10.163.154.140]) by
+ BY2PR0201MB1590.namprd02.prod.outlook.com ([10.163.154.140]) with mapi id
+ 15.01.0361.006; Mon, 21 Dec 2015 15:39:56 +0000
+From: "RIVERS, SHAREECE R" <srrivers@email.sc.edu>
+To: "career@gmail.com" <career@gmail.com>
+Subject: Warning ! SRX1299917120ID
+Thread-Topic: Warning ! SRX1299917120ID
+Thread-Index: AQHRPAVdJ4e02OfCG06dIgdzln3/Ww==
+Date: Mon, 21 Dec 2015 15:39:55 +0000
+Message-ID: <BY2PR0201MB1590759F38BC69D131B0131CFAE40@BY2PR0201MB1590.namprd02.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=srrivers@email.sc.edu; 
+x-originating-ip: [132.245.80.149]
+x-microsoft-exchange-diagnostics: 1;BY2PR0201MB1591;5:zCHLgnM8CF88q7mmpW3QxB2h0mgg/R7WKN2yWxoKZTkbDBk1hMAguUGD5rgZhYvl7OxOTjRMWDZWO4QohcMJENyCud4TlZmKB3tqXCunfdNoC85MsG8xK85buEhtj0NRteEPn2oeJ1uUXjp0WolZNw==;24:NHLbMZDJf5TbcD8a2Ku3ZBcTlfyIjypiURhdbKwX31PpHDoW/EeXGSRj/b8ubq9lkeyMkg2+ri92ZL2moRagViP0Am/xjxQcLYK0qBClHLo=
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0201MB1591;
+x-microsoft-antispam-prvs: <BY2PR0201MB159189BE2D94491585C20DB2FAE40@BY2PR0201MB1591.namprd02.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(520078)(5005006)(8121501046)(3002001)(10201501046);SRVR:BY2PR0201MB1591;BCL:0;PCL:0;RULEID:;SRVR:BY2PR0201MB1591;
+x-forefront-prvs: 079756C6B9
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(6009001)(199003)(189002)(40100003)(6116002)(106356001)(54356999)(110136002)(76576001)(107886002)(2351001)(189998001)(19625215002)(122556002)(101416001)(66066001)(5002640100001)(5001960100002)(97736004)(16236675004)(19580395003)(89122001)(86362001)(33656002)(88552001)(81156007)(10750500004)(1730700002)(1220700001)(2501003)(87936001)(575854001)(5004730100002)(10400500002)(1411001)(1096002)(99286002)(586003)(74316001)(2900100001)(92566002)(11100500001)(3846002)(75432002)(77096005)(10000500002)(105586002)(5003600100002)(50986999)(5008740100001)(229853001)(19627405001)(15975445007)(102836003)(106116001)(58493002)(7059030);DIR:OUT;SFP:1101;SCL:1;SRVR:BY2PR0201MB1591;H:BY2PR0201MB1590.namprd02.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:0;MX:1;LANG:en;
+received-spf: None (protection.outlook.com: email.sc.edu does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BY2PR0201MB1590759F38BC69D131B0131CFAE40BY2PR0201MB1590_"
+MIME-Version: 1.0
+X-OriginatorOrg: email.sc.edu
+X-MS-Exchange-CrossTenant-originalarrivaltime: 21 Dec 2015 15:39:55.5109
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 4b2a4b19-d135-420e-8bb2-b1cd238998cc
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR0201MB1591
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 293
+
+--_000_BY2PR0201MB1590759F38BC69D131B0131CFAE40BY2PR0201MB1590_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Your e-mail account was LOGIN today by Unknown IP address: 103.240.180.228,=
+ click on the Administrator Link below and LOGIN to validate and verify you=
+r e-mail account or your account will be temporary block for sending more m=
+essages.
+
+CLICK LINK BELOW:
+
+http://upgrade.verify.maxximum.org/
+
+Online Safety
+Support Team
+
+
+--_000_BY2PR0201MB1590759F38BC69D131B0131CFAE40BY2PR0201MB1590_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;back=
+ground-color:#FFFFFF;font-family:Calibri,Arial,Helvetica,sans-serif;">
+<p><span id=3D"ms-rterangepaste-start"></span></p>
+<div>Your e-mail account was LOGIN today by Unknown IP address: 103.240.180=
+.228, click on the Administrator Link below and LOGIN to validate and verif=
+y your e-mail account or your account will be temporary block for sending m=
+ore messages.</div>
+<div><br>
+</div>
+<div>CLICK LINK BELOW:</div>
+<div><br>
+</div>
+<div>http://upgrade.verify.maxximum.org/</div>
+<div><br>
+</div>
+<div>Online Safety</div>
+<div>Support Team</div>
+<span id=3D"ms-rterangepaste-end"></span><br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_BY2PR0201MB1590759F38BC69D131B0131CFAE40BY2PR0201MB1590_--

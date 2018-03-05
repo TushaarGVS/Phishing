@@ -1,0 +1,74 @@
+Return-Path: ccwitherspoon@actx.edu
+Delivered-To: jose@monkey.org
+X-FDA: 71056523496.24.cook60_670bfc0379430
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 40,2.5,0,f91126495e013b42,d41d8cd98f00b204,ccwitherspoon@actx.edu,:info@hanshen.com.cn,RULES_HIT:10:41:72:355:379:582:960:962:967:978:983:988:989:1152:1158:1189:1208:1221:1256:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1533:1534:1539:1575:1588:1589:1592:1594:1711:1714:1730:1748:1777:1792:2525:2527:2561:2564:2682:2685:2693:2859:2895:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3150:3867:3870:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4552:5007:6117:6261:6688:8583:8603:8778:8957:9025:9388:9855:9873:9908:10011:10049:10346:10400:11257:11537:11656:11658:11914:12043:12050:12519:12555:12657:12661:13139:13163:13229:13237:14659:21080:30021:30037:30054:30070:30075,0,RBL:192.120.247.39:@actx.edu:.lbl8.mailshell.net-62.18.0.100 64.100.201.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:13,LUA_SUMMARY:none
+X-HE-Tag: cook60_670bfc0379430
+X-Filterd-Recvd-Size: 2880
+Received: from mail1.actx.edu (mail1.actx.edu [192.120.247.39])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  9 Jan 2016 13:38:27 +0000 (UTC)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: An4fAPcMkVYKCgv4/2dsb2JhbABdGQEBAhABAgIBgjtMUm4FglyFd4VKBQKVSJgagg8ihW0CgRVMAQEBAQEBgQALQRIBg2IFB4EEAQUGAQkVDkgmAQQTCIgkEDqgJJd5hUoBgmSGV4Y6AYMaToESgWqBGwV4jQGJGgGNWIFeh2GFPoVkhGAag3Nkgh6BbD6CEYJ8AYEHAQEB
+X-IPAS-Result: An4fAPcMkVYKCgv4/2dsb2JhbABdGQEBAhABAgIBgjtMUm4FglyFd4VKBQKVSJgagg8ihW0CgRVMAQEBAQEBgQALQRIBg2IFB4EEAQUGAQkVDkgmAQQTCIgkEDqgJJd5hUoBgmSGV4Y6AYMaToESgWqBGwV4jQGJGgGNWIFeh2GFPoVkhGAag3Nkgh6BbD6CEYJ8AYEHAQEB
+X-IronPort-AV: E=Sophos;i="5.20,544,1444712400"; 
+   d="scan'208,217";a="21560762"
+Received: from unknown (HELO GRIZZLY.actx.edu) ([10.10.11.248])
+  by mail1.actx.edu with ESMTP; 09 Jan 2016 07:37:37 -0600
+Received: from WOLF.actx.edu ([fe80::594a:531b:e84a:e0a3]) by GRIZZLY.actx.edu
+ ([::1]) with mapi id 14.03.0224.002; Sat, 9 Jan 2016 07:37:37 -0600
+From: "Collin C. Witherspoon" <ccwitherspoon@actx.edu>
+To: "info@hanshen.com.cn" <info@hanshen.com.cn>
+Subject: Password Update Help Desk
+Thread-Topic: Password Update Help Desk
+Thread-Index: AdFK4ubVgT4qavIwTrOlTDy/YxV7Fg==
+Date: Sat, 9 Jan 2016 13:37:36 +0000
+Message-ID: <99D89B86E277274C9D85B6F3B272F829442049D5@WOLF.actx.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [41.71.178.190]
+Content-Type: multipart/alternative;
+	boundary="_000_99D89B86E277274C9D85B6F3B272F829442049D5WOLFactxedu_"
+MIME-Version: 1.0
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 9
+
+--_000_99D89B86E277274C9D85B6F3B272F829442049D5WOLFactxedu_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Your password will expire in 4 days to verify your e-mail Click Password Up=
+date<http://www.electro-univers.ro/12ddd5@dd/>
+
+HelpDesk =A92015.
+
+--_000_99D89B86E277274C9D85B6F3B272F829442049D5WOLFactxedu_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" id=3D"owaParaStyle"></style>
+</head>
+<body fpstyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;"><span style=3D"font-size: 13.3333px;">Your password will expire in 4=
+ days to verify your e-mail Click&nbsp;</span><b style=3D"font-size: 13.333=
+3px;"><a href=3D"http://www.electro-univers.ro/12ddd5@dd/">Password
+ Update</a></b><br style=3D"font-size: 13.3333px;">
+<br style=3D"font-size: 13.3333px;">
+<span style=3D"font-size: 13.3333px;">HelpDesk =A92015.</span><br style=3D"=
+font-size: 13.3333px;">
+</div>
+</body>
+</html>
+
+--_000_99D89B86E277274C9D85B6F3B272F829442049D5WOLFactxedu_--

@@ -1,0 +1,48 @@
+Return-Path: <miguel.criollo@gobiernogalapagos.gob.ec>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 9ED73F4005
+	for <jose@login.monkey.org>; Sat, 18 Jul 2015 11:13:52 -0500 (CDT)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 6564627AB43
+	for <jose@login.monkey.org>; Sat, 18 Jul 2015 16:13:52 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70421875104.07.debt66_4944ad258e17
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 40,2.5,0,e30c52fc58ad45d7,d41d8cd98f00b204,miguel.criollo@gobiernogalapagos.gob.ec,,RULES_HIT:10:41:152:355:379:387:541:901:967:973:988:989:1256:1260:1261:1263:1277:1303:1311:1313:1314:1345:1381:1437:1515:1516:1518:1534:1536:1560:1593:1594:1711:1714:1730:1747:1777:1792:1803:2393:2525:2559:2563:2612:2682:2685:2693:2859:2890:2895:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3690:3867:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:5007:6261:8778:9025:10011:10400:11658:11914:12043:12050:12225:12679:13069:13180:13229:13311:13357:13868:14051,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0
+X-HE-Tag: debt66_4944ad258e17
+X-Filterd-Recvd-Size: 1286
+Received: from mail.gobiernogalapagos.gob.ec (unknown [190.214.44.243])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 18 Jul 2015 16:13:51 +0000 (UTC)
+Received: from mail.gobiernogalapagos.gob.ec (localhost [127.0.0.1])
+	by mail.gobiernogalapagos.gob.ec (Postfix) with ESMTP id E8250D8EE8B;
+	Sat, 18 Jul 2015 07:41:04 -0600 (GALT)
+Received: from mail.gobiernogalapagos.gob.ec (mail.gobiernogalapagos.gob.ec [192.168.33.34])
+	by mail.gobiernogalapagos.gob.ec (Postfix) with ESMTP id 02C94D8EE3A;
+	Sat, 18 Jul 2015 07:41:02 -0600 (GALT)
+Date: Sat, 18 Jul 2015 07:41:01 -0600 (GALT)
+From: System Administrator <miguel.criollo@gobiernogalapagos.gob.ec>
+Reply-To: "a_mail77@yahoo.com" <a_mail77@yahoo.com>
+Message-ID: <135343609.663165.1437226861961.JavaMail.zimbra@gobiernogalapagos.gob.ec>
+Subject: Security update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: Zimbra 8.0.6_GA_5922 (zclient/8.0.6_GA_5922)
+Thread-Topic: Security update
+Thread-Index: SuLzh4syeuYdaZzw246dv0IryilBew==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 126
+
+This is to inform you that your password will expire in 3 days, please update your account or your new mails will remain pending.
+
+Note: Open http://www.webinadmin.zyro.com
+
+Open to update now

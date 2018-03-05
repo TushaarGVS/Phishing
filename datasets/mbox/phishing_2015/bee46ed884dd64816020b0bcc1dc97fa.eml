@@ -1,0 +1,180 @@
+Return-Path: <clark.mayer@ttu.edu>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 63739F413E
+	for <jose@login.monkey.org>; Tue, 14 Jul 2015 12:41:38 -0500 (CDT)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id EDBB234E370
+	for <jose@login.monkey.org>; Tue, 14 Jul 2015 17:41:33 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70407580866.07.71A521D
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin07.b.hostedemail.com (Postfix) with ESMTP id 077AE8D3E2;
+	Tue, 14 Jul 2015 17:41:32 +0000 (UTC)
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,60a85295a512f33d,d41d8cd98f00b204,clark.mayer@ttu.edu,:,RULES_HIT:10:41:355:379:582:960:962:967:973:988:989:1021:1029:1152:1158:1189:1221:1260:1263:1313:1314:1345:1381:1436:1437:1516:1517:1518:1535:1543:1567:1575:1588:1589:1592:1594:1691:1711:1714:1730:1776:1792:2525:2526:2527:2528:2538:2539:2559:2564:2612:2682:2685:2693:2859:2890:2895:2902:2904:2917:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3770:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4048:4250:4321:4379:4552:5007:6117:6238:6261:6658:6678:7266:7602:7688:7875:7903:8583:8603:8797:8957:9025:9388:9868:10004:10026:10049:10197:10214:10400:10459:10919:11245:11656:11658:11914:12043:12050:12051:12331:12438:12519:12521:12555:12679:12698:12737:12742:13018:13019:13095:13139:13163:13229:13385:13870:14096,0,RBL:129.118.201.79-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bul
+ k,SPF:fp
+X-HE-Tag: park46_64959df5f3737
+X-Filterd-Recvd-Size: 5521
+Received: from epona05.ttu.edu (epona05.ttu.edu [129.118.201.79])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP;
+	Tue, 14 Jul 2015 17:41:31 +0000 (UTC)
+Received: from empusa05.ttu.edu (129.118.201.58) by epona05.ttu.edu
+ (129.118.201.79) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 14 Jul
+ 2015 12:41:27 -0500
+Received: from CYCLOPS06.ttu.edu ([169.254.1.89]) by empusa05.ttu.edu
+ ([129.118.201.58]) with mapi id 14.03.0224.002; Tue, 14 Jul 2015 12:41:26
+ -0500
+From: "Mayer, Clark" <clark.mayer@ttu.edu>
+Subject: System Upgrade
+Thread-Topic: System Upgrade
+Thread-Index: AdC+XDrCJqoFd1fhTUSJM8rXgjP10w==
+Date: Tue, 14 Jul 2015 17:41:23 +0000
+Message-ID: <E3AE5AC79841EB4F8E22BB73D9607CB42C86D6F7@cyclops06.ttu.edu>
+Reply-To: "info@domain.com.edu" <info@domain.com.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [129.118.242.5]
+Content-Type: multipart/alternative;
+	boundary="_000_E3AE5AC79841EB4F8E22BB73D9607CB42C86D6F7cyclops06ttuedu_"
+MIME-Version: 1.0
+To: Undisclosed recipients:;
+X-TechMail-Edge-Route: TTU
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 123
+
+--_000_E3AE5AC79841EB4F8E22BB73D9607CB42C86D6F7cyclops06ttuedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+Email ID: 66187692
+
+
+
+Your account has being limited and will not be able to receive new and impo=
+rtant message after 24 hours, due to system maintenance. You are expected t=
+o update your email account now to avoid any interruption to your services.
+
+
+
+Open - http://www.portaladmininfo.zyro.com
+
+
+
+This site is protected by copyright and trademark laws under US and interna=
+tional law. All rights reserved. (c) Webmail
+
+
+
+(c) WEB ADMIN
+
+
+
+
+--_000_E3AE5AC79841EB4F8E22BB73D9607CB42C86D6F7cyclops06ttuedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"Section1">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;
+color:black"><br>
+Email ID: 66187692<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;
+color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;
+color:black">Your account has being limited and will not be able to receive=
+ new and important message after 24 hours, due to system maintenance. You a=
+re expected to update
+ your email account now to avoid any interruption to your services.<o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;
+color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;
+color:black">Open - http://www.portaladmininfo.zyro.com<o:p></o:p></span></=
+p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;
+color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;
+color:black">This site is protected by copyright and trademark laws under U=
+S and international law. All rights reserved. &copy; Webmail<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;
+color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;
+color:black">&copy; WEB ADMIN &nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_E3AE5AC79841EB4F8E22BB73D9607CB42C86D6F7cyclops06ttuedu_--

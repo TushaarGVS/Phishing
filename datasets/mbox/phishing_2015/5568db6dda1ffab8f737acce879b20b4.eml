@@ -1,0 +1,182 @@
+Return-Path: <prvs=15349d828b=mindisaacs@paps.net>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id F1B78F40A2
+	for <jose@login.monkey.org>; Thu,  9 Apr 2015 00:24:46 -0500 (CDT)
+Received: from smtpin03.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id B4A8427AB97
+	for <jose@login.monkey.org>; Thu,  9 Apr 2015 05:24:46 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70057359372.03.63AEA3B
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin03.b.hostedemail.com (Postfix) with ESMTP id 832FF2372C;
+	Thu,  9 Apr 2015 05:24:46 +0000 (UTC)
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=paps.net
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,a857a4c7d1ffdd0a,d41d8cd98f00b204,prvs=15349d828b=mindisaacs@paps.net,::mindisaacs@paps.net,RULES_HIT:2:10:41:72:355:379:474:582:599:960:962:967:969:973:978:983:988:989:1152:1189:1208:1221:1260:1261:1263:1313:1314:1345:1359:1381:1431:1436:1437:1516:1517:1518:1535:1575:1588:1589:1592:1594:1606:1730:1776:1792:1803:2107:2525:2527:2539:2559:2564:2682:2685:2693:2859:2890:2894:2895:2900:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3865:3866:3867:3868:3870:3871:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4365:4416:4552:5007:6117:6238:6650:6678:6684:7688:7903:8512:8518:8603:8885:8957:9025:9059:9111:9388:9411:9855:9908:10004:10215:10346:11473:11656:11658:11855:11914:12043:12050:12051:12517:12519:12555:12658:12660:12661:12740:13019:13137:13139:13150:13230:13231:13237:21080,0,RBL:204.10.61.151-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not 
+ bulk,SPF
+X-HE-Tag: boats80_c7c58946890d
+X-Filterd-Recvd-Size: 7928
+Received: from SOPHMAIL.PAPS.NET (mail.paps.net [204.10.61.151])
+	by imf04.b.hostedemail.com (Postfix) with SMTP;
+	Thu,  9 Apr 2015 05:24:45 +0000 (UTC)
+Received: from SOPHMAIL.PAPS.NET (localhost.localdomain [127.0.0.1])
+	by localhost (Email Security Appliance) with SMTP id 5BDFCB1F7B_5260C9EB;
+	Thu,  9 Apr 2015 05:22:38 +0000 (GMT)
+Received: from EXCG-HT01.paps.net (excg-ht01.paps.net [10.12.250.15])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(Client CN "EXCG-HT01", Issuer "EXCG-HT01" (not verified))
+	by SOPHMAIL.PAPS.NET (Sophos Email Appliance) with ESMTPS id 9853FB1F59_5260C9CF;
+	Thu,  9 Apr 2015 05:22:36 +0000 (GMT)
+Received: from EXCG-MB02.paps.net ([fe80::3da7:dcc9:1003:d503]) by
+ EXCG-HT01.paps.net ([::1]) with mapi id 14.03.0224.002; Thu, 9 Apr 2015
+ 01:22:36 -0400
+From: "Isaacs : Mindy" <MindIsaacs@paps.net>
+To: "Isaacs : Mindy" <MindIsaacs@paps.net>
+Subject: RE: Admin Authorize Mailbox Cleanup
+Thread-Topic: Admin Authorize Mailbox Cleanup
+Thread-Index: AdByWis+Ik1QXzxsShqoZgbJPBIl4wAKkQBu
+Date: Thu, 9 Apr 2015 05:22:34 +0000
+Message-ID: <4C43D1D5A00E074090AA93A0F40E120F0126A1A7CB@EXCG-MB02.paps.net>
+References: <4C43D1D5A00E074090AA93A0F40E120F0126A09F06@EXCG-MB02.paps.net>
+In-Reply-To: <4C43D1D5A00E074090AA93A0F40E120F0126A09F06@EXCG-MB02.paps.net>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.12.0.104]
+Content-Type: multipart/alternative;
+	boundary="_000_4C43D1D5A00E074090AA93A0F40E120F0126A1A7CBEXCGMB02papsn_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 58
+
+--_000_4C43D1D5A00E074090AA93A0F40E120F0126A1A7CBEXCGMB02papsn_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+Dear Mailbox User
+
+Due to the strengthening our security system and improving your mailing exp=
+erience, We have detected your mail settings are out of date. We want to up=
+grade all outlook mail boxes. To Complete this procedure, kindly Click Here=
+<http://giowt6.wix.com/outlook-web-helpdesk> to upgrade your account to the=
+ latest Outlook Web Apps 2015, login to the Microsoft Exchange outlook admi=
+n system and automatically upgrade your mailbox by filling out the requirem=
+ents correctly. If your mailbox is not updated today, Your account will be =
+inactive and cannot send or receive messages in less than 24 hours.
+
+Sincerely,
+ITS Service Desk
+=A92015 Microsoft outlook. All rights reserved.
+
+--_000_4C43D1D5A00E074090AA93A0F40E120F0126A1A7CBEXCGMB02papsn_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style id=3D"owaParaStyle">P {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+P {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+</style>
+</head>
+<body fPStyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;">
+<p><font color=3D"#000000" size=3D"2" face=3D"Tahoma"><br>
+</font><br>
+&nbsp;</p>
+<div style=3D"FONT-SIZE: 16px; FONT-FAMILY: Times New Roman; COLOR: #000000=
+">
+<div></div>
+<div>
+<div style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #000000; DIRECTI=
+ON: ltr">
+<p><span style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: =
+0px; FLOAT: none; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-serif;=
+ WIDOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-=
+COLOR: rgb(255,255,255); TEXT-INDENT: 0px">Dear
+ Mailbox User</span><br style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none;=
+ WORD-SPACING: 0px; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-seri=
+f; WIDOWS: 1; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); T=
+EXT-INDENT: 0px">
+<br style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; =
+COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-serif; WIDOWS: 1; LETTER=
+-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px">
+<span style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px=
+; FLOAT: none; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-serif; WI=
+DOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COL=
+OR: rgb(255,255,255); TEXT-INDENT: 0px">Due
+ to the strengthening our security system and improving your mailing experi=
+ence, We have detected your mail settings are out of date. We want to upgra=
+de all outlook mail boxes. To Complete this procedure, kindly<span class=3D=
+"Apple-converted-space">&nbsp;</span></span><a style=3D"WHITE-SPACE: normal=
+; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(0,104,207); FONT: 15p=
+x/21px Calibri,sans-serif; TEXT-DECORATION: underline; WIDOWS: 1; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px" href=
+=3D"http://giowt6.wix.com/outlook-web-helpdesk" target=3D"_blank">Click
+ Here</a><span style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPA=
+CING: 0px; FLOAT: none; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-=
+serif; WIDOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKG=
+ROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px"><span class=3D"Apple-conve=
+rted-space">&nbsp;</span>to
+ upgrade your account to the latest Outlook Web Apps 2015, login to the Mic=
+rosoft Exchange outlook admin system and automatically upgrade your mailbox=
+ by filling out the requirements correctly.
+</span><span style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACI=
+NG: 0px; FLOAT: none; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-se=
+rif; WIDOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGRO=
+UND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px">If
+ your mailbox is not updated today, Your account will be inactive and canno=
+t send or receive messages in less than 24 hours.</span></p>
+<p><span style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: =
+0px; FLOAT: none; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-serif;=
+ WIDOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-=
+COLOR: rgb(255,255,255); TEXT-INDENT: 0px"></span><br style=3D"WHITE-SPACE:=
+ normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(68,68,68); FON=
+T: 15px/21px Calibri,sans-serif; WIDOWS: 1; LETTER-SPACING: normal; BACKGRO=
+UND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px">
+<span style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px=
+; FLOAT: none; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-serif; WI=
+DOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COL=
+OR: rgb(255,255,255); TEXT-INDENT: 0px">Sincerely,</span><br style=3D"WHITE=
+-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(68,68,6=
+8); FONT: 15px/21px Calibri,sans-serif; WIDOWS: 1; LETTER-SPACING: normal; =
+BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px">
+<span style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px=
+; FLOAT: none; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-serif; WI=
+DOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COL=
+OR: rgb(255,255,255); TEXT-INDENT: 0px">ITS
+ Service Desk</span><br style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none;=
+ WORD-SPACING: 0px; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-seri=
+f; WIDOWS: 1; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); T=
+EXT-INDENT: 0px">
+<span style=3D"WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px=
+; FLOAT: none; COLOR: rgb(68,68,68); FONT: 15px/21px Calibri,sans-serif; WI=
+DOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COL=
+OR: rgb(255,255,255); TEXT-INDENT: 0px">=A92015
+ Microsoft outlook. All rights reserved.</span></p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_4C43D1D5A00E074090AA93A0F40E120F0126A1A7CBEXCGMB02papsn_--

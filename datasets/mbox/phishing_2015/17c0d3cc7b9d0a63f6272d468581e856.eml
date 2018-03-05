@@ -1,0 +1,60 @@
+Return-Path: <wp_njwsv7@wp410369.dreamhostps.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 7B7BBF4195
+	for <jose@login.monkey.org>; Thu, 20 Aug 2015 10:50:46 -0500 (CDT)
+Received: from smtpin05.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 2D94227AC05
+	for <jose@login.monkey.org>; Thu, 20 Aug 2015 15:50:46 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70541567292.05.bone38_7b13cf84aee3a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,5593b4d39f6c1dfb,d41d8cd98f00b204,wp_njwsv7@wp410369.dreamhostps.com,:,RULES_HIT:2:41:72:355:375:379:474:495:540:541:543:800:967:969:973:978:983:988:989:1201:1208:1224:1260:1263:1313:1314:1324:1345:1381:1431:1433:1434:1437:1516:1517:1535:1560:1571:1593:1594:1606:1699:1714:1730:1747:1777:1792:2198:2199:2393:2525:2527:2553:2560:2563:2682:2685:2693:2828:2859:2890:2899:2900:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3650:3867:3868:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4117:4321:4552:5007:6261:6650:6669:6678:8512:8518:8583:8599:8603:9025:9080:9411:10004:10049:10249:10346:11473:11658:11914:12043:12438:12555:12660:12698:12737:12740:12955:12961:13019:13025:13139:14051:14394:21067:21080,0,RBL:173.236.238.237-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: bone38_7b13cf84aee3a
+X-Filterd-Recvd-Size: 6342
+Received: from wp410369.dreamhostps.com (unknown [173.236.238.237])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 20 Aug 2015 15:50:45 +0000 (UTC)
+Received: by wp410369.dreamhostps.com (Postfix, from userid 14981383)
+	id 046D3494DDA54; Thu, 20 Aug 2015 08:21:52 -0700 (PDT)
+To: jose@monkey.org
+Subject: (LAST WARNING) Email Account Verification Upgrade
+X-PHP-Originating-Script: 14981383:veekthorM.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Administrator <"Email Administrator"@wp410369.dreamhostps.com>
+Reply-To: Email@wp410369.dreamhostps.com,
+	Administrator@wp410369.dreamhostps.com
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: 173.236.239.124
+Message-Id: <20150820152152.046D3494DDA54@wp410369.dreamhostps.com>
+Date: Thu, 20 Aug 2015 08:21:52 -0700 (PDT)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 153
+
+<div class="rcmBody">
+<p><span id="yiv2486292201yui_3_16_0_1_1409874957895_2912" class="yiv2486292201" style="FONT-SIZE: 12pt; LINE-HEIGHT: 22px;"><font color="#585858">Dear <strong><font color="#000000">jose@monkey.org</font></strong>,</font></span>
+</p>
+<table id="yiv2486292201yui_3_16_0_1_1409874957895_2893" class="yiv2486292201" style="FONT-SIZE: 24px; BACKGROUND-IMAGE: none; BACKGROUND-REPEAT: repeat; COLOR: rgb(68,68,68); font-stretch: normal;" cellspacing="0" cellpadding="0" border="0"><tbody id="yiv2486292201yui_3_16_0_1_1409874957895_2892" class="yiv2486292201" style="LINE-HEIGHT: 21px; WIDTH: 293px;"><tr id="yiv2486292201yui_3_16_0_1_1409874957895_2891" class="yiv2486292201"><td id="yiv2486292201yui_3_16_0_1_1409874957895_2911" class="yiv2486292201" style="BORDER-TOP: black 1pt solid; BACKGROUND: rgb(255,204,0); BORDER-BOTTOM: black 1pt solid; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: black 1pt solid; BORDER-RIGHT-COLOR: rgb(240,240,240); PADDING-RIGHT: 0in; WIDTH: 131.25pt;" width="175"><span id="yiv2486292201yui_3_16_0_1_1409874957895_2926" class="yiv2486292201" style="FONT-SIZE: 12pt; FONT-FAMILY: Tahoma, sans-serif; COLOR: rgb(34,34,34); LINE-HEIGHT: 22px;">1969MB</span><span class="yiv248629
+ 2201" style="FONT-SIZE: 12pt; COLOR: rgb(34,34,34); LINE-HEIGHT: 22px;"></span></td>
+<td id="yiv2486292201yui_3_16_0_1_1409874957895_2924" class="yiv2486292201" style="BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; BORDER-BOTTOM: black 1pt solid; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; WIDTH: 18.75pt; BACKGROUND-COLOR: transparent; BORDER-LEFT-COLOR: rgb(240,240,240);" width="25"><span class="yiv2486292201" style="FONT-SIZE: 12pt; COLOR: rgb(34,34,34); LINE-HEIGHT: 22px;"></span> </td>
+<td id="yui_3_16_0_1_1410448463373_1911" class="yiv2486292201" style="BORDER-TOP: rgb(240,240,240); BORDER-RIGHT: rgb(240,240,240); BACKGROUND: 0px  50%; BORDER-BOTTOM: rgb(240,240,240); PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: rgb(240,240,240); PADDING-RIGHT: 0in;" valign="top"> </td>
+
+
+
+<td id="yui_3_16_0_1_1410448463373_1885" class="yiv2486292201" style="BORDER-TOP: rgb(240,240,240); BORDER-RIGHT: rgb(240,240,240); BACKGROUND: 0px  50%; BORDER-BOTTOM: rgb(240,240,240); PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; BORDER-LEFT: rgb(240,240,240); PADDING-RIGHT: 0in;"><b id="yui_3_16_0_1_1410448463373_1884" class="yiv2486292201"><span id="yui_3_16_0_1_1410448463373_1886" class="yiv2486292201" style="FONT-SIZE: 12pt; FONT-FAMILY: Tahoma, sans-serif; COLOR: rgb(34,34,34); LINE-HEIGHT: 22px;">2000</span></b><span id="yui_3_16_0_1_1410448463373_1913" class="yiv2486292201" style="FONT-SIZE: 12pt; FONT-FAMILY: Tahoma, sans-serif; COLOR: rgb(34,34,34); LINE-HEIGHT: 22px;">MB</span><span class="yiv2486292201" style="FONT-SIZE: 12pt; COLOR: rgb(34,34,34); LINE-HEIGHT: 22px;"></span></td></tr></tbody></table><div class="yiv2486292201"></div>
+<div id="yiv2486292201yui_3_16_0_1_1409874957895_2909" class="yiv2486292201" style="FONT-SIZE: 24px; COLOR: rgb(68,68,68); font-stretch: normal;"><span id="yiv2486292201yui_3_16_0_1_1409874957895_2907" class="yiv2486292201" style="FONT-SIZE: 12pt; LINE-HEIGHT: 22px;"><font color="#4d4d4d">We noticed your e-mail account has almost exceed it's limit. </font></span><font color="#4d4d4d" size="3"><span>And you may not be able to send or receive messages any moment from now,</span></font></div>
+<div id="yiv2486292201yui_3_16_0_1_1409874957895_2906" class="yiv2486292201" style="FONT-SIZE: 24px; COLOR: rgb(68,68,68); font-stretch: normal;"><span><a id="yiv2486292201yui_3_16_0_1_1409874957895_2903" title="" class="yiv2486292201" style="BACKGROUND-IMAGE: none; BACKGROUND-REPEAT: repeat; BACKGROUND-ATTACHMENT: scroll; BACKGROUND-POSITION: 0%  0%; COLOR: rgb(34,34,34); OUTLINE-WIDTH: medium; OUTLINE-COLOR: invert;" href="http://benchblog.com/.ftp/.quatz/upgrade/verify?Email=jose@monkey.org.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1="3">Click Here to renew your account.</font></span></a><font color="#4d4d4d" size="3"> </font></span></div>
+<div class="yiv2486292201" style="FONT-SIZE: 24px; COLOR: rgb(68,68,68); font-stretch: normal;"><span><font color="#4d4d4d" size="3"></font></span> </div>
+<div class="yiv2486292201" style="FONT-SIZE: 24px; COLOR: rgb(68,68,68); font-stretch: normal;"><span><font color="#4d4d4d" size="3"><strong><u>NOTICE:</u>  </strong></font></span></div>
+<div class="yiv2486292201" style="FONT-SIZE: 24px; COLOR: rgb(68,68,68); font-stretch: normal;"><span><font color="#4d4d4d" size="3">failure to renew your e-mail account. It will be permanently disabled.</font></span></div>
+<div class="yiv2486292201" style="FONT-SIZE: 24px; COLOR: rgb(68,68,68); font-stretch: normal;"><span><font color="#4d4d4d" size="3"></font></span> </div>
+<div id="yiv2486292201yui_3_16_0_1_1409874957895_2898" class="yiv2486292201" style="FONT-SIZE: 24px; COLOR: rgb(68,68,68); font-stretch: normal;"><span class="yiv2486292201" style="FONT-SIZE: 12pt; LINE-HEIGHT: 22px;"><font color="#4d4d4d">Thanks,</font></span></div>
+<div id="yiv2486292201yui_3_16_0_1_1409874957895_2900" class="yiv2486292201" style="FONT-SIZE: 24px; COLOR: rgb(68,68,68); font-stretch: normal;"><span id="yiv2486292201yui_3_16_0_1_1409874957895_2901" class="yiv2486292201" style="FONT-SIZE: 12pt; LINE-HEIGHT: 22px;"><font color="#4d4d4d">Account Service</font></span></div></div>

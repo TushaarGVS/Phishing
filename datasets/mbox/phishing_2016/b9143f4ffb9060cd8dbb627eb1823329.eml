@@ -1,0 +1,72 @@
+Return-Path: help@protective.com
+Delivered-To: jose@monkey.org
+X-FDA: 71412183570.22.bread22_751482a7fdb3b
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,help@protective.com,,RULES_HIT:30001:30022:30045:30051:30054:30055:30064:30069:30070:30074:30080:30090,0,RBL:216.113.172.65:@protective.com:.lbl8.mailshell.net-62.16.0.32 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:63,LUA_SUMMARY:none
+X-HE-Tag: bread22_751482a7fdb3b
+X-Filterd-Recvd-Size: 2989
+Received: from phx-mipot-002.corp.ebay.com (phx-mipot-002.corp.ebay.com [216.113.172.65])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 16 Apr 2016 13:53:24 +0000 (UTC)
+X-EBay-Corp: Yes
+X-IronPort-AV: E=Sophos;i="5.24,492,1455001200"; 
+   d="txt'?scan'208";a="322163696"
+Received: from phx-vteml-004.corp.ebay.com (HELO phx-iptcr-002.corp.ebay.com) ([10.58.40.103])
+  by phx-mipot-002.corp.ebay.com with ESMTP; 16 Apr 2016 06:58:53 -0700
+Authentication-Results: phx-iptcr-002.corp.ebay.com; dkim=None (message not signed) header.i=none
+Date: 16 Apr 2016 07:24:26 -0700
+X-ExtLoop1: 1
+X-IronPort-AV: E=Sophos;i="5.24,492,1455001200"; 
+   v="Mal/Phish-A'3'rd"; 
+   d="txt'?html'217?scan'217,208,217";a="24434973"
+Subject: [WARNING: VIRUS REMOVED]Account Verification
+Received: from unknown (HELO 125.57.250.222) ([10.58.40.129])
+	by phx-iptcr-002.corp.ebay.com with ESMTP; 16 Apr 2016 07:24:26 -0700
+From: PayPal Security <help@protective.com>
+MIME-Version: 1.0
+Message-ID: <008cfa209244cc7243d5697d0aa18da4@secureroute.com>
+Content-Type: multipart/mixed; boundary="43df64471818528104920eaa5a58a7c9"
+X-CFilter: Scanned
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 169
+
+--43df64471818528104920eaa5a58a7c9
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<span style="font-family: arial,helvetica,sans-serif; font-size:12px;"><strong>Un-Authorized Access - </strong>Your PayPal account have been limited temporarily.<br />
+<br />
+Dear Valued Customer,<br />
+<br />
+Our state-of-the-art security system have detected what could be an intrusion from an un-authorized<br />
+user. Our security team analyzes accounts individually after the security system have marked them<br />
+as insecure.<br />
+<br />
+Please <span style="color:#008000;">download the form attachment</span> in this email and fill in your personal details in the form in<br />
+order to keep your account in a verified state.<br />
+<br />
+Please do understand that this is a security measure intended to help protect you and<br />
+your account. We apologize for any inconvenience.
+<br /><br />Thank you,<br>
+PayPal Support Department<br />
+</span>
+<hr id="pspspescure" />
+<p><span style="font-size:11px;"><span style="font-family: arial,helvetica,sans-serif;">Please do not reply to this email. This mailbox is not monitored and you will not receive a response. Furthermore,<br />
+should you require any assistance, you may log in to your PayPal account and click Help in the top right corner<br />
+of any PayPal page.</span></span></p>
+
+--43df64471818528104920eaa5a58a7c9
+MIME-Version: 1.0
+Content-Description: Removed Attachment
+Content-Disposition: attachment; filename="Removed Attachment.txt"
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"
+
+This attachment contained a virus and was stripped.
+	Filename: attached529.html
+	Content-Type: text/html
+	Virus(es): Mal/Phish-A
+
+--43df64471818528104920eaa5a58a7c9--
+

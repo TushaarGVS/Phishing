@@ -1,0 +1,195 @@
+Return-Path: syna4994@bears.unco.edu
+Delivered-To: jose@monkey.org
+X-FDA: 72033724896.02.bite00_3b528d62f5e14
+X-Spam-Summary: 50,0,0,d1e3a15b0d66fb0c,d41d8cd98f00b204,syna4994@bears.unco.edu,:syna4994@bears.unco.edu,RULES_HIT:1:41:72:355:379:474:582:962:967:969:973:978:983:988:989:1042:1152:1189:1208:1213:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1544:1566:1575:1588:1589:1592:1594:1711:1714:1730:1749:1776:1792:1803:2069:2070:2198:2199:2525:2560:2567:2610:2612:2682:2685:2693:2859:2890:2895:2896:2902:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3690:3865:3867:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:5007:6653:6669:6678:6687:6688:7903:8599:8603:8885:8985:8987:9025:9059:9388:9411:9908:10004:10049:10346:11232:11473:11658:11914:12043:12050:12051:12217:12295:12555:12561:12660:12740:12764:13132:13139:13231:13234:13236:13237:13374:13439:13975:14037:14096:14106:14181:14525:14566:14686:14721:14828:14849:21080:21366:21433:21444:21450:21451:30001:30022:30054:30055:30069:30070,0,R
+X-HE-Tag: bite00_3b528d62f5e14
+X-Filterd-Recvd-Size: 14840
+Received: from NAM01-SN1-obe.outbound.protection.outlook.com (mail-sn1nam01hn0238.outbound.protection.outlook.com [104.47.32.238])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  4 Oct 2016 20:36:47 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=bearsunco.onmicrosoft.com; s=selector1-bears-unco-edu;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=SHcxYvc5PPSuegQXvCat/DDNJt9s11V1cQTf4yW48Us=;
+ b=WUsmkZJBzWslXkdBg5dCzsS20uQ65oRXAweXpiYOcMlcUz7bkUjCB5JGx3h7MiqgxWNZzZTNUem0shF+dvobBzosCqdvMSAWf/pqyCAvf4wf7MJU1OVxFnzTxr1s9Rc9HEO6yANVF4b0/l72rF4e19bCRUMji9DGPARzBE4VZmA=
+Authentication-Results: spf=none (sender IP is )
+ smtp.mailfrom=syna4994@bears.unco.edu; 
+Received: from USER-PC.ucsd.edu (137.110.33.193) by
+ BY2PR01MB252.prod.exchangelabs.com (10.242.233.24) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.639.5; Tue, 4 Oct 2016 20:36:26 +0000
+Content-Type: multipart/alternative; boundary="===============1544377999=="
+MIME-Version: 1.0
+Subject: Standard Bank Upgrade
+To: Recipients <Syna4994@bears.unco.edu>
+From: Standard Bank <Syna4994@bears.unco.edu>
+Date: Tue, 4 Oct 2016 10:36:16 -1000
+Reply-To: <jadenmbatha@gmail.com>
+X-Antivirus: avast! (VPS 161004-1, 10/04/2016), Outbound message
+X-Antivirus-Status: Clean
+X-Originating-IP: [137.110.33.193]
+X-ClientProxiedBy: CO2PR11CA0016.namprd11.prod.outlook.com (10.141.242.154) To
+ BY2PR01MB252.prod.exchangelabs.com (10.242.233.24)
+Return-Path: Syna4994@bears.unco.edu
+Message-ID: <BY2PR01MB252C6126D93DDBD86625DFDFBC50@BY2PR01MB252.prod.exchangelabs.com>
+X-MS-Office365-Filtering-Correlation-Id: e2848e44-f37b-4299-5ae8-08d3ec96228f
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB252;2:KeJeJchV/VvVxTgwgLJaEEmHLcjVG7lyDZj1i52Ch2p1qmH1KcXlH3uw7gbBi9BgxFV/kGvbPyHmFOgK9/oqJFx1rDloQe6l0wEO+7OTRTtY3twkumuVdAlZtTOjl0X3bOdXE0uDn7dUTftPshAgM6M5xAq6es99rSrxDhqQsGA/QmnXENQJCMSV6nlHMP6n;3:XefboMHws/fP+VRUYwDf+aC94rpGCvJG1oii8nnS8lJ3qrtkUMHVCdYLhVGK6Z2Kiki5EdYEftFMXDJGSacAXoZcOlNaEBcOQoYIDJ22kwQRQrUnKn8Gt7qaMShFd25r;25:GvJVIDpJH1bLkvmi3ecs1eAcPbgRHPbFKh6+KLJN2jgB9QFq7OIn8vD4tWoxmLNeGAf6V9gUqf7Xctw5yeFzhIVeaKhmJIXDAwB78NrC1N6ic23fRNwPQI2etULPw5ZeKp1erOofC6pNnb8Q5NS6bUMgMQjRrBv95yaXhhWlz2/9zaODG6rEZMICfUZI/8d6WLq6bxRLM798Z2qm1JRBoU4LV0TrHn1YTLlSA99vyNrypFQ9LJtrEf7eSO5+KXlNU0MVtZqkxF+y5fApIqaitN0XxZupDFVG9FsZJKJ/ONaa16nh9Pwd7bS5HaIj9AbRvECVgBfdkmasXvqjUOPXkD4541xmhmCQiDBLHFjfdnICIs2+Bj/3qqjYQ5iWWgUpDNits5/ywEps2EPk80KGonP8kNLOBxMgpMRdMLIXTKg=
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR01MB252;
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB252;31:3NuHdWXmEcc+CX9A/8RxKrT6Ncx3FTyID9XXOGvmdIr+R5ep8kjQmPaPvEhq0f9DaSQ3Venski4Yq5tt3FtgcK3RE4kCT7zWRbgEX9p+oMY5Vcp0UUMezFl3pvepoCCwioUudE2+cBIfuqSKQEex1YyBI3VPK9hXkBHz8iiH7nZFSv9D+gGVCit2IUpOU7kj8RZm6E3zb5mKAXw2L7GRrhFMU1H/SCK7cbNvX8B/G3XCkB71WNEHExTDGVhZNFLG;20:wpFivmHwPo2Ans0BmGbD1doeyRvuQ0b9Oi7mBne7nq3W/SX5ljDfllcVAZN4Z1gMBB9lQtfRattLFJyEPR/obMGwO/t4A/8jotlHwMg0dA4JdnHE/MvofSTN6pGntKmCEhfT2pdyvKbFFU5vIrvgo5VJCKedmJLxCteh6BGVMJ9rIbulm9S1gaM9M1+yeEv5ESK8zxwOSb6PXSy9eMAjWYslgxTozySjJJ0C2e6yuFRRSlMdMDvHkqGBwTC+yjXmldVZbRTLdgdq8mgE2XEfHMhHNmSiB0pjArjsr/p+XkShQAvt3NQty3VZrILdLr78+z6zDfruVJ4y3Lrn8Bf4QSWXzLkA5dXxl9BBjWdT5astgdokszipij2l6I/Sq3bxKKjJ8b5I50xvHl3sgWMA0U54tOztVig6UEV+okIUZub6WYrA9lCLksdKP1LgVE9NkLVuUAQAko5tKaTbj/Rn/4+ztRn1U+ymxpKztGWDg4/KZHThzCPMm4kYqw5VbxQL
+X-Microsoft-Antispam-PRVS: <BY2PR01MB2524B4CDC307C8B5206CF27FBC50@BY2PR01MB252.prod.exchangelabs.com>
+X-Exchange-Antispam-Report-Test: UriScan:(46150409022019);
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(6040176)(2401047)(8121501046)(5005006)(10201501046)(3002001);SRVR:BY2PR01MB252;BCL:0;PCL:0;RULEID:;SRVR:BY2PR01MB252;
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB252;4:SdovUeqhnHrniEUwYZR9SXRbV+XJoFPeJAUKlWfxEX+Bhs8xvIz+94meHucWTavP9BmS/0aqHm9WqD0pN+sQGHy0ErperOGiQx+BGmjN4JRxHux7wTBqAMjDU5Mv0MT9Mx96xR1wih4g2CHcKCAwFfvVMTHWJv+9+fY9+mx9J8/1WfjAt1DrYd9E1XxOpOibWkI0FFag2e1GpaDKL8vY/4We0fY0ihDS77jzpBWqpyJJ21XvZuGiAHq7s1mJylvYdvUGVf3srh01mdTvyT+wV0/D70Mr0gIFhkhSGOx0znu5MaYu967QQYdjOCrzt5tIDnuJgNqeB6AUmJmUS5vxGDUDC+9ZMkVs1qEgTNUXR0rOucfIWjCBadJO61tv3Rw0h/i9CpVvaC/NLrD32BddtlZbjGoG4WHS/zHT8xsr+WU=
+X-Forefront-PRVS: 00851CA28B
+X-Forefront-Antispam-Report: SFV:SPM;SFS:(10009020)(4630300001)(7916002)(189002)(199003)(3846002)(250100001)(6116002)(53806999)(6862003)(9686002)(50986999)(551124005)(586003)(7416002)(110136003)(575854001)(68736007)(2171001)(105586002)(512934002)(3480700004)(106356001)(10126002)(2906002)(10710500007)(54356999)(107886002)(16799955002)(69596002)(42882006)(554194005)(18206015028)(84326002)(86362001)(75432002)(2860700002)(15650500001)(10290500002)(97736004)(7846002)(7736002)(66066001)(6666003)(89122001)(10300500001)(33656002)(88552002)(4000750100001)(42186005)(81956001)(43066003)(7906003)(101416001)(19580395003)(2420400007)(19617315012)(81156014)(15975445007)(7066003)(7116003)(189998001)(53416004)(10440500001)(7110500001)(8676002)(74316002)(81166006)(8666005)(6200100001)(4001600100001)(229853001)(77096005)(5660300001)(5000100001)(861006)(82596007);DIR:OUT;SFP:1501;SCL:5;SRVR:BY2PR01MB252;H:USER-PC.ucsd.edu;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;
+Received-SPF: None (protection.outlook.com: bears.unco.edu does not designate
+ permitted sender hosts)
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;BY2PR01MB252;23:YDbuhBQrOyvw62TTOl4W8meNSbo24eilxkctEatEaX?=
+ =?us-ascii?Q?kwaO48XjGKb8+Gk+Yxc7ESJYIsD5K37Er3hIf/1PDUjykquI2g8xcboukaKA?=
+ =?us-ascii?Q?fWOoM6vJEK5DMfPMTZl55WBEbqTb+doQ5pXXiXmb6VHFYHGHXbgHmRiS+nnD?=
+ =?us-ascii?Q?aVZQnlZ8DtC5MAkwg0yppbP5PTVWIQDqcVMCLE3yJ+TJ8NZZgX+/G/G7SswK?=
+ =?us-ascii?Q?UrFBZ9yt4Rq7NdtmC07w4hOtXkN+m5qJECzkoc3iJwNSzRDFw96qEWzOTbpz?=
+ =?us-ascii?Q?kLD6Q6QVHzJRnCmBtkH2XuOukPtp8QN+2W7M7At0dksRjI0twXUt2HTvZ+fZ?=
+ =?us-ascii?Q?wi0SymC2g0a+kigCcNMEfIMnSUiisRcPhmPMLZwv8/hq55UK7UEHBkPKpK4a?=
+ =?us-ascii?Q?PN886M0QCjQ7Ix9uLqReVSET4Vkd0Bn2ULAYKzAjNiY3ngIJIPh0cg+bn5se?=
+ =?us-ascii?Q?CzD3cGCIozVo84FYJjWxc4zaTB2arPA4e8+VgQhQ6c/s9fjDBi3L7v5bO+bI?=
+ =?us-ascii?Q?ery35aLbNyJLtmRRCSs9cPXdBKvv8E6s2bSYqusJQcxGerWC/qM/PBNDB5NZ?=
+ =?us-ascii?Q?aVlQTrl2csQBEGlzMMjqn6FT5sUrv7uhjXu8qkSKCP18B6xPX2FUn84/gNPg?=
+ =?us-ascii?Q?7TdVZOO3mSIcWXRCWTYYYYyfXCL+KxBOsLjBDKc5xxcuqVmGcuKQCnewUzCt?=
+ =?us-ascii?Q?iQWAmDiz1hcVE/qkaSy1d+U3TRlm1zK84BPmqVk8bbLGRn2nFZjC+lO29XpB?=
+ =?us-ascii?Q?3ObzXDnKjmeGN5U8hob8yjsQbSlTytxQTs9Te9jd4FPpykhRtKTA5fCl+kyb?=
+ =?us-ascii?Q?emg74Iv6QCDmtbv2bNCXcgqkPpviXAWtM+iDuiH15fpiRzAiIEMQA2eYN0SG?=
+ =?us-ascii?Q?enVzEB4EusfRxPVDAGFxFssOTWiRngvdnVBU2TiieeZj4lIiAGcXGLzOuHFc?=
+ =?us-ascii?Q?quksUAJ77m0oV2rwd/IexVDMLGOgACCJChjbI8sQsa3pRU379rGRyWbe2UK8?=
+ =?us-ascii?Q?BRh4m+CULKIFb14dYeAAVtM3fL0MenYuOJRG1pkMHHP+D/IRoRfbJN8O6EpB?=
+ =?us-ascii?Q?G2Uj1mnUa8s1kYkN1hlgfifwffz4fZukjmcsUKROzOm9xSiw6EjKk2cc34zL?=
+ =?us-ascii?Q?5FWKU1WJ/iUEzrYeIYplPMJocVawk/8DiCdJgPr9gWpT8I4Ky6E02ny6LAMo?=
+ =?us-ascii?Q?i9pO9xqUG/FoCuehSyCRc0oFlqdIY5tUQPPBsL3ykFeIh7ZBO0rl75W+nskh?=
+ =?us-ascii?Q?/GMsNZ8Ai6zU5zIFu7HG9Jq57iWh3ybvd3K8X3xCz/sgBJyphnH3q4sxeR7T?=
+ =?us-ascii?Q?TKglF8GFGLX8UWlCA2f3wTslEwZ3XNJTL0JqRyJjTE1AhrfO8e+OGvgitH11?=
+ =?us-ascii?Q?mGHsOJjINtWq1qZVGkVx4faehPTQTykwfH9LMUPWgjV/NF/kU6QKTkJLygVd?=
+ =?us-ascii?Q?vuqTbUu6njtHiVaS2BU2qSMvIe2FNznV7kCN+cYN9/nRjOgJ1crN/WFGzJ53?=
+ =?us-ascii?Q?r1wc4Y5Rg20xrR4cO+bGLlLo4+BoVxrvyMbaL27NO2EBdAqeM1Pp7JAHfMj5?=
+ =?us-ascii?Q?PRHslL4BgrVOFXDU/ZgudN3VzvrOVfW0YWmNGlm5c1PKh+cV5FD5+FDAulUy?=
+ =?us-ascii?Q?NP50jCScLnzDdSM7sz0XnlDPb+gBUu+DYMErCLSm4iGQxAlVwxtv5w5Fg2H2?=
+ =?us-ascii?Q?6mgWuDKAsJV6soxkssLdUZuWC22+wQoNQJdMM6stKb51e/UdZtjrr158TpMP?=
+ =?us-ascii?Q?eh45BGKS+yvFh/UcD05wOY6N/YqP3qL9iS74LggGpDXbDEqcryCzxkT2hDL8?=
+ =?us-ascii?Q?Cz5ENy9fu6ngHAuPQlbVmvkCq11u1v46dZeJoRZe6GTvMndxUKQLNS1k3w68?=
+ =?us-ascii?Q?1r+zQnWhQpY5yQWJfyv7ZZCtTLiuJlxS6gmOlKk5w9X+PIggPSyyN1yP4=3D?=
+X-Microsoft-Exchange-Diagnostics:
+	1;BY2PR01MB252;23:DWK+QoiK88EFzUJnwUQPyEKkQgGDUwP0mXFrwLQVoA3P4Ls7tkXAGmDt0b2LjNr4XSNGmNiOWPR98ezCAtfZ1IhycCt63GIvbcUDlaPtgJFNMkCuNqXi3KyjxVKzDqc2R5a6zQvMg6/dT3PWT10Gheq8kmmOcythnGH+CCuxd4WY/Cj8b7b6xrLmXb9rCTf1;6:Gust25XWCzn3u8xBMxg1kC3U+D9FxFGip26HmqCJrEipnJSm57Zq7SnAa0e0VE86trnNU1F+j7mL4dZZSKJSxX7EeVJkrFEAwTCROuzQxRTK/p5PAXnQqrZfBSyI5Eu8zHmHyZKB66rC5OiM2nAs5G3h+0EauAldR2PPF2GePywhrTER3ga940BsFgjzK3bfJPWiLwMdWMwp3sDSjlCCVRqv0x7ZCEWCAlFem30xqJUZ7Kbz3hhpnSxPywt9KsJ3FfMGHYIRyGQ0x1UQAw8LbveNjv/yyorVBmf+j11qsv4=;5:wQKzZhOgB5NxYb9wjCeLep9fuzkrw9Lfl4OIDI6rn81DBlsAkI1+I5TlieDfxtiaHwy1bL/Et8htbgvgckAejbSbVjCzKQy7V0Xvs8heyFhUndV0uwZjtiRKWiNVHH1jqVDHZHIx04VfUkvAboCI8w==;7:mT6+lDiLPwUZcwK49gUbAJBcrgAXytx4Lsvis9rOjzBVp/CZL/EFoVp0qtgOPGTZsR3MpeDiOy2obWEKMj+mc2+YWJboOM9oWVIdFmZ0yDeH22spI637ZED2/xeRm9Fc4I2fnZOLYV6UrZLTBt4AHQzLPLZctmqfyBR/2jeODKo4xV6vDB/f9gU2/7S+gLKcfLpPHyM8l0XwvdUjGNaEnNAhPk2fJUbOH1gvPxGwwrtD3XvjGF7zJXv6/T/a/HXZ4MeCC0ylZDIlPHg108CBNTfkAR8hcRmeXOuJcVS+vQQzwux6ULNNm2mcc8WD7SkC
+SpamDiagnosticOutput: 1:22
+X-OriginatorOrg: bears.unco.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Oct 2016 20:36:26.4021
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR01MB252
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 383
+
+--===============1544377999==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ Dear Standard Bank Customer, 
+ Due to the current upgrade in our system your account Needs Verification. =
+
+ if not Verified within 24 hours, your Account with us will be Suspended. 
+ Click the Below Link to Verify your  Account Now  
+ click here to Update. 
+ Thank you.
+
+---
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+--===============1544377999==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><DIV style=3D"FONT-SIZE: small; FONT-FAMILY: a=
+rial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: n=
+one; FONT-WEIGHT: normal; COLOR: rgb(34,34,34); FONT-STYLE: normal; ORPHANS=
+: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-liga=
+tures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px">
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal">Dear Standa=
+rd Bank Customer,&nbsp;</DIV><BR>
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal">Due to the =
+current upgrade in our system your account Needs Verification.</DIV>
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal"><BR></DIV>
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal">if not Veri=
+fied within 24 hours, your Account with us will be Suspended.</DIV>
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal"><BR></DIV>
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal">Click the B=
+elow Link to Verify your &nbsp;Account Now&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal"><BR></DIV>
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal"><A style=3D=
+"COLOR: rgb(17,85,204)" href=3D"http://www.lululime.com.au//js/jscolor/stan=
+d/index.php">click here</A>&nbsp;to Update.</DIV>
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal"><BR></DIV>
+<DIV style=3D"FONT-SIZE: small; FONT-FAMILY: arial,sans-serif; WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLO=
+R: rgb(34,34,34); FONT-STYLE: normal; LETTER-SPACING: normal; TEXT-INDENT: =
+0px; font-variant-ligatures: normal; font-variant-caps: normal">Thank you.<=
+/DIV></DIV>
+<br /><br />
+<hr style=3D'border:none; color:#909090; background-color:#B0B0B0; height: =
+1px; width: 99%;' />
+<table style=3D'border-collapse:collapse;border:none;'>
+	<tr>
+		<td style=3D'border:none;padding:0px 15px 0px 8px'>
+			<a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=
+=3Dlink&utm_campaign=3Dsig-email&utm_content=3Demailclient">
+				<img border=3D0 src=3D"http://static.avast.com/emails/avast-mail-stamp.=
+png" alt=3D"Avast logo" />
+			</a>
+		</td>
+		<td>
+			<p style=3D'color:#3d4d5a; font-family:"Calibri","Verdana","Arial","Helv=
+etica"; font-size:12pt;'>
+				This email has been checked for viruses by Avast antivirus software.
+				<br><a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&utm_s=
+ource=3Dlink&utm_campaign=3Dsig-email&utm_content=3Demailclient">www.avast.=
+com</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br />
+</BODY></HTML>
+--===============1544377999==--

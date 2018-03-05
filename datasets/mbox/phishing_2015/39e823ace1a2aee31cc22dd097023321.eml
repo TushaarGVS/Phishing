@@ -1,0 +1,99 @@
+Return-Path: <renee.rikeman@outlook.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id B5D42F4005
+	for <jose@login.monkey.org>; Mon, 22 Jun 2015 01:13:08 -0500 (CDT)
+Received: from smtpin05.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 7389D184273
+	for <jose@login.monkey.org>; Mon, 22 Jun 2015 06:13:08 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70326012456.05.wrist02_5594f8edcc93e
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 69,4.5,0,cde4692f2ba4b2bc,d41d8cd98f00b204,renee.rikeman@outlook.com,:,RULES_HIT:41:46:72:150:152:355:379:581:962:967:968:969:973:978:982:983:988:989:1081:1148:1151:1154:1189:1208:1221:1260:1313:1314:1345:1381:1431:1433:1434:1437:1516:1517:1535:1543:1571:1575:1588:1589:1594:1676:1711:1730:1747:1777:1792:2107:2198:2199:2393:2525:2527:2528:2553:2561:2564:2610:2682:2685:2692:2693:2859:2890:2892:2901:2916:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3865:3866:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4605:4700:4811:5007:6117:6119:6678:6688:7809:7875:8583:8603:8957:9025:9080:9121:9908:10013:10346:11233:11529:11658:11914:11984:12043:12114:12438:12520:13038:13237:13255:13374:14036:14037:14096:14347:21067:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0
+X-HE-Tag: wrist02_5594f8edcc93e
+X-Filterd-Recvd-Size: 5160
+Received: from BLU004-OMC4S3.hotmail.com (blu004-omc4s3.hotmail.com [65.55.111.142])
+	by imf18.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 22 Jun 2015 06:13:07 +0000 (UTC)
+Received: from BLU437-SMTP56 ([65.55.111.135]) by BLU004-OMC4S3.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.22751);
+	 Sun, 21 Jun 2015 23:13:08 -0700
+X-TMN: [VVVe13MlWRGOtwVen4B9RHm+wjJ6xY4d]
+X-Originating-Email: [renee.rikeman@outlook.com]
+Message-ID: <BLU437-SMTP56C33B8001829B39C521F5FCA10@phx.gbl>
+From: =?utf-8?Q?Paypal=20service?= <renee.rikeman@outlook.com>
+To: "jose@monkey.org" <jose@monkey.org>
+Date: Sun, 21 Jun 2015 23:13:03 -0700
+Disposition-Notification-To: <renee.rikeman@outlook.com>
+Return-Receipt-To: <renee.rikeman@outlook.com>
+Subject: =?utf-8?Q?Attention=20:=20We=20noticed=20your=20accou?=
+	=?utf-8?Q?nt=20has=20been=20limiited=20(PPID=20PP-003-401-3?=
+	=?utf-8?Q?41-284)?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_b6b46cc37ec94095a97948aa2bedc9a7"
+X-OriginalArrivalTime: 22 Jun 2015 06:13:05.0746 (UTC) FILETIME=[80B84320:01D0ACB2]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 113
+
+--_=aspNetEmail=_b6b46cc37ec94095a97948aa2bedc9a7
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE HTML PUBLIC =22-//W3C//DTD HTML 4=2E0 Transitional//EN=22>=0D=
+=0A<HTML><HEAD></HEAD>=0D=0A<BODY>=0D=0A<TABLE id=3DecxemailWrapperTable =
+cellSpacing=3D0 cellPadding=3D0 width=3D580 border=3D0>=0D=0A  <TBODY>=0D=
+=0A  <TR vAlign=3Dtop>=0D=0A    <TD colSpan=3D3>=0D=0A      <TABLE cellSp=
+acing=3D0 cellPadding=3D0 width=3D=22100=25=22 border=3D0>=0D=0A        <=
+TBODY>=0D=0A        <TR =0D=0A      vAlign=3Dtop><=21-- SCRIPT tag(s) wer=
+e removed  --></TD></TR></TBODY></TABLE></TD></TR>=0D=0A  <TR>=0D=0A    <=
+TD colSpan=3D3><=21-- SCRIPT tag(s) were removed  -->=0D=0A    <TD class=3D=
+ecxcontentArea =0D=0A    style=3D=22WORD-WRAP: break-word; WIDTH: 530px; =
+PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGH=
+T: 12px=22 =0D=0A    width=3D530>=0D=0A      <TABLE width=3D=22100=25=22>=
+=0D=0A        <TBODY>=0D=0A        <TR>=0D=0A          <TD>=0D=0A        =
+    <P>Dear Customer,</P>=0D=0A            <P style=3D=22LINE-HEIGHT: 10p=
+x=22></P>=0D=0A            <P>Your account has been limited because we=27=
+ve reviewed your account =0D=0A            activity and as your payment p=
+rocessor, we need to better understand =0D=0A            your business an=
+d the products or services you are providing to your =0D=0A            cu=
+stomers=2E=26nbsp;</P>=0D=0A            <P>This account limitation will a=
+ffect your ability to:</P>=0D=0A            <P></P>=0D=0A            <UL>=
+=0D=0A              <LI>send money=0D=0A              <LI>withdraw money<=
+/LI></UL>=0D=0A            <P></P>=0D=0A            <P><STRONG>What to do=
+ next</STRONG></P>=0D=0A            <P style=3D=22LINE-HEIGHT: 10px=22></=
+P>=0D=0A            <P style=3D=22LINE-HEIGHT: 10px=22></P>=0D=0A        =
+    <P>Please log in to your PayPal account and provide the requested =0D=
+=0A            information before June 25, 2015 through the Resolution Ce=
+nter=2E If =0D=0A            we don=27t receive the information before th=
+is deadline or we notice =0D=0A            additional significant changes=
+ in your account activity, your =0D=0A            account access may be f=
+urther limited=2E</P>=0D=0A            <P></P>=0D=0A            <P style=3D=
+=22LINE-HEIGHT: 10px=22></P>=0D=0A            <P style=3D=22LINE-HEIGHT: =
+10px=22></P>=0D=0A            <P id=3Dbutton_text class=3Dbutton_style =0D=
+=0A            style=3D=22FONT-SIZE: 13px; FONT-FAMILY: Arial,sans-serif;=
+ BACKGROUND: =23009cde; FONT-WEIGHT: bold; COLOR: =23fff; TEXT-ALIGN: cen=
+ter; -webkit-border-radius: 7px; -moz-border-radius: 7px; border-radius: =
+7px; font-stretch: normal; -o-border-radius: 7px; -ms-border-radius: 7px=22=
+ =0D=0A            align=3Dcenter valign=3D=22middle=22><A =0D=0A        =
+    style=3D=22TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: =23fff; D=
+ISPLAY: block=22 =0D=0A            href=3D=22https://pmaypal=2Ecom=22><SP=
+AN =0D=0A            style=3D=22FONT-SIZE: 13px; TEXT-DECORATION: none; F=
+ONT-FAMILY: Arial,sans-serif; FONT-WEIGHT: bold; COLOR: =23fff; DISPLAY: =
+block; LINE-HEIGHT: 40px =21important=22>Log=26nbsp;In=26nbsp;Now</SPAN><=
+/A></P>=0D=0A            <P style=3D=22LINE-HEIGHT: 10px=22></P>=0D=0A   =
+         <P>Thank you for your understanding and cooperation=2E If you ne=
+ed =0D=0A            further assistance, please click <STRONG><A =0D=0A  =
+          href=3D=22https://pmaypal=2Ecom/=22 target=3D_blank>Contact Us<=
+/A> </STRONG>at =0D=0A            the bottom of any PayPal page=2E</P>=0D=
+=0A            <P></P>=0D=0A            <P>Sincerely,</P>=0D=0A          =
+  <P>PayPal</P>=0D=0A            <P></P></TD></TR></TBODY></TABLE><=21-- =
+SCRIPT tag(s) were removed  --></TD>=0D=0A  <TR><=21-- SCRIPT tag(s) were=
+ removed  --></TR></TBODY></TABLE></BODY></HTML>=0D=0A
+
+--_=aspNetEmail=_b6b46cc37ec94095a97948aa2bedc9a7--

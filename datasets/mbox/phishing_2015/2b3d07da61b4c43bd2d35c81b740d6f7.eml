@@ -1,0 +1,234 @@
+Return-Path: <xx@pp.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E1FAEF409C
+	for <jose@login.monkey.org>; Mon,  7 Sep 2015 12:22:55 -0500 (CDT)
+Received: from smtpin16.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id A67521845C6
+	for <jose@login.monkey.org>; Mon,  7 Sep 2015 17:22:55 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70607117910.16.ball16_53b2b9985a122
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,59e06702bdf3fa83,d41d8cd98f00b204,xx@pp.com,:,RULES_HIT:2:41:72:355:379:581:800:962:967:973:983:988:989:1189:1208:1212:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1566:1570:1571:1575:1588:1592:1594:1606:1710:1714:1730:1777:1792:2145:2525:2527:2560:2568:2610:2627:2682:2685:2859:2890:2892:2895:2896:2901:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3623:3865:3867:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4250:4321:4605:5007:6650:6669:6678:6688:8583:8599:8603:8957:9025:9080:9121:9388:9416:9908:10049:10214:10346:10946:11209:11233:11473:11657:11658:11805:11855:11914:12043:12219:12438:12555:12635:12740:12776:13025:13110:13227:13229:13235:13236:13237:14096:14141:21080,0,RBL:70.28.55.106-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0
+X-HE-Tag: ball16_53b2b9985a122
+X-Filterd-Recvd-Size: 7962
+Received: from ECCEHP7.SAP.COM (TOROON63-1176254314.sdsl.bell.ca [70.28.55.106])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  7 Sep 2015 17:22:55 +0000 (UTC)
+Received: from ECCEHP7.SAP.COM ([127.0.0.1]) by ECCEHP7.SAP.COM with Microsoft SMTPSVC(7.5.7601.17514);
+	 Mon, 7 Sep 2015 22:52:56 +0530
+Content-Type: multipart/alternative; boundary="===============0194573008=="
+MIME-Version: 1.0
+Subject: Amazon account status has been changed
+To: jose@monkey.org
+From: "Amazon" <xx@pp.com>
+Date: Mon, 07 Sep 2015 22:52:56 +0530
+Message-ID: <ECCEHP7FXEdDs01Gijn000473f7@ECCEHP7.SAP.COM>
+X-OriginalArrivalTime: 07 Sep 2015 17:22:56.0130 (UTC) FILETIME=[D5DCEE20:01D0E991]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 169
+
+You will not see this in a MIME-aware mail reader.
+--===============0194573008==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ 	  Your Accounts  |  Your Account  |  Amazon.com 	 =
+
+  =
+
+Account suspended
+ 108-4596473-8009841 	 =
+
+   	 =
+
+   =
+
+   Hello   We were unable to validate important details about your Amazon W=
+eb Services (AWS) Account. Your AWS account has been suspended.
+ 	 =
+
+   	 =
+
+   =
+
+      Please visit your account Details toupdate the payment information fo=
+r your account.
+  =
+
+  Update your paymenet method 	 =
+
+   	 =
+
+     	 =
+
+   =
+
+    Account Details =
+
+   	 =
+
+   	 =
+
+   Account #108-4596473-8009841
+  2015=20
+--===============0194573008==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><img alt=3D"Amazon.com" src=3D"https://ci4.googleuse=
+rcontent.com/proxy/k6_2qriTXIHQ7TqiP8eIMeBBPqxvbRJoBJwcnp43uzfmxo_IlpcDMECg=
+nkMLMVk4fzaE9xS3qSyGh0BXXdB5YYZ31bWf9ATgrmlzWkLHjckw5qWgbLOltg=3Ds0-d-e1-ft=
+#http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/te/logo.png" style=
+=3D"bAccount:0"></a> </td> =
+
+             <td style=3D"text-align:right;padding:5px 0;bAccount-bottom:1p=
+x solid rgb(204,204,204);white-space:nowrap;vertical-align:top;font:13px/18=
+px Arial,sans-serif"> <a href=3D"http://www.amazon.com/gp/r.html?R=3D12FZVE=
+A0WFAQ5&amp;C=3D3F34BJEQQEFMS&amp;H=3DWCSYMU0QOGMLC5CAXDSIMYUHJMAA&amp;T=3D=
+C&amp;U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fyour-Accounts-access%2F=
+ref%3Dpe_385040_30332210_pe_334560_28252370_3p_yo_tn" style=3D"bAccount-rig=
+ht:0px solid rgb(204,204,204);margin-right:0px;padding-right:0px;text-decor=
+ation:none;color:rgb(0,102,153);font:13px/18px Arial,sans-serif" target=3D"=
+_blank">Your Accounts</a> <span style=3D"text-decoration:none;color:rgb(204=
+,204,204);font:15px Arial,san-serif">&nbsp;|&nbsp;</span> <a href=3D"http:/=
+/www.amazon.com/gp/r.html?R=3D12FZVEA0WFAQ5&amp;C=3D3F34BJEQQEFMS&amp;H=3DF=
+KGWJTSBKGPAZDTBOTJXWYNMJ6KA&amp;T=3DC&amp;U=3Dhttps%3A%2F%2Fwww.amazon.com%=
+2Fgp%2Fcss%2Fyour-account-access%2Fref%3Dpe_385040_30332210_pe_334560_28252=
+370_3p_ya_tn" style=3D"bAccount-right:0px solid rgb(204,204,204);margin-rig=
+ht:0px;padding-right:0px;text-decoration:none;color:rgb(0,102,153);font:13p=
+x/18px Arial,sans-serif" target=3D"_blank">Your Account</a> <span style=3D"=
+text-decoration:none;color:rgb(204,204,204);font:15px Arial,san-serif">&nbs=
+p;|&nbsp;</span> <a href=3D"http://www.amazon.com/gp/r.html?R=3D12FZVEA0WFA=
+Q5&amp;C=3D3F34BJEQQEFMS&amp;H=3DYA9QHLAXDXCOUJZUM7AK5R9PZJIA&amp;T=3DC&amp=
+;U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fref%3Dpe_385040_30332210_pe_334560_2825=
+2370_3p_g_tn" style=3D"bAccount:0;margin:0;padding:0;bAccount-right:0px sol=
+id rgb(204,204,204);margin-right:0px;padding-right:0px;text-decoration:none=
+;color:rgb(0,102,153);font:13px/18px Arial,sans-serif" target=3D"_blank"><s=
+pan class=3D"il">Amazon</span>.com</a> </td> =
+
+            </tr> =
+
+            <tr> =
+
+             <td style=3D"text-align:right;padding:7px 0 5px 0;vertical-ali=
+gn:top;font:13px/18px Arial,sans-serif"><h2 style=3D"font-size:20px;line-he=
+ight:24px;margin:0;padding:0;font-weight:normal;color:rgb(0,0,0)!important"=
+>Account suspended</h2> <a href=3D"" style=3D"text-decoration:none;color:rg=
+b(0,102,153);font:13px/18px Arial,sans-serif" target=3D"_blank">108-4596473=
+-8009841</a> </td> =
+
+            </tr> =
+
+           </tbody>
+          </table> </td> =
+
+        </tr> =
+
+        <tr> =
+
+         <td style=3D"vertical-align:top;font:13px/18px Arial,sans-serif"> =
+
+          <table style=3D"width:100%;bAccount-collapse:collapse" cellpaddin=
+g=3D"0"> =
+
+           <tbody>
+            <tr> =
+
+             <td style=3D"vertical-align:top;font:13px/18px Arial,sans-seri=
+f"><span style=3D"font-size:18px;color:rgb(204,102,0);margin:15px 0 0 0;fon=
+t-weight:normal">Hello </span> <p style=3D"margin:4px 0 18px 0;font:13px/18=
+px Arial,sans-serif"> We were unable to validate important details about yo=
+ur Amazon Web Services (AWS) Account.  Your AWS account has been suspended.=
+</p> </td> =
+
+            </tr> =
+
+           </tbody>
+          </table> </td> =
+
+        </tr> =
+
+        <tr> =
+
+         <td colspan=3D"2" style=3D"vertical-align:top;font:13px/18px Arial=
+,sans-serif"> =
+
+          <table style=3D"bAccount-top:3px solid rgb(45,55,65);width:640px;=
+margin:0 0 20px 0;bAccount-collapse:collapse" cellpadding=3D"0"> =
+
+           <tbody>
+            <tr> =
+
+             <td style=3D"font-size:14px;padding:11px 18px 18px 18px;backgr=
+ound-color:rgb(239,239,239);width:280px;vertical-align:top;font:13px/18px A=
+rial,sans-serif"> <p style=3D"color:rgb(0,0,0);margin:2px 0 9px 0;font:13px=
+/18px Arial,sans-serif"> <strong> Please visit your account Details toupdat=
+e the payment information for your account.<br> </strong> </p> <a href=3D""=
+ style=3D"font-size:11px;color:rgb(102,102,102);text-decoration:underline;f=
+ont:13px/18px Arial,sans-serif" target=3D"_blank"> <a href=3D"http://rdmark=
+et.com/rd/jose@monkey.org">Update your paymenet method</a> </td> =
+
+            </tr> =
+
+           </tbody>
+          </table> </td> =
+
+        </tr> =
+
+        <tr> =
+
+         <td style=3D"vertical-align:top;font:13px/18px Arial,sans-serif"> =
+&nbsp; </td> =
+
+        </tr> =
+
+        <tr> =
+
+         <td style=3D"vertical-align:top;font:13px/18px Arial,sans-serif"> =
+
+          <table style=3D"width:100%;bAccount-collapse:collapse" cellpaddin=
+g=3D"0"> =
+
+           <tbody>
+            <tr> =
+
+             <td style=3D"vertical-align:top;font:13px/18px Arial,sans-seri=
+f"> <span style=3D"width:640px;bAccount-bottom:0px solid rgb(204,204,204);m=
+argin:0 0 3px 0;padding:0 0 3px 0;font-size:18px;color:rgb(204,102,0);font-=
+weight:normal">Account Details</span> =
+
+              <table style=3D"margin:3px 0 0 0;bAccount-top:1px solid rgb(2=
+04,204,204);width:100%;bAccount-collapse:collapse">
+               <tbody>
+                <tr>
+                 <td style=3D"vertical-align:top;font:13px/18px Arial,sans-=
+serif"></td>
+                </tr>
+               </tbody>
+              </table> </td> =
+
+            </tr> =
+
+            <tr> =
+
+             <td style=3D"vertical-align:top;font:13px/18px Arial,sans-seri=
+f"> Account #<a href=3D"http://www.amazon.com/gp/r.html?R=3D12FZVEA0WFAQ5&a=
+mp;C=3D3F34BJEQQEFMS&amp;H=3DDX6THNYS3YQAAJR4K1ODK3WDRNCA&amp;T=3DC&amp;U=
+=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fsummary%2Fedit.html%2Fref%3Dpe=
+_385040_30332210_pe_334560_28252370_3p_od%3Fie%3DUTF8%26AccountID%3D108-459=
+6473-8009841" style=3D"text-decoration:none;color:rgb(0,102,153);font:13px/=
+18px Arial,sans-serif" target=3D"_blank">108-4596473-8009841<br></a> <span =
+style=3D"font-size:12px;color:rgb(102,102,102)">  2015 </span></html>
+--===============0194573008==--

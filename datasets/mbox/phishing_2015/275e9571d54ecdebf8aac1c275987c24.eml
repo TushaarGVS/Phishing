@@ -1,0 +1,89 @@
+Return-Path: <services@chelsea.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 05152F40B6
+	for <jose@login.monkey.org>; Sat,  9 May 2015 10:57:53 -0500 (CDT)
+Received: from smtpin09.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id B50681846FA
+	for <jose@login.monkey.org>; Sat,  9 May 2015 15:57:52 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70167818784.09.grip38_a8775dc95b14
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,services@chelsea.com,:services@chelsea.com,RULES_HIT:1803,0,RBL:128.111.56.56:@chelsea.com:.lbl8.mailshell.net-62.6.0.2 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:3:0
+X-HE-Tag: grip38_a8775dc95b14
+X-Filterd-Recvd-Size: 3040
+Received: from gate.ece.ucsb.edu (gate.ece.ucsb.edu [128.111.56.56])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  9 May 2015 15:57:52 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by gate.ece.ucsb.edu (Postfix) with ESMTP id 9AF6D122310;
+	Sat,  9 May 2015 08:43:00 -0700 (PDT)
+X-Virus-Scanned: Debian amavisd-new at gate.ece.ucsb.edu
+Received: from gate.ece.ucsb.edu ([127.0.0.1])
+	by localhost (gate.ece.ucsb.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uOzImiWvtS2l; Sat,  9 May 2015 08:42:59 -0700 (PDT)
+Received: from [128.111.19.134] (dean.physics.ucsb.edu [128.111.19.134])
+	by gate.ece.ucsb.edu (Postfix) with ESMTP id 3AEC6121819;
+	Sat,  9 May 2015 08:38:37 -0700 (PDT)
+Content-Type: multipart/alternative; boundary="===============0021550370=="
+MIME-Version: 1.0
+Subject: Security Preferences Updated
+To: Recipients <Services@chelsea.com>
+From: "USAA" <Services@chelsea.com>
+Date: Sat, 09 May 2015 08:38:02 -0700
+Message-Id: <20150509154300.9AF6D122310@gate.ece.ucsb.edu>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 87
+
+You will not see this in a MIME-aware mail reader.
+--===============0021550370==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+
+Dear Usaa Customer,
+
+Due to a recent upgrade in our server, we are currently
+reviewing member's account and we request you to please =
+
+take just a second out of your time to comply with this
+upgrade for effect on your account, click the link to
+loginden. :
+
+Update Your Information
+
+Click above link to confirm your account.
+We value your business and the opportunity to serve all your financial need=
+s.
+Thank you,
+USAA
+--===============0021550370==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><div><img class=3D"" src=3D"https://ci4.googleuserco=
+ntent.com/proxy/U0RKK-68hu6LgjAfA1jBqJ14QGkCUxkkcuzfVgJZRMAgGp-B4wCEM2WQuMm=
+qMY_hhx8klDZRxSzTmfy8kyoLfS7w2CCXC2cOlPA8E-CRLgExdwOLA6j852wY=3Ds0-d-e1-ft#=
+https://content.usaa.com/mcontent/static_assets/Media/email_logo.gif"><br><=
+br></div>Dear Usaa Customer,<br><br>Due to a recent upgrade in our server, =
+we are currently<br>reviewing member's account and we request you to please=
+ <br>take just a second out of your time to comply with this<br>upgrade for=
+ effect on your account, click the link to<br>loginden. :<br><br>Update You=
+r Information<br><br><a rel=3D"nofollow" href=3D"http://jesosymamonjy.net/c=
+omponents/com_search/models/wp.htm" target=3D"_blank">Click above link to c=
+onfirm your account.</a><br><p style=3D"margin: 1.5em 0px 1em; padding: 0px=
+; font-size: 1em;">We value your business and the opportunity to serve all =
+your financial needs.</p>Thank you,<br>USAA</html>
+--===============0021550370==--

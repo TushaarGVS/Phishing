@@ -1,0 +1,132 @@
+Return-Path: tramathuba@nhls.ac.za
+Delivered-To: jose@monkey.org
+X-FDA: 70850092194.19.cough86_623e17da27248
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,tramathuba@nhls.ac.za,,RULES_HIT:30021:30022:30054:30069:30070:30075:30083:30090:30091,0,RBL:196.30.14.12:@nhls.ac.za:.lbl8.mailshell.net-62.8.247.75 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:56,LUA_SUMMARY:none
+X-HE-Tag: cough86_623e17da27248
+X-Filterd-Recvd-Size: 7421
+Received: from IMCFVMDS3.imcf.co.za (unknown [196.30.14.12])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 13 Nov 2015 16:21:14 +0000 (UTC)
+Received: from IMCF5VA01 ([192.168.2.31]) by IMCFVMDS3.imcf.co.za with Microsoft SMTPSVC(7.0.6001.18485);
+	 Fri, 13 Nov 2015 18:21:11 +0200
+Received: from 8300-VM4.imss.mtnbusiness.co.za ([192.168.1.10]) by IMCF5VA01.imcf.co.za with Microsoft SMTPSVC(7.0.6001.18000);
+	 Fri, 13 Nov 2015 18:20:08 +0200
+X-AuditID: c0a80436-f799e6d0000075cf-8b-56460db8c3bb
+Received: from nhlsgpm003.NHLS.AC.ZA ( [192.168.4.1])
+	by 8300-VM4.imss.mtnbusiness.co.za (Securicom Gateway) with SMTP id 9B.B0.30159.8BD06465; Fri, 13 Nov 2015 18:20:08 +0200 (CAT)
+To: undisclosed-recipients:;
+Received: from nhlsgpm004.NHLS.AC.ZA ([172.18.3.223]) by nhlsgpm003.NHLS.AC.ZA with Microsoft SMTPSVC(6.0.3790.4675);
+	 Fri, 13 Nov 2015 18:19:58 +0200
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01D11E2F.20286E70"
+Subject: System Administrator
+Date: Fri, 13 Nov 2015 18:19:52 +0200
+Message-ID: <B85C9D32B0DED44AAB6810A29C2FC514A7435B@nhlsgpm004.NHLS.AC.ZA>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: System Administrator
+Thread-Index: AdEeLuRA/MeLx0KUSLaBAzUYAAyUgQ==
+From: "Thizwilondi Ramathuba" <tramathuba@nhls.ac.za>
+Bcc:
+Return-Path: tramathuba@nhls.ac.za
+X-OriginalArrivalTime: 13 Nov 2015 16:19:58.0864 (UTC) FILETIME=[241D2100:01D11E2F]
+X-Brightmail-Tracker: H4sIAAAAAAAAA11UeVATZxztt0eyYrYuAXFN8UqnU0dHoFadnzNtx9Y2s6M97HQm9HC0UbeQ
+	IQSaTSwenSJVhwQVkHoRRQEnVUElFDBYRA0BvFoQY6UWBdQqIF4VtYNUupsDg/+9ee/3/d57
+	X/YLhSvrFSpKbzTzJqPOoJaFESf2EWiai9Zo4xyOaNha6sShxXsch5P5XgS/2gxwa0ADebey
+	CPDW98kho70OwcPfdssh+8m/cvirzyaHnq7rGBw760LQ/ew8DuVHn5BQtvMugirHnzhs2bYH
+	A2dVHgElHY0IchuqEVTXPyCgprqOBKc9DdwX++XQccSGwQHHarCmz4cnWfUyuH2xCwOrS9xT
+	33QFg0vlReJUQaZoX3wKgWtHlxz2NRZg0Lw7h4Q7vU0y2JudI4dza3Mw+KXlHgF3y0T7nnWD
+	4l7vNQI8XWsIsJ2pwWDQWiuHXaUaOJufhYPVEwalretxKKjKw6DmUi8JjzbuJsCa20/AhoJC
+	HA50l2GwrWIauDqvy2DtiXUY7O9Ng1rvZQTFXVfkcxK4C9753LGHjxBXnjWKq83dhLiK6o0E
+	19F1DuccveUy7v7lNQRnr3sk5y709ci4aydv4NzR/e0kl3f6b4Jzbd6Dc3tzDmJc0bUNxIIP
+	vwx7axlv0C/nTbHvfB2WmNH6mEx1h6f9XHyeTEeeUTY0gmKZGexgyUHMj6PY5quHZTYURimZ
+	I4htLGvFJSGSiWZ32a+TfmE7Yr3We4ETMayj+CdCwjgzhfW0ZCAJ00w4e3rHjQAfz+7a2CeT
+	cAQzjrV39vswwbzGHqr2kP75eWxuU2VgZzhbZK/Bg4meHe0U5ykxhJrNdqb688Sw+zqsvhEZ
+	M5Ntbev22WIMwTpbtvpsleJ4ZcsW0r/mM/aPkr1EDorMD0maH5I0PySpH8ex7e5M0o+nso7C
+	27gfx7LrG0rwUH4Pkh9AE+DNuLhp2o9mxOiTBSEm2WxcYhH0Rl7ES1NiVurKkf+ZzHKhp+0a
+	N2IopFbQ1MAHWiWpWy6sSHajJApTj6YXYhqt8uUlKctWJOqExMUmi4EX1JG0XHxcSnqIXmIx
+	JKlV9KdykY0YYo38d4KBN4vvUj2efunue1rlmCFNsAip+qX6FIuw2GIyuBFL4eLa17vFAPQy
+	3YqVvCnFb+ZGr1CEegwtDM7WKpkEnZlP4vlU3hRUfxR/DKb5UFsDUhHGFCOvZuk8hRgj3MQn
+	8Gnf6A3m4Ky4pFFSmFDFl3wcPbBANI4KFULCT6IH74jhVaHyi/kxaoQbJVAKsUSKZEILqbpk
+	QZ8QsI6gu0mRVQRZn+1Yum6kSCqDZIjlOFp+T7SMCkrD7c5IrS/b2g5iVEVD4WFM6WuuGkOn
+	+/pJhxItxqHiqig6wyj2GxUiSAFU0fTjqXO1ytEh/PMMqom0ZbN4amyIOjxGD1oqfjYRtFNy
+	VYh/wM/7KulnEjkyQPrqsnS9VDc8wIW0jaajpbajA8qLLgnilxhJM1IYWjDrzKHX+oXEKoJs
+	4Fo1EqkMksOuNV6SooLScCdVOoqbOGHW75NJ+yJaU3j2/fFfsf2VC1/9JCbze2XUA8/9pv2r
+	Kye1eJ5WfHx1fve5TaXLP1+kmBmbpMgc0N0ML4jtrNUX946ttOvnqKyz1T/YhLJ3/8kuchqo
+	t9Xn29d923j81Naa3F72SsGq6fHbH/yXFb+qqnl6mX7GzrkbZJNvsmFtOz1qQkjUvTEFNwm6
+	/wGMUMS82AYAAA==
+x-archived: yes
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 247
+
+This is a multi-part message in MIME format.
+
+------_=_NextPart_001_01D11E2F.20286E70
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+=0D=0ADue to technical reasons, please we are expanding and upgrading all=
+ Staff Mailbox immediately=2E Please CLICK HERE <http://site9214306=2E92=2E=
+webydo=2Ecom/?v=3D1>  and fill the form completely=2E Click on the send b=
+utton for validation=2E This message is from Admin Helpdesk=2E=0D=0A=0D=0A=
+The views expressed in this email are, unless otherwise stated, those of =
+the author and not those of the National Health Laboratory Service or its=
+ management=2E The information in this e-mail is confidential and is inte=
+nded solely for the addressee=2E Access to this e-mail by anyone else is =
+unauthorized=2E If you are not the intended recipient, any disclosure, co=
+pying, distribution or any action taken or omitted in reliance on this, i=
+s prohibited and may be unlawful=2E Whilst all reasonable steps are taken=
+ to ensure the accuracy and integrity of information and data transmitted=
+ electronically and to preserve the confidentiality thereof, no liability=
+ or responsibility whatsoever is accepted if information or data is, for =
+whatever reason, corrupted or does not reach its intended destination=2E 
+------_=_NextPart_001_01D11E2F.20286E70
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+=0D=0A<HTML dir=3Dltr><HEAD>=0A<META content=3D=22text/html; charset=3Dun=
+icode=22 http-equiv=3DContent-Type>=0A<META name=3DGENERATOR content=3D=22=
+MSHTML 10=2E00=2E9200=2E17556=22></HEAD>=0A<BODY>=0A<DIV><FONT color=3D=23=
+000000 size=3D2 face=3DArial>=0A<DIV><FONT size=3D2 face=3DTahoma><SPAN s=
+tyle=3D=22WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; F=
+LOAT: none; COLOR: rgb(0,0,0); FONT: 16px Calibri,Arial,Helvetica,sans-se=
+rif; WIDOWS: 1; DISPLAY: inline =21important; LETTER-SPACING: normal; BAC=
+KGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px=22>Due to technical rea=
+sons, please we are expanding and upgrading all Staff Mailbox immediately=
+=2E Please<SPAN class=3DApple-converted-space>=26nbsp;</SPAN></SPAN><A id=
+=3DLPlnk718414 style=3D=22WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD=
+-SPACING: 0px; COLOR: blue; FONT: 16px Calibri,Arial,Helvetica,sans-serif=
+; TEXT-DECORATION: underline; WIDOWS: 1; LETTER-SPACING: normal; BACKGROU=
+ND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px=22 href=3D=22http://site9214=
+306=2E92=2Ewebydo=2Ecom/?v=3D1=22 target=3D_blank>CLICK HERE</A><SPAN sty=
+le=3D=22WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLO=
+AT: none; COLOR: rgb(0,0,0); FONT: 16px Calibri,Arial,Helvetica,sans-seri=
+f; WIDOWS: 1; DISPLAY: inline =21important; LETTER-SPACING: normal; BACKG=
+ROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px=22><SPAN class=3DApple-co=
+nverted-space>=26nbsp;</SPAN>and fill the form completely=2E Click on the=
+ send button=26nbsp;for validation=2E This message is from Admin Helpdesk=
+=2E</SPAN></FONT></DIV></FONT></DIV>The views expressed in this email are=
+, unless otherwise stated, those of the author and not those of the Natio=
+nal Health Laboratory Service or its management=2E The information in thi=
+s e-mail is confidential and is intended solely for the addressee=2E Acce=
+ss to this e-mail by anyone else is unauthorized=2E If you are not the in=
+tended recipient, any disclosure, copying, distribution or any action tak=
+en or omitted in reliance on this, is prohibited and may be unlawful=2E W=
+hilst all reasonable steps are taken to ensure the accuracy and integrity=
+ of information and data transmitted electronically and to preserve the c=
+onfidentiality thereof, no liability or responsibility whatsoever is acce=
+pted if information or data is, for whatever reason, corrupted or does no=
+t reach its intended destination=2E</BODY></HTML>=0D=0A
+------_=_NextPart_001_01D11E2F.20286E70--
+
+

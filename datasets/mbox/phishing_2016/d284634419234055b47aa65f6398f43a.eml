@@ -1,0 +1,118 @@
+Return-Path: gilles.gravier@univ-amu.fr
+Delivered-To: jose@monkey.org
+X-FDA: 71511685224.20.0B6767C
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin20.b.hostedemail.com (Postfix) with ESMTP id EC03B1FF221;
+	Fri, 13 May 2016 23:58:11 +0000 (UTC)
+X-Spam-Summary: 30,2,0,0c48e8b1573aad92,d41d8cd98f00b204,gilles.gravier@univ-amu.fr,:,RULES_HIT:10:41:355:379:387:582:962:967:969:970:973:978:988:989:1152:1183:1189:1221:1260:1261:1263:1313:1314:1345:1381:1436:1437:1516:1517:1518:1534:1540:1567:1575:1588:1589:1592:1594:1711:1714:1730:1776:1792:2525:2527:2528:2557:2561:2564:2682:2685:2859:2890:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3586:3622:3690:3740:3770:3866:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4362:4552:4659:5007:6261:6300:6658:6678:6684:7903:7904:8603:9025:9388:9411:10007:10049:10214:10400:11257:11656:11658:11914:12043:12050:12051:12225:12231:12292:12519:12521:12555:12658:12679:12855:13139:13163:13229:13439:13845:14096:14181:14721:21433:30001:30051:30054:30069:30070,0,RBL:139.124.245.204:@univ-amu.fr:.lbl8.mailshell.net-62.2.5.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_
+ rules:0:
+X-HE-Tag: heat53_81b293b474317
+X-Filterd-Recvd-Size: 4225
+Received: from amu-phr-out4.univ-amu.fr (amu-phr-out4.univ-amu.fr [139.124.245.204])
+	by imf05.b.hostedemail.com (Postfix) with ESMTP;
+	Fri, 13 May 2016 23:58:11 +0000 (UTC)
+IronPort-PHdr: =?us-ascii?q?9a23=3AWWNNpxNaGdZDYcHMMLsl6mtUPXoX/o7sNwtQ0KIM?=
+ =?us-ascii?q?zox0KPnyrarrMEGX3/hxlliBBdydsKIVzbCM+Pu6EUU7or+/81k6OKRWUBEEjc?=
+ =?us-ascii?q?hE1ycBO+WiTXPBEfjxciYhF95DXlI2t1uyMExSBdqsLwaK+i760zceF13FOBZv?=
+ =?us-ascii?q?IaytQ8iJ35Xxjbr5oMebSj4LrQT+SIs6FA+xowTVu5teqqpZAYF19CH0pGBVcf?=
+ =?us-ascii?q?9d32JiKAHbtR/94sCt4MwrqHwI6LpjtPVLWKDrOpw4TKdYDTIpdm0zoejssxTS?=
+ =?us-ascii?q?CAaJrjtHCj1XwVJmGQ/AuT7Ad6nQnxGymet53CSBdZn5TLQwVC/k4L1iVh7lkg?=
+ =?us-ascii?q?8aMT8ntWjSl4p+lvQI81qauxVjztuNM8muP/1kc/aGJYsX?=
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: =?us-ascii?q?A2Cb+ACFaTZX/wsUwQpegmyBIHIShgikI?=
+ =?us-ascii?q?AEEiBiCIoUEAoFNKIY7gUUMAQEBAQEBAQGBC4IyggcBDz9MAQsBHQwoDQMTJ4Y?=
+ =?us-ascii?q?JgVi0cIIZAU0BggSLCo8DAQ4CARNIgWRtgkkFi2IRjDQXikmEI4FShnqFaI8uE?=
+ =?us-ascii?q?1cDggmBa4EhhhYBBx4QCH8BAQU?=
+X-IPAS-Result: =?us-ascii?q?A2Cb+ACFaTZX/wsUwQpegmyBIHIShgikIAEEiBiCIoUEAoF?=
+ =?us-ascii?q?NKIY7gUUMAQEBAQEBAQGBC4IyggcBDz9MAQsBHQwoDQMTJ4YJgVi0cIIZAU0Bg?=
+ =?us-ascii?q?gSLCo8DAQ4CARNIgWRtgkkFi2IRjDQXikmEI4FShnqFaI8uE1cDggmBa4EhhhY?=
+ =?us-ascii?q?BBx4QCH8BAQU?=
+X-AMU-Spam: AMUspam
+X-IronPort-AV: E=Sophos;i="5.24,615,1454972400"; 
+   d="scan'208,217";a="5356290"
+Received: from r-pj-mail1.salsa.univ-amu.fr ([10.193.20.11])
+  by smtp-phr.univ-amu.fr with ESMTP; 14 May 2016 01:58:09 +0200
+Received: from R-PJ-MAIL3.salsa.univ-amu.fr (10.193.20.13) by
+ R-PJ-MAIL1.salsa.univ-amu.fr (10.193.20.11) with Microsoft SMTP Server (TLS)
+ id 15.0.1156.6; Fri, 13 May 2016 23:27:35 +0200
+Received: from R-PJ-MAIL3.salsa.univ-amu.fr ([fe80::e508:eccb:459a:153f]) by
+ R-PJ-MAIL3.salsa.univ-amu.fr ([fe80::e508:eccb:459a:153f%15]) with mapi id
+ 15.00.1156.000; Fri, 13 May 2016 23:27:35 +0200
+From: GRAVIER Gilles <gilles.gravier@univ-amu.fr>
+Subject: Dear Email User,
+Thread-Topic: Dear Email User,
+Thread-Index: AQHRrV2T4pqwp3ZdcEqqk2d4ZthMdQ==
+Date: Fri, 13 May 2016 21:27:35 +0000
+Message-ID: <1463174835582.86804@univ-amu.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.193.21.1]
+Content-Type: multipart/alternative;
+	boundary="_000_146317483558286804univamufr_"
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 215
+
+--_000_146317483558286804univamufr_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Email User,
+
+Your mailbox has exceeded one or more size limits set by your administrator=
+. Your mailbox size is 164899 KB. You are to receive this warning when your=
+ mailbox reaches 160000 KB mailbox size limits: Account Would be disabled o=
+nly if account owner refuses to re validate account within 48 hours of rece=
+iving this warning. To reset and re validate kindly CLICK HERE:
+
+Activate Here:
+http://amuhelp.jimdo.com/
+
+
+Thank you?
+
+
+--_000_146317483558286804univamufr_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none"><!-- p { margin-top: 0px; m=
+argin-bottom: 0px; }--></style>
+</head>
+<body dir=3D"ltr" style=3D"font-size:12pt;color:#000000;background-color:#F=
+FFFFF;font-family:Calibri,Arial,Helvetica,sans-serif;">
+<div>Dear Email User,</div>
+<div><br>
+</div>
+<div>Your mailbox has exceeded one or more size limits set by your administ=
+rator. Your mailbox size is 164899 KB. You are to receive this warning when=
+ your mailbox reaches 160000 KB mailbox size limits: Account Would be disab=
+led only if account owner refuses
+ to re validate account within 48 hours of receiving this warning. To reset=
+ and re validate kindly CLICK HERE:</div>
+<div><br>
+</div>
+<div>Activate Here: &nbsp;</div>
+<div>http://amuhelp.jimdo.com/</div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div>Thank you&#8203;<br>
+</div>
+<p><br>
+</p>
+</body>
+</html>
+
+--_000_146317483558286804univamufr_--

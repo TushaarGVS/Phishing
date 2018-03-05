@@ -1,0 +1,46 @@
+Return-Path: test@lightworld.co.jp
+Delivered-To: jose@monkey.org
+X-FDA: 71462801844.03.cent06_53202798620
+X-Spam-Summary: 85,1,0,a308fe4d50b31c78,d41d8cd98f00b204,test@lightworld.co.jp,:,RULES_HIT:41:46:72:150:152:375:379:800:967:969:973:983:988:989:1185:1208:1224:1254:1260:1263:1311:1313:1314:1381:1431:1437:1514:1515:1516:1517:1534:1539:1567:1593:1594:1699:1711:1714:1730:1747:1777:1792:2393:2525:2549:2561:2564:2682:2685:2859:2890:2892:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3740:3865:3866:3867:3868:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:5007:6119:6684:6688:7652:8599:8797:9025:9908:10004:10346:10400:10429:10430:10431:11638:11639:11658:11914:11984:12043:12050:12051:12217:12517:12519:12532:12955:12958:13311:13357:14036:14037:14181:14384:14714:14721:19903:19997:21067:21080:21433:30001:30022:30038:30054:30055:30069:30070:30075:30080,0,RBL:220.216.111.23-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:
+X-HE-Tag: cent06_53202798620
+X-Filterd-Recvd-Size: 1976
+Received: from 32.pro.tok2.com (32.pro.tok2.com [220.216.111.23])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 30 Apr 2016 12:40:02 +0000 (UTC)
+Received: from [74.208.98.38] (port=58115 helo=s17039839)
+	by 32.pro.tok2.com with esmtpa (Exim 4.84)
+	(envelope-from <test@lightworld.co.jp>)
+	id 1auibG-0000bM-5n
+	for jose@monkey.org; Tue, 26 Apr 2016 00:39:02 +0900
+MIME-Version: 1.0
+From: "Barclays Customer Service" <test@lightworld.co.jp>
+To: jose@monkey.org
+Reply-To: "Barclays Customer Service" <test@lightworld.co.jp>
+Date: 25 Apr 2016 10:38:59 -0500
+Subject: =?utf-8?B?MSBO0LV3IE1lc3NhZ9C1INOARDogNzI2MjUxODY2?=
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - 32.pro.tok2.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lightworld.co.jp
+X-Get-Message-Sender-Via: 32.pro.tok2.com: authenticated_id: test@lightworld.co.jp
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 193
+
+RGVhciBCYXJjbGF5cyBDdXN0b21lciBqb3NlQG1vbmtleS5vcmcgLDxicj4NCg0KPGJyPldl
+J3JlIGludmVzdGlnYXRpbmcgYSBwYXltZW50IHJldmVyc2FsIDxicj4NCjxicj5XZSByZWNl
+bnRseSBub3RpZmllZCB5b3UgdGhhdCBhIHBheW1lbnQgeW91IHJlY2VpdmVkIHdhcyBtYWRl
+IHdpdGhvdXQgdGhlIGFjY291bnQgaG9sZGVyJ3MgcGVybWlzc2lvbiwgb3Igd2FzIHRoZSBy
+ZXN1bHQgb2YgYSB0cmFuc2FjdGlvbiBlcnJvci48YnI+DQoNCjxicj5UbyBoZWxwIHJlc29s
+dmUgdGhpcyBpc3N1ZSwgPGEgaHJlZj0iaHR0cDovL3dmc2QuY29tL2JhcmNsYXlzLmNvLnVr
+IiB0YXJnZXQ9Il9ibGFuayI+bG9nIGluPC9hPiB0byBZb3VyIEJhcmNsYXlzIEJhbmsgUExD
+IGFjY291bnQgd2l0aGluIHRoZSBuZXh0IDI0IGhvdXJzIGFuZCByZXNwb25kIHRvIG91ciBy
+ZXF1ZXN0IGZvciBpbmZvcm1hdGlvbiBpbiB5b3VyIDxhIGhyZWY9Imh0dHA6Ly93ZnNkLmNv
+bS9iYXJjbGF5cy5jby51ayIgdGFyZ2V0PSJfYmxhbmsiPlJlc29sdXRpb24gQ2VudGVyPC9h
+Pjxicj4NCg0KPGJyPlRoYW5rcyw8YnI+DQpCYXJjbGF5cyBDdXN0b21lciBTZXJ2aWNlDQo8
+YnI+DQo8YnI+DQo8YnI+DQpFbWFpbCBJRCA=
+

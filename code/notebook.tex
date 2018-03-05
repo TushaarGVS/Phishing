@@ -1,0 +1,1465 @@
+
+% Default to the notebook output style
+
+    
+
+
+% Inherit from the specified cell style.
+
+
+
+
+    
+\documentclass[11pt]{article}
+
+    
+    
+    \usepackage[T1]{fontenc}
+    % Nicer default font (+ math font) than Computer Modern for most use cases
+    \usepackage{mathpazo}
+
+    % Basic figure setup, for now with no caption control since it's done
+    % automatically by Pandoc (which extracts ![](path) syntax from Markdown).
+    \usepackage{graphicx}
+    % We will generate all images so they have a width \maxwidth. This means
+    % that they will get their normal width if they fit onto the page, but
+    % are scaled down if they would overflow the margins.
+    \makeatletter
+    \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth
+    \else\Gin@nat@width\fi}
+    \makeatother
+    \let\Oldincludegraphics\includegraphics
+    % Set max figure width to be 80% of text width, for now hardcoded.
+    \renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=.8\maxwidth]{#1}}
+    % Ensure that by default, figures have no caption (until we provide a
+    % proper Figure object with a Caption API and a way to capture that
+    % in the conversion process - todo).
+    \usepackage{caption}
+    \DeclareCaptionLabelFormat{nolabel}{}
+    \captionsetup{labelformat=nolabel}
+
+    \usepackage{adjustbox} % Used to constrain images to a maximum size 
+    \usepackage{xcolor} % Allow colors to be defined
+    \usepackage{enumerate} % Needed for markdown enumerations to work
+    \usepackage{geometry} % Used to adjust the document margins
+    \usepackage{amsmath} % Equations
+    \usepackage{amssymb} % Equations
+    \usepackage{textcomp} % defines textquotesingle
+    % Hack from http://tex.stackexchange.com/a/47451/13684:
+    \AtBeginDocument{%
+        \def\PYZsq{\textquotesingle}% Upright quotes in Pygmentized code
+    }
+    \usepackage{upquote} % Upright quotes for verbatim code
+    \usepackage{eurosym} % defines \euro
+    \usepackage[mathletters]{ucs} % Extended unicode (utf-8) support
+    \usepackage[utf8x]{inputenc} % Allow utf-8 characters in the tex document
+    \usepackage{fancyvrb} % verbatim replacement that allows latex
+    \usepackage{grffile} % extends the file name processing of package graphics 
+                         % to support a larger range 
+    % The hyperref package gives us a pdf with properly built
+    % internal navigation ('pdf bookmarks' for the table of contents,
+    % internal cross-reference links, web links for URLs, etc.)
+    \usepackage{hyperref}
+    \usepackage{longtable} % longtable support required by pandoc >1.10
+    \usepackage{booktabs}  % table support for pandoc > 1.12.2
+    \usepackage[inline]{enumitem} % IRkernel/repr support (it uses the enumerate* environment)
+    \usepackage[normalem]{ulem} % ulem is needed to support strikethroughs (\sout)
+                                % normalem makes italics be italics, not underlines
+    
+
+    
+    
+    % Colors for the hyperref package
+    \definecolor{urlcolor}{rgb}{0,.145,.698}
+    \definecolor{linkcolor}{rgb}{.71,0.21,0.01}
+    \definecolor{citecolor}{rgb}{.12,.54,.11}
+
+    % ANSI colors
+    \definecolor{ansi-black}{HTML}{3E424D}
+    \definecolor{ansi-black-intense}{HTML}{282C36}
+    \definecolor{ansi-red}{HTML}{E75C58}
+    \definecolor{ansi-red-intense}{HTML}{B22B31}
+    \definecolor{ansi-green}{HTML}{00A250}
+    \definecolor{ansi-green-intense}{HTML}{007427}
+    \definecolor{ansi-yellow}{HTML}{DDB62B}
+    \definecolor{ansi-yellow-intense}{HTML}{B27D12}
+    \definecolor{ansi-blue}{HTML}{208FFB}
+    \definecolor{ansi-blue-intense}{HTML}{0065CA}
+    \definecolor{ansi-magenta}{HTML}{D160C4}
+    \definecolor{ansi-magenta-intense}{HTML}{A03196}
+    \definecolor{ansi-cyan}{HTML}{60C6C8}
+    \definecolor{ansi-cyan-intense}{HTML}{258F8F}
+    \definecolor{ansi-white}{HTML}{C5C1B4}
+    \definecolor{ansi-white-intense}{HTML}{A1A6B2}
+
+    % commands and environments needed by pandoc snippets
+    % extracted from the output of `pandoc -s`
+    \providecommand{\tightlist}{%
+      \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+    % Add ',fontsize=\small' for more characters per line
+    \newenvironment{Shaded}{}{}
+    \newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{{#1}}}}
+    \newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{{#1}}}
+    \newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{{#1}}}}
+    \newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{{#1}}}
+    \newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+    \newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{{#1}}}
+    \newcommand{\RegionMarkerTok}[1]{{#1}}
+    \newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+    \newcommand{\NormalTok}[1]{{#1}}
+    
+    % Additional commands for more recent versions of Pandoc
+    \newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{{#1}}}
+    \newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{{#1}}}
+    \newcommand{\ImportTok}[1]{{#1}}
+    \newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{{#1}}}}
+    \newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    \newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    \newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{{#1}}}
+    \newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{{#1}}}}
+    \newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{{#1}}}
+    \newcommand{\BuiltInTok}[1]{{#1}}
+    \newcommand{\ExtensionTok}[1]{{#1}}
+    \newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{{#1}}}
+    \newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{{#1}}}
+    \newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    \newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    
+    
+    % Define a nice break command that doesn't care if a line doesn't already
+    % exist.
+    \def\br{\hspace*{\fill} \\* }
+    % Math Jax compatability definitions
+    \def\gt{>}
+    \def\lt{<}
+    % Document parameters
+    \title{feature\_extraction}
+    
+    
+    
+
+    % Pygments definitions
+    
+\makeatletter
+\def\PY@reset{\let\PY@it=\relax \let\PY@bf=\relax%
+    \let\PY@ul=\relax \let\PY@tc=\relax%
+    \let\PY@bc=\relax \let\PY@ff=\relax}
+\def\PY@tok#1{\csname PY@tok@#1\endcsname}
+\def\PY@toks#1+{\ifx\relax#1\empty\else%
+    \PY@tok{#1}\expandafter\PY@toks\fi}
+\def\PY@do#1{\PY@bc{\PY@tc{\PY@ul{%
+    \PY@it{\PY@bf{\PY@ff{#1}}}}}}}
+\def\PY#1#2{\PY@reset\PY@toks#1+\relax+\PY@do{#2}}
+
+\expandafter\def\csname PY@tok@gd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gu\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.50,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@gt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.27,0.87}{##1}}}
+\expandafter\def\csname PY@tok@gs\endcsname{\let\PY@bf=\textbf}
+\expandafter\def\csname PY@tok@gr\endcsname{\def\PY@tc##1{\textcolor[rgb]{1.00,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@cm\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@vg\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@vi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@vm\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@mh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@cs\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@ge\endcsname{\let\PY@it=\textit}
+\expandafter\def\csname PY@tok@vc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@il\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@go\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.53,0.53,0.53}{##1}}}
+\expandafter\def\csname PY@tok@cp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.74,0.48,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gh\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@ni\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.60,0.60,0.60}{##1}}}
+\expandafter\def\csname PY@tok@nl\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@no\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.53,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@na\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.49,0.56,0.16}{##1}}}
+\expandafter\def\csname PY@tok@nb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@nd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@ne\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.82,0.25,0.23}{##1}}}
+\expandafter\def\csname PY@tok@nf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@si\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@s2\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@nt\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nv\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@s1\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@dl\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@ch\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@m\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@gp\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@sh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@ow\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@sx\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@bp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@c1\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@fm\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@o\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@kc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@c\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@mf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@err\endcsname{\def\PY@bc##1{\setlength{\fboxsep}{0pt}\fcolorbox[rgb]{1.00,0.00,0.00}{1,1,1}{\strut ##1}}}
+\expandafter\def\csname PY@tok@mb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@ss\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@sr\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@mo\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@kd\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@mi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@kn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@cpf\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@kr\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@s\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@kp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@w\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.73,0.73}{##1}}}
+\expandafter\def\csname PY@tok@kt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.69,0.00,0.25}{##1}}}
+\expandafter\def\csname PY@tok@sc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sa\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@k\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@se\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sd\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+
+\def\PYZbs{\char`\\}
+\def\PYZus{\char`\_}
+\def\PYZob{\char`\{}
+\def\PYZcb{\char`\}}
+\def\PYZca{\char`\^}
+\def\PYZam{\char`\&}
+\def\PYZlt{\char`\<}
+\def\PYZgt{\char`\>}
+\def\PYZsh{\char`\#}
+\def\PYZpc{\char`\%}
+\def\PYZdl{\char`\$}
+\def\PYZhy{\char`\-}
+\def\PYZsq{\char`\'}
+\def\PYZdq{\char`\"}
+\def\PYZti{\char`\~}
+% for compatibility with earlier versions
+\def\PYZat{@}
+\def\PYZlb{[}
+\def\PYZrb{]}
+\makeatother
+
+
+    % Exact colors from NB
+    \definecolor{incolor}{rgb}{0.0, 0.0, 0.5}
+    \definecolor{outcolor}{rgb}{0.545, 0.0, 0.0}
+
+
+
+    
+    % Prevent overflowing lines due to hard-to-break entities
+    \sloppy 
+    % Setup hyperref package
+    \hypersetup{
+      breaklinks=true,  % so long urls are correctly broken across lines
+      colorlinks=true,
+      urlcolor=urlcolor,
+      linkcolor=linkcolor,
+      citecolor=citecolor,
+      }
+    % Slightly bigger margins than the latex defaults
+    
+    \geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+    
+    
+
+    \begin{document}
+    
+    
+    \maketitle
+    
+    
+
+    
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}1}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        \PY{l+s+sd}{Necessary Python libraries and Initial setup}
+        \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        
+        \PY{c+c1}{\PYZsh{} Necessary Python libraries}
+        \PY{k+kn}{from} \PY{n+nn}{BeautifulSoup} \PY{k+kn}{import} \PY{n}{BeautifulSoup}
+        \PY{k+kn}{import} \PY{n+nn}{re}\PY{o}{,} \PY{n+nn}{os}\PY{o}{,} \PY{n+nn}{sys}
+        \PY{k+kn}{from} \PY{n+nn}{bs4} \PY{k+kn}{import} \PY{n}{BeautifulSoup}
+        \PY{k+kn}{import} \PY{n+nn}{pprint}
+        \PY{k+kn}{from} \PY{n+nn}{urlparse} \PY{k+kn}{import} \PY{n}{urlparse}
+        \PY{k+kn}{import} \PY{n+nn}{email}
+        \PY{k+kn}{from} \PY{n+nn}{IPy} \PY{k+kn}{import} \PY{n}{IP}
+        \PY{k+kn}{import} \PY{n+nn}{email.header}
+        \PY{k+kn}{import} \PY{n+nn}{csv}
+        \PY{k+kn}{from} \PY{n+nn}{collections} \PY{k+kn}{import} \PY{n}{Counter}
+        \PY{k+kn}{from} \PY{n+nn}{HTMLParser} \PY{k+kn}{import} \PY{n}{HTMLParser}
+        
+        \PY{c+c1}{\PYZsh{} Set the encoding to UTF\PYZhy{}8 and print output on Jupyter Notebook}
+        \PY{n}{stdout} \PY{o}{=} \PY{n}{sys}\PY{o}{.}\PY{n}{stdout}
+        \PY{n+nb}{reload}\PY{p}{(}\PY{n}{sys}\PY{p}{)}
+        \PY{n}{sys}\PY{o}{.}\PY{n}{setdefaultencoding}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{UTF8}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+        \PY{n}{sys}\PY{o}{.}\PY{n}{stdout} \PY{o}{=} \PY{n}{stdout}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}3}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        \PY{l+s+sd}{Additional pre\PYZhy{}processing functions}
+        \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        
+        \PY{c+c1}{\PYZsh{} Difference two lists}
+        \PY{k}{def} \PY{n+nf}{difference}\PY{p}{(}\PY{n}{first}\PY{p}{,} \PY{n}{second}\PY{p}{)}\PY{p}{:}
+            \PY{n}{second} \PY{o}{=} \PY{n+nb}{set}\PY{p}{(}\PY{n}{second}\PY{p}{)}
+            \PY{k}{for} \PY{n}{item} \PY{o+ow}{in} \PY{n}{second}\PY{p}{:}
+                \PY{k}{if} \PY{n}{item} \PY{o+ow}{in} \PY{n}{first}\PY{p}{:}
+                    \PY{n}{first}\PY{o}{.}\PY{n}{remove}\PY{p}{(}\PY{n}{item}\PY{p}{)}
+            \PY{k}{return} \PY{n}{first}
+            
+        \PY{c+c1}{\PYZsh{} Counts the number of characters in a given string}
+        \PY{k}{def} \PY{n+nf}{count\PYZus{}characters}\PY{p}{(}\PY{n}{string}\PY{p}{)}\PY{p}{:}
+            \PY{k}{return} \PY{n+nb}{len}\PY{p}{(}\PY{n}{string}\PY{p}{)} \PY{o}{\PYZhy{}} \PY{n}{string}\PY{o}{.}\PY{n}{count}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{ }\PY{l+s+s1}{\PYZsq{}}\PY{p}{)} \PY{o}{\PYZhy{}} \PY{n}{string}\PY{o}{.}\PY{n}{count}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+se}{\PYZbs{}n}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+        
+        \PY{c+c1}{\PYZsh{} Extract URLs in the message}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}urls}\PY{p}{(}\PY{n}{msg}\PY{p}{)}\PY{p}{:}
+            \PY{n}{mail} \PY{o}{=} \PY{n+nb}{str}\PY{p}{(}\PY{n}{msg}\PY{p}{)}
+            \PY{n}{urls} \PY{o}{=} \PY{n}{re}\PY{o}{.}\PY{n}{findall}\PY{p}{(}\PY{l+s+sa}{r}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{http[s]?://(?:[a\PYZhy{}zA\PYZhy{}Z]|[0\PYZhy{}9]|[\PYZdl{}\PYZhy{}\PYZus{}@.\PYZam{}+]|[!*}\PY{l+s+s2}{\PYZbs{}}\PY{l+s+s2}{(}\PY{l+s+s2}{\PYZbs{}}\PY{l+s+s2}{),]|(?:}\PY{l+s+s2}{\PYZpc{}}\PY{l+s+s2}{[0\PYZhy{}9a\PYZhy{}fA\PYZhy{}F][0\PYZhy{}9a\PYZhy{}fA\PYZhy{}F]))+}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{mail}\PY{p}{)}
+            \PY{k}{return} \PY{n}{urls}
+        
+        \PY{c+c1}{\PYZsh{} Extract anchor URLs in the message}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}anchor\PYZus{}urls}\PY{p}{(}\PY{n}{msg}\PY{p}{)}\PY{p}{:}
+            \PY{n}{anchor\PYZus{}urls} \PY{o}{=} \PY{p}{[}\PY{p}{]}
+            \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{msg}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{lxml}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+            \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{a}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{attrs}\PY{o}{=}\PY{p}{\PYZob{}}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{href}\PY{l+s+s1}{\PYZsq{}}\PY{p}{:} \PY{n}{re}\PY{o}{.}\PY{n}{compile}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{\PYZca{}http[s]?://}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{\PYZcb{}}\PY{p}{)}\PY{p}{:}
+                \PY{n}{anchor\PYZus{}urls}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{n}{link}\PY{o}{.}\PY{n}{get}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{href}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{)}
+            \PY{k}{return} \PY{n}{anchor\PYZus{}urls}
+        
+        \PY{c+c1}{\PYZsh{} Extract the domain from the email}
+        \PY{k}{def} \PY{n+nf}{get\PYZus{}email\PYZus{}domain}\PY{p}{(}\PY{n}{string}\PY{p}{)}\PY{p}{:}
+            \PY{n}{domain} \PY{o}{=} \PY{n}{re}\PY{o}{.}\PY{n}{search}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{@[}\PY{l+s+s2}{\PYZbs{}}\PY{l+s+s2}{w.]+}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{string}\PY{p}{)}
+            \PY{k}{if} \PY{n}{domain} \PY{o+ow}{is} \PY{n+nb+bp}{None}\PY{p}{:}
+                \PY{k}{return} \PY{n+nb+bp}{None}
+            \PY{k}{return} \PY{n+nb}{str}\PY{p}{(}\PY{n}{domain}\PY{o}{.}\PY{n}{group}\PY{p}{(}\PY{p}{)}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{:}\PY{p}{]}
+        
+        \PY{c+c1}{\PYZsh{} Extract domain from URL}
+        \PY{k}{def} \PY{n+nf}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{url}\PY{p}{)}\PY{p}{:}
+            \PY{n}{domain} \PY{o}{=} \PY{n+nb+bp}{None}
+            \PY{k}{if} \PY{n}{url}\PY{p}{:}
+                \PY{k}{if} \PY{l+s+sa}{u}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{@}\PY{l+s+s1}{\PYZsq{}} \PY{o+ow}{in} \PY{n+nb}{str}\PY{p}{(}\PY{n}{url}\PY{p}{)}\PY{p}{:}
+                    \PY{n}{domain} \PY{o}{=} \PY{n}{get\PYZus{}email\PYZus{}domain}\PY{p}{(}\PY{n+nb}{str}\PY{p}{(}\PY{n}{url}\PY{p}{)}\PY{p}{)}
+                \PY{k}{else}\PY{p}{:}
+                    \PY{n}{parsed\PYZus{}uri} \PY{o}{=} \PY{n}{urlparse}\PY{p}{(}\PY{n}{url}\PY{p}{)}
+                    \PY{n}{domain} \PY{o}{=} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{\PYZob{}uri.netloc\PYZcb{}}\PY{l+s+s1}{\PYZsq{}}\PY{o}{.}\PY{n}{format}\PY{p}{(}\PY{n}{uri}\PY{o}{=}\PY{n}{parsed\PYZus{}uri}\PY{p}{)}
+                    \PY{k}{if} \PY{n}{domain}\PY{o}{.}\PY{n}{startswith}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{www.}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{:}
+                        \PY{k}{return} \PY{n}{domain}\PY{p}{[}\PY{l+m+mi}{4}\PY{p}{:}\PY{p}{]}
+            \PY{k}{return} \PY{n}{domain}
+            
+        \PY{c+c1}{\PYZsh{} Find the most frequent url in a list of URLs}
+        \PY{k}{def} \PY{n+nf}{most\PYZus{}common\PYZus{}url}\PY{p}{(}\PY{n}{urls}\PY{p}{)}\PY{p}{:}
+            \PY{k}{if} \PY{n}{urls}\PY{p}{:}
+                \PY{n}{modal\PYZus{}url} \PY{o}{=} \PY{n+nb}{max}\PY{p}{(}\PY{n+nb}{set}\PY{p}{(}\PY{n}{urls}\PY{p}{)}\PY{p}{,} \PY{n}{key}\PY{o}{=}\PY{n}{urls}\PY{o}{.}\PY{n}{count}\PY{p}{)}
+                \PY{k}{return} \PY{n}{modal\PYZus{}url}
+            \PY{k}{else}\PY{p}{:}
+                \PY{k}{return} \PY{n+nb+bp}{None}
+            
+        \PY{c+c1}{\PYZsh{} Remove file if it exists}
+        \PY{k}{def} \PY{n+nf}{remove\PYZus{}if\PYZus{}exists}\PY{p}{(}\PY{n}{filename}\PY{p}{)}\PY{p}{:}
+            \PY{k}{try}\PY{p}{:}
+                \PY{n}{os}\PY{o}{.}\PY{n}{remove}\PY{p}{(}\PY{n}{filename}\PY{p}{)}
+            \PY{k}{except} \PY{n+ne}{OSError}\PY{p}{:}
+                \PY{k}{pass}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}4}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        \PY{l+s+sd}{Functions needed to extract the necessary fields}
+        \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        
+        \PY{c+c1}{\PYZsh{} Get paths to spam, test, easy\PYZus{}ham, phishing\PYZus{}2015 and phishing\PYZus{}2016 folders}
+        \PY{n}{spam\PYZus{}path} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{/home/tushaar/Desktop/phishing\PYZus{}corpus/datasets/spam}\PY{l+s+s2}{\PYZdq{}}
+        \PY{n}{test\PYZus{}path} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{/home/tushaar/Desktop/phishing\PYZus{}corpus/datasets/test}\PY{l+s+s2}{\PYZdq{}}
+        \PY{n}{easy\PYZus{}ham\PYZus{}path} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{/home/tushaar/Desktop/phishing\PYZus{}corpus/datasets/easy\PYZus{}ham}\PY{l+s+s2}{\PYZdq{}}
+        \PY{n}{phishing\PYZus{}2015\PYZus{}path} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{/home/tushaar/Desktop/phishing\PYZus{}corpus/datasets/mbox/phishing\PYZus{}2015}\PY{l+s+s2}{\PYZdq{}}
+        \PY{n}{phishing\PYZus{}2016\PYZus{}path} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{/home/tushaar/Desktop/phishing\PYZus{}corpus/datasets/mbox/phishing\PYZus{}2016}\PY{l+s+s2}{\PYZdq{}}
+        
+        \PY{c+c1}{\PYZsh{} Read the files (filenames) in the chosen path}
+        \PY{k}{def} \PY{n+nf}{get\PYZus{}files}\PY{p}{(}\PY{n}{path}\PY{p}{)}\PY{p}{:}
+            \PY{n}{mail\PYZus{}files} \PY{o}{=} \PY{n}{os}\PY{o}{.}\PY{n}{listdir}\PY{p}{(}\PY{n}{path}\PY{p}{)}
+            \PY{k}{return} \PY{n}{mail\PYZus{}files}
+        
+        \PY{c+c1}{\PYZsh{} Extract the message from the email (read as string)}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}msg}\PY{p}{(}\PY{n}{path}\PY{p}{,} \PY{n}{mail\PYZus{}file}\PY{p}{)}\PY{p}{:}
+            \PY{n}{mail\PYZus{}file} \PY{o}{=} \PY{n}{path} \PY{o}{+} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{/}\PY{l+s+s1}{\PYZsq{}} \PY{o}{+} \PY{n}{mail\PYZus{}file}
+            \PY{n}{fp} \PY{o}{=} \PY{n+nb}{open}\PY{p}{(}\PY{n}{mail\PYZus{}file}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{rb}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+            \PY{n}{mail} \PY{o}{=} \PY{n}{fp}\PY{o}{.}\PY{n}{read}\PY{p}{(}\PY{p}{)}
+            \PY{n}{fp}\PY{o}{.}\PY{n}{close}\PY{p}{(}\PY{p}{)}
+        
+            \PY{n}{msg} \PY{o}{=} \PY{n}{email}\PY{o}{.}\PY{n}{message\PYZus{}from\PYZus{}string}\PY{p}{(}\PY{n}{mail}\PY{p}{)}
+            \PY{k}{return} \PY{n}{msg}
+        
+        \PY{c+c1}{\PYZsh{} Extract the body from the message}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}body}\PY{p}{(}\PY{n}{msg}\PY{p}{)}\PY{p}{:}
+            \PY{n}{body\PYZus{}content} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{\PYZdq{}}
+            \PY{k}{if} \PY{n}{msg}\PY{o}{.}\PY{n}{is\PYZus{}multipart}\PY{p}{(}\PY{p}{)}\PY{p}{:}
+                \PY{k}{for} \PY{n}{payload} \PY{o+ow}{in} \PY{n}{msg}\PY{o}{.}\PY{n}{get\PYZus{}payload}\PY{p}{(}\PY{p}{)}\PY{p}{:}
+                    \PY{n}{body\PYZus{}content} \PY{o}{+}\PY{o}{=} \PY{n+nb}{str}\PY{p}{(}\PY{n}{payload}\PY{o}{.}\PY{n}{get\PYZus{}payload}\PY{p}{(}\PY{p}{)}\PY{p}{)}
+            \PY{k}{else}\PY{p}{:}
+                \PY{n}{body\PYZus{}content} \PY{o}{+}\PY{o}{=} \PY{n}{msg}\PY{o}{.}\PY{n}{get\PYZus{}payload}\PY{p}{(}\PY{p}{)}
+            \PY{k}{return} \PY{n}{body\PYZus{}content}
+        
+        \PY{c+c1}{\PYZsh{} Extract the subject from message}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}subj}\PY{p}{(}\PY{n}{msg}\PY{p}{)}\PY{p}{:}
+            \PY{n}{decode\PYZus{}subj} \PY{o}{=} \PY{n}{email}\PY{o}{.}\PY{n}{header}\PY{o}{.}\PY{n}{decode\PYZus{}header}\PY{p}{(}\PY{n}{msg}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Subject}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}
+            \PY{k}{try}\PY{p}{:}
+                \PY{n}{subj\PYZus{}content} \PY{o}{=} \PY{n+nb}{unicode}\PY{p}{(}\PY{n}{decode\PYZus{}subj}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{)}
+            \PY{k}{except}\PY{p}{:}
+                \PY{n}{subj\PYZus{}content} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{None}\PY{l+s+s2}{\PYZdq{}}
+            \PY{k}{return} \PY{n}{subj\PYZus{}content}
+        
+        \PY{c+c1}{\PYZsh{} Extract sender address from message}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}send\PYZus{}address}\PY{p}{(}\PY{n}{msg}\PY{p}{)}\PY{p}{:}
+            \PY{n}{decode\PYZus{}send} \PY{o}{=} \PY{n}{email}\PY{o}{.}\PY{n}{header}\PY{o}{.}\PY{n}{decode\PYZus{}header}\PY{p}{(}\PY{n}{msg}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{From}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}
+            \PY{k}{try}\PY{p}{:}
+                \PY{n}{send\PYZus{}address} \PY{o}{=} \PY{n+nb}{unicode}\PY{p}{(}\PY{n}{decode\PYZus{}send}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{)}
+            \PY{k}{except}\PY{p}{:}
+                \PY{n}{send\PYZus{}address} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{None}\PY{l+s+s2}{\PYZdq{}}
+            \PY{k}{return} \PY{n}{send\PYZus{}address}
+        
+        \PY{c+c1}{\PYZsh{} Extract reply\PYZhy{}to address from message}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}replyTo\PYZus{}address}\PY{p}{(}\PY{n}{msg}\PY{p}{)}\PY{p}{:}
+            \PY{n}{decode\PYZus{}replyTo} \PY{o}{=} \PY{n}{email}\PY{o}{.}\PY{n}{header}\PY{o}{.}\PY{n}{decode\PYZus{}header}\PY{p}{(}\PY{n}{msg}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Reply\PYZhy{}To}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}
+            \PY{k}{try}\PY{p}{:}
+                \PY{n}{replyTo\PYZus{}address} \PY{o}{=} \PY{n+nb}{unicode}\PY{p}{(}\PY{n}{decode\PYZus{}replyTo}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{)}
+            \PY{k}{except}\PY{p}{:}
+                \PY{n}{replyTo\PYZus{}address} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{None}\PY{l+s+s2}{\PYZdq{}}
+            \PY{k}{return} \PY{n}{replyTo\PYZus{}address}
+        
+        \PY{c+c1}{\PYZsh{} Extract the modal url from message}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}modal\PYZus{}url}\PY{p}{(}\PY{n}{msg}\PY{p}{)}\PY{p}{:}
+            \PY{n}{urls} \PY{o}{=} \PY{n}{extract\PYZus{}urls}\PY{p}{(}\PY{n}{msg}\PY{p}{)}
+            \PY{n}{modal\PYZus{}url} \PY{o}{=} \PY{n}{most\PYZus{}common\PYZus{}url}\PY{p}{(}\PY{n}{urls}\PY{p}{)}
+            \PY{k}{return} \PY{n}{modal\PYZus{}url}
+        
+        \PY{c+c1}{\PYZsh{} Extract all links}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}all\PYZus{}links}\PY{p}{(}\PY{n}{msg}\PY{p}{)}\PY{p}{:}
+            \PY{n}{links} \PY{o}{=} \PY{p}{[}\PY{p}{]}
+            \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{msg}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{lxml}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+            \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{a}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{:}
+                \PY{n}{links}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{n}{link}\PY{o}{.}\PY{n}{get}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{href}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{)}
+            
+            \PY{n}{all\PYZus{}urls} \PY{o}{=} \PY{n}{extract\PYZus{}urls}\PY{p}{(}\PY{n}{msg}\PY{p}{)}
+            \PY{n}{anchor\PYZus{}urls} \PY{o}{=} \PY{n}{extract\PYZus{}anchor\PYZus{}urls}\PY{p}{(}\PY{n}{msg}\PY{p}{)}
+            
+            \PY{n}{urls} \PY{o}{=} \PY{n}{difference}\PY{p}{(}\PY{n}{all\PYZus{}urls}\PY{p}{,} \PY{n}{anchor\PYZus{}urls}\PY{p}{)}
+            \PY{n}{links} \PY{o}{=} \PY{n}{links} \PY{o}{+} \PY{n}{urls}
+            \PY{k}{return} \PY{n}{links}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}5}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        \PY{l+s+sd}{Extract the necessary fields}
+        \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        
+        \PY{c+c1}{\PYZsh{} Run the function to extract necessary fields of a mail}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}necessary\PYZus{}fields}\PY{p}{(}\PY{n}{path}\PY{p}{,} \PY{n}{mail}\PY{p}{)}\PY{p}{:}
+            \PY{n}{necessary\PYZus{}fields} \PY{o}{=} \PY{p}{\PYZob{}}\PY{p}{\PYZcb{}}
+            \PY{n}{msg} \PY{o}{=} \PY{n}{extract\PYZus{}msg}\PY{p}{(}\PY{n}{path}\PY{p}{,} \PY{n}{mail}\PY{p}{)}
+            
+            \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{extract\PYZus{}body}\PY{p}{(}\PY{n}{msg}\PY{p}{)}
+            \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{extract\PYZus{}subj}\PY{p}{(}\PY{n}{msg}\PY{p}{)}
+            \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{send}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{extract\PYZus{}send\PYZus{}address}\PY{p}{(}\PY{n}{msg}\PY{p}{)}
+            \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{replyTo}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{extract\PYZus{}replyTo\PYZus{}address}\PY{p}{(}\PY{n}{msg}\PY{p}{)}
+            \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{modalURL}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{extract\PYZus{}modal\PYZus{}url}\PY{p}{(}\PY{n}{msg}\PY{p}{)}
+            \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{links}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{extract\PYZus{}all\PYZus{}links}\PY{p}{(}\PY{n+nb}{str}\PY{p}{(}\PY{n}{msg}\PY{p}{)}\PY{p}{)}
+            
+            \PY{k}{return} \PY{n}{necessary\PYZus{}fields}
+        
+        \PY{c+c1}{\PYZsh{} Verify that everything till here is correct}
+        \PY{n}{mail\PYZus{}files} \PY{o}{=} \PY{n}{get\PYZus{}files}\PY{p}{(}\PY{n}{test\PYZus{}path}\PY{p}{)}
+        \PY{k}{print} \PY{n+nb}{len}\PY{p}{(}\PY{n}{mail\PYZus{}files}\PY{p}{)}
+        \PY{k}{print} \PY{n}{mail\PYZus{}files}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}
+        \PY{n}{mail0\PYZus{}necessary\PYZus{}fields} \PY{o}{=} \PY{n}{extract\PYZus{}necessary\PYZus{}fields}\PY{p}{(}\PY{n}{test\PYZus{}path}\PY{p}{,} \PY{n}{mail\PYZus{}files}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{)}
+        \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{,} \PY{n}{width} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+5
+test2.eml
+\{'body': 'Test case to test subject line features\textbackslash{}n\textbackslash{}nTwice a year, we produce unique, immersive, and state of the art fashion experiences to showcase the newest collections of LA-based and international designers. LAFW is at the forefront of innovation and design as we foster relationships between fashion tech startups, designers, retailers, and the media.\textbackslash{}n\textbackslash{}n<a href="https://lafw.net/"> Click here for more information </a>\textbackslash{}n',
+ 'links': ['https://lafw.net/'],
+ 'modalURL': 'https://lafw.net/',
+ 'replyTo': u'15it117.tushaar@nitk.edu.in',
+ 'send': u'"Tushaar Gangarapu" <tushaar@nitk.edu.in>',
+ 'subj': u'Re: Verify test case 02'\}
+
+    \end{Verbatim}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}6}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        \PY{l+s+sd}{Functions to extract body based attributes}
+        \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        
+        \PY{c+c1}{\PYZsh{} Boolean: if HTML is present or not}
+        \PY{k}{def} \PY{n+nf}{body\PYZus{}html}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{body\PYZus{}html} \PY{o}{=} \PY{n+nb}{bool}\PY{p}{(}\PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{html.parser}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{p}{)}\PY{p}{)}
+            \PY{k}{return} \PY{n}{body\PYZus{}html}
+        
+        \PY{c+c1}{\PYZsh{} Boolean: if HTML has \PYZlt{}form\PYZgt{} or not}
+        \PY{k}{def} \PY{n+nf}{body\PYZus{}forms}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{body\PYZus{}forms} \PY{o}{=} \PY{n+nb}{bool}\PY{p}{(}\PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{html.parser}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{form}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{)}
+            \PY{k}{return} \PY{n}{body\PYZus{}forms}
+        
+        \PY{c+c1}{\PYZsh{} Integer: number of words in the body}
+        \PY{k}{def} \PY{n+nf}{body\PYZus{}noWords}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{body\PYZus{}noWords} \PY{o}{=} \PY{n+nb}{len}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{o}{.}\PY{n}{split}\PY{p}{(}\PY{p}{)}\PY{p}{)}
+            \PY{k}{return} \PY{n}{body\PYZus{}noWords}
+        
+        \PY{c+c1}{\PYZsh{} Integer: number of characters in the body}
+        \PY{k}{def} \PY{n+nf}{body\PYZus{}noCharacters}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{body\PYZus{}noCharacters} \PY{o}{=} \PY{n}{count\PYZus{}characters}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+            \PY{k}{return} \PY{n}{body\PYZus{}noCharacters}
+        
+        \PY{c+c1}{\PYZsh{} Integer: number of distinct words in the body}
+        \PY{k}{def} \PY{n+nf}{body\PYZus{}noDistinctWords}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{body\PYZus{}noDistinctWords} \PY{o}{=} \PY{n+nb}{len}\PY{p}{(}\PY{n}{Counter}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{o}{.}\PY{n}{split}\PY{p}{(}\PY{p}{)}\PY{p}{)}\PY{p}{)}
+            \PY{k}{return} \PY{n}{body\PYZus{}noDistinctWords}
+        
+        \PY{c+c1}{\PYZsh{} Float: richness of the text (body)}
+        \PY{k}{def} \PY{n+nf}{body\PYZus{}richness}\PY{p}{(}\PY{n}{body\PYZus{}noWords}\PY{p}{,} \PY{n}{body\PYZus{}noCharacters}\PY{p}{)}\PY{p}{:}
+            \PY{k}{try}\PY{p}{:}
+                \PY{n}{body\PYZus{}richness} \PY{o}{=} \PY{n+nb}{float}\PY{p}{(}\PY{n}{body\PYZus{}noWords}\PY{p}{)}\PY{o}{/}\PY{n}{body\PYZus{}noCharacters}
+            \PY{k}{except}\PY{p}{:}
+                \PY{n}{body\PYZus{}richness} \PY{o}{=} \PY{l+m+mi}{0}
+            \PY{k}{return} \PY{n}{body\PYZus{}richness}
+        
+        \PY{c+c1}{\PYZsh{} Integer: number of function words in the body}
+        \PY{k}{def} \PY{n+nf}{body\PYZus{}noFunctionWords}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{body\PYZus{}noFunctionWords} \PY{o}{=} \PY{l+m+mi}{0}
+            \PY{n}{wordlist} \PY{o}{=} \PY{n}{re}\PY{o}{.}\PY{n}{sub}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{[\PYZca{}A\PYZhy{}Za\PYZhy{}z]}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{ }\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{body\PYZus{}content}\PY{o}{.}\PY{n}{strip}\PY{p}{(}\PY{p}{)}\PY{p}{)}\PY{o}{.}\PY{n}{lower}\PY{p}{(}\PY{p}{)}\PY{o}{.}\PY{n}{split}\PY{p}{(}\PY{p}{)}
+            \PY{n}{function\PYZus{}words} \PY{o}{=} \PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{account}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{access}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{bank}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{credit}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{click}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{identity}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{inconvenience}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{information}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{limited}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} 
+                              \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{log}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{minutes}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{password}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{recently}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{risk}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{social}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{security}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{service}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{suspended}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}
+            \PY{k}{for} \PY{n}{word} \PY{o+ow}{in} \PY{n}{function\PYZus{}words}\PY{p}{:}
+                \PY{n}{body\PYZus{}noFunctionWords} \PY{o}{+}\PY{o}{=} \PY{n}{wordlist}\PY{o}{.}\PY{n}{count}\PY{p}{(}\PY{n}{word}\PY{p}{)}
+            \PY{k}{return} \PY{n}{body\PYZus{}noFunctionWords}
+        
+        \PY{c+c1}{\PYZsh{} Boolean: if body has the word \PYZsq{}suspension\PYZsq{} or not}
+        \PY{k}{def} \PY{n+nf}{body\PYZus{}suspension}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{body\PYZus{}suspension} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{suspension}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n}{body\PYZus{}content}\PY{o}{.}\PY{n}{lower}\PY{p}{(}\PY{p}{)}
+            \PY{k}{return} \PY{n}{body\PYZus{}suspension}
+        
+        \PY{c+c1}{\PYZsh{} Boolean: if body has the phrase \PYZsq{}verify your account\PYZsq{} or not}
+        \PY{k}{def} \PY{n+nf}{body\PYZus{}verifyYourAccount}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{phrase} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{verifyyouraccount}\PY{l+s+s2}{\PYZdq{}}
+            \PY{n}{content} \PY{o}{=} \PY{n}{re}\PY{o}{.}\PY{n}{sub}\PY{p}{(}\PY{l+s+sa}{r}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{[\PYZca{}A\PYZhy{}Za\PYZhy{}z]}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{body\PYZus{}content}\PY{o}{.}\PY{n}{strip}\PY{p}{(}\PY{p}{)}\PY{p}{)}\PY{o}{.}\PY{n}{lower}\PY{p}{(}\PY{p}{)}
+            \PY{n}{body\PYZus{}verifyYourAccount} \PY{o}{=} \PY{n}{phrase} \PY{o+ow}{in} \PY{n}{content}
+            \PY{k}{return} \PY{n}{body\PYZus{}verifyYourAccount}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}7}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        \PY{l+s+sd}{Extract body based attributes}
+        \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        
+        \PY{c+c1}{\PYZsh{} Run the function to extract attributes from the mail body}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}body\PYZus{}attributes}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{body\PYZus{}attributes} \PY{o}{=} \PY{p}{\PYZob{}}\PY{p}{\PYZcb{}}
+            
+            \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}html}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{body\PYZus{}html}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+            \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}forms}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{body\PYZus{}forms}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+            \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}noWords}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{body\PYZus{}noWords}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+            \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}noCharacters}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{body\PYZus{}noCharacters}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+            \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}noDistinctWords}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{body\PYZus{}noDistinctWords}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+            \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}richness}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{body\PYZus{}richness}\PY{p}{(}\PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}noWords}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}noCharacters}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+            \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}noFunctionWords}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{body\PYZus{}noFunctionWords}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+            \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}suspension}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{body\PYZus{}suspension}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+            \PY{n}{body\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body\PYZus{}verifyYourAccount}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{body\PYZus{}verifyYourAccount}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+            
+            \PY{k}{return} \PY{n}{body\PYZus{}attributes}
+        
+        \PY{c+c1}{\PYZsh{} Verify that everything till here is correct}
+        \PY{n}{mail0\PYZus{}body\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}body\PYZus{}attributes}\PY{p}{(}\PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+        \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{mail0\PYZus{}body\PYZus{}attributes}\PY{p}{,} \PY{n}{width} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+\{'body\_forms': False,
+ 'body\_html': True,
+ 'body\_noCharacters': 351,
+ 'body\_noDistinctWords': 50,
+ 'body\_noFunctionWords': 2,
+ 'body\_noWords': 61,
+ 'body\_richness': 0.1737891737891738,
+ 'body\_suspension': False,
+ 'body\_verifyYourAccount': False\}
+
+    \end{Verbatim}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}8}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        \PY{l+s+sd}{Functions to extract subject line based attributes}
+        \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        
+        \PY{c+c1}{\PYZsh{} Boolean: Check if the email is a reply to any previous mail}
+        \PY{k}{def} \PY{n+nf}{subj\PYZus{}reply}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{subj\PYZus{}reply} \PY{o}{=} \PY{n}{subj\PYZus{}content}\PY{o}{.}\PY{n}{lower}\PY{p}{(}\PY{p}{)}\PY{o}{.}\PY{n}{startswith}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{re:}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+            \PY{k}{return} \PY{n}{subj\PYZus{}reply}
+        
+        \PY{c+c1}{\PYZsh{} Boolean: Check if the email is a forward from another mail}
+        \PY{k}{def} \PY{n+nf}{subj\PYZus{}forward}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{subj\PYZus{}forward} \PY{o}{=} \PY{n}{subj\PYZus{}content}\PY{o}{.}\PY{n}{lower}\PY{p}{(}\PY{p}{)}\PY{o}{.}\PY{n}{startswith}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{fwd:}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+            \PY{k}{return} \PY{n}{subj\PYZus{}forward}
+        
+        \PY{c+c1}{\PYZsh{} Integer: number of words in the subject}
+        \PY{k}{def} \PY{n+nf}{subj\PYZus{}noWords}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{subj\PYZus{}noWords} \PY{o}{=} \PY{n+nb}{len}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{o}{.}\PY{n}{split}\PY{p}{(}\PY{p}{)}\PY{p}{)}
+            \PY{k}{return} \PY{n}{subj\PYZus{}noWords}
+        
+        \PY{c+c1}{\PYZsh{} Integer: number of characters in the subject}
+        \PY{k}{def} \PY{n+nf}{subj\PYZus{}noCharacters}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{subj\PYZus{}noCharacters} \PY{o}{=} \PY{n}{count\PYZus{}characters}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}
+            \PY{k}{return} \PY{n}{subj\PYZus{}noCharacters}
+        
+        \PY{c+c1}{\PYZsh{} Float: richness of the text (subject)}
+        \PY{k}{def} \PY{n+nf}{subj\PYZus{}richness}\PY{p}{(}\PY{n}{subj\PYZus{}noWords}\PY{p}{,} \PY{n}{subj\PYZus{}noCharacters}\PY{p}{)}\PY{p}{:}
+            \PY{k}{try}\PY{p}{:}
+                \PY{n}{subj\PYZus{}richness} \PY{o}{=} \PY{n+nb}{float}\PY{p}{(}\PY{n}{subj\PYZus{}noWords}\PY{p}{)}\PY{o}{/}\PY{n}{subj\PYZus{}noCharacters}
+            \PY{k}{except}\PY{p}{:}
+                \PY{n}{subj\PYZus{}richness} \PY{o}{=} \PY{l+m+mi}{0}
+            \PY{k}{return} \PY{n}{subj\PYZus{}richness}
+        
+        \PY{c+c1}{\PYZsh{} Boolean: if subject has the word \PYZsq{}verify\PYZsq{} or not}
+        \PY{k}{def} \PY{n+nf}{subj\PYZus{}verify}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{subj\PYZus{}verify} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{verify}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n}{subj\PYZus{}content}\PY{o}{.}\PY{n}{lower}\PY{p}{(}\PY{p}{)}
+            \PY{k}{return} \PY{n}{subj\PYZus{}verify}
+        
+        \PY{c+c1}{\PYZsh{} Boolean: if subject has the word \PYZsq{}debit\PYZsq{} or not}
+        \PY{k}{def} \PY{n+nf}{subj\PYZus{}debit}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{subj\PYZus{}debit} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{debit}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n}{subj\PYZus{}content}\PY{o}{.}\PY{n}{lower}\PY{p}{(}\PY{p}{)}
+            \PY{k}{return} \PY{n}{subj\PYZus{}debit}
+        
+        \PY{c+c1}{\PYZsh{} Boolean: if subject has the word \PYZsq{}bank\PYZsq{} or not}
+        \PY{k}{def} \PY{n+nf}{subj\PYZus{}bank}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{subj\PYZus{}bank} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{bank}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n}{subj\PYZus{}content}\PY{o}{.}\PY{n}{lower}\PY{p}{(}\PY{p}{)}
+            \PY{k}{return} \PY{n}{subj\PYZus{}bank}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}9}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        \PY{l+s+sd}{Extract subject line based attributes}
+        \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+        
+        \PY{c+c1}{\PYZsh{} Run the function to extract attributes from the mail subject line}
+        \PY{k}{def} \PY{n+nf}{extract\PYZus{}subj\PYZus{}attributes}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}\PY{p}{:}
+            \PY{n}{subj\PYZus{}attributes} \PY{o}{=} \PY{p}{\PYZob{}}\PY{p}{\PYZcb{}}
+            
+            \PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}reply}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{subj\PYZus{}reply}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}
+            \PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}forward}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{subj\PYZus{}forward}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}
+            \PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}noWords}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{subj\PYZus{}noWords}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}
+            \PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}noCharacters}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{subj\PYZus{}noCharacters}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}
+            \PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}richness}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{subj\PYZus{}richness}\PY{p}{(}\PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}noWords}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}noCharacters}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+            \PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}verify}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{subj\PYZus{}verify}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}
+            \PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}debit}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{subj\PYZus{}debit}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}
+            \PY{n}{subj\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj\PYZus{}bank}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{subj\PYZus{}bank}\PY{p}{(}\PY{n}{subj\PYZus{}content}\PY{p}{)}
+            
+            \PY{k}{return} \PY{n}{subj\PYZus{}attributes}
+        
+        \PY{c+c1}{\PYZsh{} Verify that everything till here is correct}
+        \PY{n}{mail0\PYZus{}subj\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}subj\PYZus{}attributes}\PY{p}{(}\PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+        \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{mail0\PYZus{}subj\PYZus{}attributes}\PY{p}{,} \PY{n}{width} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+\{'subj\_bank': False,
+ 'subj\_debit': False,
+ 'subj\_forward': False,
+ 'subj\_noCharacters': 19,
+ 'subj\_noWords': 5,
+ 'subj\_reply': True,
+ 'subj\_richness': 0.2631578947368421,
+ 'subj\_verify': True\}
+
+    \end{Verbatim}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}10}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         \PY{l+s+sd}{Functions to extract sender address based attributes}
+         \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of words in sender address}
+         \PY{k}{def} \PY{n+nf}{send\PYZus{}noWords}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{)}\PY{p}{:}
+             \PY{n}{send\PYZus{}noWords} \PY{o}{=} \PY{n+nb}{len}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{o}{.}\PY{n}{split}\PY{p}{(}\PY{p}{)}\PY{p}{)}
+             \PY{k}{return} \PY{n}{send\PYZus{}noWords}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of characters in sender address}
+         \PY{k}{def} \PY{n+nf}{send\PYZus{}noCharacters}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{)}\PY{p}{:}
+             \PY{n}{send\PYZus{}noCharacters} \PY{o}{=} \PY{n}{count\PYZus{}characters}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{)}
+             \PY{k}{return} \PY{n}{send\PYZus{}noCharacters}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: check if sender and reply\PYZhy{}to domains are different}
+         \PY{k}{def} \PY{n+nf}{send\PYZus{}diffSenderReplyTo}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{,} \PY{n}{replyTo\PYZus{}address}\PY{p}{)}\PY{p}{:}
+             \PY{n}{send\PYZus{}domain} \PY{o}{=} \PY{n}{get\PYZus{}email\PYZus{}domain}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{)}
+             \PY{n}{replyTo\PYZus{}domain} \PY{o}{=} \PY{n}{get\PYZus{}email\PYZus{}domain}\PY{p}{(}\PY{n}{replyTo\PYZus{}address}\PY{p}{)}
+             
+             \PY{n}{send\PYZus{}diffSenderReplyTo} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{if} \PY{n}{replyTo\PYZus{}address} \PY{o}{!=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{None}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:}
+                 \PY{n}{send\PYZus{}diffSenderReplyTo} \PY{o}{=} \PY{p}{(}\PY{n}{send\PYZus{}domain} \PY{o}{!=} \PY{n}{replyTo\PYZus{}domain}\PY{p}{)}
+             \PY{k}{return} \PY{n}{send\PYZus{}diffSenderReplyTo}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: check if sender\PYZsq{}s and email\PYZsq{}s modal domain are different}
+         \PY{k}{def} \PY{n+nf}{send\PYZus{}nonModalSenderDomain}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{,} \PY{n}{modal\PYZus{}url}\PY{p}{)}\PY{p}{:}
+             \PY{n}{send\PYZus{}domain} \PY{o}{=} \PY{n}{get\PYZus{}email\PYZus{}domain}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{)}
+             \PY{n}{modal\PYZus{}domain} \PY{o}{=} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{modal\PYZus{}url}\PY{p}{)}
+             
+             \PY{n}{send\PYZus{}nonModalSenderDomain} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{if} \PY{n+nb}{str}\PY{p}{(}\PY{n}{modal\PYZus{}url}\PY{p}{)} \PY{o}{!=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{None}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:}
+                 \PY{n}{send\PYZus{}nonModalSenderDomain} \PY{o}{=} \PY{p}{(}\PY{n}{send\PYZus{}domain} \PY{o}{!=} \PY{n}{modal\PYZus{}domain}\PY{p}{)}
+             \PY{k}{return} \PY{n}{send\PYZus{}nonModalSenderDomain}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}11}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         \PY{l+s+sd}{Extract sender address based attributes}
+         \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         
+         \PY{c+c1}{\PYZsh{} Run the function to extract attributes from sender address}
+         \PY{k}{def} \PY{n+nf}{extract\PYZus{}send\PYZus{}attributes}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{,} \PY{n}{replyTo\PYZus{}address}\PY{p}{,} \PY{n}{modal\PYZus{}url}\PY{p}{)}\PY{p}{:}
+             \PY{n}{send\PYZus{}attributes} \PY{o}{=} \PY{p}{\PYZob{}}\PY{p}{\PYZcb{}}
+             
+             \PY{n}{send\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{send\PYZus{}noWords}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{send\PYZus{}noWords}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{)}
+             \PY{n}{send\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{send\PYZus{}noCharacters}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{send\PYZus{}noCharacters}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{)}
+             \PY{n}{send\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{send\PYZus{}diffSenderReplyTo}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{send\PYZus{}diffSenderReplyTo}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{,} \PY{n}{replyTo\PYZus{}address}\PY{p}{)}
+             \PY{n}{send\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{send\PYZus{}nonModalSenderDomain}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{send\PYZus{}nonModalSenderDomain}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{,} \PY{n}{modal\PYZus{}url}\PY{p}{)}
+             
+             \PY{k}{return} \PY{n}{send\PYZus{}attributes}
+         
+         \PY{c+c1}{\PYZsh{} Verify that everything till here is correct}
+         \PY{n}{mail0\PYZus{}send\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}send\PYZus{}attributes}\PY{p}{(}\PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{send}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} 
+                                                         \PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{replyTo}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{modalURL}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+         \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{mail0\PYZus{}send\PYZus{}attributes}\PY{p}{,} \PY{n}{width} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+\{'send\_diffSenderReplyTo': False,
+ 'send\_noCharacters': 39,
+ 'send\_noWords': 3,
+ 'send\_nonModalSenderDomain': True\}
+
+    \end{Verbatim}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}12}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         \PY{l+s+sd}{Functions to extract URL based attributes}
+         \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: if use of IP addresses rather than domain name}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}ipAddress}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}ipAddress} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{links\PYZus{}list}\PY{p}{:}
+                 \PY{n}{link\PYZus{}address} \PY{o}{=} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{link}\PY{p}{)}
+                 \PY{k}{if} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{:}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n+nb}{str}\PY{p}{(}\PY{n}{link\PYZus{}address}\PY{p}{)}\PY{p}{:}
+                     \PY{n}{link\PYZus{}address} \PY{o}{=} \PY{n}{link\PYZus{}address}\PY{p}{[}\PY{p}{:}\PY{n}{link\PYZus{}address}\PY{o}{.}\PY{n}{index}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{:}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{]}
+                 \PY{k}{try}\PY{p}{:}
+                     \PY{n}{IP}\PY{p}{(}\PY{n}{link\PYZus{}address}\PY{p}{)}
+                     \PY{n}{url\PYZus{}ipAddress} \PY{o}{=} \PY{n+nb+bp}{True}
+                     \PY{k}{break}
+                 \PY{k}{except}\PY{p}{:}
+                     \PY{k}{continue}
+             \PY{k}{return} \PY{n}{url\PYZus{}ipAddress}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of links in an email that contain IP addresses }
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}noIpAddresses}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}noIpAddresses} \PY{o}{=} \PY{l+m+mi}{0}
+             \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{links\PYZus{}list}\PY{p}{:}
+                 \PY{n}{link\PYZus{}address} \PY{o}{=} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{link}\PY{p}{)}
+                 \PY{k}{if} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{:}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n+nb}{str}\PY{p}{(}\PY{n}{link\PYZus{}address}\PY{p}{)}\PY{p}{:}
+                     \PY{n}{link\PYZus{}address} \PY{o}{=} \PY{n}{link\PYZus{}address}\PY{p}{[}\PY{p}{:}\PY{n}{link\PYZus{}address}\PY{o}{.}\PY{n}{index}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{:}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{]}
+                 \PY{k}{try}\PY{p}{:}
+                     \PY{n}{IP}\PY{p}{(}\PY{n}{link\PYZus{}address}\PY{p}{)}
+                     \PY{n}{url\PYZus{}noIpAddresses} \PY{o}{=} \PY{n}{url\PYZus{}noIpAddresses} \PY{o}{+} \PY{l+m+mi}{1}
+                     \PY{k}{break}
+                 \PY{k}{except}\PY{p}{:}
+                     \PY{k}{continue}
+             \PY{k}{return} \PY{n}{url\PYZus{}noIpAddresses}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: if \PYZsq{}@\PYZsq{} symbol is present in any URL}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}atSymbol}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}atSymbol} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{links\PYZus{}list}\PY{p}{:}
+                 \PY{k}{if} \PY{l+s+sa}{u}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{@}\PY{l+s+s1}{\PYZsq{}} \PY{o+ow}{in} \PY{n+nb}{str}\PY{p}{(}\PY{n}{link}\PY{p}{)}\PY{p}{:}
+                     \PY{n}{url\PYZus{}atSymbol} \PY{o}{=} \PY{n+nb+bp}{True}
+                     \PY{k}{break}
+             \PY{k}{return} \PY{n}{url\PYZus{}atSymbol}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of links in the email body}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}noLinks}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}noLinks} \PY{o}{=} \PY{n+nb}{len}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}
+             \PY{k}{return} \PY{n}{url\PYZus{}noLinks}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of external links in email body}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}noExtLinks}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}noExtLinks} \PY{o}{=} \PY{n+nb}{len}\PY{p}{(}\PY{n}{extract\PYZus{}urls}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{)}
+             \PY{k}{return} \PY{n}{url\PYZus{}noExtLinks}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of internal links in email body}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}noIntLinks}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{,} \PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}noIntLinks} \PY{o}{=} \PY{n}{url\PYZus{}noLinks}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)} \PY{o}{\PYZhy{}} \PY{n}{url\PYZus{}noExtLinks}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{k}{return} \PY{n}{url\PYZus{}noIntLinks}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of image links in email body}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}noImgLinks}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+             \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{image\PYZus{}links} \PY{o}{=} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{img}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+             \PY{k}{return} \PY{n+nb}{len}\PY{p}{(}\PY{n}{image\PYZus{}links}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of URL domains in email body}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}noDomains}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{n}{send\PYZus{}address}\PY{p}{,} \PY{n}{replyTo\PYZus{}address}\PY{p}{)}\PY{p}{:}
+             \PY{n}{domains} \PY{o}{=} \PY{n+nb}{set}\PY{p}{(}\PY{p}{)}
+             \PY{n}{all\PYZus{}urls} \PY{o}{=} \PY{n}{extract\PYZus{}urls}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{k}{for} \PY{n}{url} \PY{o+ow}{in} \PY{n}{all\PYZus{}urls}\PY{p}{:}
+                 \PY{n}{domain} \PY{o}{=} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{url}\PY{p}{)}
+                 \PY{n}{domains}\PY{o}{.}\PY{n}{add}\PY{p}{(}\PY{n}{domain}\PY{p}{)}
+             
+             \PY{n}{domains}\PY{o}{.}\PY{n}{add}\PY{p}{(}\PY{n}{get\PYZus{}email\PYZus{}domain}\PY{p}{(}\PY{n}{send\PYZus{}address}\PY{p}{)}\PY{p}{)}
+             \PY{n}{domains}\PY{o}{.}\PY{n}{add}\PY{p}{(}\PY{n}{get\PYZus{}email\PYZus{}domain}\PY{p}{(}\PY{n}{replyTo\PYZus{}address}\PY{p}{)}\PY{p}{)}
+             \PY{k}{return} \PY{n+nb}{len}\PY{p}{(}\PY{n}{domains}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of periods in the link with highest number of periods}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}maxNoPeriods}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}\PY{p}{:}
+             \PY{n}{max\PYZus{}periods} \PY{o}{=} \PY{l+m+mi}{0}
+             \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{links\PYZus{}list}\PY{p}{:}
+                 \PY{n}{num\PYZus{}periods} \PY{o}{=} \PY{n+nb}{str}\PY{p}{(}\PY{n}{link}\PY{p}{)}\PY{o}{.}\PY{n}{count}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{.}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+                 \PY{k}{if} \PY{n}{max\PYZus{}periods} \PY{o}{\PYZlt{}} \PY{n}{num\PYZus{}periods}\PY{p}{:}
+                     \PY{n}{max\PYZus{}periods} \PY{o}{=} \PY{n}{num\PYZus{}periods}
+             \PY{k}{return} \PY{n}{max\PYZus{}periods}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: check if link text contains click, here, login or update terms}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}linkText}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}linkText} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{n}{linkText\PYZus{}words} \PY{o}{=} \PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{click}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{here}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{login}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{update}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}
+             \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{a}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{:}
+                 \PY{k}{if} \PY{n}{link}\PY{o}{.}\PY{n}{contents}\PY{p}{:}
+                     \PY{n}{contents} \PY{o}{=} \PY{n+nb}{list}\PY{p}{(}\PY{n}{re}\PY{o}{.}\PY{n}{sub}\PY{p}{(}\PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{([\PYZca{}}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{s}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{w]|\PYZus{})+}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n+nb}{str}\PY{p}{(}\PY{n}{link}\PY{o}{.}\PY{n}{contents}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{)}\PY{p}{)}\PY{o}{.}\PY{n}{lower}\PY{p}{(}\PY{p}{)}\PY{o}{.}\PY{n}{split}\PY{p}{(}\PY{p}{)}\PY{p}{)}
+                     \PY{n}{extra\PYZus{}contents} \PY{o}{=} \PY{n+nb}{set}\PY{p}{(}\PY{n}{contents}\PY{p}{)}\PY{o}{.}\PY{n}{difference}\PY{p}{(}\PY{n+nb}{set}\PY{p}{(}\PY{n}{linkText\PYZus{}words}\PY{p}{)}\PY{p}{)}
+                     \PY{k}{if} \PY{n+nb}{len}\PY{p}{(}\PY{n}{extra\PYZus{}contents}\PY{p}{)} \PY{o}{\PYZlt{}} \PY{n+nb}{len}\PY{p}{(}\PY{n}{contents}\PY{p}{)}\PY{p}{:}
+                         \PY{n}{url\PYZus{}linkText} \PY{o}{=} \PY{n+nb+bp}{True}
+                         \PY{k}{break}
+             \PY{k}{return} \PY{n}{url\PYZus{}linkText}
+             
+         \PY{c+c1}{\PYZsh{} Binary: if \PYZsq{}here\PYZsq{} links don\PYZsq{}t map to modal domain}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}nonModalHereLinks}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{n}{modal\PYZus{}url}\PY{p}{)}\PY{p}{:}
+             \PY{n}{modal\PYZus{}domain} \PY{o}{=} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{modal\PYZus{}url}\PY{p}{)}
+             
+             \PY{n}{url\PYZus{}nonModalHereLinks} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{if} \PY{n+nb}{str}\PY{p}{(}\PY{n}{modal\PYZus{}url}\PY{p}{)} \PY{o}{!=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{None}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:}
+                 \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+                 \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{a}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{:}
+                     \PY{k}{if} \PY{n}{link}\PY{o}{.}\PY{n}{contents}\PY{p}{:}
+                         \PY{k}{if} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{here}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n}{link}\PY{o}{.}\PY{n}{contents}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{:}
+                             \PY{n}{link\PYZus{}ref} \PY{o}{=} \PY{n}{link}\PY{o}{.}\PY{n}{get}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{href}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+                             \PY{k}{if} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{link\PYZus{}ref}\PY{p}{)} \PY{o}{!=} \PY{n}{modal\PYZus{}domain}\PY{p}{:}
+                                 \PY{n}{url\PYZus{}nonModalHereLinks} \PY{o}{=} \PY{n+nb+bp}{True}
+                                 \PY{k}{break}
+             \PY{k}{return} \PY{n}{url\PYZus{}nonModalHereLinks}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: if URL accesses ports other than 80}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}ports}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}ports} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{links\PYZus{}list}\PY{p}{:}
+                 \PY{n}{link\PYZus{}address} \PY{o}{=} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{link}\PY{p}{)}
+                 \PY{k}{if} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{:}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n+nb}{str}\PY{p}{(}\PY{n}{link\PYZus{}address}\PY{p}{)}\PY{p}{:}
+                     \PY{n}{port} \PY{o}{=} \PY{n}{link\PYZus{}address}\PY{p}{[}\PY{n}{link\PYZus{}address}\PY{o}{.}\PY{n}{index}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{:}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{:}\PY{p}{]}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{:}\PY{p}{]}
+                     \PY{k}{if} \PY{n+nb}{str}\PY{p}{(}\PY{n}{port}\PY{p}{)} \PY{o}{!=} \PY{n+nb}{str}\PY{p}{(}\PY{l+m+mi}{80}\PY{p}{)}\PY{p}{:}
+                         \PY{n}{url\PYZus{}ports} \PY{o}{=} \PY{n+nb+bp}{True}
+                         \PY{k}{break}
+             \PY{k}{return} \PY{n}{url\PYZus{}ports}
+             
+         \PY{c+c1}{\PYZsh{} Integer: number of links with port information}
+         \PY{k}{def} \PY{n+nf}{url\PYZus{}noPorts}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}noPorts} \PY{o}{=} \PY{l+m+mi}{0}
+             \PY{k}{for} \PY{n}{link} \PY{o+ow}{in} \PY{n}{links\PYZus{}list}\PY{p}{:}
+                 \PY{n}{link\PYZus{}address} \PY{o}{=} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{link}\PY{p}{)}
+                 \PY{k}{if} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{:}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n+nb}{str}\PY{p}{(}\PY{n}{link\PYZus{}address}\PY{p}{)}\PY{p}{:}
+                     \PY{n}{url\PYZus{}noPorts} \PY{o}{=} \PY{n}{url\PYZus{}noPorts} \PY{o}{+} \PY{l+m+mi}{1}
+             \PY{k}{return} \PY{n}{url\PYZus{}noPorts}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}13}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         \PY{l+s+sd}{Extract URL based attributes}
+         \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         
+         \PY{c+c1}{\PYZsh{} Run the function to extract attributes from URL}
+         \PY{k}{def} \PY{n+nf}{extract\PYZus{}url\PYZus{}attributes}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{,} \PY{n}{body\PYZus{}content}\PY{p}{,} \PY{n}{send\PYZus{}address} \PY{p}{,} \PY{n}{replyTo\PYZus{}address}\PY{p}{,} \PY{n}{modal\PYZus{}url}\PY{p}{)}\PY{p}{:}
+             \PY{n}{url\PYZus{}attributes} \PY{o}{=} \PY{p}{\PYZob{}}\PY{p}{\PYZcb{}}
+         
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}ipAddress}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}ipAddress}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}noIpAddresses}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}noIpAddresses}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}atSymbol}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}atSymbol}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}noLinks}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}noLinks}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}noExtLinks}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}noExtLinks}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}noIntLinks}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}noIntLinks}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{,} \PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}noImgLinks}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}noImgLinks}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}noDomains}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}noDomains}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{n}{send\PYZus{}address}\PY{p}{,} \PY{n}{replyTo\PYZus{}address}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}maxNoPeriods}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}maxNoPeriods}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}linkText}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}linkText}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}nonModalHereLinks}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}nonModalHereLinks}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{n}{modal\PYZus{}url}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}ports}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}ports}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{url\PYZus{}noPorts}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{url\PYZus{}noPorts}\PY{p}{(}\PY{n}{links\PYZus{}list}\PY{p}{)}
+             
+             \PY{k}{return} \PY{n}{url\PYZus{}attributes}
+             
+         \PY{c+c1}{\PYZsh{} Verify that everything till here is correct}
+         \PY{n}{mail0\PYZus{}url\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}url\PYZus{}attributes}\PY{p}{(}\PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{links}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} 
+                                                       \PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{send}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} 
+                                                       \PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{replyTo}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{modalURL}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+         \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{mail0\PYZus{}url\PYZus{}attributes}\PY{p}{,} \PY{n}{width} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+\{'url\_atSymbol': False,
+ 'url\_ipAddress': False,
+ 'url\_linkText': True,
+ 'url\_maxNoPeriods': 1,
+ 'url\_noDomains': 2,
+ 'url\_noExtLinks': 1,
+ 'url\_noImgLinks': 0,
+ 'url\_noIntLinks': 0,
+ 'url\_noIpAddresses': 0,
+ 'url\_noLinks': 1,
+ 'url\_noPorts': 0,
+ 'url\_nonModalHereLinks': False,
+ 'url\_ports': False\}
+
+    \end{Verbatim}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}14}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         \PY{l+s+sd}{Functions to extract script based attributes}
+         \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: if scripts are present in the email body}
+         \PY{k}{def} \PY{n+nf}{script\PYZus{}scripts}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+             \PY{n}{script\PYZus{}scripts} \PY{o}{=} \PY{n+nb}{bool}\PY{p}{(}\PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{html.parser}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{script}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{)}
+             \PY{k}{return} \PY{n}{script\PYZus{}scripts}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: if script present is Javascript}
+         \PY{k}{def} \PY{n+nf}{script\PYZus{}javaScript}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+             \PY{n}{script\PYZus{}javaScript} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{if} \PY{n}{script\PYZus{}scripts}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+                 \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+                 \PY{k}{for} \PY{n}{script} \PY{o+ow}{in} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{:}
+                     \PY{k}{if} \PY{n}{script}\PY{o}{.}\PY{n}{get}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{type}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)} \PY{o}{==} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{text/javascript}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:}
+                         \PY{n}{script\PYZus{}javaScript} \PY{o}{=} \PY{n+nb+bp}{True}
+             \PY{k}{return} \PY{n}{script\PYZus{}javaScript}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: check if script overrides the status bar in the email client}
+         \PY{k}{def} \PY{n+nf}{script\PYZus{}statusChange}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+             \PY{n}{script\PYZus{}statusChange} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{if} \PY{n}{script\PYZus{}scripts}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+                 \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+                 \PY{k}{for} \PY{n}{script} \PY{o+ow}{in} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{:}
+                     \PY{k}{if} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{window.status}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n+nb}{str}\PY{p}{(}\PY{n}{script}\PY{o}{.}\PY{n}{contents}\PY{p}{)}\PY{p}{:}
+                         \PY{n}{script\PYZus{}statusChange} \PY{o}{=} \PY{n+nb+bp}{True}
+             \PY{k}{return} \PY{n}{script\PYZus{}statusChange}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: check if email contains pop\PYZhy{}up window code}
+         \PY{k}{def} \PY{n+nf}{script\PYZus{}popups}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+             \PY{n}{script\PYZus{}popups} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{if} \PY{n}{script\PYZus{}scripts}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+                 \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+                 \PY{k}{for} \PY{n}{script} \PY{o+ow}{in} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{:}
+                     \PY{k}{if} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{window.open}\PY{l+s+s2}{\PYZdq{}} \PY{o+ow}{in} \PY{n+nb}{str}\PY{p}{(}\PY{n}{script}\PY{o}{.}\PY{n}{contents}\PY{p}{)}\PY{p}{:}
+                         \PY{n}{script\PYZus{}popups} \PY{o}{=} \PY{n+nb+bp}{True}
+             \PY{k}{return} \PY{n}{script\PYZus{}popups}
+         
+         \PY{c+c1}{\PYZsh{} Integer: number of on\PYZhy{}click events}
+         \PY{k}{def} \PY{n+nf}{script\PYZus{}noOnClickEvents}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+             \PY{n}{script\PYZus{}noOnClickEvents} \PY{o}{=} \PY{l+m+mi}{0}
+             \PY{k}{if} \PY{n}{script\PYZus{}scripts}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+                 \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+                 \PY{n}{codes} \PY{o}{=} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{button}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,}\PY{p}{\PYZob{}}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{onclick}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:}\PY{n+nb+bp}{True}\PY{p}{\PYZcb{}}\PY{p}{)}
+                 \PY{n}{script\PYZus{}noOnClickEvents} \PY{o}{=} \PY{n+nb}{len}\PY{p}{(}\PY{n}{codes}\PY{p}{)}
+             \PY{k}{return} \PY{n}{script\PYZus{}noOnClickEvents}
+         
+         \PY{c+c1}{\PYZsh{} Boolean: if Javascript comes from outside the modal domain}
+         \PY{k}{def} \PY{n+nf}{script\PYZus{}nonModalJsLoads}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{n}{modal\PYZus{}url}\PY{p}{)}\PY{p}{:}
+             \PY{n}{modal\PYZus{}domain} \PY{o}{=} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{modal\PYZus{}url}\PY{p}{)}
+             
+             \PY{n}{script\PYZus{}nonModalJsLoads} \PY{o}{=} \PY{n+nb+bp}{False}
+             \PY{k}{if} \PY{n}{script\PYZus{}scripts}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}\PY{p}{:}
+                 \PY{k}{if} \PY{n+nb}{str}\PY{p}{(}\PY{n}{modal\PYZus{}url}\PY{p}{)} \PY{o}{!=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{None}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:}
+                     \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+                     \PY{k}{for} \PY{n}{script} \PY{o+ow}{in} \PY{n}{soup}\PY{o}{.}\PY{n}{findAll}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{:}
+                         \PY{n}{source} \PY{o}{=} \PY{n}{script}\PY{o}{.}\PY{n}{get}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{src}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+                         \PY{k}{if} \PY{n}{source} \PY{o+ow}{is} \PY{o+ow}{not} \PY{n+nb+bp}{None}\PY{p}{:}
+                             \PY{k}{if} \PY{n}{get\PYZus{}url\PYZus{}domain}\PY{p}{(}\PY{n}{source}\PY{p}{)} \PY{o}{!=} \PY{n}{modal\PYZus{}domain}\PY{p}{:}
+                                 \PY{n}{script\PYZus{}nonModalJsLoads} \PY{o}{=} \PY{n+nb+bp}{True}
+                                 \PY{k}{break}
+             \PY{k}{return} \PY{n}{script\PYZus{}nonModalJsLoads}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}15}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         \PY{l+s+sd}{Extract script based attributes}
+         \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         
+         \PY{c+c1}{\PYZsh{} Run the function to extract attributes from scripts}
+         \PY{k}{def} \PY{n+nf}{extract\PYZus{}script\PYZus{}attributes}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{n}{modal\PYZus{}url}\PY{p}{)}\PY{p}{:}
+             \PY{n}{script\PYZus{}attributes} \PY{o}{=} \PY{p}{\PYZob{}}\PY{p}{\PYZcb{}}
+             
+             \PY{n}{script\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script\PYZus{}scripts}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{script\PYZus{}scripts}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{script\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script\PYZus{}javaScript}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{script\PYZus{}javaScript}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{script\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script\PYZus{}statusChange}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{script\PYZus{}statusChange}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{script\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script\PYZus{}popups}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{script\PYZus{}popups}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{script\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script\PYZus{}noOnClickEvents}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{script\PYZus{}noOnClickEvents}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{)}
+             \PY{n}{script\PYZus{}attributes}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{script\PYZus{}nonModalJsLoads}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{script\PYZus{}nonModalJsLoads}\PY{p}{(}\PY{n}{body\PYZus{}content}\PY{p}{,} \PY{n}{modal\PYZus{}url}\PY{p}{)}
+             
+             \PY{k}{return} \PY{n}{script\PYZus{}attributes}
+         
+         \PY{c+c1}{\PYZsh{} Verify that everything till here is correct}
+         \PY{n}{mail0\PYZus{}script\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}script\PYZus{}attributes}\PY{p}{(}\PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{modalURL}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+         \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{mail0\PYZus{}script\PYZus{}attributes}\PY{p}{,} \PY{n}{width} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+\{'script\_javaScript': False,
+ 'script\_noOnClickEvents': 0,
+ 'script\_nonModalJsLoads': False,
+ 'script\_popups': False,
+ 'script\_scripts': False,
+ 'script\_statusChange': False\}
+
+    \end{Verbatim}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}52}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         \PY{l+s+sd}{Overall feature extraction (40 features)}
+         \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         
+         \PY{c+c1}{\PYZsh{} Function to extract all the 40 features at once}
+         \PY{k}{def} \PY{n+nf}{overall\PYZus{}feature\PYZus{}extraction}\PY{p}{(}\PY{n}{path}\PY{p}{,} \PY{n}{label}\PY{p}{,} \PY{n}{mail}\PY{p}{)}\PY{p}{:}
+             \PY{n}{necessary\PYZus{}fields} \PY{o}{=} \PY{n}{extract\PYZus{}necessary\PYZus{}fields}\PY{p}{(}\PY{n}{path}\PY{p}{,} \PY{n}{mail}\PY{p}{)}
+         
+             \PY{n}{body\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}body\PYZus{}attributes}\PY{p}{(}\PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+             \PY{n}{subj\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}subj\PYZus{}attributes}\PY{p}{(}\PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{subj}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+             \PY{n}{send\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}send\PYZus{}attributes}\PY{p}{(}\PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{send}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} 
+                                                       \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{replyTo}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{modalURL}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+             \PY{n}{url\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}url\PYZus{}attributes}\PY{p}{(}\PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{links}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} 
+                                                     \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{send}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} 
+                                                     \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{replyTo}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{mail0\PYZus{}necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{modalURL}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+             \PY{n}{script\PYZus{}attributes} \PY{o}{=} \PY{n}{extract\PYZus{}script\PYZus{}attributes}\PY{p}{(}\PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{body}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{necessary\PYZus{}fields}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{modalURL}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{)}
+         
+             \PY{n}{features} \PY{o}{=} \PY{n}{body\PYZus{}attributes}
+             \PY{n}{features}\PY{o}{.}\PY{n}{update}\PY{p}{(}\PY{n}{subj\PYZus{}attributes}\PY{p}{)}
+             \PY{n}{features}\PY{o}{.}\PY{n}{update}\PY{p}{(}\PY{n}{send\PYZus{}attributes}\PY{p}{)}
+             \PY{n}{features}\PY{o}{.}\PY{n}{update}\PY{p}{(}\PY{n}{url\PYZus{}attributes}\PY{p}{)}
+             \PY{n}{features}\PY{o}{.}\PY{n}{update}\PY{p}{(}\PY{n}{script\PYZus{}attributes}\PY{p}{)}
+             \PY{n}{features}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{label}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]} \PY{o}{=} \PY{n}{label}
+             
+             \PY{k}{return} \PY{n}{features}
+         
+         \PY{c+c1}{\PYZsh{} Verify that everything till here is correct}
+         \PY{n}{mail\PYZus{}files} \PY{o}{=} \PY{n}{get\PYZus{}files}\PY{p}{(}\PY{n}{test\PYZus{}path}\PY{p}{)}
+         \PY{k}{print} \PY{n}{mail\PYZus{}files}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}
+         \PY{n}{features} \PY{o}{=} \PY{n}{overall\PYZus{}feature\PYZus{}extraction}\PY{p}{(}\PY{n}{test\PYZus{}path}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{?}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{mail\PYZus{}files}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{p}{)}
+         \PY{k}{print} \PY{n+nb}{len}\PY{p}{(}\PY{n}{features}\PY{p}{)}
+         \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{features}\PY{p}{,} \PY{n}{width} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+test2.eml
+41
+\{'body\_forms': False,
+ 'body\_html': True,
+ 'body\_noCharacters': 351,
+ 'body\_noDistinctWords': 50,
+ 'body\_noFunctionWords': 2,
+ 'body\_noWords': 61,
+ 'body\_richness': 0.1737891737891738,
+ 'body\_suspension': False,
+ 'body\_verifyYourAccount': False,
+ 'label': '?',
+ 'script\_javaScript': False,
+ 'script\_noOnClickEvents': 0,
+ 'script\_nonModalJsLoads': False,
+ 'script\_popups': False,
+ 'script\_scripts': False,
+ 'script\_statusChange': False,
+ 'send\_diffSenderReplyTo': False,
+ 'send\_noCharacters': 39,
+ 'send\_noWords': 3,
+ 'send\_nonModalSenderDomain': True,
+ 'subj\_bank': False,
+ 'subj\_debit': False,
+ 'subj\_forward': False,
+ 'subj\_noCharacters': 19,
+ 'subj\_noWords': 5,
+ 'subj\_reply': True,
+ 'subj\_richness': 0.2631578947368421,
+ 'subj\_verify': True,
+ 'url\_atSymbol': False,
+ 'url\_ipAddress': False,
+ 'url\_linkText': True,
+ 'url\_maxNoPeriods': 1,
+ 'url\_noDomains': 2,
+ 'url\_noExtLinks': 1,
+ 'url\_noImgLinks': 0,
+ 'url\_noIntLinks': 0,
+ 'url\_noIpAddresses': 0,
+ 'url\_noLinks': 1,
+ 'url\_noPorts': 0,
+ 'url\_nonModalHereLinks': False,
+ 'url\_ports': False\}
+
+    \end{Verbatim}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}45}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         \PY{l+s+sd}{Extract features of all mails in a path}
+         \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         
+         \PY{c+c1}{\PYZsh{} Extract features of all files in a path}
+         \PY{k}{def} \PY{n+nf}{extract\PYZus{}all\PYZus{}features\PYZus{}in\PYZus{}path}\PY{p}{(}\PY{n}{path}\PY{p}{,} \PY{n}{label}\PY{p}{)}\PY{p}{:}
+             \PY{n}{features\PYZus{}list} \PY{o}{=} \PY{p}{[}\PY{p}{]}
+             \PY{n}{mail\PYZus{}files} \PY{o}{=} \PY{n}{get\PYZus{}files}\PY{p}{(}\PY{n}{path}\PY{p}{)}
+             \PY{k}{for} \PY{n}{mail} \PY{o+ow}{in} \PY{n}{mail\PYZus{}files}\PY{p}{:}
+                 \PY{n}{features} \PY{o}{=} \PY{n}{overall\PYZus{}feature\PYZus{}extraction}\PY{p}{(}\PY{n}{path}\PY{p}{,} \PY{n}{label}\PY{p}{,} \PY{n}{mail}\PY{p}{)}
+                 \PY{n}{features\PYZus{}list}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{n}{features}\PY{p}{)}
+             \PY{k}{return} \PY{n}{features\PYZus{}list}
+         
+         \PY{c+c1}{\PYZsh{} Create or append all the features for all the files to a \PYZsq{}csv\PYZsq{} file}
+         \PY{k}{def} \PY{n+nf}{create\PYZus{}features\PYZus{}csv}\PY{p}{(}\PY{n}{features\PYZus{}list}\PY{p}{,} \PY{n}{filename}\PY{p}{)}\PY{p}{:}
+             \PY{k}{with} \PY{n+nb}{open}\PY{p}{(}\PY{n}{filename}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{wb}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)} \PY{k}{as} \PY{n}{output\PYZus{}file}\PY{p}{:}
+                 \PY{n}{headers} \PY{o}{=} \PY{n+nb}{sorted}\PY{p}{(}\PY{p}{[}\PY{n}{key} \PY{k}{for} \PY{n}{key}\PY{p}{,} \PY{n}{value} \PY{o+ow}{in} \PY{n}{features\PYZus{}list}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{o}{.}\PY{n}{items}\PY{p}{(}\PY{p}{)}\PY{p}{]}\PY{p}{)}
+                 \PY{n}{headers}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{n}{headers}\PY{o}{.}\PY{n}{pop}\PY{p}{(}\PY{n}{headers}\PY{o}{.}\PY{n}{index}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{label}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{)}\PY{p}{)}
+                 
+                 \PY{n}{csv\PYZus{}data} \PY{o}{=} \PY{p}{[}\PY{n}{headers}\PY{p}{]}
+         
+                 \PY{k}{for} \PY{n}{element} \PY{o+ow}{in} \PY{n}{features\PYZus{}list}\PY{p}{:}
+                     \PY{n}{csv\PYZus{}data}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{p}{[}\PY{n}{element}\PY{p}{[}\PY{n}{header}\PY{p}{]} \PY{k}{for} \PY{n}{header} \PY{o+ow}{in} \PY{n}{headers}\PY{p}{]}\PY{p}{)}
+         
+                 \PY{n}{writer} \PY{o}{=} \PY{n}{csv}\PY{o}{.}\PY{n}{writer}\PY{p}{(}\PY{n}{output\PYZus{}file}\PY{p}{)}
+                 \PY{n}{writer}\PY{o}{.}\PY{n}{writerows}\PY{p}{(}\PY{n}{csv\PYZus{}data}\PY{p}{)}
+             \PY{k}{print} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{create\PYZus{}features\PYZus{}csv: success}\PY{l+s+s2}{\PYZdq{}}
+         
+         \PY{c+c1}{\PYZsh{} Verify that everything till here is correct}
+         \PY{n}{features\PYZus{}list} \PY{o}{=} \PY{n}{extract\PYZus{}all\PYZus{}features\PYZus{}in\PYZus{}path}\PY{p}{(}\PY{n}{test\PYZus{}path}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{?}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{features\PYZus{}list}\PY{p}{,} \PY{n}{width} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Here, a directory \PYZsq{}csv\PYZsq{} must exist!}
+         \PY{n}{filename} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{/home/tushaar/Desktop/phishing\PYZus{}corpus/csv/test.csv}\PY{l+s+s2}{\PYZdq{}}
+         \PY{n}{remove\PYZus{}if\PYZus{}exists}\PY{p}{(}\PY{n}{filename}\PY{p}{)}
+         
+         \PY{n}{create\PYZus{}features\PYZus{}csv}\PY{p}{(}\PY{n}{features\PYZus{}list}\PY{p}{,} \PY{n}{filename}\PY{p}{)}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+[\{'body\_forms': False,
+  'body\_html': True,
+  'body\_noCharacters': 351,
+  'body\_noDistinctWords': 50,
+  'body\_noFunctionWords': 2,
+  'body\_noWords': 61,
+  'body\_richness': 0.1737891737891738,
+  'body\_suspension': False,
+  'body\_verifyYourAccount': False,
+  'label': '?',
+  'script\_javaScript': False,
+  'script\_noOnClickEvents': 0,
+  'script\_nonModalJsLoads': False,
+  'script\_popups': False,
+  'script\_scripts': False,
+  'script\_statusChange': False,
+  'send\_diffSenderReplyTo': False,
+  'send\_noCharacters': 39,
+  'send\_noWords': 3,
+  'send\_nonModalSenderDomain': True,
+  'subj\_bank': False,
+  'subj\_debit': False,
+  'subj\_forward': False,
+  'subj\_noCharacters': 19,
+  'subj\_noWords': 5,
+  'subj\_reply': True,
+  'subj\_richness': 0.2631578947368421,
+  'subj\_verify': True,
+  'url\_atSymbol': False,
+  'url\_ipAddress': False,
+  'url\_linkText': True,
+  'url\_maxNoPeriods': 1,
+  'url\_noDomains': 2,
+  'url\_noExtLinks': 1,
+  'url\_noImgLinks': 0,
+  'url\_noIntLinks': 0,
+  'url\_noIpAddresses': 0,
+  'url\_noLinks': 1,
+  'url\_noPorts': 0,
+  'url\_nonModalHereLinks': False,
+  'url\_ports': False\},
+ \{'body\_forms': False,
+  'body\_html': True,
+  'body\_noCharacters': 612,
+  'body\_noDistinctWords': 54,
+  'body\_noFunctionWords': 1,
+  'body\_noWords': 67,
+  'body\_richness': 0.10947712418300654,
+  'body\_suspension': False,
+  'body\_verifyYourAccount': True,
+  'label': '?',
+  'script\_javaScript': True,
+  'script\_noOnClickEvents': 1,
+  'script\_nonModalJsLoads': True,
+  'script\_popups': True,
+  'script\_scripts': True,
+  'script\_statusChange': True,
+  'send\_diffSenderReplyTo': False,
+  'send\_noCharacters': 39,
+  'send\_noWords': 3,
+  'send\_nonModalSenderDomain': True,
+  'subj\_bank': False,
+  'subj\_debit': True,
+  'subj\_forward': False,
+  'subj\_noCharacters': 15,
+  'subj\_noWords': 4,
+  'subj\_reply': False,
+  'subj\_richness': 0.26666666666666666,
+  'subj\_verify': False,
+  'url\_atSymbol': False,
+  'url\_ipAddress': False,
+  'url\_linkText': True,
+  'url\_maxNoPeriods': 2,
+  'url\_noDomains': 2,
+  'url\_noExtLinks': 3,
+  'url\_noImgLinks': 0,
+  'url\_noIntLinks': 0,
+  'url\_noIpAddresses': 0,
+  'url\_noLinks': 3,
+  'url\_noPorts': 0,
+  'url\_nonModalHereLinks': True,
+  'url\_ports': False\},
+ \{'body\_forms': False,
+  'body\_html': False,
+  'body\_noCharacters': 166,
+  'body\_noDistinctWords': 16,
+  'body\_noFunctionWords': 1,
+  'body\_noWords': 16,
+  'body\_richness': 0.0963855421686747,
+  'body\_suspension': False,
+  'body\_verifyYourAccount': False,
+  'label': '?',
+  'script\_javaScript': False,
+  'script\_noOnClickEvents': 0,
+  'script\_nonModalJsLoads': False,
+  'script\_popups': False,
+  'script\_scripts': False,
+  'script\_statusChange': False,
+  'send\_diffSenderReplyTo': True,
+  'send\_noCharacters': 39,
+  'send\_noWords': 3,
+  'send\_nonModalSenderDomain': True,
+  'subj\_bank': False,
+  'subj\_debit': False,
+  'subj\_forward': False,
+  'subj\_noCharacters': 10,
+  'subj\_noWords': 3,
+  'subj\_reply': False,
+  'subj\_richness': 0.3,
+  'subj\_verify': False,
+  'url\_atSymbol': False,
+  'url\_ipAddress': False,
+  'url\_linkText': False,
+  'url\_maxNoPeriods': 2,
+  'url\_noDomains': 2,
+  'url\_noExtLinks': 3,
+  'url\_noImgLinks': 0,
+  'url\_noIntLinks': 0,
+  'url\_noIpAddresses': 0,
+  'url\_noLinks': 3,
+  'url\_noPorts': 0,
+  'url\_nonModalHereLinks': False,
+  'url\_ports': False\},
+ \{'body\_forms': False,
+  'body\_html': True,
+  'body\_noCharacters': 397,
+  'body\_noDistinctWords': 33,
+  'body\_noFunctionWords': 4,
+  'body\_noWords': 35,
+  'body\_richness': 0.08816120906801007,
+  'body\_suspension': False,
+  'body\_verifyYourAccount': False,
+  'label': '?',
+  'script\_javaScript': False,
+  'script\_noOnClickEvents': 0,
+  'script\_nonModalJsLoads': False,
+  'script\_popups': False,
+  'script\_scripts': False,
+  'script\_statusChange': False,
+  'send\_diffSenderReplyTo': False,
+  'send\_noCharacters': 39,
+  'send\_noWords': 3,
+  'send\_nonModalSenderDomain': True,
+  'subj\_bank': True,
+  'subj\_debit': False,
+  'subj\_forward': True,
+  'subj\_noCharacters': 18,
+  'subj\_noWords': 5,
+  'subj\_reply': False,
+  'subj\_richness': 0.2777777777777778,
+  'subj\_verify': False,
+  'url\_atSymbol': True,
+  'url\_ipAddress': True,
+  'url\_linkText': True,
+  'url\_maxNoPeriods': 3,
+  'url\_noDomains': 5,
+  'url\_noExtLinks': 5,
+  'url\_noImgLinks': 1,
+  'url\_noIntLinks': 2,
+  'url\_noIpAddresses': 1,
+  'url\_noLinks': 7,
+  'url\_noPorts': 2,
+  'url\_nonModalHereLinks': True,
+  'url\_ports': True\},
+ \{'body\_forms': True,
+  'body\_html': True,
+  'body\_noCharacters': 274,
+  'body\_noDistinctWords': 43,
+  'body\_noFunctionWords': 5,
+  'body\_noWords': 45,
+  'body\_richness': 0.16423357664233576,
+  'body\_suspension': True,
+  'body\_verifyYourAccount': True,
+  'label': '?',
+  'script\_javaScript': False,
+  'script\_noOnClickEvents': 0,
+  'script\_nonModalJsLoads': False,
+  'script\_popups': False,
+  'script\_scripts': False,
+  'script\_statusChange': False,
+  'send\_diffSenderReplyTo': False,
+  'send\_noCharacters': 39,
+  'send\_noWords': 3,
+  'send\_nonModalSenderDomain': True,
+  'subj\_bank': False,
+  'subj\_debit': False,
+  'subj\_forward': False,
+  'subj\_noCharacters': 10,
+  'subj\_noWords': 3,
+  'subj\_reply': False,
+  'subj\_richness': 0.3,
+  'subj\_verify': False,
+  'url\_atSymbol': False,
+  'url\_ipAddress': False,
+  'url\_linkText': False,
+  'url\_maxNoPeriods': 1,
+  'url\_noDomains': 2,
+  'url\_noExtLinks': 1,
+  'url\_noImgLinks': 0,
+  'url\_noIntLinks': 0,
+  'url\_noIpAddresses': 0,
+  'url\_noLinks': 1,
+  'url\_noPorts': 0,
+  'url\_nonModalHereLinks': False,
+  'url\_ports': False\}]
+create\_features\_csv: success
+
+    \end{Verbatim}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}44}]:} \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         \PY{l+s+sd}{Extract features of all mails in a all paths and create a csv}
+         \PY{l+s+sd}{\PYZsq{}\PYZsq{}\PYZsq{}}
+         
+         \PY{c+c1}{\PYZsh{} Paths and corresponding labels}
+         \PY{n}{all\PYZus{}paths\PYZus{}labels} \PY{o}{=} \PY{p}{\PYZob{}}\PY{n}{spam\PYZus{}path} \PY{p}{:} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{S}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} 
+                             \PY{n}{easy\PYZus{}ham\PYZus{}path} \PY{p}{:} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{H}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} 
+                             \PY{n}{phishing\PYZus{}2015\PYZus{}path} \PY{p}{:} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{P}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} 
+                             \PY{n}{phishing\PYZus{}2016\PYZus{}path} \PY{p}{:} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{P}\PY{l+s+s2}{\PYZdq{}}\PY{p}{\PYZcb{}}
+         \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{all\PYZus{}paths\PYZus{}labels}\PY{p}{,} \PY{n}{width} \PY{o}{=} \PY{l+m+mi}{1}\PY{p}{)}
+         
+         \PY{c+c1}{\PYZsh{} Datasets used in the paper}
+         \PY{n}{datasets} \PY{o}{=} \PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{dataset\PYZus{}HS}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{dataset\PYZus{}HP}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{dataset\PYZus{}HSP}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}
+         
+         \PY{c+c1}{\PYZsh{} Extract features from all the specified paths}
+         \PY{k}{def} \PY{n+nf}{extract\PYZus{}features\PYZus{}into\PYZus{}csv}\PY{p}{(}\PY{n}{paths\PYZus{}labels}\PY{p}{,} \PY{n}{filename}\PY{p}{)}\PY{p}{:}
+             \PY{n}{features\PYZus{}allFiles} \PY{o}{=} \PY{p}{[}\PY{p}{]}
+             \PY{k}{for} \PY{n}{path}\PY{p}{,} \PY{n}{label} \PY{o+ow}{in} \PY{n}{paths\PYZus{}labels}\PY{o}{.}\PY{n}{iteritems}\PY{p}{(}\PY{p}{)}\PY{p}{:}
+                 \PY{n}{features\PYZus{}list} \PY{o}{=} \PY{n}{extract\PYZus{}all\PYZus{}features\PYZus{}in\PYZus{}path}\PY{p}{(}\PY{n}{path}\PY{p}{,} \PY{n}{label}\PY{p}{)}
+                 \PY{n}{features\PYZus{}allFiles} \PY{o}{=} \PY{n}{features\PYZus{}allFiles} \PY{o}{+} \PY{n}{features\PYZus{}list}
+             
+             \PY{n}{create\PYZus{}features\PYZus{}csv}\PY{p}{(}\PY{n}{features\PYZus{}allFiles}\PY{p}{,} \PY{n}{filename}\PY{p}{)}
+             \PY{k}{print} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{extract\PYZus{}features\PYZus{}into\PYZus{}csv: success}\PY{l+s+s2}{\PYZdq{}}
+         
+         \PY{c+c1}{\PYZsh{} Run to obtain the paths and labels for a selected dataset}
+         \PY{k}{def} \PY{n+nf}{get\PYZus{}paths\PYZus{}labels}\PY{p}{(}\PY{n}{dataset}\PY{p}{)}\PY{p}{:}
+             \PY{n}{extension} \PY{o}{=} \PY{n}{dataset}\PY{o}{.}\PY{n}{split}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{\PYZus{}}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{l+m+mi}{1}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}
+             \PY{n}{paths\PYZus{}labels} \PY{o}{=} \PY{p}{\PYZob{}}\PY{p}{\PYZcb{}}
+             \PY{k}{for} \PY{n}{path}\PY{p}{,} \PY{n}{label} \PY{o+ow}{in} \PY{n}{all\PYZus{}paths\PYZus{}labels}\PY{o}{.}\PY{n}{iteritems}\PY{p}{(}\PY{p}{)}\PY{p}{:}
+                 \PY{k}{if} \PY{n}{label} \PY{o+ow}{in} \PY{n}{extension}\PY{p}{:} 
+                     \PY{n}{paths\PYZus{}labels}\PY{p}{[}\PY{n}{path}\PY{p}{]} \PY{o}{=} \PY{n}{label}
+             \PY{k}{return} \PY{n}{paths\PYZus{}labels}
+         
+         \PY{c+c1}{\PYZsh{} Run the following to obtain 3 \PYZsq{}csv\PYZsq{} files as in the paper}
+         \PY{n}{csv\PYZus{}directory} \PY{o}{=} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{/home/tushaar/Desktop/phishing\PYZus{}corpus/csv/}\PY{l+s+s2}{\PYZdq{}}
+         
+         \PY{k}{for} \PY{n}{dataset} \PY{o+ow}{in} \PY{n}{datasets}\PY{p}{:}
+             \PY{n}{filename} \PY{o}{=} \PY{n}{csv\PYZus{}directory} \PY{o}{+} \PY{n}{dataset} \PY{o}{+} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{.csv}\PY{l+s+s1}{\PYZsq{}}
+             \PY{n}{remove\PYZus{}if\PYZus{}exists}\PY{p}{(}\PY{n}{filename}\PY{p}{)}
+             
+             \PY{n}{paths\PYZus{}labels} \PY{o}{=} \PY{n}{get\PYZus{}paths\PYZus{}labels}\PY{p}{(}\PY{n}{dataset}\PY{p}{)}
+             \PY{n}{pprint}\PY{o}{.}\PY{n}{pprint}\PY{p}{(}\PY{n}{paths\PYZus{}labels}\PY{p}{)}
+             
+             \PY{n}{extract\PYZus{}features\PYZus{}into\PYZus{}csv}\PY{p}{(}\PY{n}{paths\PYZus{}labels}\PY{p}{,} \PY{n}{filename}\PY{p}{)}
+             \PY{k}{print} \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{dataset\PYZus{}creation: success}\PY{l+s+s2}{\PYZdq{}}
+\end{Verbatim}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+\{'/home/tushaar/Desktop/phishing\_corpus/datasets/easy\_ham': 'H',
+ '/home/tushaar/Desktop/phishing\_corpus/datasets/mbox/phishing\_2015': 'P',
+ '/home/tushaar/Desktop/phishing\_corpus/datasets/mbox/phishing\_2016': 'P',
+ '/home/tushaar/Desktop/phishing\_corpus/datasets/spam': 'S'\}
+\{'/home/tushaar/Desktop/phishing\_corpus/datasets/easy\_ham': 'H',
+ '/home/tushaar/Desktop/phishing\_corpus/datasets/spam': 'S'\}
+success
+extract\_features\_into\_csv: success
+dataset\_creation: success
+\{'/home/tushaar/Desktop/phishing\_corpus/datasets/easy\_ham': 'H',
+ '/home/tushaar/Desktop/phishing\_corpus/datasets/mbox/phishing\_2015': 'P',
+ '/home/tushaar/Desktop/phishing\_corpus/datasets/mbox/phishing\_2016': 'P'\}
+success
+extract\_features\_into\_csv: success
+dataset\_creation: success
+\{'/home/tushaar/Desktop/phishing\_corpus/datasets/easy\_ham': 'H',
+ '/home/tushaar/Desktop/phishing\_corpus/datasets/mbox/phishing\_2015': 'P',
+ '/home/tushaar/Desktop/phishing\_corpus/datasets/mbox/phishing\_2016': 'P',
+ '/home/tushaar/Desktop/phishing\_corpus/datasets/spam': 'S'\}
+success
+extract\_features\_into\_csv: success
+dataset\_creation: success
+
+    \end{Verbatim}
+
+
+    % Add a bibliography block to the postdoc
+    
+    
+    
+    \end{document}

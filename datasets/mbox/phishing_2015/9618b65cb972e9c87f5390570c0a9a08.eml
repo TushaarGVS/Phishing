@@ -1,0 +1,111 @@
+Return-Path: <info@web.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E02CFF415C
+	for <jose@login.monkey.org>; Mon,  6 Jul 2015 14:49:26 -0500 (CDT)
+Received: from smtpin12.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id A5CBE183EB7
+	for <jose@login.monkey.org>; Mon,  6 Jul 2015 19:49:26 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70378872732.12.cast59_181c9dd1a4f02
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,48ddfe29fe0a1103,d41d8cd98f00b204,info@web.com,,RULES_HIT:41:69:72:152:355:379:962:967:973:978:983:988:989:1189:1208:1212:1221:1260:1261:1313:1314:1345:1431:1437:1516:1517:1518:1534:1541:1575:1589:1594:1711:1714:1730:1776:1792:1803:2068:2069:2525:2527:2559:2566:2570:2682:2685:2703:2859:2890:2892:2905:2909:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3350:3865:3866:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4362:4552:5007:6117:6119:6248:6261:7264:7903:8599:8985:9015:9025:9111:9411:10004:10049:10400:11245:11289:11658:12658:12776:12812:13227:13229,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: cast59_181c9dd1a4f02
+X-Filterd-Recvd-Size: 3860
+Received: from mailgateway.dbcollege.edu (mail.dbcollege.edu [50.199.188.10])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  6 Jul 2015 19:49:25 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mailgateway.dbcollege.edu (Postfix) with ESMTP id 3mQBPn36S9zKsBF;
+	Mon,  6 Jul 2015 11:58:05 -0400 (EDT)
+X-Virus-Scanned: Scrollout F1 on Debian amavisd-new at dbcollege.edu
+Received: from mailgateway.dbcollege.edu ([127.0.0.1])
+	by localhost (mailgateway.dbcollege.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 5q71XLrLg-vj; Mon,  6 Jul 2015 11:58:04 -0400 (EDT)
+Received: from mail.dbcollege.edu (mail.dbcollege.edu [192.168.7.12])
+	by mailgateway.dbcollege.edu (Postfix) with ESMTP id 3mQ9zx5swgzKrWf;
+	Mon,  6 Jul 2015 11:39:02 -0400 (EDT)
+Received: from localhost (unknown [127.0.0.1])
+	by mail.dbcollege.edu (Postfix) with ESMTP id 65C2028847;
+	Mon,  6 Jul 2015 15:37:30 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at dbcollege.com
+Received: from mail.dbcollege.edu ([127.0.0.1])
+	by localhost (smtp2.dbcollege.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Vi6BXtAjegta; Mon,  6 Jul 2015 11:37:30 -0400 (EDT)
+Received: from dmc.dbcollege.edu (dmc.dbcollege.edu [192.168.7.41])
+	by mail.dbcollege.edu (Postfix) with ESMTPA id 2467028837;
+	Mon,  6 Jul 2015 11:36:58 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_92eb1eac5b73f8efd28b5e109dd8652f"
+Date: Mon, 06 Jul 2015 17:37:51 +0200
+From: IT'S HELPDESK <info@web.com>
+To: undisclosed-recipients:;
+Subject: Notice From ITS Service Information
+Message-ID: <2f95fd52ee34347c3898dd6bf1844991@mail.dbcollege.com>
+X-Sender: info@web.com
+User-Agent: Roundcube Webmail/0.9-beta
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 120
+
+--=_92eb1eac5b73f8efd28b5e109dd8652f
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=UTF-8
+
+ 
+
+You are currently running on low mail Quota due to hidden files and
+folder on your mailbox. Please Click Here
+http://cofrmmmmacnt.esy.es/verify.htm [1] To Validate/Confirm your
+account.
+
+This is an automated message. Please do not reply to this email.
+
+Thanks,
+ITS Admin
+ITS Department. 
+
+------------------------------------------------
+
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system. If you
+are not the intended recipient you are notified that disclosing,
+copying, distributing or taking any action in reliance on the contents
+of this information is strictly prohibited. 
+
+ 
+
+Links:
+------
+[1] http://cofrmmmmacnt.esy.es/verify.htm
+
+--=_92eb1eac5b73f8efd28b5e109dd8652f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html><body style=3D'font-family: Verdana,Geneva,sans-serif'>
+<p><span>You are currently running on low mail Quota due to hidden files an=
+d folder on your mailbox. Please Click Here&nbsp;&nbsp;</span><a href=3D"ht=
+tp://cofrmmmmacnt.esy.es/verify.htm" target=3D"_blank">http://cofrmmmmacnt=
+=2Eesy.es/verify.htm</a><span>&nbsp; To Validate/Confirm your account.</spa=
+n><br /><br /><span>This is an automated message. Please do not reply to th=
+is email.</span><br /><br /><br /><span>Thanks,</span><br /><span>ITS Admin=
+</span><br /><span>ITS Department.</span></p>
+<pre>------------------------------------------------
+
+Please notify the sender immediately by e-mail if you have received this e-=
+mail by mistake and delete this e-mail from your system. If you are not the=
+ intended recipient you are notified that disclosing, copying, distributing=
+ or taking any action in reliance on the contents of this information is st=
+rictly prohibited.=20
+</pre>
+</body></html>
+
+--=_92eb1eac5b73f8efd28b5e109dd8652f--

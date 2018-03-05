@@ -1,0 +1,86 @@
+Return-Path: <alvs@inil.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 0CF7BF40B6
+	for <jose@login.monkey.org>; Thu,  7 May 2015 11:57:14 -0500 (CDT)
+Received: from smtpin06.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id BA4C227A9EF
+	for <jose@login.monkey.org>; Thu,  7 May 2015 16:57:13 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70160710746.06.bikes96_793fabb5ee713
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,alvs@inil.com,:alvs@inil.com,RULES_HIT:1803,0,RBL:169.232.46.188:@inil.com:.lbl8.mailshell.net-62.4.0.2 64.201.201.201;169.232.46.188-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0
+X-HE-Tag: bikes96_793fabb5ee713
+X-Filterd-Recvd-Size: 2600
+Received: from tx2-csb2.smtp.ucla.edu (tx2-csb2.smtp.ucla.edu [169.232.46.188])
+	by imf05.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  7 May 2015 16:57:12 +0000 (UTC)
+Received: from [164.67.194.212] (delldrl.ee.ucla.edu [164.67.194.212] (may be forged))
+	by rx-csb2.smtp.ucla.edu (8.14.4/8.14.4/Debian-4) with ESMTP id t47Gsmtp000625;
+	Thu, 7 May 2015 09:55:02 -0700
+Message-Id: <201505071655.t47Gsmtp000625@rx-csb2.smtp.ucla.edu>
+Content-Type: multipart/alternative; boundary="===============1004282288=="
+MIME-Version: 1.0
+Subject: Upgrade
+To: Recipients <alvs@inil.com>
+From: "Usaa.com" <alvs@inil.com>
+Date: Thu, 07 May 2015 09:54:38 -0700
+X-Probable-Spam: no
+X-Spam-Hits: 4.166
+X-Spam-Score: ****
+X-Spam-Report: DCC_CHECK,HTML_IMAGE_ONLY_08,HTML_MESSAGE,RDNS_NONE,T_REMOTE_IMAGE
+X-Scanned-By: MIMEDefang 2.71 on 169.232.46.185
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 85
+
+You will not see this in a MIME-aware mail reader.
+--===============1004282288==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+
+Dear Usaa Customer,
+
+Due to a recent upgrade in our server, we are currently
+reviewing member's account and we request you to please =
+
+take just a second out of your time to comply with this
+upgrade for effect on your account, click the link to
+loginden. :
+
+Update Your Information
+
+Click above link to confirm your account.
+
+Failure to comply might lead to suspension or problem
+accessing your account.
+
+Thank you.
+USAA Membership.
+--===============1004282288==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"/></head><div><img src=3D"https://content.usaa.com/mcontent/static=
+_assets/Media/email_logo.gif"><br><br></div>Dear Usaa Customer,<br><br>Due =
+to a recent upgrade in our server, we are currently<br>reviewing member's a=
+ccount and we request you to please <br>take just a second out of your time=
+ to comply with this<br>upgrade for effect on your account, click the link =
+to<br>loginden. :<br><br>Update Your Information<br><br><a rel=3D"nofollow"=
+ href=3D"http://dallasindiefestival.com/wp-includes/images/wlw/wp.htm" targ=
+et=3D"_blank">Click above link to confirm your account.</a><br><br>Failure =
+to comply might lead to suspension or problem<br>accessing your account.<br=
+><br>Thank you.<br>USAA Membership.</html>
+--===============1004282288==--

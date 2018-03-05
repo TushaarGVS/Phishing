@@ -1,0 +1,62 @@
+Return-Path: sea_import@wikasa.co.id
+Delivered-To: jose@monkey.org
+X-FDA: 71674019046.21.fowl54_8f08d6bb6042e
+X-Spam-Summary: 64,4,0,1f1b11ba08e08fda,d41d8cd98f00b204,sea_import@wikasa.co.id,,RULES_HIT:10:41:152:355:379:387:541:582:967:969:970:973:978:988:989:1152:1260:1261:1263:1277:1311:1313:1314:1345:1359:1381:1437:1515:1516:1518:1534:1537:1566:1593:1594:1711:1714:1730:1747:1777:1792:2393:2525:2553:2559:2563:2612:2682:2685:2693:2859:2898:2902:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3622:3690:3740:3865:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4552:5007:6261:6653:6684:9025:9388:10010:10400:11256:11658:11855:11914:12043:12219:12225:12658:12659:12660:13069:13141:13163:13199:13229:13230:13311:13357:13437:14051:14181:14764:14829:30001:30021:30022:30026:30051:30054:30070:30074:30075:30090,0,RBL:103.18.28.211:@wikasa.co.id:.lbl8.mailshell.net-62.2.255.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:15,LUA_SUMMARY:none
+X-HE-Tag: fowl54_8f08d6bb6042e
+X-Filterd-Recvd-Size: 2583
+Received: from mail.wikasa.co.id (mail.wikasa.co.id [103.18.28.211])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 27 Jun 2016 17:36:22 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.wikasa.co.id (Postfix) with ESMTP id 2E3B61813E3D;
+	Tue, 28 Jun 2016 00:49:52 +0700 (WIT)
+Received: from mail.wikasa.co.id ([127.0.0.1])
+	by localhost (mail.wikasa.co.id [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id GX-Hv24kp-49; Tue, 28 Jun 2016 00:49:51 +0700 (WIT)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.wikasa.co.id (Postfix) with ESMTP id 779E61813E3A;
+	Tue, 28 Jun 2016 00:49:50 +0700 (WIT)
+DKIM-Filter: OpenDKIM Filter v2.8.4 mail.wikasa.co.id 779E61813E3A
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=wikasa.co.id;
+	s=selector; t=1467049790;
+	bh=XVcbQGEaBFxEkKZDJErjtQesOSY8KWWItkAZSXgad8w=;
+	h=Date:From:Reply-To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=UVBi5QZ0I+T8dMOBjzwEAX/8LHAvgGt9U8BxJGncnniwb5dEFUZfFW0RW95MBLQWz
+	 +SY4ynRzgyn0rpN9zLJaSwHhYxRlaLy0U/ccV9wn4wHsVR5JZg1CXF0NEPDue0Eql0
+	 ui7tNxefQPqp+IcpvKLumej7B8+rB3NplM9QT0Bw=
+X-Virus-Scanned: amavisd-new at wikasa.co.id
+Received: from mail.wikasa.co.id ([127.0.0.1])
+	by localhost (mail.wikasa.co.id [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id mFulekvYP0-t; Tue, 28 Jun 2016 00:49:50 +0700 (WIT)
+Received: from mail.wikasa.co.id (mail.wikasa.co.id [103.18.28.211])
+	by mail.wikasa.co.id (Postfix) with ESMTP id AFC191813E36;
+	Tue, 28 Jun 2016 00:49:49 +0700 (WIT)
+Date: Tue, 28 Jun 2016 00:49:48 +0700 (WIT)
+From: Email Account Administrator <sea_import@wikasa.co.id>
+Reply-To: Email Account Administrator <info@noreply.com>
+Message-ID: <634210288.502567.1467049788238.JavaMail.zimbra@wikasa.co.id>
+In-Reply-To: <258912503.502361.1467049718197.JavaMail.zimbra@wikasa.co.id>
+Subject: Dear User
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [160.152.10.113]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - GC51 (Win)/8.0.6_GA_5922)
+Thread-Topic: Dear User
+Thread-Index: 611tcmpt7uA+fWTMhUyQEoJxO5YiEg==
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 285
+
+Dear User, 
+
+Your mailbox quota is full
+This may cause your mailbox fault or you may not be able to receive more e-mail
+
+To continue using your mailbox, you need to clicking on this link: 
+http://www.smartsurvey.co.uk/s/6SW1E/ and complete the required details and click on up date.
+Once the upgrade is complete, your mailbox will work effectively. 
+
+Mail Administrator 2016

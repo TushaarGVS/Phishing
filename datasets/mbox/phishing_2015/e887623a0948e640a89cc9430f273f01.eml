@@ -1,0 +1,76 @@
+Return-Path: <info@helpdesk.org>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 0C986F4136
+	for <jose@login.monkey.org>; Thu, 26 Mar 2015 14:08:25 -0500 (CDT)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id BDB1C34E34D
+	for <jose@login.monkey.org>; Thu, 26 Mar 2015 19:08:23 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70008631686.07.rake26_835d3b69d2f0d
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=helpdesk.org
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 40,2.5,0,db54ff952202550a,d41d8cd98f00b204,info@helpdesk.org,:info@helpdesk.org,RULES_HIT:41:379:973:988:989:1254:1256:1260:1277:1311:1313:1314:1381:1437:1513:1515:1516:1518:1521:1534:1540:1593:1594:1711:1730:1747:1777:1792:1803:2107:2194:2199:2393:2538:2539:2559:2562:2693:2741:2828:2890:2899:2903:2908:2909:2914:2924:2926:3040:3138:3139:3140:3141:3142:3352:3865:3866:3867:3868:3870:3871:3873:3874:4042:4365:5007:6261:6687:7903:9163:10011:10044:10241:10400:10429:10430:10431:10798:11288:11658:11914:12219:12295:12517:12519:12561:12660:12661:13069:13141:13163:13229:13230:13311:13357:14037:19903:19997:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:3:0
+X-HE-Tag: rake26_835d3b69d2f0d
+X-Filterd-Recvd-Size: 1806
+Received: from server1.walravenwebwerk.nl (server1.walravenwebwerk.nl [195.22.101.70])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 26 Mar 2015 19:08:22 +0000 (UTC)
+Received: from mail.goldenhomes.co.nz ([111.69.28.34] helo=user-PC.WirelessAP)
+	by server1.walravenwebwerk.nl with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <info@helpdesk.org>)
+	id 1YbD90-0003jg-HR; Thu, 26 Mar 2015 20:08:43 +0100
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: Administrative Notice
+To: Recipients <info@helpdesk.org>
+From: "Help Desk" <info@helpdesk.org>
+Date: Fri, 27 Mar 2015 03:07:20 +0800
+Reply-To: help.desk.team.0014@tech-center.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 53
+
+Help Desk
+
+
+Scheduled Maintenance & Upgrade
+
+Your account is in the process of being upgraded to a newest  =
+
+Windows-based servers and an enhanced online email interface inline with in=
+ternet infrastructure Maintenance. The new servers will provide better anti=
+-spam and anti-virus functions, along with IMAP Support for mobile devices =
+to enhance your usage.
+
+To ensure that your account is not disrupted but active during and after th=
+is upgrade, you are required to kindly confirm your account by stating the =
+details below:
+
+* Domain\user name: =
+
+* Password: =
+
+
+This will prompt the upgrade of your account.
+
+Failure to acknowledge the receipt of this notification, might result to a =
+temporary deactivation of your account from our database. Your account shal=
+l remain active upon your confirmation of your login details.
+
+We do apologize for any inconveniences caused.
+
+Sincerely,
+
+Customer Care Team
+
+
+(c) Copyright 2015, All Rights Reserved.

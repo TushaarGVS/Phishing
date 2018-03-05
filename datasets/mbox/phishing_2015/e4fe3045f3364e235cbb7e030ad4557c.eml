@@ -1,0 +1,69 @@
+Return-Path: <jibironke@dwsd.org>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 76738F4165
+	for <jose@login.monkey.org>; Thu,  8 Oct 2015 13:43:37 -0500 (CDT)
+Received: from smtpin14.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 4BDDD27AC45
+	for <jose@login.monkey.org>; Thu,  8 Oct 2015 18:43:37 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70719814074.14.260B6FB
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin14.b.hostedemail.com (Postfix) with ESMTP id 2A23811D10;
+	Thu,  8 Oct 2015 18:43:37 +0000 (UTC)
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,bed4926cddb60cd0,d41d8cd98f00b204,jibironke@dwsd.org,:,RULES_HIT:41:72:152:355:379:474:541:582:962:967:973:978:983:988:989:1152:1189:1208:1221:1260:1261:1263:1313:1314:1345:1373:1381:1431:1437:1516:1517:1518:1534:1538:1559:1575:1588:1589:1594:1711:1714:1730:1748:1774:1792:2525:2527:2560:2563:2610:2682:2685:2859:2894:2895:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3635:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4416:4552:5007:6261:6674:6703:8512:8513:8518:8603:8634:9025:9080:9388:9411:9416:9868:9873:9874:9908:10004:11245:11656:11658:11914:12043:12225:12331:12555:13132:13139:13163:13229:13231:13235:13237:21212,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: pies48_76cae8edd800b
+X-Filterd-Recvd-Size: 2182
+Received: from mail.dwsd.org (unknown [206.17.173.136])
+	by imf18.b.hostedemail.com (Postfix) with ESMTP;
+	Thu,  8 Oct 2015 18:43:36 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by csf-mail-zimbra.dwsd.org (Postfix) with ESMTP id DC79A17E4834B;
+	Thu,  8 Oct 2015 14:05:13 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at dwsd.org
+Received: from mail.dwsd.org ([127.0.0.1])
+	by localhost (csf-mail-zimbra.dwsd.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1xP2a+bjDwCf; Thu,  8 Oct 2015 14:05:13 -0400 (EDT)
+Received: from csf-mail-zimbra.dwsd.org (csf-mail-zimbra.dwsd.org [172.16.216.181])
+	by csf-mail-zimbra.dwsd.org (Postfix) with ESMTP id 496AC17E48343;
+	Thu,  8 Oct 2015 14:05:10 -0400 (EDT)
+Date: Thu, 8 Oct 2015 14:05:10 -0400 (EDT)
+From: Mail Service <jibironke@dwsd.org>
+Message-ID: <1226923745.193391.1444327510196.JavaMail.root@csf-mail-zimbra.dwsd.org>
+Subject: Message From Administrator
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_193390_443173890.1444327510188"
+X-Originating-IP: [192.168.110.25]
+X-Mailer: Zimbra 6.0.6_GA_2324.RHEL5_64 (zclient/6.0.6_GA_2324.RHEL5_64)
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 197
+
+------=_Part_193390_443173890.1444327510188
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+Your email Address require 
+security updates and verification. 
+Click here to proceed with your Email 
+update.     
+
+------=_Part_193390_443173890.1444327510188
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><style> body {height: 100%; color:#000000; font-size:12pt; font-family:Times New Roman;}</style></head><body><div dir="ltr"><font color="#000000" face="Tahoma">
+<div dir="ltr"><font color="#000000" size="4" face="Tahoma">Your email Address require 
+security updates and verification. </font></div>
+</font><div dir="ltr"><strong><a href="http://www.pantallaled.net/plekma/" target="_blank"><font size="4">Click here to proceed with your Email 
+update.</font></a><font size="4"> &nbsp;&nbsp;&nbsp; <br></font></strong></div></div></body></html>
+------=_Part_193390_443173890.1444327510188--

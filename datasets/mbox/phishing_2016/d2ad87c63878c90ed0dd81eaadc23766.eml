@@ -1,0 +1,41 @@
+Return-Path: admin@satkarfincorp.com
+Delivered-To: jose@monkey.org
+X-FDA: 71308579986.04.heart47_791b97644c1c
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,5965e36a2b20828a,d41d8cd98f00b204,admin@satkarfincorp.com,:,RULES_HIT:41:46:72:150:152:375:379:800:967:969:973:983:988:989:1185:1208:1224:1254:1260:1263:1311:1313:1314:1381:1431:1437:1514:1515:1516:1517:1534:1538:1567:1593:1594:1699:1711:1714:1730:1747:1777:1792:2393:2525:2561:2564:2682:2685:2859:2890:2892:2933:2937:2939:2942:2945:2947:2951:2954:3022:3038:3138:3139:3140:3141:3142:3148:3740:3865:3866:3867:3868:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:5007:6117:6261:6684:6688:7653:8797:9025:9388:9908:10004:10346:10400:11480:11638:11639:11658:11914:11984:12043:12050:12051:12555:12955:12958:13255:13311:13357:14036:14721:21067:21080:30001:30022:30038:30054:30055:30069:30070:30075:30080,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:69,LUA_SUMMARY:none
+X-HE-Tag: heart47_791b97644c1c
+X-Filterd-Recvd-Size: 1541
+Received: from mail.satkartravels.com (mail.satkartravels.com [103.10.191.32])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 19 Mar 2016 00:40:51 +0000 (UTC)
+X-SmarterMail-Authenticated-As: admin@satkarfincorp.com
+Received: from AMR1 (50-242-205-245-static.hfc.comcastbusiness.net [50.242.205.245]) by mail.satkartravels.com with SMTP;
+   Sat, 19 Mar 2016 05:30:49 +0530
+MIME-Version: 1.0
+From: "HM & Customs" <admin@satkarfincorp.com>
+To: jose@monkey.org
+Reply-To: "HM & Customs" <admin@satkarfincorp.com>
+Date: 18 Mar 2016 20:03:48 -0400
+Subject: =?utf-8?B?0KLQsNGFIFJlZnVuZCDOndC1dyDOndC1c3PQsNaBZSDOkWxlcnQhOiA0OTYzNTcwMw==?=
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 120
+
+RGVhciBqb3NlQG1vbmtleS5vcmcgLDxicj4NCg0KPGJyPldlJ3JlIGludmVzdGlnYXRpbmcg
+YSBwYXltZW50IHJldmVyc2FsIDxicj4NCjxicj5XZSByZWNlbnRseSBub3RpZmllZCB5b3Ug
+dGhhdCBhIHBheW1lbnQgeW91IHJlY2VpdmVkIHdhcyBtYWRlIHdpdGhvdXQgdGhlIGFjY291
+bnQgaG9sZGVyJ3MgcGVybWlzc2lvbiwgb3Igd2FzIHRoZSByZXN1bHQgb2YgYSB0cmFuc2Fj
+dGlvbiBlcnJvci48YnI+DQoNCjxicj5UbyBoZWxwIHJlc29sdmUgdGhpcyBpc3N1ZSwgPGEg
+aHJlZj0iaHR0cDovL2Vib25kYXIuY29tL2htcmMvIiB0YXJnZXQ9Il9ibGFuayI+bG9nIGlu
+PC9hPiB0byB5b3VyIEhNUkMgYWNjb3VudCB3aXRoaW4gdGhlIG5leHQgMjQgaG91cnMgYW5k
+IHJlc3BvbmQgdG8gb3VyIHJlcXVlc3QgZm9yIGluZm9ybWF0aW9uIGluIHlvdXIgPGEgaHJl
+Zj0iaHR0cDovL2Vib25kYXIuY29tL2htcmMvIiB0YXJnZXQ9Il9ibGFuayI+UmVzb2x1dGlv
+biBDZW50ZXI8L2E+PGJyPg0KDQo8YnI+VGhhbmtzLDxicj4NCkhNUkMNCjxicj4NCjxicj4N
+Cjxicj4NCkVtYWlsIElEIGU4OTk1N2E2ZDk5YzM5NTE=
+
+

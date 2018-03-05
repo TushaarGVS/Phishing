@@ -1,0 +1,100 @@
+Return-Path: marijke@sales.co.za
+Delivered-To: jose@monkey.org
+X-FDA: 71173755198.21.steam90_88ace0a9ca409
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,39ae2e6c1fd1b708,d41d8cd98f00b204,marijke@sales.co.za,:marijke@sales.co.za,RULES_HIT:41:72:152:355:379:474:962:967:978:983:988:989:1032:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1537:1559:1575:1588:1592:1594:1711:1714:1730:1748:1777:1792:2525:2560:2563:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3866:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:5007:6261:6687:7980:9025:9059:9060:9388:9411:9416:9873:9908:10004:10049:10346:10394:10400:11658:11815:11914:12043:12050:12306:12561:13110:13235:13237:14036:21080:21324,0,RBL:196.11.146.227:@sales.co.za:.lbl8.mailshell.net-62.8.247.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:12,LUA_SUMMARY:none
+X-HE-Tag: steam90_88ace0a9ca409
+X-Filterd-Recvd-Size: 2316
+Received: from vodamail.co.za (relay2.vodamail.co.za [196.11.146.227])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 10 Feb 2016 20:58:58 +0000 (UTC)
+Received: from vodamail.co.za (smtp7.vodamail.internal [10.113.154.86])
+	by relay2.vodamail.internal (Postfix) with ESMTP id 0A0C59276FE;
+	Wed, 10 Feb 2016 22:58:58 +0200 (SAST)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp7.vodamail.co.za (Postfix) with ESMTP id 214928116658;
+	Wed, 10 Feb 2016 22:58:57 +0200 (SAST)
+X-Virus-Scanned: amavisd-new at vodamail.co.za
+Received: from vodamail.co.za ([127.0.0.1])
+	by localhost (smtp7.vodamail.internal [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id D4629Fl5Ev-5; Wed, 10 Feb 2016 22:58:53 +0200 (SAST)
+Received: from Play.www.huaweimobilewifi.com (unknown [41.13.2.117])
+	by smtp7.vodamail.co.za (Postfix) with ESMTP id 78DAC8187AF6;
+	Wed, 10 Feb 2016 22:58:47 +0200 (SAST)
+Content-Type: multipart/alternative; boundary="===============1721596980=="
+MIME-Version: 1.0
+Subject: Urgent
+To: Recipients <marijke@sales.co.za>
+From: "Accounts"<marijke@sales.co.za>
+Date: Wed, 10 Feb 2016 22:58:59 +0200
+Message-Id: <20160210205847.78DAC8187AF6@smtp7.vodamail.co.za>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 61
+
+You will not see this in a MIME-aware mail reader.
+--===============1721596980==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+Good day,
+
+ =
+
+ Please find proof of payment attached. =
+
+ Should you require any further assistance please don=92t hesitate to conta=
+ct me =
+
+ =
+
+  Click here to view  =
+
+
+ Rachael =
+
+ =
+
+ =
+
+ =
+
+=20
+--===============1721596980==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"/></head><br>Good day,<br><br>
+
+<br> =
+
+ =
+
+Please find proof of payment attached.
+<br>
+Should you require any further assistance please don=E2=80=99t hesitate to =
+contact me
+<br>
+
+<br>
+<a href=3D"http://syajsja.co.za/document/">
+Click here to view </a>
+<br><br>
+Rachael
+<br>
+<br>
+
+<br>
+<br>
+
+</html>
+--===============1721596980==--

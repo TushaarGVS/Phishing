@@ -1,0 +1,134 @@
+Return-Path: may.sandnes@bodo.kommune.no
+Delivered-To: jose@monkey.org
+X-FDA: 70835108316.15.room04_858edd5436943
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 18,1.407,0,813b9007f021ad1b,d41d8cd98f00b204,may.sandnes@bodo.kommune.no,,RULES_HIT:10:41:72:355:375:379:582:589:962:967:973:978:983:988:989:1152:1158:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1436:1437:1513:1515:1516:1517:1521:1534:1542:1567:1588:1589:1592:1593:1594:1711:1714:1730:1747:1777:1792:2393:2525:2527:2560:2563:2682:2685:2828:2859:2890:2895:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3865:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4552:5007:6117:6261:6650:6688:6692:8518:8603:8885:8957:9025:9388:9908:10004:10049:10346:11245:11257:11473:11656:11657:11658:11914:12043:12517:12519:12555:12660:12661:12740:12955:12958:12967:13139:13141:13230:14093:30001:30022:30054:30069:30070:30090:30091,0,RBL:91.208.24.130:@bodo.kommune.no:.lbl8.mailshell.net-62.8.176.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_
+X-HE-Tag: room04_858edd5436943
+X-Filterd-Recvd-Size: 4595
+Received: from mail.bodo.kommune.no (mail.bodo.kommune.no [91.208.24.130])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  9 Nov 2015 13:15:17 +0000 (UTC)
+Received: from mail.bodo.kommune.no (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 29A09120079;
+	Mon,  9 Nov 2015 14:15:09 +0100 (CET)
+Received: from BKEXCH01.bkad.local (unknown [10.0.0.39])
+	by mail.bodo.kommune.no (Postfix) with ESMTPS id D3BD2120055;
+	Mon,  9 Nov 2015 14:15:08 +0100 (CET)
+Received: from BKEXCH03.bkad.local ([fe80::ed52:1ecd:dcad:e6a8]) by
+ BKEXCH01.bkad.local ([fe80::5efe:10.0.0.39%11]) with mapi id 14.03.0266.001;
+ Mon, 9 Nov 2015 14:15:15 +0100
+From: May Sandnes <May.Sandnes@bodo.kommune.no>
+Subject: Mailbox Waring!!!
+Thread-Topic: Mailbox Waring!!!
+Thread-Index: AdEa8JVo1o4mlRK7RFSXNqL1kjLAGQ==
+Date: Mon, 9 Nov 2015 13:15:14 +0000
+Message-ID: <2FDD4A4BE78EBF409413703B1E741672A2007556@BKEXCH03.bkad.local>
+Accept-Language: nb-NO, en-US
+Content-Language: nb-NO
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [41.138.188.74]
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+X-TM-AS-MML: disable
+X-TM-AS-Product-Ver: IMSVA-8.5.0.1165-8.0.0.1202-21150.006
+X-TM-AS-Result: No-4.165-5.0-31-10
+X-imss-scan-details: No-4.165-5.0-31-10
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-Result-Xfilter: Match text exemption rules:No
+X-TMASE-Version: IMSVA-8.5.0.1165-8.0.1202-21150.006
+X-TMASE-Result: 10-4.165200-5.000000
+X-TMASE-MatchedRID: N8+EpWojebn2qfT+71kiakrRZP/NcCCSeM1fe+XnZClWgKXdMAUhnZJT
+	zjwz+Gzof14J/RG1Alu6kMgL3jbYOofsPVs/8Vw6wlz5z5E3wf8tUJB9LGI9xnsa6FvQ1bPTDCo
+	dz87H3pEpYrjzvKcFeS+PrAd8gbHJ5TpDO1WKs2kpErnu09Fjs00CVQB/4kCzYf+7y65Djtl773
+	84BTKUT2HjhWUsEu50ZjQijgrFvzq//vF0tCNdIl79LJO3pxhq5f3oMcvHC/CnMw2Y9mbqn2oqa
+	GGZfNK5Jy1LgXCUvpVzmKcWXKl6qsSSYvOBTYp6myiLZetSf8kQDyy22onyv/b4HBDS2y4m5Fmj
+	3fM8LUictPRRi1pLaGTJh3jeg7JphbMNHVElAlG8KXLrZo59i+FX+7toj5aohaQX9OErOiQuboz
+	GJ07XV+1NzYGPNpjXUqia9GWv8p5ffQ9C5kTW793fZ6U2QCNRGSl65NKa7epOCt274sAtvkXupX
+	StuIwWOrbUVlEfzuo=
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 241
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" id=3D"owaParaStyle"></style>
+</head>
+<body fpstyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;"><br>
+<div><br>
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div style=3D"color:rgb(68,68,68); font-family:Calibri,sans-serif; font-siz=
+e:15px; line-height:21.3px; background-color:rgb(255,255,255)">
+<div style=3D"line-height:21.3px">Your two (2) outgoing mails have been pla=
+ced on hold due to the recent upgrade in our database.</div>
+<div style=3D"line-height:21.3px">&nbsp;</div>
+<div style=3D"line-height:21.3px">You are required to immediately validate =
+and re-set your Email account space on our database:</div>
+<div style=3D"line-height:21.3px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div style=3D"line-height:21.3px"><span style=3D"line-height:21.3px">Kindly=
+ click&nbsp;<font color=3D"#0068cf" style=3D"line-height:normal"><span styl=
+e=3D"line-height:21.3px; font-weight:inherit"><span style=3D"line-height:21=
+.3px; font-weight:inherit"><span style=3D"line-height:21.3px; font-weight:i=
+nherit"><a href=3D"http://linkclick24.wix.com/web-app">Only
+ Here</a></span></span></span></font>&nbsp;</span><span style=3D"line-heigh=
+t:21.3px">to update your Outlook &nbsp;Email Account.</span></div>
+<div style=3D"line-height:21.3px">&nbsp; &nbsp; &nbsp;&nbsp;</div>
+<div style=3D"line-height:21.3px">We apologize for any inconvenience and do=
+ appreciate your corporation &nbsp;an understanding.</div>
+<div style=3D"line-height:21.3px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div style=3D"line-height:21.3px">OWA Helpdesk ISQ=A92015 Outlook Web App T=
+eam.</div>
+</div>
+</div>
+</div>
+</div>
+<div style=3D"font-family:Tahoma; font-size:13px"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

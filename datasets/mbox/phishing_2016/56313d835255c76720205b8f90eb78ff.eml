@@ -1,0 +1,105 @@
+Return-Path: ckozsuch@ardentheatre.org
+Delivered-To: jose@monkey.org
+X-FDA: 71382317076.12.mine12_6598058d0393d
+X-Spam-Summary: 2,0,0,ce22dbc1ec1de6ad,d41d8cd98f00b204,ckozsuch@ardentheatre.org,:info@awb2004.org,RULES_HIT:10:41:72:355:379:474:582:960:962:967:978:983:988:989:1152:1158:1189:1208:1221:1256:1260:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1533:1534:1541:1575:1588:1589:1592:1594:1711:1714:1730:1748:1777:1792:2525:2527:2559:2564:2610:2682:2685:2693:2859:2895:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3870:3872:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6117:6261:7875:8603:8778:8784:8957:9025:9080:9111:9411:9908:10004:10346:10400:11537:11656:11657:11658:11914:12043:12050:12519:12520:12555:12657:12698:12737:13139:13237:13439:14096:14158:14181:14659:14721:21080:30026:30037:30054:30070:30075,0,RBL:208.65.145.71:@ardentheatre.org:.lbl8.mailshell.net-62.2.0.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: mine12_6598058d0393d
+X-Filterd-Recvd-Size: 3904
+Received: from s12p02o148.mxlogic.net (s12p02o148.mxlogic.net [208.65.145.71])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  8 Apr 2016 08:21:37 +0000 (UTC)
+Received: from unknown [50.243.63.195] (EHLO s12p02o148.mxlogic.net)
+	by s12p02o148.mxlogic.net(mxl_mta-8.5.0-10)
+	with ESMTP id 21a67075.7f689ffff700.7624.00-564.18081.s12p02o148.mxlogic.net (envelope-from <ckozsuch@ardentheatre.org>);
+	Fri, 08 Apr 2016 02:21:38 -0600 (MDT)
+X-MXL-Hash: 57076a124fddb72f-8af4439d6c2468d9acf6e78887bb26ec6b6593f3
+Received: from unknown [50.243.63.195]
+	by s12p02o148.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with SMTP id 9b967075.0.5913.00-376.15549.s12p02o148.mxlogic.net (envelope-from <ckozsuch@ardentheatre.org>);
+	Fri, 08 Apr 2016 02:21:23 -0600 (MDT)
+X-MXL-Hash: 57076a036f9c519e-74dfffe23cd6e3f21d4b6100831ea9362b3f9ea1
+Received: from ARDEN-SBS01.arden.local ([fe80::81cf:7858:7182:4a15]) by
+ ARDEN-SBS01.arden.local ([fe80::81cf:7858:7182:4a15%16]) with mapi id
+ 14.01.0438.000; Fri, 8 Apr 2016 04:14:40 -0400
+From: Christine Kozsuch <CKozsuch@ardentheatre.org>
+To: "info@awb2004.org" <info@awb2004.org>
+Subject: Help Desk Password Update
+Thread-Topic: Help Desk Password Update
+Thread-Index: AdGRbrInm9vQUWhtTBOY3usJyyMLIw==
+Date: Fri, 8 Apr 2016 08:14:39 +0000
+Message-ID: <0AA5E21623362A4A9220DBA755B838902AA8D20A@ARDEN-SBS01.arden.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [41.190.3.14]
+Content-Type: multipart/alternative;
+	boundary="_000_0AA5E21623362A4A9220DBA755B838902AA8D20AARDENSBS01arden_"
+MIME-Version: 1.0
+X-AnalysisOut: [v=2.1 cv=X7JUXTne c=1 sm=1 tr=0 a=cIv91nB9kfBry8G2KwQ8Sw==]
+X-AnalysisOut: [:117 a=cIv91nB9kfBry8G2KwQ8Sw==:17 a=NlgFY7oSpngA:10 a=xqW]
+X-AnalysisOut: [C_Br6kY4A:10 a=kziv93cY1bsA:10 a=CHedVKZdAAAA:8 a=Dv3ybIHj]
+X-AnalysisOut: [JMDwyi2TVLcA:9 a=wPNLvfGTeEIA:10 a=PZO8nXQNwPIA:10 a=xhAPR]
+X-AnalysisOut: [sOD_sIA:10 a=5LF_5qCG7e0Vd8qMvLEA:9 a=I1tn90O3KpbeMCtL:21 ]
+X-AnalysisOut: [a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10]
+X-Spam: [F=0.5000000000; CM=0.500; MH=0.500(2016040805); S=0.200(2015072901)]
+X-MAIL-FROM: <ckozsuch@ardentheatre.org>
+X-SOURCE-IP: [50.243.63.195]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 155
+
+--_000_0AA5E21623362A4A9220DBA755B838902AA8D20AARDENSBS01arden_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+IT@MAIL
+
+Password will expire in 3 days To keep your password active. Click Here<htt=
+ps://www.powr.io/plugins/form-builder/view?id=3D4085255&mode=3Dpage> to upd=
+ate
+
+IT- Desk Service Desk
+
+
+--_000_0AA5E21623362A4A9220DBA755B838902AA8D20AARDENSBS01arden_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" id=3D"owaParaStyle"></style>
+</head>
+<body fpstyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px"><font style=3D"font-size:=
+10pt">IT@MAIL<br>
+<br>
+Password will expire in 3 days To keep your password active. <a rtenodeid=
+=3D"2" href=3D"https://www.powr.io/plugins/form-builder/view?id=3D4085255&a=
+mp;mode=3Dpage">
+<strong>Click Here</strong></a> to update<br>
+<br>
+IT- Desk Service Desk<br>
+<br>
+</font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_0AA5E21623362A4A9220DBA755B838902AA8D20AARDENSBS01arden_--

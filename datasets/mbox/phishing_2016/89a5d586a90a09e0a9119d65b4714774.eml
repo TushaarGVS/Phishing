@@ -1,0 +1,98 @@
+Return-Path: info@mailserver.com
+Delivered-To: jose@monkey.org
+X-FDA: 71474339244.05.skin43_64db274d7fa20
+X-Spam-Summary: 73,5,0,d58be864951d277e,d41d8cd98f00b204,info@mailserver.com,:,RULES_HIT:41:72:355:379:495:800:962:966:967:969:973:983:988:989:1147:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1534:1540:1566:1575:1588:1592:1594:1685:1711:1714:1730:1777:1792:2196:2199:2525:2553:2560:2563:2610:2682:2685:2693:2790:2859:2890:2898:2899:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4385:4552:4699:5007:6261:6669:7652:8518:8603:9025:9121:9388:9416:9873:9908:10012:10214:10346:10400:11233:11480:11658:11914:12043:12517:12519:12555:12658:12659:12660:13025:13139:13235:13237:13439:14096:14181:14515:14596:14659:14687:14721:21080:21259:21433:30001:30022:30026:30054:30070:30075:30090:30091,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:3:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: skin43_64db274d7fa20
+X-Filterd-Recvd-Size: 2653
+Received: from rcaredev.riyadhcare.com (mail.riyadhcare.com [88.85.240.58])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  3 May 2016 16:58:12 +0000 (UTC)
+MIME-version: 1.0
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_RAsBAI+j3iW4fDAPgN8qMg)"
+Received: from [41.138.172.65] ([unknown] [41.138.172.65])
+ by rcaredev.riyadhcare.com
+ (Sun Java(tm) System Messaging Server 7.3-11.01 64bit (built Sep  1 2009))
+ with ESMTPA id <0O6H004OA5CJHFR0@rcaredev.riyadhcare.com> for jose@monkey.org;
+ Sun, 01 May 2016 04:26:50 +0300 (AST)
+Message-id: <0O6H004OS5CPHFR0@rcaredev.riyadhcare.com>
+Subject: LAST WARNING....EMAIL QOUTA EXCEEDED
+To: jose@monkey.org
+From: Server Alert <info@mailserver.com>
+Date: Sun, 01 May 2016 01:15:33 +0000
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 196
+
+You will not see this in a MIME-aware mail reader.
+
+--Boundary_(ID_RAsBAI+j3iW4fDAPgN8qMg)
+MIME-version: 1.0
+Content-type: text/plain; CHARSET=US-ASCII
+Content-transfer-encoding: 7BIT
+Content-description: Mail message body
+
+
+
+ 
+ 	   Dear jose@monkey.org, 
+
+ Your mailbox quota is full.
+ This may lead to email system failure and you will not be able to receive more mails henceforth.
+
+ To continue using your mailbox, you need to upgrade your mailbox quota immediately. This service is free. 
+
+ 
+    Upgrade Mailbox Quota Here   
+ 
+
+ Once your account upgrade is completed, your mailbox will work effectively. 
+
+ Mail Center 2016 	 
+
+--Boundary_(ID_RAsBAI+j3iW4fDAPgN8qMg)
+MIME-version: 1.0
+Content-type: text/html; CHARSET=US-ASCII
+Content-transfer-encoding: 7BIT
+Content-description: Mail message body
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/></head><br><br>
+
+<table width="" align="">
+
+<td width="30"></td>
+
+
+<td width="500">
+
+	<font face="verdana" size="2">
+
+	Dear jose@monkey.org, <br><br>
+
+	Your mailbox quota is full.<br>
+
+	This may lead to email system failure and you will not be able to receive more mails henceforth.<br><br>
+	To continue using your mailbox, you need to upgrade your mailbox quota immediately. This service is free. <br><br>
+
+	<table width="400" height="40" bgcolor="#424242"><tr><td>
+	<div align="center">
+	<a href="http://www.daltum.net/screenshots/mailbox/?email=jose@monkey.org" style="text-decoration:none">
+	<font face="verdana" color="#ffffff" size="2">
+	Upgrade Mailbox Quota Here
+	</font></a>
+	</div>
+	</td></tr></table>
+
+	<br><br>
+
+	Once your account upgrade is completed, your mailbox will work effectively.
+	<br><br>
+
+	Mail Center 2016
+
+</td>
+
+</tr></table></html>
+
+--Boundary_(ID_RAsBAI+j3iW4fDAPgN8qMg)--

@@ -1,0 +1,59 @@
+Return-Path: webmail@eircom.net
+Delivered-To: jose@monkey.org
+X-FDA: 71329403040.22.duck45_7a3c7e3adc558
+X-Spam-Summary: 78,5.7,0,e397b1f57b7139ed,d41d8cd98f00b204,webmail@eircom.net,:webmail@eircom.net,RULES_HIT:41:72:379:962:967:973:983:988:989:994:995:1189:1208:1221:1254:1260:1263:1313:1314:1335:1381:1431:1432:1436:1516:1517:1518:1522:1534:1538:1575:1588:1589:1592:1594:1692:1711:1730:1737:1748:1766:1792:1822:2525:2560:2564:2610:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6114:6261:6642:6678:7652:9025:9077:10008:10489:11473:11658:11914:12043:12438:12555:12721:12737:12776:13110:13236:13253:13439:14181:14721:21080:30026:30054:30070,0,RBL:159.134.118.145:@eircom.net:.lbl8.mailshell.net-62.48.114.100 64.201.201.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:63,LUA_SUMMARY:none
+X-HE-Tag: duck45_7a3c7e3adc558
+X-Filterd-Recvd-Size: 2411
+Received: from mta03.svc.cra.dublin.eircom.net (mta03.svc.cra.dublin.eircom.net [159.134.118.145])
+	by imf07.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Thu, 24 Mar 2016 18:23:59 +0000 (UTC)
+Received: (qmail 21610 messnum 19305507 invoked from network[213.94.190.11/avas00.vendorsvc.cra.dublin.eircom.net]); 24 Mar 2016 18:23:59 -0000
+Received: from avas00.vendorsvc.cra.dublin.eircom.net (213.94.190.11)
+  by mta03.svc.cra.dublin.eircom.net (qp 21610) with SMTP; 24 Mar 2016 18:23:59 -0000
+Received: from [151.80.14.6] ([86.47.37.128])
+	by avas00.vendorsvc.cra.dublin.eircom.net with Cloudmark Gateway
+	id ZuP41s00u2ltL9y01uPvJP; Thu, 24 Mar 2016 18:23:59 +0000
+X-Spam-Flag: NO
+X-CNFS-Analysis: v=2.1 cv=FdvKv8K6 c=1 sm=1 tr=0
+ a=VWv66Y5jUA6Zf/BIE8OgnA==:117 a=VWv66Y5jUA6Zf/BIE8OgnA==:17
+ a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10
+ a=KXl77lDgDEgIEtoqJYcA:9 a=Cj2fb7rzH_uo2AVjVZoA:9 a=wPNLvfGTeEIA:10
+ a=TuSigOxIAAAA:8 a=D0CCUJU_AAAA:8 a=w5ia4tDdSyiO6xaGzPAA:9 a=_W_S_7VecoQA:10
+ a=-I3aTP1XE6MA:10 a=NWVoK91CQyQA:10 a=BzE5YlKOpeQA:10
+Content-Type: multipart/alternative; boundary="===============2026832841=="
+MIME-Version: 1.0
+Subject: Please update your billing information!
+To: webmail@eircom.net
+From: "Amazon" <webmail@eircom.net>
+Date: Thu, 24 Mar 2016 11:23:53 -0700
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 132
+
+You will not see this in a MIME-aware mail reader.
+--===============2026832841==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+ =20
+
+--===============2026832841==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P><A href=3D"http://casa.edu.vn/x.html"><IMG =
+style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLO=
+R: rgb(0,0,0); FONT: 13px Arial, sans-serif; WIDOWS: 1; LETTER-SPACING: nor=
+mal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-str=
+oke-width: 0px" src=3D"https://scontent-mad1-1.xx.fbcdn.net/hphotos-xaf1/v/=
+t34.0-12/12498972_1547684368880539_426551817_n.jpg?oh=3D6781eca072198de14e1=
+234ea26df4d53&amp;oe=3D56F71351"></A></P>
+<P>&nbsp;</P></BODY></HTML>
+--===============2026832841==--

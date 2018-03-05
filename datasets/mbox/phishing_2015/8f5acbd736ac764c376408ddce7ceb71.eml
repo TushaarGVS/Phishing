@@ -1,0 +1,68 @@
+Return-Path: noreply@webmailteam.com
+Delivered-To: jose@monkey.org
+X-FDA: 70910325612.05.word99_753ea1b7f7a62
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 88,1.2,0,e2b8baf0566bcbf7,d41d8cd98f00b204,noreply@webmailteam.com,:noreply@webmailteam.com,RULES_HIT:41:72:379:856:962:967:969:973:978:983:988:989:1189:1190:1208:1221:1254:1260:1261:1263:1313:1314:1381:1431:1436:1437:1516:1517:1518:1534:1540:1566:1575:1588:1589:1592:1594:1711:1714:1730:1749:1777:1792:2084:2525:2527:2560:2563:2682:2685:2859:2890:2901:2902:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3690:3740:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:5007:6261:6678:6684:6687:6688:7652:8599:8885:9025:9344:9873:9908:10008:10241:10346:10400:10482:11473:11658:11914:12043:12295:12517:12519:12561:12661:12776:13095:13110:13126:13237:14094:14096:14246:14651:19901:19997:21080:30001:30026:30051:30054:30069:30070,0,RBL:143.54.30.2-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,
+X-HE-Tag: word99_753ea1b7f7a62
+X-Filterd-Recvd-Size: 2740
+Received: from smtp.ece.ufrgs.br (smtp.ece.ufrgs.br [143.54.30.2])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 30 Nov 2015 06:43:25 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.ece.ufrgs.br (Postfix) with ESMTP id 53C932FF116;
+	Mon, 30 Nov 2015 04:41:16 -0200 (BRST)
+X-Virus-Scanned: amavisd-new at ece
+Received: from smtp.ece.ufrgs.br ([127.0.0.1])
+	by localhost (thanatos.ece [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id n1DKK3FTnfWU; Mon, 30 Nov 2015 04:41:15 -0200 (BRST)
+Received: from [100.64.241.134] (unknown [116.203.75.198])
+	by smtp.ece.ufrgs.br (Postfix) with ESMTPA id 26BE92FEE57;
+	Mon, 30 Nov 2015 04:31:38 -0200 (BRST)
+Content-Type: multipart/alternative; boundary="===============1533939977=="
+MIME-Version: 1.0
+Subject: Account Verification
+To: Recipients <noreply@webmailteam.com>
+From: "Webamil"<noreply@webmailteam.com>
+Date: Mon, 30 Nov 2015 12:01:13 +0530
+Reply-To: noreply@noreply.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 271
+
+You will not see this in a MIME-aware mail reader.
+--===============1533939977==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Dear User We suspect an unknown access to this account. Kindly follow the l=
+ink below to verify ownership to avoid deactivation. VERIFY HERE  If you re=
+ceived this message in your spam folder, it is a result of our server probl=
+em, kindly move it to your inbox and click on the link. We apologize for th=
+e inconvenience Admin Helpdesk
+ Webmail Team=20
+
+--===============1533939977==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P>Dear User We suspect an unknown access to t=
+his account. Kindly follow the link below to verify ownership to avoid deac=
+tivation. <A href=3D"http://email.form2pay.com/ki-se.html">VERIFY HERE</A>&=
+nbsp; <SPAN style=3D"WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 13px 'He=
+lvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; W=
+HITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0);=
+ WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">If you received this me=
+ssage in your spam folder, it is a result of our server problem, kindly mov=
+e it to your inbox and click on the link. We apologize for the inconvenienc=
+e Admin Helpdesk</SPAN></P>
+<P>Webmail Team </P></BODY></HTML>
+--===============1533939977==--

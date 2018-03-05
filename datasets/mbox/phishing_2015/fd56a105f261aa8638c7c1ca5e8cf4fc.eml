@@ -1,0 +1,170 @@
+Return-Path: may.sandnes@bodo.kommune.no
+Delivered-To: jose@monkey.org
+X-FDA: 70888960254.13.aunt44_f76d44d95142
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 43,2.607,0,19699ab275c49769,d41d8cd98f00b204,may.sandnes@bodo.kommune.no,,RULES_HIT:10:41:72:355:375:379:582:589:962:967:973:978:983:988:989:1152:1158:1189:1190:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1436:1437:1513:1515:1516:1517:1521:1535:1542:1566:1588:1589:1592:1593:1594:1711:1714:1730:1747:1777:1792:2393:2525:2527:2557:2560:2563:2682:2685:2828:2859:2890:2895:2901:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3865:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4552:5007:6117:6261:6650:6692:7688:8603:8885:8957:9025:9388:10008:10346:11245:11473:11656:11657:11658:11914:12043:12517:12519:12555:12660:12740:12955:12958:12967:13139:13141:13230:14093:14096:30001:30022:30054:30069:30070:30090:30091,0,RBL:91.208.24.130:@bodo.kommune.no:.lbl8.mailshell.net-62.8.176.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0
+X-HE-Tag: aunt44_f76d44d95142
+X-Filterd-Recvd-Size: 5292
+Received: from mail.bodo.kommune.no (mail.bodo.kommune.no [91.208.24.130])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 24 Nov 2015 09:25:06 +0000 (UTC)
+Received: from mail.bodo.kommune.no (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 51D49F7260;
+	Tue, 24 Nov 2015 10:25:04 +0100 (CET)
+Received: from BKEXCH01.bkad.local (unknown [10.0.0.39])
+	by mail.bodo.kommune.no (Postfix) with ESMTPS id 007E4F724B;
+	Tue, 24 Nov 2015 10:25:04 +0100 (CET)
+Received: from BKEXCH03.bkad.local ([fe80::ed52:1ecd:dcad:e6a8]) by
+ BKEXCH01.bkad.local ([fe80::5efe:10.0.0.39%11]) with mapi id 14.03.0266.001;
+ Tue, 24 Nov 2015 10:25:04 +0100
+From: May Sandnes <May.Sandnes@bodo.kommune.no>
+Subject: Microsoft Account Verification!!!
+Thread-Topic: Microsoft Account Verification!!!
+Thread-Index: AdEmmZBOSgIC6XzNRke6MJhvn8gtSQ==
+Date: Tue, 24 Nov 2015 09:25:03 +0000
+Message-ID: <2FDD4A4BE78EBF409413703B1E741672A20156D0@BKEXCH03.bkad.local>
+Accept-Language: nb-NO, en-US
+Content-Language: nb-NO
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [41.138.173.231]
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+To: undisclosed-recipients:;
+X-TM-AS-MML: disable
+X-TM-AS-Product-Ver: IMSVA-8.5.0.1165-8.0.0.1202-21150.006
+X-TM-AS-Result: No--0.602-5.0-31-10
+X-imss-scan-details: No--0.602-5.0-31-10
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-Result-Xfilter: Match text exemption rules:No
+X-TMASE-Version: IMSVA-8.5.0.1165-8.0.1202-21150.006
+X-TMASE-Result: 10--0.602400-5.000000
+X-TMASE-MatchedRID: RBkI5h1vRzJnIEJL0BRlcOSnwgdhzqyQjNLxrcxKViVBkf9RPtxvoxjU
+	N+RSVQuPgiIO7Sf/7rE2zdLf3NqhdncF/0kiqyh4FLXUWU5hGiHbynzmDxd7lrkOi7yy/D8SHom
+	g5E9aoXLEAUxgQzN5HUYc38Y62sHnJd2n2XoSRFkLsYGwWRkFSiR+P/dMb6J+6B0xdyB1vBoFUx
+	EwSlX6XxFyIYZe6FcS3wbRqXZRWFJqYquCrLrVwkIjuk0uJKN9t6TEAzjN1pzWi1WNWLIZQr6M2
+	F7uChN8/ZNpyV8TXRp0CDjJ3XioBLo42Dds3/0q46N7PCV93x6jxYyRBa/qJfqlQ9fqBTgJAnCr
+	5d+5iLias7P/uTD9GF/TmcY1tdROu3HDXwZ3GtGmitoKklgNhUmnU8HLgo7KUylc0a9sXi5Qp0C
+	uhqVzkNDc/Dgfy4pgNJMbwyso9K4Cih8wRGDhMMtEXCg9yisaRkpWU7zr2ga8pSLSGdI00S/puv
+	N6DtRdbVG7L0WIWeBa6xxu2wNlNg==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 264
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" id=3D"owaParaStyle"></style>
+</head>
+<body fpstyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;"><br>
+<div><br>
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div style=3D"color:rgb(68,68,68); font-family:Calibri,sans-serif; font-siz=
+e:15px; line-height:21.3px; background-color:rgb(255,255,255)">
+<div style=3D"line-height:21.3px">
+<div style=3D"line-height:21.3px">
+<div style=3D"line-height:21px">
+<div style=3D"line-height:21.3px">
+<div style=3D"line-height:21px">
+<div style=3D"">
+<div style=3D"line-height:22.72px">
+<div style=3D"line-height:21px">
+<div style=3D"">Your two (2) outgoing mails have been placed on hold due to=
+ the recent upgrade in our database.</div>
+<div style=3D"">&nbsp;</div>
+<div style=3D"">You are required to immediately validate and re-set your Em=
+ail account space on our database:</div>
+<div style=3D"">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div style=3D"line-height:normal"><span style=3D"line-height:21px">Kindly c=
+lick</span><span style=3D"line-height:21.3px">&nbsp;<a href=3D"http://corre=
+io.a78.org/">HERE</a></span><span style=3D"line-height:21px">&nbsp;to updat=
+e your Outlook &nbsp;Email Account.</span></div>
+<div style=3D"">&nbsp; &nbsp; &nbsp;&nbsp;</div>
+<div style=3D"">We apologize for any inconvenience and do appreciate your c=
+orporation &nbsp;an understanding.</div>
+<div style=3D"">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div style=3D"">Microsoft outlook Web Access</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style=3D"font-family:Tahoma; font-size:13px"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

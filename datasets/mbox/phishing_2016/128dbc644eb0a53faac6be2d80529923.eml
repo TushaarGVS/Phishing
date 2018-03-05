@@ -1,0 +1,37 @@
+Return-Path: fxdigitalteam@fatihkalemci.com
+Delivered-To: jose@monkey.org
+X-FDA: 71319961230.14.chin39_526402e7032a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 57,3.5,0,c4c5c4057326516e,d41d8cd98f00b204,fxdigitalteam@fatihkalemci.com,:,RULES_HIT:41:72:355:375:379:967:973:983:988:989:1208:1224:1260:1263:1311:1313:1314:1325:1345:1381:1431:1437:1515:1516:1517:1534:1537:1559:1699:1711:1714:1730:1747:1777:1792:2194:2199:2393:2525:2560:2563:2682:2685:2741:2859:2890:2897:2901:2909:2916:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3867:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:4042:5007:6261:6642:6678:6688:7974:8599:8603:9025:9040:9388:9873:9908:10009:10049:10346:10400:11643:11658:11914:12043:12764:12776:12955:12958:13046:13227:13229:13311:13357:13894:14181:14721:21080:30001:30007:30016:30054:30055:30069,0,RBL:185.106.208.150:@fatihkalemci.com:.lbl8.mailshell.net-62.2.255.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:46,LUA_SUMMARY:none
+X-HE-Tag: chin39_526402e7032a
+X-Filterd-Recvd-Size: 1060
+Received: from sunucu.fatihkalemci.com (unknown [185.106.208.150])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 22 Mar 2016 03:57:15 +0000 (UTC)
+Received: by sunucu.fatihkalemci.com (Postfix, from userid 10000)
+	id C2E756B698; Tue, 22 Mar 2016 06:56:56 +0300 (MSK)
+To: jose@monkey.org
+Subject: Account Locked Due To Suspicious Activity
+X-PHP-Originating-Script: 10000:box.php
+From: Wells Fargo Online Bank <Online-wellsfargo@bank.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20160322035656.C2E756B698@sunucu.fatihkalemci.com>
+Date: Tue, 22 Mar 2016 06:56:56 +0300 (MSK)
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 124
+
+<p><font face="Arial" size="2">Suspicious activity has been detected on your 
+account. <br>
+For your protection we are blocking your access to<br>
+confirm true ownership.</font></p>
+<p><font face="Arial" size="2"><a href="http://er-bos.com/test/fcgi/wellsfargo/index.html">Regain Access</a></font></p>
+<p><font face="Arial" size="2">Wells Fargo Online Banking!</font></p>
+
+

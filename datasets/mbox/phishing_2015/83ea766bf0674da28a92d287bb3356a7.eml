@@ -1,0 +1,78 @@
+Return-Path: recepcao@unimedceara.com.br
+Delivered-To: jose@monkey.org
+X-FDA: 70798232904.06.prose99_87944f9feee32
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 62,3.907,0,6d81a9dbf3139599,d41d8cd98f00b204,recepcao@unimedceara.com.br,,RULES_HIT:10:41:72:152:355:379:387:541:582:589:967:973:978:983:988:989:1152:1190:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1437:1516:1517:1518:1534:1540:1566:1575:1594:1699:1711:1714:1730:1749:1777:1792:2198:2199:2525:2560:2563:2682:2685:2731:2859:2892:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3690:3865:3867:3868:3870:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4361:5007:6261:7801:8784:8885:8957:9025:9388:9411:9873:10011:10049:10346:10400:11658:11914:12043:12160:12225:12657:12660:12661:13139:13163:13229:13237:13868:14094:14096:21212:30046:30054:30069:30070,0,RBL:200.164.36.139:@unimedceara.com.br:.lbl8.mailshell.net-62.2.4.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0,LFtime:76,LUA_SUMMARY:none
+X-HE-Tag: prose99_87944f9feee32
+X-Filterd-Recvd-Size: 3332
+Received: from mail.unimed-ce.com.br (mail2.unimed-ce.com.br [200.164.36.139])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 30 Oct 2015 09:22:11 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.unimed-ce.com.br (Postfix) with ESMTP id 5BB0B5229E7;
+	Fri, 30 Oct 2015 06:22:00 -0300 (BRT)
+Received: from mail.unimed-ce.com.br ([127.0.0.1])
+	by localhost (mail.unimed-ce.com.br [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id cxkIblziKsGr; Fri, 30 Oct 2015 06:21:59 -0300 (BRT)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.unimed-ce.com.br (Postfix) with ESMTP id A7CB15229EA;
+	Fri, 30 Oct 2015 06:21:59 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at unimed-ce.com.br
+Received: from mail.unimed-ce.com.br ([127.0.0.1])
+	by localhost (mail.unimed-ce.com.br [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id sC1himaQHF5r; Fri, 30 Oct 2015 06:21:59 -0300 (BRT)
+Received: from mail.unimed-ce.com.br (mail.unimed-ce.com.br [10.20.1.4])
+	by mail.unimed-ce.com.br (Postfix) with ESMTP id 5C4ED5229E7;
+	Fri, 30 Oct 2015 06:21:59 -0300 (BRT)
+Date: Fri, 30 Oct 2015 06:21:59 -0300 (BRT)
+From: Microsoft Outlook <recepcao@unimedceara.com.br>
+Reply-To: "Dr.David Morgan" <stellamorgan147@gmail.com>
+Message-ID: <355985321.397500.1446196919364.JavaMail.zimbra@unimedceara.com.br>
+Subject: Helpdesk Mailbox Alert!!!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_397499_1061816213.1446196919363"
+X-Originating-IP: [41.138.176.78]
+X-Mailer: Zimbra 8.0.5_GA_5839 (zclient/8.0.5_GA_5839)
+Thread-Topic: Helpdesk Mailbox Alert!!!
+Thread-Index: zs4pFrlbqZcCYU7Ybmxk1M9X8xiVUw==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 225
+
+------=_Part_397499_1061816213.1446196919363
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+Your two incoming mails were placed on pending status due to the recent upgrade in our database,
+
+In order to receive the messages kindly click: HERE
+
+Login with your correct Webmail information's and wait for responds from our data base service.
+
+We apologize for any inconvenience and do appreciate your understanding.
+
+Regards,
+HelpDesk  Administrator Team
+
+------=_Part_397499_1061816213.1446196919363
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<div>
+<div style="font-family: Calibri, sans-serif;">Your two incoming mails were placed on pending status due to the recent upgrade in our database,</div>
+<div style="font-family: Calibri, sans-serif;"></div>
+<div style="font-family: Calibri, sans-serif;">In order to receive the messages kindly click:&nbsp;<a href="http://linkclick24.wix.com/web-app">HERE</a></div>
+<div style="font-family: Calibri, sans-serif;"></div>
+<div style="font-family: Calibri, sans-serif;">Login with your correct Webmail information's and wait for responds from our data base service.</div>
+<div style="font-family: Calibri, sans-serif;"></div>
+<div style="font-family: Calibri, sans-serif;">We apologize for any inconvenience and do appreciate your understanding.</div>
+<div style="font-family: Calibri, sans-serif;"></div>
+<div style="font-family: Calibri, sans-serif;">Regards,</div>
+<div style="font-family: Calibri, sans-serif;">HelpDesk &nbsp;Administrator Team</div>
+</div>
+------=_Part_397499_1061816213.1446196919363--

@@ -1,0 +1,99 @@
+Return-Path: maggialan898@gmail.com
+Delivered-To: jose@monkey.org
+X-FDA: 71170638294.14.show98_69d905ebfa131
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,65ee0c2c4d03508d,d41d8cd98f00b204,maggialan898@gmail.com,:maggialan898@gmail.com,RULES_HIT:41:72:152:355:379:474:962:967:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1538:1560:1575:1588:1592:1594:1711:1714:1730:1749:1777:1792:2194:2199:2525:2560:2563:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3421:3866:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4184:4361:4362:5007:6248:6261:6687:7078:7980:9025:9059:9060:9108:9121:9388:9411:9413:9416:9873:9908:10004:10346:10394:10400:11233:11658:11914:12043:12561:13071:13235:13237:14036:14687:21060:21080:21324:30019:30026:30038:30054:30070,0,RBL:196.11.146.165:@gmail.com:.lbl8.mailshell.net-62.22.247.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:none,Custom_rules:0:0:0,LFtime:59,LUA_SUMMARY:none
+X-HE-Tag: show98_69d905ebfa131
+X-Filterd-Recvd-Size: 2420
+Received: from vodamail.co.za (relay3.vodamail.co.za [196.11.146.165])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 10 Feb 2016 00:22:07 +0000 (UTC)
+Received: from vodamail.co.za (smtp4 [10.113.132.79])
+	by relay3.vodamail.internal (Postfix) with ESMTP id 1A0EDC05CDF8;
+	Wed, 10 Feb 2016 02:22:06 +0200 (SAST)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp4.vodamail.co.za (Postfix) with ESMTP id B5F8840583B4;
+	Wed, 10 Feb 2016 02:22:03 +0200 (SAST)
+X-Virus-Scanned: amavisd-new at vodamail.co.za
+Received: from vodamail.co.za ([127.0.0.1])
+	by localhost (smtp4.vodamail.internal [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id b6dtA3+Wk0Ry; Wed, 10 Feb 2016 02:22:01 +0200 (SAST)
+Received: from Mash.www.huaweimobilewifi.com (vc-nat-gp-s-41-13-52-115.umts.vodacom.co.za [41.13.52.115])
+	by smtp4.vodamail.co.za (Postfix) with ESMTP id 842E94042F6D;
+	Wed, 10 Feb 2016 02:21:53 +0200 (SAST)
+Content-Type: multipart/alternative; boundary="===============0059830463=="
+MIME-Version: 1.0
+Subject: :Doc
+To: Recipients <maggialan898@gmail.com>
+From: "Maggie Captain" <maggialan898@gmail.com>
+Date: Wed, 10 Feb 2016 02:21:43 +0200
+Message-Id: <20160210002156.842E94042F6D@smtp4.vodamail.co.za>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 59
+
+You will not see this in a MIME-aware mail reader.
+--===============0059830463==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+Hi,
+
+ Please find proof of payment attached. =
+
+ Should you require any further assistance please don=92t hesitate to conta=
+ct me =
+
+ =
+
+ =
+
+ =
+
+  Click here to view  =
+
+
+ Thank you. =
+
+ Await your soonest reply.
+ Best Regards
+ =
+
+ =
+
+ R
+--===============0059830463==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"/></head><br>Hi,<br><br>
+
+Please find proof of payment attached.
+<br>
+Should you require any further assistance please don=E2=80=99t hesitate to =
+contact me
+<br>
+<br>
+<br>
+<br>
+<a href=3D"http://maggiclinksey.tripod.com">
+Click here to view </a>
+<br><br>
+Thank you.
+<br>
+Await your soonest reply.<br>
+Best Regards<br>
+
+<br>
+<br>
+R</html>
+--===============0059830463==--

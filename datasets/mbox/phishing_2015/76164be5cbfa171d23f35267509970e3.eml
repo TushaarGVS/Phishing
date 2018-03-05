@@ -1,0 +1,91 @@
+Return-Path: <xsecure@maine.rr.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id A7896F4006
+	for <jose@login.monkey.org>; Wed,  6 May 2015 20:09:24 -0500 (CDT)
+Received: from smtpin02.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 5B3C618454A
+	for <jose@login.monkey.org>; Thu,  7 May 2015 01:09:24 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70158322248.02.glue43_8c3c62cf8e60a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,xsecure@maine.rr.com,:xsecure@maine.rr.com,RULES_HIT,0,RBL:169.232.46.188:@maine.rr.com:.lbl8.mailshell.net-62.22.0.2 64.201.201.201;169.232.46.188-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: glue43_8c3c62cf8e60a
+X-Filterd-Recvd-Size: 2981
+Received: from tx2-csb2.smtp.ucla.edu (tx2-csb2.smtp.ucla.edu [169.232.46.188])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  7 May 2015 01:09:23 +0000 (UTC)
+Received: from [128.97.63.82] ([128.97.63.82])
+	by rx-csb2.smtp.ucla.edu (8.14.4/8.14.4/Debian-4) with ESMTP id t4714pSl019206;
+	Wed, 6 May 2015 18:07:26 -0700
+Message-Id: <201505070107.t4714pSl019206@rx-csb2.smtp.ucla.edu>
+Content-Type: multipart/alternative; boundary="===============0858071079=="
+MIME-Version: 1.0
+Subject: Information About Your Account
+To: Recipients <xsecure@maine.rr.com>
+From: "USAA" <xsecure@maine.rr.com>
+Date: Wed, 06 May 2015 18:06:01 -0700
+X-Probable-Spam: no
+X-Spam-Hits: 4.014
+X-Spam-Score: ****
+X-Spam-Report: DCC_CHECK,HTML_IMAGE_ONLY_12,HTML_MESSAGE,RDNS_NONE,T_REMOTE_IMAGE
+X-Scanned-By: MIMEDefang 2.71 on 169.232.46.185
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 84
+
+You will not see this in a MIME-aware mail reader.
+--===============0858071079==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+
+Dear Valued Customer,
+
+Your online security is our priority. But we need your
+help to keep you safe.
+
+So you can keep track your money when you want, where
+you want.
+
+>From the comfort of home or the convenience of work,
+Our security team introduce IP security threads to keep
+you safe.
+
+Log onto Complete the process online
+
+Regards,
+
+Thank you for helping us protect you
+USAA Financial Advisors Inc.
+--===============0858071079==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><img class=3D"" style=3D"margin-right: 0px;" alt=3D"=
+https://encrypted-tbn2.gstatic.com/images?q=3Dtbn:ANd9GcTuI5oIp5WF9uo-LnW-J=
+CJJ3mpW0muEgyl15F_uOBIc1Ivpl89QQA" src=3D"https://ci5.googleusercontent.com=
+/proxy/VZowVkeApx_bZZDE3QxHHPi0rhbv1B-Jf7rLNF4b1WPIBvolGAsM0G5J6BKzIrtdwqMJ=
+WO3IxAjMmV2DnQqTrOdaxF-UJ6lIj-InI7-L2dz0JSNxDlyC4ui4dAX7IKWHp4JxRjP0BnBokv5=
+tSsgyj99bbNWwp9h4V7Vn6udxrNs=3Ds0-d-e1-ft#https://encrypted-tbn2.gstatic.co=
+m/images?q=3Dtbn:ANd9GcTuI5oIp5WF9uo-LnW-JCJJ3mpW0muEgyl15F_uOBIc1Ivpl89QQA=
+" height=3D"90" width=3D"90"><br><br>Dear Valued Customer,<br><br>Your onli=
+ne security is our priority. But we need your<br>help to keep you safe.<br>=
+<br>So you can keep track your money when you want, where<br>you want.<br><=
+br>From the comfort of home or the convenience of work,<br>Our security tea=
+m introduce IP security threads to keep<br>you safe.<br><br><a href=3D"http=
+://www.aacdmeeting.org/wp-content/uploads/2014/ros.htm" target=3D"_blank">L=
+og onto Complete the process online</a><br><br>Regards,<br><br>Thank you fo=
+r helping us protect you<br>USAA Financial Advisors Inc.</html>
+--===============0858071079==--

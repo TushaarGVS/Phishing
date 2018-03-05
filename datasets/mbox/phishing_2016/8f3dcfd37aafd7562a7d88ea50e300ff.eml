@@ -1,0 +1,180 @@
+Return-Path: dede@joharmegantara.com
+Delivered-To: jose@monkey.org
+X-FDA: 71333485020.11.AA2EBE0
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin11.b.hostedemail.com (Postfix) with ESMTP id 43CC911A12;
+	Fri, 25 Mar 2016 21:23:50 +0000 (UTC)
+X-Spam-Summary: 50,0,0,bd4e0b298a40311b,d41d8cd98f00b204,dede@joharmegantara.com,::dede@joharmegantara.com,RULES_HIT:41:72:379:599:962:967:973:983:988:989:1189:1208:1221:1254:1256:1260:1261:1263:1313:1314:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1544:1559:1571:1575:1588:1589:1592:1594:1685:1711:1714:1730:1749:1777:1792:2198:2199:2525:2527:2549:2559:2564:2610:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3245:3865:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4118:4321:4362:4384:4552:5007:6120:6261:6653:6678:6687:7901:8957:9025:9388:9468:10004:10346:10394:11256:11257:11651:11657:11658:11914:12043:12438:12517:12519:12555:12561:13110:13139:13236:13237:13374:13439:14181:14195:14721:21080:21269:21325:30022:30026:30037:30054:30055:30069,0,RBL:148.163.97.143-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0
+ :0,LFtim
+X-HE-Tag: crate09_452be71bfc52
+X-Filterd-Recvd-Size: 7400
+Received: from zebra200.pojokwebsite.com (unknown [148.163.97.143])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP;
+	Fri, 25 Mar 2016 21:23:49 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=joharmegantara.com; s=default; h=Date:From:To:Subject:MIME-Version:
+	Content-Type; bh=hby8ZE4Uopaj3qje0ajpT93R06OsIlUH/eO+shWc290=; b=ShDTmTYEBkW/
+	5fJuGeMdFiE6YrgSl/dould232Az1AjIDw4O98D2LciFMyW736C7l1qRBtSHMNceErtCpYMRoobOj
+	BKQhedmfEFfO0tH+N8b3iwjsU7nxo14e+EahKJHDx1tYqnLgDgLYBGhbafCKkMaMxhc3ETSF0/6BS
+	nvPF8=;
+Received: from pd95cc832.dip0.t-ipconnect.de ([217.92.200.50]:52098 helo=[192.168.0.100])
+	by zebra200.pojokwebsite.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.86_1)
+	(envelope-from <dede@joharmegantara.com>)
+	id 1ajZCn-0007la-BA; Sat, 26 Mar 2016 04:23:41 +0700
+Content-Type: multipart/alternative; boundary="===============0309303409=="
+MIME-Version: 1.0
+Subject: Re: Fwd : Important document 826
+To: Recipients <dede@joharmegantara.com>
+From: "Dropbox" <dede@joharmegantara.com>
+Date: Fri, 25 Mar 2016 22:23:16 +0100
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - zebra200.pojokwebsite.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - joharmegantara.com
+X-Get-Message-Sender-Via: zebra200.pojokwebsite.com: authenticated_id: dede@joharmegantara.com
+X-Authenticated-Sender: zebra200.pojokwebsite.com: dede@joharmegantara.com
+Message-Id: <20160325212350.43CC911A12@smtpin11.b.hostedemail.com>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 134
+
+You will not see this in a MIME-aware mail reader.
+--===============0309303409==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ =
+
+   =
+
+   =
+
+    =
+
+   	 Kindly view the document I attached to you via Document. Login with yo=
+ur email and password =
+
+
+ View document
+Thank You	  =
+
+   =
+
+
+ =
+
+   =
+
+  =
+
+    =
+
+   =
+
+    	  =A9 2016 Dropbox
+
+
+--===============0309303409==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P>
+<TABLE id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48677 class=3D"yiv33222=
+76466 yiv3322276466yahoo-compose-table-card" cellSpacing=3D0 cellPadding=3D=
+0 align=3Dcenter border=3D1>
+<TBODY id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48676 class=3Dyiv332227=
+6466>
+<TR id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48756 class=3Dyiv332227646=
+6>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48755 class=3Dyiv332227646=
+6 bgColor=3D#b9e1fb height=3D1 align=3Dcenter><IMG id=3Dyiv3322276466yui_3_=
+16_0_1_1457849942957_48754 class=3Dyiv3322276466 alt=3D"" src=3D"https://ci=
+5.googleusercontent.com/proxy/82DUSJEt4EjFhkvDgB3x1LUMouBOAU3HpY83G6pp5x4mC=
+fCB3xErE--3eHk9Qhc9f1-uOtYbTAQEATtFz7LnLEeCsbRKk_NXWDv4AxDiD4G46nk=3Ds0-d-e=
+1-ft#https://www.dropbox.com/static/images/emails/email_header.jpg"></TD></=
+TR>
+<TR id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48675 class=3Dyiv332227646=
+6>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48674 class=3Dyiv332227646=
+6>
+<TABLE id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48673 class=3D"yiv33222=
+76466 yiv3322276466yahoo-compose-table-card" cellSpacing=3D0 cellPadding=3D=
+0 align=3Dcenter border=3D0>
+<TBODY id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48672 class=3Dyiv332227=
+6466>
+<TR id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48753 class=3Dyiv332227646=
+6>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48752 class=3Dyiv332227646=
+6 height=3D36 colSpan=3D3>&nbsp;</TD></TR>
+<TR id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48748 class=3Dyiv332227646=
+6>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48761 class=3Dyiv332227646=
+6 width=3D36>&nbsp;</TD>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48747 class=3Dyiv332227646=
+6 vAlign=3Dtop width=3D454 align=3Dleft><SPAN id=3Dyiv3322276466yui_3_16_0_=
+1_1457849942957_48751 class=3Dyiv3322276466><SPAN id=3Dyiv3322276466yui_3_1=
+6_0_1_1458079807079_2363><SPAN id=3Dyiv3322276466yui_3_16_0_1_1458079807079=
+_2362>Kindly view the document I attached to you via Document. Login with y=
+our email and password&nbsp;</SPAN></SPAN></SPAN><SPAN id=3Dyiv3322276466yu=
+i_3_16_0_1_1457880226765_4082 class=3Dyiv3322276466><SPAN id=3Dyiv332227646=
+6yui_3_16_0_1_1457880226765_4084 class=3Dyiv3322276466><BR id=3Dyiv33222764=
+66yui_3_16_0_1_1457880226765_4086 class=3Dyiv3322276466 clear=3Dnone></SPAN=
+></SPAN><BR id=3Dyiv3322276466yui_3_16_0_1_1457880226765_4088 class=3Dyiv33=
+22276466 clear=3Dnone>
+<CENTER id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48750 class=3Dyiv33222=
+76466><A id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48749 class=3Dyiv3322=
+276466 href=3D"http://bc.vc/WXph6R" rel=3Dnofollow target=3D_blank><SPAN id=
+=3Dyiv3322276466yui_3_16_0_1_1458079807079_2385><SPAN id=3Dyiv3322276466yui=
+_3_16_0_1_1458079807079_2384>View document</SPAN></SPAN></A></CENTER><BR id=
+=3Dyiv3322276466yui_3_16_0_1_1457880226765_4092 class=3Dyiv3322276466 clear=
+=3Dnone><SPAN id=3Dyiv3322276466yui_3_16_0_1_1457880226765_4094 class=3Dyiv=
+3322276466><SPAN id=3Dyiv3322276466yui_3_16_0_1_1457880226765_4096 class=3D=
+yiv3322276466>Thank You</SPAN></SPAN></TD>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48758 class=3Dyiv332227646=
+6 width=3D36>&nbsp;</TD></TR>
+<TR id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48671 class=3Dyiv332227646=
+6>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48670 class=3Dyiv332227646=
+6 height=3D36 colSpan=3D3>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY=
+></TABLE></P>
+<P></P>
+<DIV id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48728 class=3Dyiv33222764=
+66>&nbsp;</DIV>
+<P></P>
+<P>
+<TABLE id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48732 class=3D"yiv33222=
+76466 yiv3322276466yahoo-compose-table-card" cellSpacing=3D0 cellPadding=3D=
+0 align=3Dcenter border=3D1>
+<TBODY id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48731 class=3Dyiv332227=
+6466>
+<TR id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48730 class=3Dyiv332227646=
+6>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48729 class=3Dyiv332227646=
+6 height=3D10>&nbsp;</TD></TR>
+<TR id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48746 class=3Dyiv332227646=
+6>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48745 class=3Dyiv332227646=
+6>
+<TABLE id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48744 class=3D"yiv33222=
+76466 yiv3322276466yahoo-compose-table-card" cellSpacing=3D0 cellPadding=3D=
+0 align=3Dcenter border=3D0>
+<TBODY id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48743 class=3Dyiv332227=
+6466>
+<TR id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48742 class=3Dyiv332227646=
+6 vAlign=3Dtop>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457880226765_4111 class=3Dyiv3322276466=
+ width=3D400 align=3Dleft>&nbsp;</TD>
+<TD id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48741 class=3Dyiv332227646=
+6 width=3D128 align=3Dright>
+<DIV id=3Dyiv3322276466yui_3_16_0_1_1457849942957_48740 class=3Dyiv33222764=
+66 dir=3Dltr>=A9 2016 Dropbox</DIV></TD></TR></TBODY></TABLE></TD></TR></TB=
+ODY></TABLE></P></BODY></HTML>
+--===============0309303409==--

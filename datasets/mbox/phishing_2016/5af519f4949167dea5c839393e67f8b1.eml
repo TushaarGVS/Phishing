@@ -1,0 +1,45 @@
+Return-Path: safeguard@mailsender.com
+Delivered-To: jose@monkey.org
+X-FDA: 71761529112.19.band68_5103f0a844b61
+X-Spam-Summary: 75,0,0,c175b36f44697f33,d41d8cd98f00b204,safeguard@mailsender.com,:safeguard@mailsender.com,RULES_HIT:41:355:379:962:967:969:988:989:1189:1221:1260:1313:1314:1345:1381:1436:1437:1516:1517:1518:1534:1537:1559:1575:1588:1592:1594:1711:1714:1730:1748:1777:1792:2559:2562:3138:3139:3140:3141:3142:3622:3690:3740:3865:3867:3873:4222:5007:6261:6684:6687:7907:8825:10004:10293:10394:10400:11529:11658:11914:12043:12561:13095:13110:13439:14037:14516:14687:14721:21080:21433:30022:30026:30054:30055,0,RBL:70.43.63.18-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:64,LUA_SUMMARY:none
+X-HE-Tag: band68_5103f0a844b61
+X-Filterd-Recvd-Size: 1631
+Received: from smtp01.atlngahp.sys.nuvox.net (smtp01.atlngahp.sys.nuvox.net [70.43.63.18])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 21 Jul 2016 20:22:36 +0000 (UTC)
+Received: from DCLT69P1.mvp.com (74.223.53.74.nw.nuvox.net [74.223.53.74])
+	by smtp01.atlngahp.sys.nuvox.net (8.13.1/8.13.1) with ESMTP id u6LJOtEv013846;
+	Thu, 21 Jul 2016 15:58:28 -0400
+Message-Id: <201607211958.u6LJOtEv013846@smtp01.atlngahp.sys.nuvox.net>
+Content-Type: multipart/alternative; boundary="===============1514620508=="
+MIME-Version: 1.0
+Subject: You Have A New E-Payment Transfer 
+To: Recipients <Safeguard@MailSender.com>
+From: "USAA" <Safeguard@MailSender.com>
+Date: Thu, 21 Jul 2016 14:57:41 -0500
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 303
+
+You will not see this in a MIME-aware mail reader.
+--===============1514620508==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Dear Customer, You have a new message notification attached to this email f=
+rom USAA. Please, Open the attached file to read your notification. Thank y=
+ou, USAA.
+--===============1514620508==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head>Dear Customer, You have a new message notification a=
+ttached to this email from USAA. Please, Open the attached file to read you=
+r notification. Thank you, USAA.</html>
+--===============1514620508==--

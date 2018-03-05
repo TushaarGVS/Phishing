@@ -1,0 +1,85 @@
+Return-Path: jadkins@pths209.org
+Delivered-To: jose@monkey.org
+X-FDA: 71075614722.17.clock47_260f41d2fae36
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,d5dff2fc61515e37,d41d8cd98f00b204,jadkins@pths209.org,:info@pths209.org,RULES_HIT:10:41:72:355:379:474:960:962:967:978:983:988:989:1189:1208:1221:1256:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1533:1534:1539:1575:1588:1589:1592:1594:1711:1714:1730:1748:1777:1792:2525:2527:2528:2538:2561:2564:2682:2685:2693:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3867:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4362:5007:6117:6238:6261:6658:6688:6703:8512:8518:8603:8778:8885:8957:9025:9059:9111:9388:9392:9411:9855:9873:9908:10004:10049:10346:10400:10920:11257:11656:11658:11914:12043:12050:12519:12555:12657:12855:13139:13237:14659:21080:30021:30037:30054:30067:30069:30070:30075,0,RBL:209.7.101.3-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fe,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:13,LUA_SUMMARY:none
+X-HE-Tag: clock47_260f41d2fae36
+X-Filterd-Recvd-Size: 2725
+Received: from provisoexch.pths209.org (provisoexch.pths209.org [209.7.101.3])
+	by imf21.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Thu, 14 Jan 2016 19:54:21 +0000 (UTC)
+Received: from provisoexch.pths209.org (localhost [127.0.0.1])
+	by provisoexch.pths209.org (Postfix) with ESMTP id 94C621146BF;
+	Thu, 14 Jan 2016 13:54:20 -0600 (CST)
+X-Virus-Scanned: amavisd-new at lscom.net
+Received: from provisoexch.pths209.org ([127.0.0.1])
+	by provisoexch.pths209.org (provisoexch.pths209.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FnEwr47F4Irw; Thu, 14 Jan 2016 13:54:19 -0600 (CST)
+Received: from 10.3.1.55 (unknown [10.3.1.60])
+	by provisoexch.pths209.org (Postfix) with ESMTP id AF455114637;
+	Thu, 14 Jan 2016 13:54:15 -0600 (CST)
+Received: from E2K7CCR.proviso.local ([10.3.1.61]) by
+ PTHS-EXCH-HUB.proviso.local ([10.10.3.7]) with mapi; Thu, 14 Jan 2016
+ 13:56:03 -0600
+From: "Adkins, Jaime" <jadkins@pths209.org>
+To: "info@pths209.org" <info@pths209.org>
+Date: Thu, 14 Jan 2016 13:51:32 -0600
+Subject: Password Update Help Desk
+Thread-Topic: Password Update Help Desk
+Thread-Index: AQHRTwWYdwx4YvcVEECwR7c7hL/LSQ==
+Message-ID: <2C63A5A0C04AE94ABCD549F36571FD7F04295A8DB142@E2K7CCR.proviso.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_2C63A5A0C04AE94ABCD549F36571FD7F04295A8DB142E2K7CCRprov_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 14
+
+--_000_2C63A5A0C04AE94ABCD549F36571FD7F04295A8DB142E2K7CCRprov_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Password will expire in 2 days. Click Here<http://www.electro-univers.ro/44=
+54/> To Validate E-mail
+
+Thank you,
+Copyright =A9 1993-2013
+
+--_000_2C63A5A0C04AE94ABCD549F36571FD7F04295A8DB142E2K7CCRprov_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style id=3D"owaTempEditStyle"></style><style title=3D"owaParaStyle"><!--P =
+{
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+--></style>
+</head>
+<body ocsi=3D"x">
+<div style=3D"FONT-FAMILY: Tahoma; DIRECTION: ltr; COLOR: #000000; FONT-SIZ=
+E: x-small">
+<div></div>
+<div dir=3D"ltr"><font color=3D"#000000" size=3D"2" face=3D"Tahoma"><font s=
+ize=3D"3">Password will expire in 2 days.
+<b><a href=3D"http://www.electro-univers.ro/4454/">Click Here</a></b> To Va=
+lidate E-mail<br>
+<br>
+Thank you,<br>
+Copyright =A9 1993-2013</font><br>
+</font></div>
+</div>
+</body>
+</html>
+
+--_000_2C63A5A0C04AE94ABCD549F36571FD7F04295A8DB142E2K7CCRprov_--

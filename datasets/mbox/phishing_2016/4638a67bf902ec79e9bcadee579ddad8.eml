@@ -1,0 +1,88 @@
+Return-Path: jennifer.brocksmith@apsb.org
+Delivered-To: jose@monkey.org
+X-FDA: 71092797804.11.river22_37a970b3a3d4a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,e7e06a9a4a52d2ce,d41d8cd98f00b204,jennifer.brocksmith@apsb.org,:info@mail.org,RULES_HIT:10:41:72:355:379:474:582:960:962:967:973:978:983:988:989:1152:1189:1208:1221:1256:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1533:1534:1539:1575:1588:1589:1592:1594:1711:1714:1730:1748:1777:1792:2525:2527:2538:2561:2564:2682:2685:2693:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3867:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4362:5007:6117:6261:6688:7081:8603:8778:8885:8957:9025:9059:9111:9121:9388:9411:9873:9908:10004:10346:10400:11233:11257:11656:11658:11914:12043:12050:12517:12519:12555:12657:12855:13018:13019:13139:13237:14659:21080:30021:30037:30054:30067:30069:30070:30075,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:71,LUA_SUMMARY:none
+X-HE-Tag: river22_37a970b3a3d4a
+X-Filterd-Recvd-Size: 2545
+Received: from smtp4.huntbrothers.com (smtp4.huntbrothers.com [207.29.218.84])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 19 Jan 2016 13:33:02 +0000 (UTC)
+Received: from imail.apsb.org (imail.apsb.org [64.56.10.11])
+	by smtp4.huntbrothers.com (Postfix) with ESMTP id 008EACE1C1;
+	Tue, 19 Jan 2016 08:26:19 -0500 (EST)
+Received: from mail.apsb.org (unknown [10.100.1.76])
+	by Websense Email Security Gateway with ESMTPS id 29201AEF7153D;
+	Tue, 19 Jan 2016 05:39:19 -0600 (CST)
+Received: from exmb2.apsbschools.org ([fe80::dd2a:db11:99c1:c99]) by
+ exhub.apsbschools.org ([fe80::544a:ff34:9077:cccd%10]) with mapi id
+ 14.03.0224.002; Tue, 19 Jan 2016 05:39:17 -0600
+From: "Brocksmith, Jennifer" <Jennifer.Brocksmith@apsb.org>
+To: "info@mail.org" <info@mail.org>
+Subject: Password Update Help Desk
+Thread-Topic: Password Update Help Desk
+Thread-Index: AdFSrgYq7p9lvKNfRoGbr1KC7Mn4uQ==
+Date: Tue, 19 Jan 2016 11:39:15 +0000
+Message-ID: <A99AB42D9E53604ABA92BADFC4E1BC81011A792004@exmb2.apsbschools.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [5.254.97.104]
+Content-Type: multipart/alternative;
+	boundary="_000_A99AB42D9E53604ABA92BADFC4E1BC81011A792004exmb2apsbscho_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 24
+
+--_000_A99AB42D9E53604ABA92BADFC4E1BC81011A792004exmb2apsbscho_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Password will expire in 2 days. Click Here<http://c12sa.jimdo.com/> To Vali=
+date E-mail
+
+Thank you,
+Copyright =A9 2005-2016
+
+
+
+
+Desk
+
+
+--_000_A99AB42D9E53604ABA92BADFC4E1BC81011A792004exmb2apsbscho_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" id=3D"owaParaStyle"></style>
+</head>
+<body fpstyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;">Password will expire in 2 days.
+<b><a href=3D"http://c12sa.jimdo.com/">Click Here</a></b> To Validate E-mai=
+l<br>
+<br>
+Thank you,<br>
+<span style=3D"color: rgb(84, 84, 84); font-family: arial, sans-serif; font=
+-size: small; line-height: 16.5455px; background-color: rgb(255, 255, 255);=
+">Copyright =A9 2005-2016</span><br>
+<br>
+<br>
+<br>
+<br>
+Desk<br>
+&nbsp;<br>
+</div>
+</body>
+</html>
+
+--_000_A99AB42D9E53604ABA92BADFC4E1BC81011A792004exmb2apsbscho_--

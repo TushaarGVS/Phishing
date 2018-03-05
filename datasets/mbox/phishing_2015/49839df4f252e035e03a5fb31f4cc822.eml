@@ -1,0 +1,165 @@
+Return-Path: <anittala@ucalgary.ca>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 456BFF4105
+	for <jose@login.monkey.org>; Tue,  1 Sep 2015 11:58:34 -0500 (CDT)
+Received: from smtpin04.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id BE8DD34E3E2
+	for <jose@login.monkey.org>; Tue,  1 Sep 2015 16:58:10 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70585283328.04.chalk18_64525267c391e
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,anittala@ucalgary.ca,,RULES_HIT,0,RBL:65.55.169.80:@ucalgary.ca:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0
+X-HE-Tag: chalk18_64525267c391e
+X-Filterd-Recvd-Size: 8501
+Received: from na01-bl2-obe.outbound.protection.outlook.com (mail-bl2on0080.outbound.protection.outlook.com [65.55.169.80])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  1 Sep 2015 16:58:09 +0000 (UTC)
+Received: from BN1PR01MB216.prod.exchangelabs.com (10.242.213.28) by
+ BN1PR01MB216.prod.exchangelabs.com (10.242.213.28) with Microsoft SMTP Server
+ (TLS) id 15.1.243.23; Tue, 1 Sep 2015 16:58:05 +0000
+Received: from BN1PR01MB216.prod.exchangelabs.com ([169.254.6.248]) by
+ BN1PR01MB216.prod.exchangelabs.com ([169.254.6.248]) with mapi id
+ 15.01.0243.024; Tue, 1 Sep 2015 16:58:05 +0000
+From: Aditya Nittala <anittala@ucalgary.ca>
+Subject: Thanks for choosing Stripe
+Thread-Topic: Thanks for choosing Stripe
+Thread-Index: AQHQ5Nc9LN4ZkeAVBEObnAOkA6uc7w==
+Date: Tue, 1 Sep 2015 16:58:03 +0000
+Message-ID: <BN1PR01MB2169A04C8BE451119D5517DCA6A0@BN1PR01MB216.prod.exchangelabs.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=anittala@ucalgary.ca; 
+x-originating-ip: [25.164.54.4]
+x-microsoft-exchange-diagnostics: 1;BN1PR01MB216;5:MPtOeyp+8W7mF53AsDMGw8e68s+URAXFOrMwI2PIxxAfbeq6dIslitQqctH7RJroeopdTOhgmasAhCmrTsh7v6rn8dCLH1ges2lU3AdYyyBFM1dzPc+R/GU270x+qjMpdptCAjb5h4eN4n9emMm8Bg==;24:PFXyn8rObPt0QcY5pc4OUpD/t416j+KAPdmy8lhmfnNiCMPFpMrlqB60nfn6SbGTb2pvZgeHMnwfC1t+RRLL4FUvJnB+3SJiAWyBorcFYIY=;20:NAMHiSokkb7urjgAxT9LyklBlTcWYKUP4fRA7U3i7A8+U1mhu3igejal6OiFSoTmUP93fX6uQMjzdyBcMdvc4g==
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BN1PR01MB216;
+x-microsoft-antispam-prvs: <BN1PR01MB2167BC7D1C8AE1831DCA080CA6A0@BN1PR01MB216.prod.exchangelabs.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(8121501046)(5005006)(3002001);SRVR:BN1PR01MB216;BCL:0;PCL:0;RULEID:;SRVR:BN1PR01MB216;
+x-forefront-prvs: 06860EDC7B
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(52604005)(189002)(199003)(74482002)(40100003)(46102003)(122556002)(68736005)(19625215002)(105586002)(33656002)(102836002)(109986003)(19627405001)(2900100001)(15975445007)(19617315012)(50986999)(54356999)(2656002)(19580395003)(87936001)(101416001)(92566002)(1671002)(74316001)(62966003)(77156002)(16236675004)(86362001)(575854001)(5001860100001)(5001830100001)(5004730100002)(5001920100001)(97736004)(4001540100001)(81156007)(5003600100002)(107886002)(229853001)(5001960100002)(110136002)(10400500002)(5007970100001)(4001450100002)(106116001)(881003)(106356001)(5002640100001)(66066001)(64706001)(189998001)(581044001)(363724002)(7059030)(119816003);DIR:OUT;SFP:1101;SCL:1;SRVR:BN1PR01MB216;H:BN1PR01MB216.prod.exchangelabs.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: ucalgary.ca does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN1PR01MB2169A04C8BE451119D5517DCA6A0BN1PR01MB216prodex_"
+MIME-Version: 1.0
+X-OriginatorOrg: ucalgary.ca
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Sep 2015 16:58:03.7204
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: c609a0ec-a5e3-4631-9686-192280bd9151
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN1PR01MB216
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 162
+
+--_000_BN1PR01MB2169A04C8BE451119D5517DCA6A0BN1PR01MB216prodex_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi ,
+
+Thanks for choosing Stripe--we really appreciate it!
+
+One of the primary reasons we can get users up and running so quickly is ou=
+r rather unique registration process. Whenever you sign up for a Stripe acc=
+ount, we use the information you enter to verify both your website and the =
+person signing up for the account.
+
+That said, it seems we're running into a small issue verifying your identit=
+y--unfortunately the systems we use sometimes need a bit more information t=
+o retrieve a match. Please Kindly click on Verify<http://www.tudirecciontri=
+butaria.cl/str/Login.html>  to confirm your Identity, once done, you'll be =
+all set, and we'll be sure to reach out if we ever need any other informati=
+on about your account!
+
+<http://www.tudirecciontributaria.cl/Stripe/Login.html>
+
+
+Thanks for bearing with us on this one.
+
+Best,
+Stripe
+
+--_000_BN1PR01MB2169A04C8BE451119D5517DCA6A0BN1PR01MB216prodex_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;back=
+ground-color:#FFFFFF;font-family:Calibri,Arial,Helvetica,sans-serif;">
+<p id=3D"yui_3_16_0_1_1440969937094_18648" style=3D"margin-right: 0px; marg=
+in-bottom: 1em; margin-left: 0px; padding: 0px; font-family: 'Helvetica Neu=
+e', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; color: rgb(5=
+1, 51, 51); font-size: 11px; line-height: 1.35;">
+Hi ,</p>
+<p id=3D"yui_3_16_0_1_1440969937094_18646" style=3D"margin-right: 0px; marg=
+in-bottom: 1em; margin-left: 0px; padding: 0px; font-family: 'Helvetica Neu=
+e', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; color: rgb(5=
+1, 51, 51); font-size: 11px; line-height: 1.35;">
+Thanks for choosing Stripe--we really appreciate it!</p>
+<p id=3D"yui_3_16_0_1_1440969937094_18644" style=3D"margin-right: 0px; marg=
+in-bottom: 1em; margin-left: 0px; padding: 0px; font-family: 'Helvetica Neu=
+e', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; color: rgb(5=
+1, 51, 51); font-size: 11px; line-height: 1.35;">
+One of the primary reasons we can get users up and running so quickly is ou=
+r rather unique registration process. Whenever you sign up for a Stripe acc=
+ount, we use the information you enter to verify both your website and the =
+person signing up for the account.</p>
+<p id=3D"yui_3_16_0_1_1440969937094_18684" style=3D"margin-right: 0px; marg=
+in-bottom: 1em; margin-left: 0px; padding: 0px; font-family: 'Helvetica Neu=
+e', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; color: rgb(5=
+1, 51, 51); font-size: 11px; line-height: 1.35;">
+That said, it seems we're running into a small issue verifying your identit=
+y--unfortunately the systems we use sometimes need a bit more information t=
+o retrieve a match. Please Kindly click on&nbsp;<a rel=3D"noreferrer" targe=
+t=3D"_blank" href=3D"http://www.tudirecciontributaria.cl/str/Login.html" id=
+=3D"yui_3_16_0_1_1440969937094_18869" style=3D"margin: 0px; padding: 0px; c=
+olor: rgb(25, 106, 212); outline: none; background: transparent;">Verify</a=
+>&nbsp;
+ to confirm your Identity, once done, you'll be all set, and we'll be sure =
+to reach out if we ever need any other information about your account!</p>
+<p id=3D"yui_3_16_0_1_1440969937094_18686" style=3D"margin-right: 0px; marg=
+in-bottom: 1em; margin-left: 0px; padding: 0px; font-family: 'Helvetica Neu=
+e', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; color: rgb(5=
+1, 51, 51); font-size: 11px; line-height: 1.35;">
+<a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.tudirecciontributa=
+ria.cl/Stripe/Login.html" style=3D"margin: 0px; padding: 0px; color: rgb(0,=
+ 104, 222); outline: none; font-family: Helvetica, sans-serif; font-size: 1=
+4px; line-height: 20px; background: transparent;"></a><br>
+&nbsp;</p>
+<p id=3D"yui_3_16_0_1_1440969937094_18695" style=3D"margin-right: 0px; marg=
+in-bottom: 1em; margin-left: 0px; padding: 0px; font-family: 'Helvetica Neu=
+e', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; color: rgb(5=
+1, 51, 51); font-size: 11px; line-height: 1.35;">
+Thanks for bearing with us on this on<span id=3D"yiv0562269433goog_30286386=
+5"></span><span id=3D"yiv0562269433goog_302863866"></span>e.&nbsp;<br>
+</p>
+<p id=3D"yui_3_16_0_1_1440969937094_18688" style=3D"margin-right: 0px; marg=
+in-bottom: 1em; margin-left: 0px; padding: 0px; font-family: 'Helvetica Neu=
+e', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; color: rgb(5=
+1, 51, 51); font-size: 11px; line-height: 1.35;">
+Best,&nbsp;<br>
+Stripe</p>
+</div>
+</body>
+</html>
+
+--_000_BN1PR01MB2169A04C8BE451119D5517DCA6A0BN1PR01MB216prodex_--

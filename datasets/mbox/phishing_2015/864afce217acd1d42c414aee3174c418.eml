@@ -1,0 +1,178 @@
+Return-Path: <apple-jose=monkey.org@mikecordle.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 81CDBF413E
+	for <jose@login.monkey.org>; Tue,  5 May 2015 12:13:05 -0500 (CDT)
+Received: from smtpin05.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 3370327ABDD
+	for <jose@login.monkey.org>; Tue,  5 May 2015 17:13:05 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70153493130.05.lift92_8f3e7209d2f5a
+Authentication-Results: auth.b.hostedemail.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=mikecordle.com header.i=apple@mikecordle.com
+	header.b=b+C7sLvb; dkim-adsp=pass; dkim-atps=neutral
+X-Spam-Summary: 50,3,0,94ee3a54c1059e58,d41d8cd98f00b204,apple-jose=monkey.org@mikecordle.com,:,RULES_HIT:1:2:41:46:72:150:153:355:379:962:967:973:978:983:988:989:994:1189:1208:1221:1261:1263:1313:1314:1345:1381:1390:1430:1431:1432:1433:1434:1437:1516:1517:1518:1575:1588:1589:1605:1617:1623:1730:1744:1770:1781:1792:2198:2199:2375:2376:2380:2525:2527:2543:2553:2568:2610:2632:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3742:3865:3866:3867:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4250:4321:4470:4648:4885:5007:6117:6119:6121:6236:6261:6271:6653:6669:7081:7208:7210:7211:7212:7213:7903:7904:8599:8603:8660:8885:8957:9007:9008:9025:9110:9113:9121:9149:9388:9411:10004:10049:10226:10346:11233:11256:11257:11473:11638:11639:11658:11914:11984:12043:12438:12555:12700:12730:12737:12740:13126:13139:13148:13230:13234:13236:13237:13277:13294:13972:14096:21080:21094,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,D
+X-HE-Tag: lift92_8f3e7209d2f5a
+X-Filterd-Recvd-Size: 13687
+Received: from for.mikecordle.com (for.mikecordle.com [192.208.190.117])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  5 May 2015 17:13:04 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=mikecordle.com;
+ h=MIME-Version:Content-Type:Date:Message-Id:Subject:From:To; i=apple@mikecordle.com;
+ bh=HAApr8oNd0AiKGYpT5EiDXj1ncg=;
+ b=b+C7sLvbkLyLogpZ1L0JcoWemnRH0grD4CgewEoGaeqFQQRigbUXu7H8i0bB7a6TRygpkgtu/uqf
+   IMdE1JSf0UhRfKZnnVFbK2ts4X7ozUrf63lg02v2y1GiKid8Y4QaBYiV26zWTaEyRmPLlevhAYhH
+   vJ/0BhomM5yVFG/UqMk=
+Received: by for.mikecordle.com id h93t120001gk for <jose@monkey.org>; Tue, 5 May 2015 12:07:17 -0400 (envelope-from <apple-jose=monkey.org@mikecordle.com>)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="a45ec92d8870fad56eb731e5548883"
+Date: Tue, 5 May 2015 12:07:17 -0400
+Message-Id: <KNrn8MSl1ikTUkwGw4GRHUqsNq3HmJ@mikecordle.com>
+Subject: =?UTF-8?B?WW91ciBjb21wbGltZW50YXJ5IEFwcGxlcGF5IGVxdWlwbWVudCBpcyBoZXJl?=
+From: Apple Pay jose <apple@mikecordle.com>
+To: jose@monkey.org
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 79
+
+--a45ec92d8870fad56eb731e5548883
+Content-Type: text/plain;
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Apple Pay, iPhone, iPad are registered trademarks of Apple Inc. Apple does not sponsor, endorse or promote this offer. Apple Pay is currently available only in the United States.
+ 
+ 
+ 
+ 
+ If you would no longer like to receive messages from us, please click here or write to: 935 South 825 East Ephraim, Utah 84627
+ 
+ 
+ 
+ 
+	Thr rmans uncrany abou whhr h Souh Alanc flash n Spmbr 1979 rcor by opcal snsors on h U.S. Vla sall was a nuclar onaon an, f so, o whom  blong.53pag n svantassel Agrculur In 2010,  was rpor ha, on Fbruary 27, 1980, Prsn Jmmy Carr wro n hs ary, W hav a growng blf among our scnss ha h Israls  n conuc a nuclar s xploson n h ocan nar h souhrn n of Afrca.36 On Aprl 20, 1997, h Isral aly nwspapr Haarz quo h Souh Afrcan puy forgn mnsr, Azz Paha, as supposly confrmng ha h oubl flash from ovr h Inan Ocan was n from a Souh Afrcan nuclar s. Haarz also c pas rpors ha Isral ha purchas 550 ons of uranum from Souh Afrca for s own nuclar plan n Dmona. In xchang, Isral allgly suppl Souh Afrca wh nuclar wapons sgn nformaon an nuclar marals o ncras h powr of nuclar warhas.50 Paha's samn was confrm by h Un Sas mbassy n Prora, Souh Afrca,2851 bu Paha's prss scrary sa ha Paha ha sa only ha hr was a srong rumor ha a s ha akn plac, an ha  shoul b nvsga. In ohr wors, h was mrly rpang rumors ha ha bn crculan
+ g for yars.52 Dav Albrgh, commnng on h sr cra by hs prss rpor, sa:52 Canaan counrpar Th Marr Man goglyph pcs a man holng hr a hrowng sck onc us o sprs small flocks of brs, or a boomrang (bu s Plaqu scon blow). Som sourcs scrb h bomb as a funconal nuclar wapon, bu ohrs scrb  as sabl. If h bomb ha a pluonum nuclar cor nsall,  was a fully funconal wapon. If h bomb ha a ummy cor nsall,  was ncapabl of proucng a nuclar xploson bu coul sll prouc a convnonal xploson. Th 12-foo (4 m) long Mark 15 bomb wghs 7,600 pouns (3,400 kg) an bars h sral numbr 47782. I conans 400 pouns (180 kg) of convnonal hgh xplosvs an hghly nrch uranum.2 Th Ar Forc manans ha h bomb's nuclar capsul, us o na h nuclar racon, was rmov bfor s flgh aboar B-47.3 As no n h Aomc Enrgy Commsson Form AL-569 Tmporary Cusoan Rcp (for manuvrs), sgn by h arcraf commanr, h bomb conan a smula 150-poun cap ma of la.4 Bu accorng o 1966 Congrssonal smony by hn Asssan Scrary of Dfns W.J. Howar, h Tyb Islan bomb was a compl wapon, a bo
+ mb wh a nuclar capsul, an on of wo wapons los by ha m ha conan a pluonum rggr.56 Nvrhlss, a suy of h Sragc Ar Comman ocumns ncas ha n Fbruary 1958, Alr Forc s flghs (wh h olr Mark 15 payloas) wr no auhorz o fly wh nuclar capsuls on boar. Such approval was pnng ploymn of safr sal-p nuclar capsul wapons ha  no bgn ploymn unl Jun 1958.7 UK Sa Pnsons ar manag by h UK govrnmn, payng ?113.10 pr wk o a sngl prson who s of sa pnson ag n 2013/14.260 Th sa pnson ag for mn s 65, bu hs s u o rs o 66 n 2020 an 67 by 2028.260 Rsarch by h Naonal Insu of Economc an Socal Rsarch foun ha an npnn Scolan coul lay hs ncrass, u o a lowr lf xpcancy.261 Th Scolan's Fuur wh papr plg o manan a sa pnson a a smlar ra o h UK.262 2.1 Early auo rals Lgaly of a rfrnum Scon arcraf Numbrng Plannng Th Scosh govrnmn's ucaon scrary, Mchal Russll, has sa ha Scolan's unvrss hav a global rpuaon ha woul connu o arac nvsmn afr npnnc.290 In Spmbr 2013, h prncpal of h Unvrsy of Abrn sa ha Scosh unvrss coul connu o accss UK rs
+ arch funng hrough a sngl rsarch ara ha cross boh naons' bounars.291 Dav Bll, profssor of conomcs a h Unvrsy of Srlng, sa ha cross-borr collaboraon mgh connu, bu Scosh unvrss coul sll los hr fnancal avanag.292 Rogr Cook of h Scolan Insu pon ou ha alhough Scosh unvrss o rcv a hghr shar of Rsarch Councls funng, hy ar much lss pnn on hs as a sourc of funng han hr counrpars n Englan.108 Profssors from Scolan's fv mcal schools hav wrn an opn lr warnng ha npnnc woul man Scolan's rsarchr bas bng n s prsn ably o wn proporonaly mor gran funng.293 In h 2010 Draf Bll, h Scosh govrnmn propos ha hr woul b a sgna organsaon campagnng for a 'Ys' vo an a sgna organsaon campagnng for a 'No' vo, boh of whch woul b prm o spn up o ?750,000 on hr campagn an o sn on fr malsho o vry houshol or vor n h rfrnum franchs. Thr was o b no publc funng for campagns. Polcal pars wr ach o b allow o spn ?100,000.13 Ths propos lm on pary spnng was rvs o ?250,000 n 2012.44 In May 2014, h UK govrnmn publsh an analyss nfyn
+ g a Unon vn of ?1,400 pr yar for ach prson n Scolan, manly u o h hghr lvl of publc spnng unr h Barn formula.186 Th Scosh govrnmn spu hs analyss, sayng ha ach Sco woul b ?1,000 br off pr yar unr npnnc by 2030.186 Thr conomc xprs sa ha boh smas wr possbl, bu hy boh pn on unknown varabls such as h vson of UK govrnmn b, fuur Norh Sa ol rvnus, possbl spnng commmns of an npnn Scolan an fuur proucvy gans.187 Profssor Sr Dav Ewar, a formr Europan Cour jug, has sa ha h EU nsuons an mmbr sas woul b oblg o sar ngoaons bfor npnnc ook ffc o c h fuur rlaonshp.222 H sa hs woul b achv by agr amnmn of h xsng Tras (Arcl 48), rahr han a nw Accsson Tray (Arcl 49).209222 Graham Avry, h EC's honorary rcor gnral, agr wh Ewar.223 Avry wro a rpor, publsh by h Europan Polcy Cnr, whch sa ha EU lars woul probably allow Scolan o b par of h EU bcaus of h lgal an praccal ffculs ha woul ars from xclung .224 In a rsarch papr, Profssor Sonah Douglas-Sco of Oxfor Unvrsy sa ha h EU law normally aks a pragmac an purpos
+ v approach o ssus ha ar no alray prov for by xsng ras.225 Rsarch publsh by h Economc an Socal Rsarch Councl n Augus 2014 conclu ha  s unlkly ha an npnn Scolan woul b cu off from h rghs an oblgaons of EU mmbrshp for any pro of m, vn f Scolan was no formally a mmbr sa of h EU from s a of npnnc.226 Enrgy mark To a, no unu lvls of unnaural raoacv conamnaon hav bn c n h rgonal Uppr Floran aqufr by h Gorga Dparmn of Naural Rsourcs (ovr an abov h alray hgh lvls hough o b u o monaz, a locally occurrng san naurally hgh n raaon).910 
+ 
+
+
+--a45ec92d8870fad56eb731e5548883
+Content-Type: text/html;
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title></title>
+</head>
+<body style="margin:0px;">
+<div style="font-family:Arial, Helvetica, sans-serif; font:Arial, Helvetica, sans-serif;">
+<table width="410" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="10" height="10" align="left" valign="top">
+<a href="http://mikecordle.com/BJrNDvMl75T1I9r/e89957a6d99c3951e3944fff6fa94cda"><img src="http://mikecordle.com/img/13458_001.jpg/" alt="" title="" border="0"></a>
+</td>
+</tr>
+<tr>
+<td width="10" height="10" align="left" valign="top">
+<a href="http://mikecordle.com/BJrNDvMl75T1I9r/e89957a6d99c3951e3944fff6fa94cda"><img src="http://mikecordle.com/img/13458_002.jpg/" alt="" title="" border="0"></a>
+</td>
+</tr>
+<tr>
+<td width="10" height="10" align="left" valign="top">
+<a href="http://mikecordle.com/BJrNDvMl75T1I9r/e89957a6d99c3951e3944fff6fa94cda"><img src="http://mikecordle.com/img/13458_003.jpg" alt="" title="" border="0"></a>
+</td>
+</tr>
+<tr>
+<td width="10" height="10" align="left" valign="top">
+<a href="http://mikecordle.com/BJrNDvMl75T1I9r/e89957a6d99c3951e3944fff6fa94cda"><img src="http://mikecordle.com/img/13458_004.jpg" alt="" title="" border="0"></a>
+</td>
+</tr>
+<tr>
+<td width="10" height="10" align="left" valign="top">
+<a href="http://mikecordle.com/BJrNDvMl75T1I9r/e89957a6d99c3951e3944fff6fa94cda"><img src="http://mikecordle.com/img/13458_005.jpg" alt="" title="" border="0"></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+</td>
+</tr>
+</table><br>
+</div><br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="left">
+<tr>
+<td style="font-family: 'Times New Roman', Times, serif; font-size: 12px; color: #666; text-align: left;">
+Apple Pay, iPhone, iPad are registered trademarks of Apple Inc. Apple does not sponsor, endorse or promote this offer. Apple Pay is currently available only in the United States.
+</td>
+</tr>
+<tr>
+<td style="font-family: 'Times New Roman', Times, serif; font-size: 12px; color: #666; text-align: left;">
+If you would no longer like to receive messages from us, please click <a href="http://mikecordle.com/Sr7c3tdrFzyquqT/e89957a6d99c3951e3944fff6fa94cda">here</a> or write to: 935 South 825 East Ephraim, Utah 84627
+</td>
+</tr>
+</table>
+<span style="display:none;">
+Th campagn n favour of Scolan rmanng n h UK, Br Toghr, was launch on 25 Jun 2012.51 I was l by Alsar Darlng, formr Chancllor of h Exchqur, an ha suppor from h Consrvav Pary, Labour Pary an Lbral Dmocras.5152 jose US 412 also uss h Chrok Turnpk n Oklahoma; h ol roa s Alrna US 412. A Mk 15 nuclar bomb of h yp los whn json afr h collson 1 Dcon 4 S also A rpublc s favour by som pro-npnnc polcal pars an organsaons, nclung h Scosh Grn Pary250 an h Scosh Socals Pary.251 Th SNP s n favour of an npnn Scolan bng a monarchy n prsonal unon wh h rs of h UK147 (an hus h 15 ohr Commonwalh ralms). Chrsn Graham has sa sh blvs ha pary polcy s o hol a rfrnum on h mar,252 u o a 1997 SNP confrnc rsoluon.253 Opraor	Un Sas Ar Forc Rsuls of polls o 11 Spmbr 2014. R: no, grn: ys Th war plan ouln hos acons ha woul b ncssary o na war bwn Bran an h Un Sas. Th plan suggs ha h Brsh woul nally hav h uppr han by vru of h srngh of h Royal Navy. Th plan furhr assum ha Bran woul probably us s Domnon n Canaa as a sprng
+ boar from whch o na a ralaory nvason of h Un Sas. Th assumpon was akn ha a frs Bran woul fgh a fnsv bal agans nvang Amrcan forcs, bu ha h US woul vnually fa h Brsh by blockang h Un Kngom an conomcally solang .4 US 278 uss h oll Cross Islan Parkway n Souh Carolna; h ol roa s US 278 Busnss. Economy Whl AASHTO gulns spcfcally prohb Inrsa Hghways an U.S. Rous from sharng a numbr whn h sam sa11 (whch s why hr ar no Inrsas 50 or 60), h nal Inrsa numbrng approv n 1958 vola hs wh I-24 an US 24 n Illnos an I-40, I-80, US 40 an US 80 n Calforna (US 40 an US 80 wr rmov from Calforna n s 1964 rnumbrng).9 Th Barn formula has rsul n hghr pr-capa publc spnng n Scolan han Englan.181 If Norh Sa ol rvnu s calcula on a gographc bass, Scolan also proucs mor pr capa ax rvnu han h UK avrag.182183 Th Insu for Fscal Sus rpor n Novmbr 2012 ha a gographc shar of Norh Sa ol woul mor han covr h hghr publc spnng, bu warn ha ol prcs ar volal an ha ol s a fn rsourc.183 Th Govrnmn Expnur an Rvnu Scolan rpor for 20
+ 12/13 foun ha Norh Sa ol rvnu ha falln by 41.5% an ha Scolan's publc spnng fc ha ncras from ?4.6 bllon o ?8.6 bllon.184185 Ina Th Scosh Inpnnc Rfrnum Bll nf h Convnr of h Elcoral Managmn Boar for Scolan as Chf Counng Offcr for h rfrnum.383 Th Chf Counng Offcr, Mary Pcahly,384 was suppor by a Counng Offcr n ach of h 32 local auhory aras of Scolan,384 who was ypcally h Chf Excuv for ha local auhory. Each Counng Offcr ha a rfrnum am, whch nclu: Bfor h U.S. Rous wr sgna, auo rals sgna by auo ral assocaons wr h man mans of markng roas hrough h Un Sas. In 1925, h Jon Boar on Inrsa Hghways, rcommn by h Amrcan Assocaon of Sa Hghway Offcals (AASHO), work o form a naonal numbrng sysm o raonalz h roas. Afr svral mngs, a fnal rpor was approv by h U.S. Dparmn of Agrculur n Novmbr 1925. Thy rcv complans from across h counry abou h assgnmn of rous, so h Boar ma svral mofcaons; h U.S. Hghway Sysm was approv n Novmbr 1926. As a rsul of compromss ma o g h U.S. Hghway Sysm approv, many rous wr v, wh a
+ lgnmns o srv ffrn owns. In subsqun yars, AASHTO call for such spls n U.S. Rous o b lmna. S also: Unon of h Crowns 55.3% vo agans npnnc,390 wh a urnou of 84.6%. Mos aras vo No, wh only Dun, Glasgow, Norh Lanarkshr an Ws Dunbaronshr vong Ys. Approxmaly 90% of h Un Kngom's Norh Sa ol fls ar loca n Scosh rroral wars. Th ax rvnu gnra from an offshor s s no coun whn h naon or rgon nars o , bu s nsa alloca o h UK Connnal Shlf. Th rvnu from Norh Sa ol has bn us o suppor currn xpnur, rahr han crang a sovrgn ol fun.204205 Th SNP blvs ha a poron of h rvnus shoul b nvs n a sovrgn ol fun. Th Scosh govrnmn, cng nusry rgulaor Ol an Gas UK, sma n Scolan's Fuur ha hr wr 24 bllon barrls of ol quvaln (bo) rmanng o b xrac.206 Sr Ian Woo, founr of ol srvcs company Woo Group, sa n Augus 2014 ha h blv hr wr bwn 15 an 16.5 bllon bo an ha h mpac from clnng proucon woul b fl by 2030.206 In Spmbr 2014, an nvsgaon by nusry rcrumn wbs Ol an Gas Popl sa ha hr wr xnsv ol rsrvs o h ws of h Wsrn Isls an Shlan.207 T
+ h rpor ancpa ha h rgon woul b vlop whn h nx 10 yars bcaus of mprovmns n rllng chnology, rg sgn an survyng.207 </span>
+</body>
+</html>
+
+--a45ec92d8870fad56eb731e5548883--

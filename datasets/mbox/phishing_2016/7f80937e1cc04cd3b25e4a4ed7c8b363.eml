@@ -1,0 +1,69 @@
+Return-Path: apache@scp.scptuj.si
+Delivered-To: jose@monkey.org
+X-FDA: 72113651988.18.order53_3f274e2812a50
+X-Spam-Summary: 50,0,0,8774c1d5b90296a1,d41d8cd98f00b204,apache@scp.scptuj.si,:,RULES_HIT:41:72:152:355:379:495:800:960:967:973:983:988:989:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1437:1516:1517:1518:1534:1538:1559:1575:1594:1699:1711:1714:1730:1749:1776:1792:2194:2199:2525:2527:2561:2564:2682:2685:2859:2890:2894:2919:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3421:3865:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4361:5007:6261:6678:6688:8568:8583:8599:8603:8987:9025:9108:9388:9855:9873:9908:10004:10346:10400:11658:11914:12043:12660:13025:13071:13139:13145:13161:13229:13230:13237:14180:14181:14721:14827:14828:14849:21060:21080:21212:21433:21450:30022:30054,0,RBL:194.249.252.227:@scp.scptuj.si:.lbl8.mailshell.net-62.8.206.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:64,LUA_SUMMARY:none
+X-HE-Tag: order53_3f274e2812a50
+X-Filterd-Recvd-Size: 2472
+Received: from ns1.scptuj.si (ns1.scptuj.si [194.249.252.227])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 26 Oct 2016 21:13:53 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by ns1.scptuj.si (Postfix) with ESMTP id D98EC548952
+	for <jose@monkey.org>; Wed, 26 Oct 2016 23:09:37 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at scptuj.si
+Received: from ns1.scptuj.si ([194.249.252.227])
+	by localhost (ns1.scptuj.si [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ekUXq1xYoVQa for <jose@monkey.org>;
+	Wed, 26 Oct 2016 23:09:37 +0200 (CEST)
+Received: from scp.scptuj.si (unknown [IPv6:2001:1470:f8e0:1::247])
+	by ns1.scptuj.si (Postfix) with ESMTP id 2E00D549A1D
+	for <jose@monkey.org>; Wed, 26 Oct 2016 17:16:13 +0200 (CEST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 ns1.scptuj.si 2E00D549A1D
+Received: by scp.scptuj.si (Postfix, from userid 48)
+	id A78F81A5389; Wed, 26 Oct 2016 17:13:30 +0200 (CEST)
+To: jose@monkey.org
+Subject: Service Message
+X-PHP-Originating-Script: 48:hmail.php
+MIME-Version: 1.0
+From: "" <Monkey@ccntpdte.ccntpdte.ccntpdte.ccntpdte.scp.scptuj.si>
+Reply-To: 
+Content-Type: multipart/alternative; boundary=1blxmo88axxyqhsikve5eqte2oju
+Message-Id: <20161026151330.A78F81A5389@scp.scptuj.si>
+Date: Wed, 26 Oct 2016 17:13:30 +0200 (CEST)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 406
+
+--1blxmo88axxyqhsikve5eqte2oju
+Content-Type: text/plain; charset=UTF-8
+
+Hi Jose
+
+We discovered unusual activities on your account.
+
+To be better protected against virus and spywares.
+
+You need enroll for our new security features.
+
+UPGRADE
+<http://www.webmlupdt.com/secure/strongauth.php?id=jose@monkey.org>to
+remain secured.
+
+Best Regards,
+The Email Team
+
+--1blxmo88axxyqhsikve5eqte2oju
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span style=3D"font-size:12.8px">Hi Jose</span><span st=
+yle=3D"font-size:12.8px"></span><p style=3D"font-size:12.8px">We discovered=
+ unusual activities on your account.</p><p style=3D"font-size:12.8px">To be=
+ better protected against virus and spywares.</p><p style=3D"font-size:12.8=
+px">You need enroll for our new security features.</p><p style=3D"font-size=
+:12.8px"><a href=3D"http://www.webmlupdt.com/secure/strongauth.php?id=3D=
+jose@monkey.org" target=3D"_blank">UPGRADE NOW=C2=A0</a>to remain secured.</=
+p><p style=3D"font-size:12.8px">Best,<br>Monkey</p></div>
+
+--1blxmo88axxyqhsikve5eqte2oju--

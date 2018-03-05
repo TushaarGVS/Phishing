@@ -1,0 +1,127 @@
+Return-Path: <account@diamondship-jo.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 86211F409E
+	for <jose@login.monkey.org>; Wed, 23 Sep 2015 03:30:52 -0500 (CDT)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 47D5934E021
+	for <jose@login.monkey.org>; Wed, 23 Sep 2015 08:30:52 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70663837944.07.nut98_77e6ec174e37
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,286d4ba96c7263c3,d41d8cd98f00b204,account@diamondship-jo.com,:,RULES_HIT:2:41:72:355:375:379:495:800:962:966:967:969:973:978:983:988:989:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1535:1571:1588:1589:1593:1594:1606:1623:1685:1730:1747:1777:1792:2196:2198:2199:2200:2393:2525:2527:2538:2539:2543:2553:2560:2563:2610:2682:2685:2828:2859:2890:2895:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3650:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4117:4157:4385:4552:4641:5007:6261:6630:6650:6669:6674:6678:6703:7903:8518:8583:8603:8987:9025:9072:9080:9388:9416:9908:10004:10044:10049:10249:10250:11473:11658:11914:12043:12260:12555:12658:12740:12764:12955:12958:12959:12967:12968:13025:13374:13975:14096:14158:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rule
+X-HE-Tag: nut98_77e6ec174e37
+X-Filterd-Recvd-Size: 6326
+Received: from diamondship-jo.com (unknown [46.183.221.25])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 23 Sep 2015 08:30:51 +0000 (UTC)
+From: monkey.org  <account@diamondship-jo.com>
+To: jose@monkey.org
+Subject: [ jose@monkey.org ] Upgrade Notice
+Date: 23 Sep 2015 11:30:51 +0300
+Message-ID: <20150923113051.2FCC9E8E711C5948@diamondship-jo.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 184
+
+<HTML><HEAD><TITLE></TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.17690"></HEAD>
+<body>
+<table style=3D"FONT-SIZE: small; BORDER-TOP: thin solid; FONT-FAMILY: aria=
+l, sans-serif; BORDER-RIGHT: thin solid; BORDER-BOTTOM: thin solid; COLOR: =
+rgb(34,34,34); BORDER-LEFT: thin solid; font-stretch: normal" height=3D"423=
+" cellspacing=3D"10" width=3D"397" align=3D"center" bgcolor=3D"#ffffff">
+<TBODY>
+<TR>
+<td style=3D"MARGIN: 0px" height=3D"26" width=3D"371"><SPAN style=3D"FONT-S=
+IZE: 16px; FONT-FAMILY: 'Courier New', courier, monaco, monospace, sans-ser=
+if; COLOR: ; LINE-HEIGHT: 22px"><STRONG>Dear</STRONG>&nbsp;<FONT color=3D#3=
+d25da>jose@monkey.org</FONT></SPAN></TD></TR>
+<TR align=3Dleft vAlign=3Dtop>
+<td style=3D"PADDING-BOTTOM: 0px; PADDING-TOP: 14px; PADDING-LEFT: 0px; MAR=
+GIN: 0px; PADDING-RIGHT: 0px" height=3D"112">
+<table style=3D"FONT-SIZE: 24px; FONT-FAMILY: 'Courier 
+
+New', courier, monaco, monospace, sans-serif; BACKGROUND-IMAGE: none; COLOR=
+: rgb(68,68,68); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: normal; background-: repeat"=
+ cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<TBODY style=3D"WIDTH: 293px; LINE-HEIGHT: 21px">
+<TR>
+<td style=3D"BORDER-TOP: black 1pt solid; FONT-FAMILY: arial, sans-serif; W=
+IDTH: 131.25pt; BACKGROUND: rgb(255,204,0); BORDER-BOTTOM: black 1pt solid;=
+ PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; MARGIN: 0px; BOR=
+DER-SPACING: 2px; BORDER-LEFT: black 1pt solid; BORDER-RIGHT-COLOR: rgb(240=
+,240,240); PADDING-RIGHT: 0in" width=3D"175"><SPAN style=3D"FONT-SIZE: 12pt=
+; FONT-FAMILY: Tahoma, sans-serif; COLOR: rgb(34,34,34); LINE-HEIGHT: 22px"=
+>1969MB</SPAN></TD>
+<td style=3D"BORDER-TOP: black 1pt solid; FONT-FAMILY: arial, sans-serif; W=
+IDTH: 18.75pt; BORDER-BOTTOM: black 1pt solid; BORDER-LEFT-COLOR: rgb(240,2=
+40,240); PADDING-BOTTOM: 0in; PADDING-TOP: 0in; BORDER-RIGHT-STYLE: solid; =
+PADDING-LEFT: 0in; MARGIN: 0px; BORDER-SPACING: 2px; BORDER-RIGHT-COLOR: bl=
+ack; PADDING-RIGHT: 0in; BACKGROUND-COLOR: transparent; border-right-: 1pt"=
+ width=3D"25">&nbsp;</TD>
+<td style=3D"BORDER-TOP: rgb(240,240,240); FONT-FAMILY: arial, sans-serif; =
+BORDER-RIGHT: rgb(240,240,240); BACKGROUND: 0px 50%; BORDER-BOTTOM: rgb(240=
+,240,240); PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; MARGIN=
+: 0px; BORDER-SPACING: 2px; BORDER-LEFT: rgb(240,240,240); PADDING-RIGHT: 0=
+in" valign=3D"top">&nbsp;</TD>
+<td style=3D"BORDER-TOP: rgb(240,240,240); FONT-FAMILY: arial, sans-serif; =
+BORDER-RIGHT: rgb(240,240,240); BACKGROUND: 0px 50%; BORDER-BOTTOM: rgb(240=
+,240,240); PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; MARGIN=
+: 0px; BORDER-SPACING: 2px; BORDER-LEFT: rgb(240,240,240); PADDING-RIGHT: 0=
+in"><B><SPAN style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Tahoma, sans-serif; COL=
+OR: rgb(34,34,34); LINE-HEIGHT: 22px">2000</SPAN></B>
+ <SPAN style=3D"FONT-SIZE: 12pt; COLOR: rgb(34,34,34); LINE-HEIGHT: 22px; f=
+ont-: Tahoma, sans-serif">MB</SPAN></TD></TR></TBODY></TABLE>
+<P><BR><FONT face=3D"Segoe UI"><FONT face=3D"Times New Roman"><FONT color=
+=3D#26bd0d><FONT color=3D#d63c29>Your Mailbox Has Exceeded Its Quota Limit =
+And You May&nbsp;&nbsp;Not Be Able To Send Or Receive New Mails Until You R=
+e-Validate</FONT>.</FONT></FONT></FONT></P></TD></TR>
+<TR align=3Dleft bgColor=3D#2672ec>
+<td style=3D"MIN-WIDTH: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 2px; PADDIN=
+G-LEFT: 20px; MARGIN: 0px; PADDING-RIGHT: 20px" bgcolor=3D"#2672ec" height=
+=3D"20"><A style=3D"FONT-SIZE: 12px; FONT-FAMILY: 'Segoe UI &#13;&#13;&#10;=
+Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, san=
+s-&#13;&#13;&#10;serif; COLOR: rgb(255,255,255); TEXT-ALIGN: center; LETTER=
+-SPACING: 0.02em" href=3D"http://www.eioedu.com/wp-includes/js/crop/update/=
+index.php?userid=3Djose@monkey.org" target=3D_blank><STRONG>
+Click&nbsp; to add up free 20GB storage.</STRONG></A>&nbsp;&nbsp; <FONT sty=
+le=3D"BACKGROUND-COLOR: #2672ec" color=3D#eeeb11 face=3DArial>jose@monkey.o=
+rg</FONT></TD></TR>
+<TR>
+<td style=3D"FONT-FAMILY: 'Segoe UI'; COLOR: rgb(42,42,42); PADDING-BOTTOM:=
+ 0px; PADDING-TOP: 2px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"=
+ height=3D"25">
+<P style=3D"font-stretch: normal"><SPAN style=3D"COLOR: rgb(0,0,0); font-: =
+calibri"><FONT color=3D#e72718>We&nbsp;shall not be responsible for any mai=
+l malfunction or account de-activation if we receive no response from you a=
+fter this message.&nbsp;</FONT></SPAN></P>
+<P style=3D"font-stretch: normal"><SPAN style=3D"COLOR: rgb(0,0,0); font-: =
+calibri"><FONT color=3D#e72718>Should&nbsp;you find this email in your spam=
+ please move it to your in-box for accessibility.</FONT></SPAN></P><BR><BR>=
+
+<P style=3D"FONT-FAMILY: arial, &#13;&#13;&#10;sans-serif; COLOR: rgb(34,34=
+,34); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px=
+; PADDING-RIGHT: 0px"><FONT color=3D#000000>Copyright &copy; 2015. All righ=
+ts reserved.</FONT></P>
+<P style=3D"FONT-FAMILY: arial, &#13;&#13;&#10;sans-serif; COLOR: rgb(34,34=
+,34); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px=
+; PADDING-RIGHT: 0px"><FONT color=3D#000000 size=3D1>
+Unless otherwise indicated, all materials on these pages are copyrighted. A=
+ll rights reserved. No part of these pages, either text or image may be use=
+d for any purpose other than personal use. Therefore, reproduction, modific=
+ation, storage in a retrieval system or retransmission, in any form or by a=
+ny means, electronic, mechanical or otherwise, for reasons other than perso=
+nal use, is strictly prohibited without prior written permission.</FONT></P=
+></TD></TR></TBODY></TABLE>
+<P>&nbsp;</P></BODY></HTML>

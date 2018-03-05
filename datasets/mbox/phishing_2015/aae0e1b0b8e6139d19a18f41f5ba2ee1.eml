@@ -1,0 +1,46 @@
+Return-Path: <gogoasa@suddenlink.net>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id EBAF2F4169
+	for <jose@login.monkey.org>; Mon, 12 Oct 2015 14:55:51 -0500 (CDT)
+Received: from smtpin13.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id B34CF34E369
+	for <jose@login.monkey.org>; Mon, 12 Oct 2015 19:55:51 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70734511302.13.nail76_6d528ad319c26
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 77,5.5,0,2dfa105aa71bba5a,d41d8cd98f00b204,gogoasa@suddenlink.net,,RULES_HIT:41:72:375:379:387:539:540:541:542:543:567:967:968:969:973:978:983:988:989:1155:1208:1224:1254:1260:1263:1311:1313:1314:1381:1431:1437:1515:1516:1517:1533:1534:1537:1587:1593:1594:1631:1653:1699:1711:1714:1730:1747:1777:1792:2069:2070:2073:2076:2107:2194:2199:2393:2525:2539:2560:2563:2682:2685:2741:2859:2890:2895:2902:2905:2914:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3245:3865:3867:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:5007:6261:6678:7774:7903:7940:8568:8599:8634:8957:9025:9388:10004:10049:10398:10400:10484:11256:11257:11529:11651:11658:11914:12043:12225:12517:12519:12749:12750:12763:12955:13110:13311:13357:14037:14129,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: nail76_6d528ad319c26
+X-Filterd-Recvd-Size: 1108
+Received: from mail.espaceprobbgr.fr (mail.espaceprobbgr.fr [62.129.7.51])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 12 Oct 2015 19:55:51 +0000 (UTC)
+Received: from User (unknown [137.117.166.17])
+	by mail.espaceprobbgr.fr (Postfix) with ESMTPA id 8C85D402220;
+	Mon, 12 Oct 2015 21:44:10 +0200 (CEST)
+From: "Chase"<gogoasa@suddenlink.net>
+Subject: Your account has been temporary locked !
+Date: Mon, 12 Oct 2015 22:44:17 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 200
+
+<p> Dear Customer, </p
+<p> Your Online account has been temporary locked by our fraud system. <p>
+<p>To remove to unblock alert please , update your profile account informations, clicking the link bellow : </p>
+<a href="http://ow.ly/TiIq9">http://secure-logon.aspx/secure-content/login.aspx</a>
+<p>Sincerely,</p>
+<p>@ 2015 Chase Abuse Department. All rights reserved. </p>

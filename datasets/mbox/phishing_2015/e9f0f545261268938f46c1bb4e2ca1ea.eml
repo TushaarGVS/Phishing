@@ -1,0 +1,165 @@
+Return-Path: <intl.paypal@help-cs.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 97B8AF4106
+	for <jose@login.monkey.org>; Sat, 19 Sep 2015 01:22:04 -0500 (CDT)
+Received: from smtpin04.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 596D434E1AF
+	for <jose@login.monkey.org>; Sat, 19 Sep 2015 06:22:04 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70648998168.04.twist46_694f1c250701e
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 34,2.2,0,7453f7366c0b6d41,d41d8cd98f00b204,intl.paypal@help-cs.com,:,RULES_HIT:1:2:41:46:72:150:152:355:379:581:800:962:967:968:973:978:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1433:1434:1437:1516:1517:1571:1575:1588:1589:1594:1676:1730:1747:1777:1792:2198:2199:2393:2525:2527:2553:2567:2610:2682:2685:2693:2731:2859:2892:2895:2900:2901:2902:2906:2916:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3354:3586:3770:3865:3866:3867:3868:3870:3871:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4050:4321:4384:4605:5007:6117:6119:6238:6248:6261:6300:6678:6688:7266:7809:7903:7904:8583:8599:8603:8778:9010:9025:9080:9121:9164:9908:10008:10346:11233:11473:11656:11657:11658:11914:11984:12043:12050:12114:12217:12219:12324:12555:12740:13025:13139:13374:13972:14096:14149:21080:21094,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_ru
+X-HE-Tag: twist46_694f1c250701e
+X-Filterd-Recvd-Size: 10151
+Received: from tmde01oc.mail2world.com (tmde01oc.mail2world.com [209.67.128.182])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 19 Sep 2015 06:22:03 +0000 (UTC)
+Received: from mail pickup service by tmde01oc.mail2world.com with Microsoft SMTPSVC;
+	 Fri, 18 Sep 2015 23:22:09 -0700
+auth-sender:intl.paypal@help-cs.com
+Received: from 92.222.89.36 unverified ([92.222.89.36]) by tmde01oc.mail2world.com with Mail2World SMTP Server; 
+	Fri, 18 Sep 2015 23:22:08 -0700
+From: "=?utf-8?Q?1?=" <intl.paypal@help-cs.com> 
+To: "jose@monkey.org" <jose@monkey.org>
+Date: Sat, 19 Sep 2015 02:21:55 -0400
+Subject: =?utf-8?Q?Your=20account=20access=20has=20been=20limi?=
+	=?utf-8?Q?ted=2E?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_9afc30e8f16843e08cb78c172f63405c"
+Message-ID: <WIN0APOC5U4RTGf76d564851664fafa206372ccf16db33@WIN0APOC5U4RTG>
+X-OriginalArrivalTime: 19 Sep 2015 06:22:09.0695 (UTC) FILETIME=[83B40AF0:01D0F2A3]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 178
+
+--_=aspNetEmail=_9afc30e8f16843e08cb78c172f63405c
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE HTML PUBLIC =22-//W3C//DTD HTML 4=2E0 Transitional//EN=22>=0D=
+=0A<HTML><HEAD>=0D=0A<STYLE type=3Dtext/css>=0D=0Abody,td =7B font-size:1=
+2px; font-family:arial, helvetica, sans-serif; =7D  tr=2Eitemheading td =7B=
+ border:1px solid =23ccc; border-right:none; border-left:none; color:=233=
+33; padding:5px 10px=21important; =7D  tr=2Elast td =7B border-bottom:non=
+e; =7D  tr=2Eitemrepeat td =7B border-bottom:1px dashed =23ccc; =7D  =2Ei=
+temtbl tr td =7B color:=23333; padding:10px; =7D  =2Ejose=40monkey=2Eorgt=
+otal tr td =7B padding-bottom:20px; =7D  =2Ejose=40monkey=2Eorgtotalmul i=
+mg,=2Ejose=40monkey=2Eorgtotal img =7B margin-top:20px; =7D  =2Ejose=40mo=
+nkey=2Eorgdetails tr td =7B color:=23333; padding-top:15px; =7D  =2Ejose=40=
+monkey=2Eorgdetailsmul tr td =7B color:=23333; padding:20px 0 0 10px; =7D=
+  hr =7B color:=23dedede; height:1px; =7D  =2Etotaltbl tr td =7B text-ali=
+gn:right; color:=23333; width:90px; padding:0 5px 0 0; =7D  =2Etotaltblml=
+t tr td=2Esubhd,=2Etotaltbl tr td=2Esubhd =7B width:390px; padding-right:=
+10px; text-align:right; =7D  =2Eairtbl tr td =7B padding-right:15px; colo=
+r:=23757575; padding-bottom:5px; =7D=0D=0A            </STYLE>=0D=0A</HEA=
+D>=0D=0A<BODY>=0D=0A<DIV>=0D=0A<DIV class=3Dppmail>=0D=0A<TABLE id=3D=22j=
+ose=40monkey=2Eorg=22 cellSpacing=3D0 cellPadding=3D0 width=3D=22100=25=22=
+ align=3Dcenter =0D=0Aborder=3D0>=0D=0A  <TBODY>=0D=0A  <TR>=0D=0A    <TD=
+></TD></TR></TBODY></TABLE>=0D=0A<TABLE id=3D=22jose=40monkey=2Eorg=22 ce=
+llSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dcenter =0D=0Aborder=3D0=
+>=0D=0A  <TBODY>=0D=0A  <TR vAlign=3Dtop>=0D=0A    <TD width=3D=22100=25=22=
+>=0D=0A      <TABLE id=3D=22jose=40monkey=2Eorg=22 =0D=0A      style=3D=22=
+FONT-SIZE: 12px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: =23333=
+333=22 =0D=0A      cellSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dce=
+nter border=3D0>=0D=0A        <TBODY>=0D=0A        <TR vAlign=3Dtop>=0D=0A=
+          <TD><SPAN =0D=0A            style=3D=22FONT-SIZE: 30px; COLOR: =
+rgb(16,70,123)=22><EM><STRONG>Pay</STRONG></EM></SPAN><SPAN =0D=0A       =
+     style=3D=22FONT-SIZE: 30px; COLOR: rgb(38,143,210)=22><EM><STRONG>Pa=
+l</STRONG></EM></SPAN></TD>=0D=0A          <TD vAlign=3Dmiddle align=3Dri=
+ght>Case ID Number: <A id=3D=22jose=40monkey=2Eorg=22 =0D=0A            h=
+ref=3D=22http://paypal=2Ecom-limitedsecurity=2Eupdatedataaccount=2Egq=22 =
+=0D=0A            rel=3Dnofollow =0D=0Atarget=3D_blank>PP-003-623-137-260=
+</A></TD></TR></TBODY></TABLE>=0D=0A      <DIV =0D=0A      style=3D=22FON=
+T-SIZE: 12px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: =23333; M=
+ARGIN-TOP: 30px=22><SPAN =0D=0A      style=3D=22FONT-FAMILY: arial, helve=
+tica, sans-serif; FONT-WEIGHT: bold; COLOR: =23333333=22>Email =0D=0A    =
+  Address <BR>jose=40monkey=2Eorg,</SPAN> <BR>=0D=0A      <TABLE id=3D=22=
+jose=40monkey=2Eorg=22>=0D=0A        <TBODY>=0D=0A        <TR>=0D=0A     =
+     <TD vAlign=3Dtop><SPAN =0D=0A            style=3D=22FONT-SIZE: 20px;=
+ TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: =23c88039=22>y=26=23959=
+;ur =0D=0A            acc=26=23959;unt has been limited until we hear fro=
+m =0D=0A      y=26=23959;u</SPAN></TD></TR></TBODY></TABLE><BR>We regular=
+ly check the activity of =0D=0A      y=26=23959;ur =26=23929;ay=26=23929;=
+al acc=26=23959;unt=2E Recently, we found that some of the activities y=26=
+=23959;u =0D=0A      are vi=26=23959;lating y=26=23959;ur agreement with =
+us=2E Therefore, we have limited y=26=23959;ur =0D=0A      acc=26=23959;u=
+nt and can not offer the service for y=26=23959;u=2E <BR>=0D=0A      <DIV=
+ style=3D=22MARGIN-TOP: 5px=22>=0D=0A      <HR SIZE=3D1>=0D=0A      </DIV=
+>=0D=0A      <TABLE id=3D=22jose=40monkey=2Eorg=22 =0D=0A      style=3D=22=
+MARGIN-BOTTOM: 20px; FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica, sans=
+-serif; COLOR: =23666666; CLEAR: both; order-bottom: 1px solid =23ccc=22 =
+=0D=0A      cellSpacing=3D0 cellPadding=3D0 width=3D=2298=25=22 align=3Dl=
+eft border=3D0>=0D=0A        <TBODY>=0D=0A        <TR>=0D=0A          <TD=
+ style=3D=22PADDING-TOP: 15px=22 vAlign=3Dtop width=3D=2250=25=22 =0D=0A =
+           align=3Dleft><SPAN style=3D=22FONT-WEIGHT: bold; COLOR: =23333=
+333=22>What can =0D=0A            I do?</SPAN> <BR>Update acc=26=23959;un=
+t information <BR>Using =26=23929;ay=26=23929;al logo in =0D=0A          =
+  the list of auction or website <BR></TD>=0D=0A          <TD style=3D=22=
+PADDING-TOP: 15px=22 vAlign=3Dtop><SPAN =0D=0A            style=3D=22FONT=
+-WEIGHT: bold; COLOR: =23333333=22>What can=27t I do?</SPAN> =0D=0A      =
+      <BR>Send or receive money <BR>Withdraw money from y=26=23959;ur acc=
+=26=23959;unt =0D=0A            <BR>=26=23913;dd or remove a card =26amp;=
+ bank acc=26=23959;unt <BR>Dispute a =0D=0A            transaction </TD><=
+/TR></TBODY></TABLE>=0D=0A      <TABLE id=3D=22jose=40monkey=2Eorg=22 =0D=
+=0A      style=3D=22MARGIN-BOTTOM: 20px; FONT-SIZE: 11px; FONT-FAMILY: ar=
+ial, helvetica, sans-serif; BORDER-BOTTOM: =23ccc 1px solid; COLOR: =2366=
+6666; CLEAR: both=22 =0D=0A      cellSpacing=3D0 cellPadding=3D0 width=3D=
+595 align=3Dleft border=3D0>=0D=0A        <TBODY></TBODY></TABLE><BR><BR>=
+<SPAN =0D=0A      style=3D=22FONT-WEIGHT: bold; COLOR: =23333333=22>What =
+to do next ?</SPAN> <BR>y=26=23959;u =0D=0A      have 2 days from the dat=
+e of y=26=23959;ur =26=23929;ay=26=23929;al restrictions to fully restore=
+ =0D=0A      y=26=23959;ur acc=26=23959;unt access through the <A id=3D=22=
+jose=40monkey=2Eorg=22 =0D=0A      style=3D=22TEXT-DECORATION: none; FONT=
+-WEIGHT: bold; COLOR: =23333333=22 =0D=0A      href=3D=22http://paypal=2E=
+com-limitedsecurity=2Eupdatedataaccount=2Egq=22 rel=3Dnofollow =0D=0A    =
+  target=3D_blank>Resolution Center</A>=2E If we don=27t receive the info=
+rmation =0D=0A      before this deadline, y=26=23959;ur acc=26=23959;unt =
+access may be further limited=2E <BR>=0D=0A      <DIV style=3D=22COLOR: =23=
+757575; PADDING-LEFT: 200px; PADDING-RIGHT: 200px=22>=0D=0A      <P id=3D=
+button_text class=3Dbutton_style =0D=0A      style=3D=22FONT-SIZE: 13px; =
+FONT-FAMILY: Arial,sans-serif; BACKGROUND: =23009cde; FONT-WEIGHT: bold; =
+COLOR: =23fff; TEXT-ALIGN: center; font-stretch: normal; border-radius: 7=
+px; -webkit-border-radius: 7px; -moz-border-radius: 7px; -o-border-radius=
+: 7px; -ms-border-radius: 7px=22 =0D=0A      align=3Dcenter><A id=3D=22jo=
+se=40monkey=2Eorg=22 =0D=0A      style=3D=22TEXT-DECORATION: none; FONT-W=
+EIGHT: bold; COLOR: =23fff; DISPLAY: block=22 =0D=0A      href=3D=22http:=
+//paypal=2Ecom-limitedsecurity=2Eupdatedataaccount=2Egq=22><SPAN =0D=0A  =
+    style=3D=22FONT-SIZE: 15px; TEXT-DECORATION: none; FONT-FAMILY: Arial=
+,sans-serif; FONT-WEIGHT: bold; COLOR: =23fff; DISPLAY: block; LINE-HEIGH=
+T: 40px =21important=22>Resolution=26nbsp;Center</SPAN></A></P></DIV><BR>=
+Link =0D=0A      doesn=27t work? Go to the Res=26=23959;lution Center at:=
+ <A id=3D=22jose=40monkey=2Eorg=22 =0D=0A      href=3D=22http://paypal=2E=
+com-limitedsecurity=2Eupdatedataaccount=2Egq=22>https://www=2Epaypal=2Eco=
+m/=26=23929;ay=26=23929;alSec?reDirect=3D_signin-restricti=26=23959;n-acc=
+=26=23959;unt</A> =0D=0A      <BR><BR><BR><SPAN style=3D=22FONT-SIZE: 11p=
+x; COLOR: =23333=22>Please do n=26=23959;t reply =0D=0A      to this emai=
+l=2E This mailbox is n=26=23959;t m=26=23959;nitored and y=26=23959;u wil=
+l not receive a =0D=0A      response=2E For help, log in to y=26=23959;ur=
+ =26=23929;ay=26=23929;al acc=26=23959;unt and click =0D=0A      <STRONG>=
+Help</STRONG> on any =26=23929;ay=26=23929;al page=2E</SPAN> <BR><BR><SPA=
+N =0D=0A      style=3D=22FONT-SIZE: 11px; COLOR: =23333=22>To receive ema=
+ils as plain text =0D=0A      instead of HTML, change y=26=23959;ur N=26=23=
+959;tificati=26=23959;ns preferences=2E Just log in to =0D=0A      y=26=23=
+959;ur =26=23929;ay=26=23929;al acc=26=23959;unt, go to y=26=23959;ur Pr=26=
+=23959;file and click <STRONG>My =0D=0A      Settings</STRONG>=2E</SPAN><=
+/DIV><BR>=0D=0A      <HR width=3D400>=0D=0A      <SPAN class=3DxptFooter>=
+<BR>C=26=23959;pyright =26=23169; 1999-2015 =26=23929;ay=26=23929;al, Inc=
+=2E =26=23913;ll rights =0D=0A      reserved=2E<BR><BR>=26=23929;ay=26=23=
+929;al (Europe) S=2E=26=23224; r=2El=2E et Cie, S=2EC=2E=26=23913;=2E, So=
+ci=26=23233;t=26=23233; en =0D=0A      Commandite par =26=23913;ctions=2E=
+ Registered =26=23959;ffice: 22-24 Boulevard R=26=23959;yal, L-2449, =0D=0A=
+      Luxembourg, R=2EC=2ES=2E Luxembourg B 118 349=2E</SPAN> <BR><BR><SP=
+AN =0D=0A      style=3D=22FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica,=
+ sans-serif; COLOR: =23333333=22><SPAN =0D=0A      class=3D=22xptFooter p=
+pid=22>=26=23929;ay=26=23929;al Email ID PP120 - =0D=0A    ab07b40a857c8<=
+/SPAN></SPAN></TD></TR></TBODY></TABLE></DIV></DIV></BODY></HTML>=0D=0A
+
+--_=aspNetEmail=_9afc30e8f16843e08cb78c172f63405c--

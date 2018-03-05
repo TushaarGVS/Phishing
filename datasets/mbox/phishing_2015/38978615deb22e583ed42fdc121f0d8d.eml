@@ -1,0 +1,45 @@
+Return-Path: <lcardoso@acalanes.k12.ca.us>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 37521F409B
+	for <jose@login.monkey.org>; Wed,  2 Sep 2015 13:34:42 -0500 (CDT)
+Received: from smtpin06.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id B7BB71846BE
+	for <jose@login.monkey.org>; Wed,  2 Sep 2015 18:34:41 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70589154762.06.bears24_80292ed8e593f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,9632f3ece678e89f,d41d8cd98f00b204,lcardoso@acalanes.k12.ca.us,:indianed@sbceo.org,RULES_HIT:10:41:46:355:379:582:960:967:973:978:988:989:1152:1158:1256:1260:1263:1277:1311:1313:1314:1345:1381:1437:1513:1515:1516:1518:1521:1533:1536:1593:1594:1711:1714:1730:1747:1777:1792:2393:2525:2560:2563:2682:2685:2693:2859:2890:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3870:3872:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4552:5007:6261:6659:6675:8778:9025:9111:9411:10004:10400:11257:11527:11658:11914:11984:12050:12114:12196:12661:12855:13069:13311:13357:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: bears24_80292ed8e593f
+X-Filterd-Recvd-Size: 977
+Received: from email.acalanes.k12.ca.us (ip-del-admin.acalanes.k12.ca.us [169.199.30.99])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  2 Sep 2015 18:34:40 +0000 (UTC)
+From: Lena Cardoso <lcardoso@acalanes.k12.ca.us>
+To: "indianed@sbceo.org" <indianed@sbceo.org>
+Subject: =?windows-1256?Q?Password_will_expire_in_3_days=FE?=
+Thread-Topic: =?windows-1256?Q?Password_will_expire_in_3_days=FE?=
+Thread-Index: AdDlrgVJ4/NIOv+MRTqvoAsTwAy30A==
+Date: Wed, 2 Sep 2015 18:34:37 +0000
+Message-ID: <065301CAB6CFA74BA8D6630F5C8F55C33F0889CA@exch-mbx2.acalanes.k12.ca.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.99.0.74]
+Content-Type: text/plain; charset="windows-1256"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 164
+
+Password will expire in 3 days=FE Please Click Here<http://cun1e.jimdo.com/=
+> to Validate your email account
+
+IT-Service Help Desk

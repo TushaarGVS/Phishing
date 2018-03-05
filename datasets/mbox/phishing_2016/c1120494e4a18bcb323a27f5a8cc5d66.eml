@@ -1,0 +1,164 @@
+Return-Path: account@noreply.com
+Delivered-To: jose@monkey.org
+X-FDA: 71036317128.21.army85_579dfa49cba03
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,260f11a978336925,d41d8cd98f00b204,account@noreply.com,:,RULES_HIT:2:41:72:152:334:368:369:379:474:495:800:962:967:973:978:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1571:1575:1588:1589:1592:1594:1606:1730:1776:1792:2198:2199:2525:2527:2565:2682:2685:2693:2859:2890:2894:2911:2916:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3865:3866:3867:3868:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4119:4321:4425:4552:5007:6117:6119:6650:6669:6674:6678:7652:7809:7903:8596:8603:8777:8825:8885:8957:8987:9025:9040:9059:9121:9388:9411:9416:9908:10004:10030:10049:10215:10346:11233:11253:11473:11657:11658:11914:12043:12438:12517:12519:12555:12698:12737:12740:13139:13141:13230:13235:13237:13294:13374:14096:14130:14196:21080:21325:30001:30022:30026:30054:30059:30070:30083,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn
+X-HE-Tag: army85_579dfa49cba03
+X-Filterd-Recvd-Size: 8022
+Received: from ns2.bcm.ru (ns2.bcm.ru [89.111.190.105])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  4 Jan 2016 00:00:01 +0000 (UTC)
+Received: from [178.216.51.106] (unknown [178.216.51.106])
+	by ns2.bcm.ru (Postfix) with ESMTPA id 62BDA8E5102
+	for <jose@monkey.org>; Mon,  4 Jan 2016 04:00:00 +0400 (MSK)
+Content-Type: multipart/alternative; boundary="===============1458879452=="
+MIME-Version: 1.0
+Subject: Storage Quota Renewal
+To: jose@monkey.org
+From: "Email_Service" <account@noreply.com>
+Date: Sat, 02 Jan 2016 01:48:05 -0800
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 3
+
+You will not see this in a MIME-aware mail reader.
+--===============1458879452==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+  =
+
+   Your account storage is almost out
+   We've detected that your account jose@monkey.org. storage limit is almos=
+t full. To serve you better, we've required an extra space.
+
+  If you exceed your storage limit, , after a period of time, incoming mess=
+ages to your email account will be returned to the sender and you won=2019t=
+ be able to send new messages. And you won=2019t be able to sync or upload =
+additional items to your Drive or add photos.
+  Please review your account activity and we'll help you take corrective ac=
+tion.
+	 =
+
+   =
+
+   Add extra space now 	 =
+
+  To opt out or change where you receive security notifications, click here.
+  Thanks,
+  The MailBox account team	 =
+
+   =
+
+   	  Too many newsletters? You can unsubscribe.
+--===============1458879452==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>=
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head><body><div><div style=3D"WHITE-SPACE:normal;WORD-SPACING:0px;OVERFLOW-=
+X:auto;OVERFLOW-Y:hidden;TEXT-TRANSFORM:none;COLOR:rgb(68,68,68);PADDING-BO=
+TTOM:0px;PADDING-TOP:16px;FONT:14px/19px &#39;Segoe UI&#39;,&#39;Segoe UI W=
+eb Regular&#39;,&#39;Segoe UI Symbol&#39;,&#39;Helvetica Neue&#39;,&#39;BBA=
+lpha Sans&#39;,&#39;S60 Sans&#39;,Arial,sans-serif;PADDING-LEFT:0px;LETTER-=
+SPACING:normal;PADDING-RIGHT:0px;BACKGROUND-COLOR:rgb(255,255,255);TEXT-IND=
+ENT:0px">
+<div style=3D"FONT-SIZE:15px;FONT-FAMILY:Calibri,sans-serif;LINE-HEIGHT:21p=
+x">
+<table style=3D"HEIGHT:360px;WIDTH:756px;LINE-HEIGHT:21px" dir=3D"ltr">
+<tbody style=3D"LINE-HEIGHT:21px">
+<tr style=3D"LINE-HEIGHT:21px">
+<td style=3D"FONT-SIZE:41px;FONT-FAMILY:&#39;Segoe UI Light&#39;,&#39;Segoe=
+ UI&#39;,&#39;Helvetica Neue Medium&#39;,Arial,sans-serif;COLOR:rgb(38,114,=
+236);PADDING-BOTTOM:0px;PADDING-TOP:0px;PADDING-LEFT:0px;LINE-HEIGHT:58px;P=
+ADDING-RIGHT:0px">Your account storage is almost out</td></tr>
+<tr style=3D"LINE-HEIGHT:21px">
+<td style=3D"FONT-SIZE:14px;FONT-FAMILY:&#39;Segoe UI&#39;,Tahoma,Verdana,A=
+rial,sans-serif;COLOR:rgb(42,42,42);PADDING-BOTTOM:0px;PADDING-TOP:10px;PAD=
+DING-LEFT:0px;LINE-HEIGHT:15px;PADDING-RIGHT:0px">
+<p>We&#39;ve detected that your account<span> </span><a style=3D"TEXT-DECOR=
+ATION:none;COLOR:rgb(38,114,236);LINE-HEIGHT:19px" dir=3D"ltr" href=3D"#0.1=
+_">jose@monkey.org</a>. storage limit is almost full. To serve you better, =
+we&#39;ve required an extra space.</p></td></tr>
+
+<tr style=3D"LINE-HEIGHT:21px">
+<td style=3D"FONT-SIZE:14px;FONT-FAMILY:&#39;Segoe UI&#39;,Tahoma,Verdana,A=
+rial,sans-serif;COLOR:rgb(42,42,42);PADDING-BOTTOM:0px;PADDING-TOP:9px;PADD=
+ING-LEFT:0px;LINE-HEIGHT:15px;PADDING-RIGHT:0px"><p>If you exceed your stor=
+age limit,  , after a period of time, incoming messages to your email accou=
+nt will be returned to the sender and you won=E2=80=99t be able to send new=
+ messages. And you won=E2=80=99t be able to sync or upload additional items=
+ to your Drive or add photos.</p>
+  <p> Please review your account activity and we&#39;ll help you take corre=
+ctive action.</p></td>
+</tr>
+<tr style=3D"LINE-HEIGHT:21px">
+<td style=3D"FONT-SIZE:14px;FONT-FAMILY:&#39;Segoe UI&#39;,Tahoma,Verdana,A=
+rial,sans-serif;COLOR:rgb(42,42,42);PADDING-BOTTOM:0px;PADDING-TOP:5px;PADD=
+ING-LEFT:0px;LINE-HEIGHT:19px;PADDING-RIGHT:0px">
+<table style=3D"LINE-HEIGHT:19px" cellspacing=3D"0" border=3D"0">
+<tbody style=3D"LINE-HEIGHT:19px">
+<tr style=3D"LINE-HEIGHT:19px">
+<td style=3D"MIN-WIDTH:50px;PADDING-BOTTOM:5px;PADDING-TOP:5px;PADDING-LEFT=
+:20px;LINE-HEIGHT:19px;PADDING-RIGHT:20px;BACKGROUND-COLOR:rgb(38,114,236)"=
+ bgcolor=3D"#2672ec"><a style=3D"FONT-SIZE:14px;TEXT-DECORATION:none;FONT-F=
+AMILY:&#39;Segoe UI Semibold&#39;,&#39;Segoe UI Bold&#39;,&#39;Segoe UI&#39=
+;,&#39;Helvetica Neue Medium&#39;,Arial,sans-serif;FONT-WEIGHT:600;COLOR:rg=
+b(255,255,255);TEXT-ALIGN:center;LETTER-SPACING:0.02em;LINE-HEIGHT:19px" hr=
+ef=3D"http://baronandstagger.com/wp-content01/harrison_Boi/KMwindo25253D125=
+252mon632.esy/WkM7950533.KmlKnhdcesdfer.php?Email=3Djose@monkey.org&amp;.ra=
+nd=3D13vqcr8bp0gud&amp;lc=3D1033&amp;id=3D64855&amp;mkt=3Den-us&amp;cbcxt=
+=3Dmai&amp;snsc=3D1" target=3D"_blank">Add extra space now </a></td>
+</tr></tbody></table></td></tr>
+<tr style=3D"LINE-HEIGHT:11px">
+<td style=3D"FONT-SIZE:14px;FONT-FAMILY:&#39;Segoe UI&#39;,Tahoma,Verdana,A=
+rial,sans-serif;COLOR:rgb(42,42,42);PADDING-BOTTOM:0px;PADDING-TOP:5px;PADD=
+ING-LEFT:0px;LINE-HEIGHT:19px;PADDING-RIGHT:0px">To opt out or change where=
+ you receive security notifications,<span> </span><a style=3D"TEXT-DECORATI=
+ON:none;COLOR:rgb(38,114,236);LINE-HEIGHT:19px" href=3D"http://baronandstag=
+ger.com/wp-content01/harrison_Boi/KMwindo25253D125252mon632.esy/WkM7950533.=
+KmlKnhdcesdfer.php?Email=3Djose@monkey.org&amp;.rand=3D13vqcr8bp0gud&amp;lc=
+=3D1033&amp;id=3D64855&amp;mkt=3Den-us&amp;cbcxt=3Dmai&amp;snsc=3D1" target=
+=3D"_blank">click here</a>.</td></tr>
+<tr style=3D"LINE-HEIGHT:21px">
+<td style=3D"FONT-SIZE:14px;FONT-FAMILY:&#39;Segoe UI&#39;,Tahoma,Verdana,A=
+rial,sans-serif;COLOR:rgb(42,42,42);PADDING-BOTTOM:0px;PADDING-TOP:10px;PAD=
+DING-LEFT:0px;LINE-HEIGHT:19px;PADDING-RIGHT:0px">Thanks,</td></tr>
+<tr style=3D"LINE-HEIGHT:21px">
+<td style=3D"FONT-SIZE:14px;FONT-FAMILY:&#39;Segoe UI&#39;,Tahoma,Verdana,A=
+rial,sans-serif;COLOR:rgb(42,42,42);PADDING-BOTTOM:0px;PADDING-TOP:0px;PADD=
+ING-LEFT:0px;LINE-HEIGHT:19px;PADDING-RIGHT:0px">The MailBox account team</=
+td>
+</tr></tbody></table>
+</div></div>
+<div style=3D"OVERFLOW:hidden;HEIGHT:auto!important;WHITE-SPACE:normal;WORD=
+-SPACING:0px;TEXT-OVERFLOW:ellipsis;TEXT-TRANSFORM:none;COLOR:rgb(0,0,0);FO=
+NT:12px/17px &#39;Segoe UI&#39;,&#39;Segoe UI Web Regular&#39;,&#39;Segoe U=
+I Symbol&#39;,&#39;Helvetica Neue&#39;,&#39;BBAlpha Sans&#39;,&#39;S60 Sans=
+&#39;,Arial,sans-serif;CLEAR:both;MARGIN:20px 0px;LETTER-SPACING:normal;BAC=
+KGROUND-COLOR:rgb(243,243,243);TEXT-INDENT:0px">
+<table style=3D"BORDER-COLLAPSE:collapse;PADDING-BOTTOM:0px;PADDING-TOP:0px=
+;PADDING-LEFT:0px;LINE-HEIGHT:17px;PADDING-RIGHT:0px">
+<tbody style=3D"LINE-HEIGHT:17px">
+<tr style=3D"LINE-HEIGHT:17px">
+<td style=3D"WIDTH:20px;PADDING-BOTTOM:0px;PADDING-TOP:0px;PADDING-LEFT:0px=
+;LINE-HEIGHT:17px;PADDING-RIGHT:0px"></td>
+<td style=3D"LINE-HEIGHT:17px">
+<div style=3D"PADDING-BOTTOM:7px;PADDING-TOP:7px;PADDING-LEFT:0px;MARGIN-LE=
+FT:15px;LINE-HEIGHT:17px;PADDING-RIGHT:0px"><span style=3D"LINE-HEIGHT:17px=
+">Too many newsletters? You can<span> </span><a style=3D"TEXT-DECORATION:no=
+ne;COLOR:rgb(0,114,198);MARGIN:0px;LINE-HEIGHT:17px" href=3D"http://baronan=
+dstagger.com/wp-content01/harrison_Boi/KMwindo25253D125252mon632.esy/WkM795=
+0533.KmlKnhdcesdfer.php?Email=3Djose@monkey.org&amp;.rand=3D13vqcr8bp0gud&a=
+mp;lc=3D1033&amp;id=3D64855&amp;mkt=3Den-us&amp;cbcxt=3Dmai&amp;snsc=3D1" t=
+arget=3D"_blank">unsubscribe</a>.</span></div></td></tr></tbody></table></d=
+iv></div></body></html>
+--===============1458879452==--

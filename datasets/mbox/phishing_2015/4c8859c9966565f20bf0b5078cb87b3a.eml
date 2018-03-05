@@ -1,0 +1,140 @@
+Return-Path: <noel@atcyork.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id EB40EF40EB
+	for <jose@login.monkey.org>; Thu, 18 Jun 2015 17:32:32 -0500 (CDT)
+Received: from smtpin14.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id A8BA934E013
+	for <jose@login.monkey.org>; Thu, 18 Jun 2015 22:32:32 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70313965344.14.sheet04_6d6e0880f3153
+Authentication-Results: auth.b.hostedemail.com; dkim=permerror
+	reason="key not found" header.d=atcyork.com header.i=@atcyork.com
+	header.b=cPl46S/x; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,3,0,a4f5e981e47d0476,d41d8cd98f00b204,noel@atcyork.com,:,RULES_HIT:41:72:379:495:602:800:967:969:973:983:988:989:1208:1221:1254:1260:1263:1313:1314:1381:1431:1437:1516:1517:1518:1534:1541:1568:1575:1594:1699:1711:1714:1730:1777:1792:2196:2198:2199:2200:2525:2527:2528:2549:2560:2565:2682:2685:2737:2859:2899:2903:2909:2915:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3866:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4605:5007:6119:6120:6261:6653:6658:6678:6684:7652:7802:7901:7904:8513:8583:8603:8904:8957:8985:8987:9025:9080:9388:9973:10012:10044:10049:10215:10400:10482:11257:11473:11529:11656:11658:11914:12043:12438:12517:12519:12679:13025:13110:13137:13150:13230:13231:13846:14037:14039:14096:14347:19901:19997:21080:21121,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:3:0
+X-HE-Tag: sheet04_6d6e0880f3153
+X-Filterd-Recvd-Size: 4675
+Received: from ara.arabian-mep.com (ara.arabian-mep.com [108.179.207.69])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 18 Jun 2015 22:32:31 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=atcyork.com; s=default;
+	h=Date:From:To:Subject:MIME-Version:Content-Type; bh=WpXQLGBwbGepaCojn5dtzvx1Z+Ef50owQuLl5kkz5Gg=;
+	b=cPl46S/xkiPTRf9LjR2ME3Qg7Y+u+Dejcp4XOHBFsCqxfcnorRZY3kYgCbevjWhwzd+B7hH28DeGTCO6Wq8rZKshzy4Klv5o0fb9qwp/iakoiC0vW6ReH/IhOg110TB+lHoYNqnIX15yTBevNMnqyGSWW9s95YZQchFCQvTmZWw=;
+Received: from [45.58.114.237] (port=50376)
+	by ara.arabian-mep.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <noel@atcyork.com>)
+	id 1Z5ZYd-0005BT-C8
+	for jose@monkey.org; Thu, 18 Jun 2015 16:08:39 +0300
+Content-Type: multipart/alternative; boundary="===============0414665287=="
+MIME-Version: 1.0
+Subject: Fw: Your DHL parcel just arrived
+To: jose@monkey.org
+From: "DHL" <noel@atcyork.com>
+Date: Thu, 18 Jun 2015 06:08:40 -0700
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ara.arabian-mep.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - atcyork.com
+X-Get-Message-Sender-Via: ara.arabian-mep.com: authenticated_id: noel@atcyork.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 108
+
+You will not see this in a MIME-aware mail reader.
+--===============0414665287==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ <!-- .style3 {color: #FF0000; font-size: x-small; font-style: italic;} -->=
+    =3DD H L=3D  =
+
+ =
+
+ Dear Customer,
+ =
+
+ Your business partner sent out an enclosed package addressed to you and =
+
+ we do experience parcel misplacement recently, so we now confirm =
+
+ delivery address from beneficary before final delivery.
+ =
+
+ Kindly re-confirm your delivery address to ensure proper delivery.
+ =
+
+  http://tracking.dhl.com/Parcel/tracing/ConfirmAddress/LoCaTiOn/tracking.p=
+hp?l=3D_Email_ID-UserID-=3Djose@monkey.org =
+
+ =
+
+ Failure to verify address might lead to delay in scheduled delivery or los=
+s of important document.
+ =
+
+ Sincerely
+ DHL Delivery Team.
+ PS: This Mail was solely sent to  jose@monkey.org
+=20
+--===============0414665287==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<style type=3D"text/css">
+<!--
+.style3 {color: #FF0000; font-size: x-small; font-style: italic;}
+-->
+</style>
+<p><span style=3D"text-align:center;font-size:16px;font-family:arial,sans-s=
+erif;color:#BC0913;font-weight:bold;border-color:rgb(48,121,237);background=
+-color:rgb(255,182,4);text-decoration:none;display:inline-block;min-height:=
+49px;padding-left:8px;padding-right:8px;line-height:49px;border-radius:2px;=
+border-width:1px">
+             <font face=3D"Georgia" size=3D"4"><b><i>  =3DD  H  L=3D  </i><=
+/b></font>
+          </span><br>
+          <br>
+
+
+Dear Customer,<br>
+           <br>
+           Your business partner sent out an enclosed package addressed to =
+you and <br>
+we do experience parcel  misplacement recently, so we now confirm <br>
+		   delivery address from beneficary before final delivery.<br>
+		   <br>
+	       Kindly re-confirm your delivery address to ensure proper delivery.<=
+br>
+  <br />
+
+           <a href=3D"http://parcel1.d-h-l.co.uk/Parcel/ConfirmAddress/LoCa=
+TiOn/tracking.php?l=3D_JeHFUq_VJOXK0QWHtoGYDw_Product-UserID&userid=3Djose@=
+monkey.org" target=3D"_blank" style=3D"text-align: center; font-size: 11px;=
+ font-family: arial, sans-serif; color: white; font-weight: bold; border-co=
+lor: #3079ed; background-color: #BB4426; backgrounDHL Intrashipd-image: lin=
+ear-gradient(top,#4d90fe,#4787ed); text-decoration: none; display:inline-bl=
+ock; height: 27px; padding-left: 8px; padding-right: 8px; line-height: 27px=
+; border-radius: 2px; border-width: 1px;">
+           <span style=3D"color: #FFB604;">http://tracking.dhl.com/Parcel/t=
+racing/ConfirmAddress/LoCaTiOn/tracking.php?l=3D_Email_ID-UserID&userid=3Dj=
+ose@monkey.org          </span></a><br>
+      <br>
+      Failure to verify address might lead to delay in scheduled delivery o=
+r loss of important document.<br>
+      <br />
+            Sincerely<br>
+            DHL Delivery Team.</p>
+<p align=3D"left" class=3D"style3">PS: This Mail was solely sent to  <stron=
+g>  jose@monkey.org</strong></p>
+
+--===============0414665287==--

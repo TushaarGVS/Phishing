@@ -1,0 +1,129 @@
+Return-Path: <ggarcia@sernanp.gob.pe>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 94CDCF4160
+	for <jose@login.monkey.org>; Wed,  5 Aug 2015 09:15:13 -0500 (CDT)
+Received: from smtpin13.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 4DB5927AB6A
+	for <jose@login.monkey.org>; Wed,  5 Aug 2015 14:15:13 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70486894506.13.lamp82_1050c76650c07
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 60,1,0,1f5fc5e2353f7889,d41d8cd98f00b204,ggarcia@sernanp.gob.pe,,RULES_HIT:10:41:72:152:196:355:379:387:541:555:582:962:967:973:983:988:989:1152:1189:1208:1221:1260:1261:1263:1313:1314:1345:1373:1381:1394:1395:1431:1437:1516:1517:1518:1534:1541:1575:1588:1589:1594:1622:1711:1730:1775:1792:2525:2527:2565:2610:2612:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3352:3770:3872:3876:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4886:5007:6261:6630:6659:6674:6688:7904:8603:8957:9015:9025:9082:9388:9868:9908:10004:10049:10216:10346:10400:11232:11257:11656:11658:11914:12043:12225:12555:12679:13139:13199:13219:13229:13237:14051,0,RBL:190.102.142.101-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: lamp82_1050c76650c07
+X-Filterd-Recvd-Size: 4819
+Received: from relay.sernanp.gob.pe (mail.sernanp.gob.pe [190.102.142.101])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  5 Aug 2015 14:15:12 +0000 (UTC)
+Received: from mail.sernanp.gob.pe (mail.sernanp.gob.pe [10.10.14.5])
+	by relay.sernanp.gob.pe (Postfix) with ESMTP id BBF2714632149;
+	Wed,  5 Aug 2015 08:58:31 -0500 (PET)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.sernanp.gob.pe (Postfix) with ESMTP id 959801372EAA8F;
+	Wed,  5 Aug 2015 08:56:53 -0500 (PET)
+Received: from mail.sernanp.gob.pe ([127.0.0.1])
+	by localhost (mail.sernanp.gob.pe [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id vGy5zwox2ynU; Wed,  5 Aug 2015 08:56:53 -0500 (PET)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.sernanp.gob.pe (Postfix) with ESMTP id C1D941372EAA91;
+	Wed,  5 Aug 2015 08:56:52 -0500 (PET)
+X-Virus-Scanned: amavisd-new at sernanp.gob.pe
+Received: from mail.sernanp.gob.pe ([127.0.0.1])
+	by localhost (mail.sernanp.gob.pe [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id oxsQPwHrQUEG; Wed,  5 Aug 2015 08:56:52 -0500 (PET)
+Received: from mail.sernanp.gob.pe (mail.sernanp.gob.pe [10.10.14.5])
+	by mail.sernanp.gob.pe (Postfix) with ESMTP id D12981372EAA8C;
+	Wed,  5 Aug 2015 08:56:51 -0500 (PET)
+Date: Wed, 5 Aug 2015 08:56:51 -0500 (PET)
+From: Systems Administrator <ggarcia@sernanp.gob.pe>
+Reply-To: sistmas.admins@barid.com
+Message-ID: <1100521522.2905139.1438783011584.JavaMail.zimbra@sernanp.gob.pe>
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2905138_307989144.1438783011583"
+X-Originating-IP: [10.10.14.5]
+X-Mailer: Zimbra 8.6.0_GA_1153 (zclient/8.6.0_GA_1153)
+Thread-Topic: 
+Thread-Index: w4OeCO/36BR8pJOwS0jj2x2ZsspXSA==
+X-Sernanp-MailScanner-Information: Please contact the ISP for more information
+X-Sernanp-MailScanner-ID: BBF2714632149.AA02C
+X-Sernanp-MailScanner: Found to be clean
+X-Sernanp-MailScanner-From: ggarcia@sernanp.gob.pe
+X-Spam-Status: No
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 146
+
+------=_Part_2905138_307989144.1438783011583
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+AVERTISSEMENT;
+
+Votre bo=C3=AEte aux lettres a d=C3=A9pass=C3=A9 la limite de stockage est =
+de 10 Go comme indiqu=C3=A9 par votre administrateur, qui est en cours d'ex=
+=C3=A9cution sur 10.9GB, vous ne pouvez pas =C3=AAtre en mesure d'envoyer o=
+u de recevoir de nouveaux messages jusqu'=C3=A0 ce que vous re-valider votr=
+e bo=C3=AEte aux lettres. Pour valider votre bo=C3=AEte aux lettres, envoye=
+z les informations suivantes ci-dessous:
+
+nom:
+Nom d'utilisateur:
+mot de passe:
+Confirmer mot de passe:
+E-mail:
+t=C3=A9l=C3=A9phone:
+
+Si vous ne pouvez pas valider votre bo=C3=AEte aux lettres, le courrier ser=
+a d=C3=A9sactiv=C3=A9!
+
+merci
+Systems Administrator
+
+D=C3=A9sol=C3=A9 pour le d=C3=A9sagr=C3=A9ment.
+Code de v=C3=A9rification: fr: 6524
+Mail Support technique =C2=A9 2015
+--=20
+Este mensaje ha sido analizado por MailScanner
+en busca de virus y otros contenidos peligrosos,
+y se considera que est=E1 limpio.
+For all your IT requirements visit: http://www.transtec.co.uk
+
+
+------=_Part_2905138_307989144.1438783011583
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style> body {height: 100%; color:#000000; font-size:12pt; font=
+-family:arial, helvetica, sans-serif;}</style></head><body><div><br></div><=
+div><br></div><div><br></div><div>AVERTISSEMENT;<br><div><br></div>Votre bo=
+=C3=AEte aux lettres a d=C3=A9pass=C3=A9 la limite de stockage est de 10 Go=
+ comme indiqu=C3=A9 par votre administrateur, qui est en cours d'ex=C3=A9cu=
+tion sur 10.9GB, vous ne pouvez pas =C3=AAtre en mesure d'envoyer ou de rec=
+evoir de nouveaux messages jusqu'=C3=A0 ce que vous re-valider votre bo=C3=
+=AEte aux lettres. Pour valider votre bo=C3=AEte aux lettres, envoyez les i=
+nformations suivantes ci-dessous:<br><div><br></div>nom:<br>Nom d'utilisate=
+ur:<br>mot de passe:<br>Confirmer mot de passe:<br>E-mail:<br>t=C3=A9l=C3=
+=A9phone:<br><div><br></div>Si vous ne pouvez pas valider votre bo=C3=AEte =
+aux lettres, le courrier sera d=C3=A9sactiv=C3=A9!<br><div><br></div>merci<=
+br>Systems Administrator<br><div><br></div>D=C3=A9sol=C3=A9 pour le d=C3=A9=
+sagr=C3=A9ment.<br>Code de v=C3=A9rification: fr: 6524<br>Mail Support tech=
+nique =C2=A9 2015</div><br />--=20
+<br />Este mensaje ha sido analizado por=20
+<a href=3D"http://www.mailscanner.info/"><b>MailScanner</b></a>
+<br />en busca de virus y otros contenidos peligrosos,
+<br />y se considera que est&aacute; limpio.
+<br />MailScanner agradece a <a href=3D"http://www.transtec.co.uk/">transte=
+c Computers</a> por su apoyo.
+</body></html>
+
+------=_Part_2905138_307989144.1438783011583--

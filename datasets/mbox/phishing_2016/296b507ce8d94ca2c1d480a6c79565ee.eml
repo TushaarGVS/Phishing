@@ -1,0 +1,157 @@
+Return-Path: paul.bailey@vcuhealth.org
+Delivered-To: jose@monkey.org
+X-FDA: 71840377140.12.seat28_81841cb9e1b29
+X-Spam-Summary: 50,0,0,1055f5670b8ffd6f,d41d8cd98f00b204,paul.bailey@vcuhealth.org,,RULES_HIT:10:41:72:355:379:387:582:960:962:967:973:978:983:988:989:1021:1029:1152:1189:1208:1221:1256:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1533:1535:1542:1575:1588:1589:1592:1594:1691:1711:1714:1730:1748:1777:1792:2525:2526:2527:2528:2561:2564:2610:2682:2685:2693:2859:2895:2900:2902:2917:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3870:3872:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4118:4321:4379:4552:5007:6117:6261:6658:6659:6678:7078:7688:8583:8603:8778:8957:9025:9082:9163:9388:9411:9868:10004:10026:10049:10197:10346:10400:10919:11257:11656:11658:11855:11914:12043:12050:12438:12517:12519:12555:12661:12855:13139:13163:13229:13237:13439:14093:14181:14659:14721:21326:21433:21444:21451:30037:30054:30070:30091,0,RBL:199.87.130.60:@vcuhealth.org:.lbl8.mailshell.net-62.2.255.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Net
+X-HE-Tag: seat28_81841cb9e1b29
+X-Filterd-Recvd-Size: 7820
+Received: from zixvpm01.mcvh-vcu.edu (zixvpm02.mcvh-vcu.edu [199.87.130.60])
+	by imf10.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 12 Aug 2016 13:51:29 +0000 (UTC)
+Received: from 127.0.0.1 (ZixVPM [127.0.0.1])
+	by Outbound.mcvh-vcu.edu (Proprietary) with SMTP id ACC4CB89D7
+	for <jose@monkey.org>; Fri, 12 Aug 2016 09:52:22 -0400 (EDT)
+Received: from NAM03-CO1-obe.outbound.protection.outlook.com (mail-co1nam03lp0019.outbound.protection.outlook.com [216.32.181.19])
+	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by zixvpm01.mcvh-vcu.edu (Proprietary) with ESMTPS id A5A58B8830;
+	Fri, 12 Aug 2016 09:52:18 -0400 (EDT)
+Received: from BL2PR08MB274.namprd08.prod.outlook.com (10.141.68.145) by
+ BL2PR08MB274.namprd08.prod.outlook.com (10.141.68.145) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.549.15; Fri, 12 Aug 2016 13:51:21 +0000
+Received: from BL2PR08MB274.namprd08.prod.outlook.com ([169.254.9.42]) by
+ BL2PR08MB274.namprd08.prod.outlook.com ([169.254.9.42]) with mapi id
+ 15.01.0549.026; Fri, 12 Aug 2016 13:51:21 +0000
+From: Paul Bailey <Paul.Bailey@vcuhealth.org>
+Subject: IT-Service Password Update
+Thread-Topic: IT-Service Password Update
+Thread-Index: AQHR9KCbj67oPVpHV02Xe71jcUvaGw==
+Date: Fri, 12 Aug 2016 13:51:21 +0000
+Message-ID: <BL2PR08MB274B162C556AF98EC5C9788EE1F0@BL2PR08MB274.namprd08.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=Paul.Bailey@vcuhealth.org; 
+x-originating-ip: [106.215.143.51]
+x-ms-office365-filtering-correlation-id: e626483a-b776-45d2-9a27-08d3c2b7be33
+x-microsoft-exchange-diagnostics: 1;BL2PR08MB274;6:8Hn26uO/zHPUBDdoC2lulP63y1MBwilUsa/V6jkkEfInHWz4zi+OxTEeK9fvoEuvXe1PVInUK431oY+JmNpbT85H22mVdh20p3Oe86PlRdQNKyltrUCA9A90geqCUdxLsos/LNb8m3L6GBgI6ELzG5vhV0Fj4Rq+vyJK1ERhUvtFOiYIUkbzq0P4YATzZtSfX6jMPbmM/rPv1N9sw3IvzaIJY6vtiv/mL1T7wDpUkrbJ4Ui77qu/umug6AHifxycmuVmdk8r4L50pskI56VQaOKy+Xr2PXbDDCyP9nFGRso=;5:PJOE8Lsv8r2DvoAWqjJNHl5gjgJvetqqpqd+I3XGWnjSXZfoW4Ha/E0Y0t9k3gyFKBkjTbTvogHLSEfcjziUUjul2/vEF9bmIZxti2KkrFow1MRmvQBD5fY5lTCm7WPtp4T1PwT44S2c+s7SlABiVQ==;24:Jjf4zg1WAorDe3KZCc1vtdl+qxTfMCrg9GuwQ5EPwqFrPRIJK+C3oBuFjZ/8K+CedrhX54WyepiXgzPqqHE1wtOGQ3dO5lRJIoI465ludBw=;7:2mHJAAMW+30A7ezPOyWOD2plpy0mQGisQX6cYnz1yq0Vu/TLGkZqnmq5Nqci/rDKzBXmDKQUM9D0nz13CmdbAJ+JJm7mp4ipGOn48f4MVOs84SQ2J58izX7wDD7WsXNqC+hkdbKF5vmJVMyudtgJ4N0hIkvbzoFoVGYtu4XBNkRZ19VALHoaVdwOPEaNt+0/Ox1e+V58NKGbsRbWfagP/rHgpIW47g4ghFR2GlRlaOFjqKJounlo6qwubHfmyzq9
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BL2PR08MB274;
+x-microsoft-antispam-prvs: <BL2PR08MB2740953918AE28891607650EE1F0@BL2PR08MB274.namprd08.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040176)(601004)(2401047)(5005006)(8121501046)(3002001)(10201501046);SRVR:BL2PR08MB274;BCL:0;PCL:0;RULEID:;SRVR:BL2PR08MB274;
+x-forefront-prvs: 003245E729
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(7916002)(189002)(199003)(81166006)(5002640100001)(81156014)(3280700002)(19300405004)(558084003)(2420400007)(9686002)(15650500001)(122556002)(92566002)(3480700004)(68736007)(4001450100002)(5180700001)(66066001)(110136002)(107886002)(1671002)(97736004)(7110500001)(10400500002)(7906003)(189998001)(3660700001)(99286002)(551544002)(11100500001)(881003)(7696003)(7736002)(8936002)(87936001)(6116002)(2906002)(586003)(3846002)(790700001)(102836003)(16236675004)(7416002)(7366002)(7406005)(7336002)(7276002)(10710500007)(19617315012)(50986999)(2900100001)(54356999)(8676002)(19625215002)(566174002)(106116001)(19580395003)(106356001)(86362001)(109986004)(101416001)(8666005)(15975445007)(7846002)(33656002)(105586002)(229853001)(74316002)(76576001)(7059030);DIR:OUT;SFP:1102;SCL:1;SRVR:BL2PR08MB274;H:BL2PR08MB274.namprd08.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: vcuhealth.org does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BL2PR08MB274B162C556AF98EC5C9788EE1F0BL2PR08MB274namprd_"
+MIME-Version: 1.0
+X-OriginatorOrg: vcuhealth.org
+X-MS-Exchange-CrossTenant-originalarrivaltime: 12 Aug 2016 13:51:21.0238
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: d21f3866-8fc6-4527-8622-cefa47fe9632
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2PR08MB274
+X-VPM-HOST: zixvpm02.vcuhs.mcvh-vcu.edu
+X-VPM-GROUP-ID: 8ccbb088-bd2f-4650-9119-88dbe3692400
+X-VPM-MSG-ID: b45eeddc-24b3-4f14-a44d-7e38604c316c
+X-VPM-ENC-REGIME: Plaintext
+X-VPM-CERT-FLAG: 0
+X-VPM-IS-HYBRID: 0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 331
+
+--_000_BL2PR08MB274B162C556AF98EC5C9788EE1F0BL2PR08MB274namprd_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your e-mailbox password will expire in 2 days. to keep your password. CLICK=
+=3DHERE<http://owaogr.tripod.com/> to update immediately
+
+IT-Service Help Desk.
+
+--_000_BL2PR08MB274B162C556AF98EC5C9788EE1F0BL2PR08MB274namprd_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.xxxxxxmsonormal, li.xxxxxxmsonormal, div.xxxxxxmsonormal
+	{mso-style-name:x_xxxxxmsonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle18
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-IN" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"xxxxxxmsonormal">Your e-mailbox password will&nbsp;expire in 2 =
+days. to keep your password.
+<a href=3D"http://owaogr.tripod.com/" id=3D"LPlnk752763"><b>CLICK=3DHERE</b=
+></a> to update immediately<o:p></o:p></p>
+<p class=3D"xxxxxxmsonormal">IT-Service&nbsp;<span style=3D"font-size:10.0p=
+t;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;color:black">Help D=
+esk</span>.<o:p></o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BL2PR08MB274B162C556AF98EC5C9788EE1F0BL2PR08MB274namprd_--
+

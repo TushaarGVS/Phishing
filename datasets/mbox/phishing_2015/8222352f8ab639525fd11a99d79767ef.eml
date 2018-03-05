@@ -1,0 +1,111 @@
+Return-Path: <>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E3AD5F4106
+	for <jose@login.monkey.org>; Wed, 16 Sep 2015 05:22:57 -0500 (CDT)
+Received: from smtpin18.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id A1EE734E370
+	for <jose@login.monkey.org>; Wed, 16 Sep 2015 10:22:57 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70638718794.18.note99_8e303f6beab62
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,45b58213fbd4b8b8,d41d8cd98f00b204,,:,RULES_HIT:41:72:355:379:495:800:962:966:967:973:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1541:1575:1588:1589:1592:1594:1711:1714:1730:1777:1792:2107:2196:2198:2199:2200:2525:2560:2563:2682:2685:2693:2859:2890:2899:2903:2914:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3350:3865:3866:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4365:4385:4552:4641:5007:6261:6650:7652:7809:8603:8784:9025:9149:9388:9416:9873:9908:10004:10214:10346:10400:10411:10416:11658:11914:12043:12517:12519:12658:12661:13025:13132:13139:13163:13199:13229:13231:13235:13237:13846:14094:14096:21060:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:hu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: note99_8e303f6beab62
+X-Filterd-Recvd-Size: 4098
+Received: from smtp.maishawireless.co.tz (unknown [41.79.69.26])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 16 Sep 2015 10:22:56 +0000 (UTC)
+Received: by smtp.maishawireless.co.tz (Postfix, from userid 1001)
+	id D533C16EB8; Tue, 15 Sep 2015 00:24:39 +0300 (EAT)
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on
+	smtp.maishawireless.co.tz
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.8 required=10.0 tests=FROM_NO_USER,HTML_MESSAGE,
+	MISSING_MID,TO_IN_SUBJ,URIBL_BLOCKED,URI_WP_HACKED_2 autolearn=no
+	autolearn_force=no version=3.4.0
+Received: from alpha.kilihost.com (alpha.kilihost.com [67.225.129.56])
+	by smtp.maishawireless.co.tz (Postfix) with ESMTPS id F2B3A16EC6
+	for <jose@monkey.org>; Tue, 15 Sep 2015 00:24:38 +0300 (EAT)
+Received: from [197.242.102.39] (port=58758 helo=[192.168.8.100])
+	by alpha.kilihost.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85)
+	id 1ZbbKx-0001b2-6j
+	for jose@monkey.org; Mon, 14 Sep 2015 17:30:56 -0400
+Content-Type: multipart/alternative; boundary="===============0390178096=="
+MIME-Version: 1.0
+Subject: Termination of E-mail jose@monkey.org Been Processed Verify Now
+To: jose@monkey.org
+From: Email Team <""@usangu.co.tz>
+Date: Mon, 14 Sep 2015 22:30:55 +0100
+X-OutGoing-Spam-Status: No, score=8.8
+Message-Id: <20150914212439.D533C16EB8@smtp.maishawireless.co.tz>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 174
+
+You will not see this in a MIME-aware mail reader.
+--===============0390178096==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+  Hi jose@monkey.org =
+
+
+Your mailbox quota has reached 85%. Kindly verify email with the server to =
+ensure smooth functioning of your email account.
+
+ AQUIRE MORE FREE ADDITIONAL STORAGE NOW
+
+
+Ignorance will lead to account temporary de-activation, =
+
+as you have used 85% of your allocated data.
+
+Please note: =
+
+* Failure to carry out the above as soon as possible could result in new in=
+coming email being blocked.
+
+will not be responsible for any data or email lost after this verification =
+and no response from you. =
+
+
+Sincerely, =
+
+Mail Help Desk.=20
+--===============0390178096==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><DIV style=3D"FONT-SIZE: 10px; FONT-FAMILY: ca=
+libri; BACKGROUND: white; COLOR: #000; PADDING-BOTTOM: 10px; PADDING-TOP: 1=
+0px; PADDING-LEFT: 10px; MARGIN: 0px; PADDING-RIGHT: 10px; WIDTH: 100%">
+<DIV style=3D"MAX-WIDTH: 500px; BORDER-TOP: #c0c0c0 1px solid; BORDER-RIGHT=
+: #c0c0c0 1px solid; BACKGROUND: #f1f1f1; BORDER-BOTTOM: #c0c0c0 1px solid;=
+ MARGIN: 5px auto; MIN-HEIGHT: 200px; BORDER-LEFT: #c0c0c0 1px solid">
+<DIV style=3D"FONT-SIZE: 16px; COLOR: black; PADDING-BOTTOM: 5px; PADDING-T=
+OP: 5px; PADDING-LEFT: 5px; MARGIN: 5px; PADDING-RIGHT: 5px">Hi jose@monkey=
+.org <BR><BR>Your mailbox quota has reached 85%. Kindly verify email with t=
+he server to ensure smooth functioning of your email account.<BR><BR>
+<CENTER><A style=3D"FONT-SIZE: 12px; BACKGROUND: blue; FLOAT: left; COLOR: =
+#ffffff; PADDING-BOTTOM: 8px; PADDING-TOP: 8px; PADDING-LEFT: 8px; TEXT-DEC=
+ORATION: none; MARGIN: 2px; DISPLAY: block; PADDING-RIGHT: 8px" href=3D"htt=
+p://buh-bye.net/wp-content/themes/?email=3Djose@monkey.org" rel=3Dnofollow =
+target=3D_blank>AQUIRE MORE FREE ADDITIONAL STORAGE NOW</A></CENTER><BR><BR=
+><BR>Ignorance will lead to account temporary de-activation, <BR>as you hav=
+e used 85% of your allocated data.<BR><BR>Please note: <BR>* Failure to car=
+ry out the above as soon as possible could result in new incoming email bei=
+ng blocked.<BR><BR>will not be responsible for any data or email lost after=
+ this verification and no response from you. <BR><BR>Sincerely, <BR>Mail He=
+lp Desk. </DIV></DIV></DIV></BODY></HTML>
+--===============0390178096==--

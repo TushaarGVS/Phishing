@@ -1,0 +1,447 @@
+Return-Path: admin@bermello.com
+Delivered-To: jose@monkey.org
+X-FDA: 71936622786.04.cars70_41dfb0300165c
+X-Spam-Summary: 30,2,0,a46f2388d596170f,d41d8cd98f00b204,admin@bermello.com,:,RULES_HIT:1:41:46:72:150:153:355:375:379:541:543:882:960:967:973:983:988:989:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1515:1516:1517:1559:1589:1592:1593:1594:1676:1699:1714:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2528:2539:2559:2563:2610:2638:2682:2685:2693:2828:2859:2894:2902:2903:2909:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3586:3865:3866:3867:3870:3871:3872:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6119:6238:6248:6261:6300:6669:6678:6686:7208:7591:7903:8583:8603:8957:9025:9080:9163:9388:9868:10004:10049:10231:10919:11257:11656:11658:11914:11984:12043:12114:12438:12555:12679:12691:12737:12943:12955:12961:13019:13139:13439:13870:13894:14829:21080:21325:21433:21451:30054:30055:30070,0,RBL:80.32.130.236:@bermello.com:.lbl8.mailshell.net-62.8.11.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:no
+X-HE-Tag: cars70_41dfb0300165c
+X-Filterd-Recvd-Size: 13268
+Received: from bermello.com (236.red-80-32-130.staticip.rima-tde.net [80.32.130.236])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  8 Sep 2016 02:24:12 +0000 (UTC)
+Received: from admin by bermello.com with local (Exim 4.82)
+	(envelope-from <admin@bermello.com>)
+	id 1bhp0Z-0008SG-Aw
+	for jose@monkey.org; Thu, 08 Sep 2016 04:24:07 +0200
+Date: Thu, 8 Sep 2016 04:24:07 +0200
+To: jose@monkey.org
+From: =?UTF-8?Q?Paypal?= <Support2016info@service.org>
+Reply-To: 
+Subject: =?UTF-8?Q?Update_your_account_information?=
+Message-ID: <3c2b70b3c364aefa10549c12262f226c@www.bermello.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version ]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 356
+
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tableau Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<meta content="text/html; charset=ISO-8859-1"sss"><style charset="utf-8" type="text/css">/* See license.txt for terms of usage */
+
+/** reset styling **/
+
+.firebugResetStyles {
+
+    z-index: 2147483646 !important;
+
+    top: 0 !important;
+
+    left: 0 !important;
+
+    display: block !important;
+
+    border: 0 none !important;
+
+    margin: 0 !important;
+
+    padding: 0 !important;
+
+    outline: 0 !important;
+
+    min-width: 0 !important;
+
+    max-width: none !important;
+
+    min-height: 0 !important;
+
+    max-height: none !important;
+
+    position: fixed !important;
+
+    -moz-transform: rotate(0deg) !important;
+
+    -moz-transform-origin: 50% 50% !important;
+
+    -moz-border-radius: 0 !important;
+
+    -moz-box-shadow: none !important;
+
+    background: transparent none !important;
+
+    pointer-events: none !important;
+
+}
+
+
+
+.firebugBlockBackgroundColor {
+
+    background-color: transparent !important;
+
+}
+
+
+
+.firebugResetStyles:before, .firebugResetStyles:after {
+
+    content: "" !important;
+
+}
+
+/**actual styling to be modified by firebug theme**/
+
+.firebugCanvas {
+
+    display: none !important;
+
+}
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.firebugLayoutBox {
+
+    width: auto !important;
+
+    position: static !important;
+
+}
+
+
+
+.firebugLayoutBoxOffset {
+
+    opacity: 0.8 !important;
+
+    position: fixed !important;
+
+}
+
+
+
+.firebugLayoutLine {
+
+    opacity: 0.4 !important;
+
+    background-color: #000000 !important;
+
+}
+
+
+
+.firebugLayoutLineLeft, .firebugLayoutLineRight {
+
+    width: 1px !important;
+
+    height: 100% !important;
+
+}
+
+
+
+.firebugLayoutLineTop, .firebugLayoutLineBottom {
+
+    width: 100% !important;
+
+    height: 1px !important;
+
+}
+
+
+
+.firebugLayoutLineTop {
+
+    margin-top: -1px !important;
+
+    border-top: 1px solid #999999 !important;
+
+}
+
+
+
+.firebugLayoutLineRight {
+
+    border-right: 1px solid #999999 !important;
+
+}
+
+
+
+.firebugLayoutLineBottom {
+
+    border-bottom: 1px solid #999999 !important;
+
+}
+
+
+
+.firebugLayoutLineLeft {
+
+    margin-left: -1px !important;
+
+    border-left: 1px solid #999999 !important;
+
+}
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.firebugLayoutBoxParent {
+
+    border-top: 0 none !important;
+
+    border-right: 1px dashed #E00 !important;
+
+    border-bottom: 1px dashed #E00 !important;
+
+    border-left: 0 none !important;
+
+    position: fixed !important;
+
+    width: auto !important;
+
+}
+
+
+
+.firebugRuler{
+
+    position: absolute !important;
+
+}
+
+
+
+.firebugRulerH {
+
+    top: -15px !important;
+
+    left: 0 !important;
+
+    width: 100% !important;
+
+    height: 14px !important;
+
+    background: url(data:image/png) repeat-x !important;
+
+    border-top: 1px solid #BBBBBB !important;
+
+    border-right: 1px dashed #BBBBBB !important;
+
+    border-bottom: 1px solid #000000 !important
+
+}
+
+
+
+.firebugRulerV {
+
+    top: 0 !important;
+
+    left: -15px !important;
+
+    width: 14px !important;
+
+    height: 100% !important;
+
+    background: url('data:image/png') repeat-y !important;
+
+    border-left: 1px solid #BBBBBB !important;
+
+    border-right: 1px solid #000000 !important;
+
+    border-bottom: 1px dashed #BBBBBB !important
+
+}
+
+
+
+.overflowRulerX > .firebugRulerV {
+
+    left: 0 !important;
+
+}
+
+
+
+.overflowRulerY > .firebugRulerH {
+
+    top: 0 !important;
+
+}
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.fbProxyElement {
+
+    position: fixed !important;
+
+    pointer-events: auto !important;
+
+}
+.style1 {
+	font-family: "Trebuchet MS";
+	color: #545454;
+}
+.style2 {
+	color: #545454;
+}
+</style></head>
+
+<body lang=FR link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=611
+ style='width:458.35pt;mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=104 style='width:77.65pt;padding:0cm 0cm 0cm 0cm'>
+  <p style='mso-line-height-alt:25.75pt'><b><i><span lang=EN-US
+  style='font-size:29.0pt;font-family:"Tahoma","sans-serif";color:#003366;
+  background:white;mso-ansi-language:EN-US'>P&#945;y</span></i></b><b><i><span
+  lang=EN-US style='font-size:29.0pt;font-family:"Tahoma","sans-serif";
+  color:#0079C1;background:white;mso-ansi-language:EN-US'>P&#945;l </span></i></b><span
+  lang=EN-US style='font-size:28.0pt;font-family:"Tahoma","sans-serif";
+  color:#545454;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p style='line-height:25.75pt'><span style='orphans: 2;text-align:start;
+  widows: 2;-webkit-text-size-adjust: auto;-webkit-text-stroke-width: 0px;
+  word-spacing:0px'><span lang=EN-US style='font-size:8.0pt;font-family:"Arial","sans-serif";
+  color:#9F9F9F;background:white;mso-ansi-language:EN-US'>This is &#945;n &#945;utom&#945;ted
+  em&#945;il, ple&#945;se d&#959; n&#959;t reply, n&#959;b&#959;dy will see it.</span></span><span style='orphans: 2;text-align:
+  start;widows: 2;-webkit-text-size-adjust: auto;-webkit-text-stroke-width: 0px;
+  float:none;word-spacing:0px'><span lang=EN-US style='font-size:8.0pt;
+  font-family:"Arial","sans-serif";color:#545454;background:white;mso-ansi-language:
+  EN-US'>  </span></span><span lang=EN-US style='font-size:10.0pt;
+  font-family:"Tahoma","sans-serif";color:#545454;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:10.5pt'>
+  <td valign=bottom style='padding:0cm 0cm 0cm 0cm;height:10.5pt'></td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:
+   0cm 0cm 0cm 0cm'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+    <td style='padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:
+    "Arial","sans-serif";mso-fareast-font-family:"Times New Roman";color:#545454;
+    mso-ansi-language:EN-US'></span><span
+    lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+    EN-US'><o:p></o:p></span></p>
+    <p><b><span lang=EN-US style='font-size:20.0pt;font-family:"Arial","sans-serif";
+    color:#0079C1;mso-ansi-language:EN-US'>&#929;le&#945;se check y&#959;ur acc&#959;unt inf&#959;rmati&#959;n th&#945;t bel&#959;gns t&#959; y&#959;u.</span></b><span
+    lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p style='line-height:12.75pt'><span lang=EN-US style='font-size:10.0pt;
+  font-family:"Arial","sans-serif";color:#545454;mso-ansi-language:EN-US'>Your &#945;ccount h&#945;s been limited tempor&#945;rily in &#959;rder t&#959; pr&#959;tect it. The &#945;cc&#959;unt will c&#959;ntinue t&#959; be limited until it is &#945;pproved.
+<br>&#927;nce y&#959;u h&#945;ve upd&#945;ted y&#959;ur &#945;cc&#959;unt inform&#945;tion will be c&#959;nfirmed &#945;nd y&#959;ur &#945;cc&#959;unt will st&#945;rt t&#959; w&#959;rk &#945;s norm&#945;l once &#945;g&#945;in.<span
+  class=GramE></span><br>
+  <span class=SpellE>  </span></br>
+  </span><span class=apple-style-span><span style='orphans: 2;text-align:-webkit-auto;
+  widows: 2;-webkit-border-horizontal-spacing: 0px;-webkit-border-vertical-spacing: 0px;
+  -webkit-text-decorations-in-effect: none;-webkit-text-size-adjust: auto;
+  -webkit-text-stroke-width: 0px;word-spacing:0px'><span lang=EN-US
+  style='font-size:10.0pt;font-family:"Tahoma","sans-serif";color:#545454;
+  mso-ansi-language:EN-US'><span style='text-align:-webkit-center'><span
+  style='orphans: 2;text-align:-webkit-auto;widows: 2;-webkit-border-horizontal-spacing: 0px;
+  -webkit-border-vertical-spacing: 0px;-webkit-text-decorations-in-effect: none;
+  -webkit-text-size-adjust: auto;-webkit-text-stroke-width: 0px;word-spacing:
+  0px'><span style='text-align:-webkit-center'>&#927;nce c&#959;nnected, f&#959;ll&#959;w the steps
+  t&#959; &#945;ctivate y&#959;ur &#945;cc&#959;unt. We &#945;ppreciate y&#959;ur underst&#945;nding &#945;s we w&#959;rk t&#959;
+  ensure security.</span></span></span></span></span><span
+  class=apple-style-span><span lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></span></span></p>
+  <span style='orphans: 2;text-align:-webkit-auto;widows: 2;-webkit-border-horizontal-spacing: 0px;
+  -webkit-border-vertical-spacing: 0px;-webkit-text-decorations-in-effect: none;
+  -webkit-text-size-adjust: auto;-webkit-text-stroke-width: 0px;word-spacing:
+  0px'><span style='text-align:-webkit-center'>
+  <p class=MsoNormal style='line-height:12.75pt'><strong><span
+  style='font-size:17.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:#545454'><span style='text-align:-webkit-center'><a
+  href="http://gator4268.hostgator.com/~claire/Activate/Confirm/13546157948704826175/" target="_blank"
+  style='font-weight:inherit;cursor:pointer'><span lang=EN-US style='color:
+  #336699;mso-ansi-language:EN-US'><span style='text-align:-webkit-center'><span
+  style='orphans: 2;text-align:-webkit-auto;widows: 2;border-spacing: 0px;
+  -webkit-text-decorations-in-effect: none;-webkit-text-size-adjust: auto;
+  -webkit-text-stroke-width: 0px;word-spacing:0px'>V&#945;lid&#945;te y&#959;ur inf&#959;rmati&#959;n.</span></a></span></span></span></strong></span><span
+  lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+  EN-US'><o:p></o:p></span></p>
+  </span></td>
+  </span>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal style='line-height:12.75pt'><span class=apple-style-span><span
+lang=EN-US style='font-size:10.0pt;font-family:"Tahoma","sans-serif";
+color:#545454;display:none;mso-hide:all;mso-ansi-language:EN-US'><o:p> </o:p></span></span></p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=600
+ style='width:450.0pt;mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%;mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:
+   0cm 0cm 0cm 0cm'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td style='padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:
+    "Arial","sans-serif";mso-fareast-font-family:"Times New Roman";color:#666666;
+    mso-ansi-language:EN-US'><br>
+    </span><span class=SpellE><span style='font-size:8.0pt;font-family:"Arial","sans-serif";
+    mso-fareast-font-family:"Times New Roman";color:#666666'><br>C&#959;pyright © 2016 &#929;ay&#929;al, Inc. All rights reserved. P&#945;yP&#945;l is l&#959;cated &#945;t 2211 N. First St., S&#945;n J&#959;se, CA 95131.</span></span><span
+    style='font-size:10.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:
+    "Times New Roman";color:#666666'> <span class=SpellE></span> <span
+    class=SpellE></span> <span class=SpellE></span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'></span></p>
+    </td>
+   </tr>
+   
+
+</div>
+
+</body>
+
+</html>

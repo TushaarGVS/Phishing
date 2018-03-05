@@ -1,0 +1,132 @@
+Return-Path: apache@www.photogalerie.com
+Delivered-To: jose@monkey.org
+X-FDA: 70818255984.12.rub21_61c12ce940242
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=nxdomain; dkim-atps=neutral
+X-Spam-Summary: 50,0,0,b27220fb4e6fca1a,d41d8cd98f00b204,apache@www.photogalerie.com,:,RULES_HIT:41:72:355:379:541:543:800:882:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1394:1431:1433:1434:1436:1437:1516:1517:1518:1535:1543:1571:1575:1588:1589:1592:1594:1711:1730:1768:1779:1792:2107:2194:2198:2199:2200:2525:2527:2560:2563:2682:2685:2693:2859:2890:2892:2894:2895:2902:2906:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3245:3352:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:5007:6119:6238:6261:6646:6650:6669:6674:6678:6688:7903:8518:8568:8583:8603:8957:9025:9080:9388:9868:9908:10004:10049:10214:10346:10398:10484:11212:11256:11257:11529:11651:11656:11657:11658:11914:12043:12555:12679:12740:12973:13038:13095:13139:13163:13177:13227:13229:13237:13302:13548:14036:14037:14093:14096:14129:21067:21080:21094:30001:30022:30051:30054:30055:30070:30075,0,RBL:error,Ca
+X-HE-Tag: rub21_61c12ce940242
+X-Filterd-Recvd-Size: 5026
+Received: from www.photogalerie.com (magento.maehdros.be [188.65.220.6])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  4 Nov 2015 21:47:51 +0000 (UTC)
+Received: by www.photogalerie.com (Postfix, from userid 48)
+	id 96FC590D67B8; Wed,  4 Nov 2015 22:47:50 +0100 (CET)
+To: jose@monkey.org
+Subject: Check your account
+X-PHP-Originating-Script: 48:wb.php
+Date: Wed, 4 Nov 2015 22:47:50 +0100
+From: "Pay.service" <root@localhost.photogalerie.com>
+Message-ID: <2ff4a6b05a5657f3e3d2e0cdc501c38f@photogalerie.com>
+X-Priority: 1
+X-Mailer: PHPMailer 5.2.8Wahib Priv8 Mailer
+Reply-To: Pay.service <>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2ff4a6b05a5657f3e3d2e0cdc501c38f"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 234
+
+--b1_2ff4a6b05a5657f3e3d2e0cdc501c38f
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+
+Your TEXT message goes here.
+Instructions :
+1) JabY0H7BevHgfvP will be replaced with a random string
+2) 884033 will be replaced with a random int.
+3) jose@monkey.org=0D will be replaced by this email
+4) support will be replaced by the sender email
+5) 2015/11/04 22:47:50 will be raplaced by the email sending date.
+What are you waiting for lady ? Go ahead and try it ! I already inserted te=
+xt for you !
+
+--b1_2ff4a6b05a5657f3e3d2e0cdc501c38f
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252"><style>
+
+a{
+    -webkit-transition:all .8s;
+    -moz-transition:all .8s;
+    -ms-transition:all .8s;
+    padding:10px;
+    border:2px solid #51B5FF;
+    border-radius:2px;
+    text-decoration:none;
+    color:#51B5FF;
+}
+a:hover{
+    background:#51B5FF;
+    color:white;
+}
+</style></head><body>
+  <div style=3D"FONT-SIZE: 10px; FONT-FAMILY: Arial black; COLOR: #919191">
+<p style=3D"FONT-SIZE: 22px;    "><strong><em><font color=3D"#253b80">Pay</=
+font><font color=3D"#179bd7">Pal</font></em></strong><font size=3D"1"><sub>=
+ Secure
+ </sub></font></p></div>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"emailWrappe=
+rTable" style=3D"border-radius: 8px;border: 2px solid #51B5FF;font:11px Ver=
+dana, Arial, Helvetica, sans-serif;color:#333;" width=3D"580">
+<tbody><tr valign=3D"top"><td colspan=3D"3"><br><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" id=3D"emailLogo" width=3D"100%"><tbody><tr><td=
+></td>
+</tr><tr><td></td></tr></tbody></table></td></tr><tr><td colspan=3D"3"></td=
+></tr><tr><td class=3D"contentArea" style=3D"width:530px; word-wrap:break-w=
+ord; padding:12px; margin
+:0" width=3D"530"><span style=3D"color:rgb(0,156,222);font-size: 25px;font-=
+family:HelveticaNeueLight,Helvetica Neue Light,Helvetica,Arial,sans-serif">=
+Notice of changes to the <i><b><font style=3D"color:#024D98;">Pay</font>Pal=
+</b></i> user agreement.</span><table style=3D"font:Verdana, Arial, Helveti=
+ca, sans-serif;" width=3D"100%"></table>
+<p>Dear Customer,</p>
+<p>Log in to your <i><b><font style=3D"color:#024D98;">Pay</font>Pal</b></i=
+>l account as soon as possible</p><ul><strong>
+<li>We have recently encountered a problem in your account.</li>
+<li>when you created your <i><b><font style=3D"color:#024D98;">Pay</font>Pa=
+l</b></i> account to make sure you're the=20
+account holder</li>
+<li>Click the Activation link and Follow the instructions. !</li></strong><=
+/ul><br>
+<p align=3D"center">
+=09=09<b style=3D"color:red">[Notice]</b> : If this email was sent to you i=
+n Junk or Spam folder
+=09=09<br>
+=09=09Don't consider it as spam, This folder was mistakenly marked as spam =
+by
+=09=09<br>
+=09=09our new security update.
+=09=09<br><br>
+=09=09Thanks.
+=09=09<br><br>
+<p align=3D"center"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"10=
+" width=3D"182" style=3D"WIDTH:182px;FONT-FAMILY:Arial,sans-serif;LETTER-SP=
+ACING:normal;HEIGHT:36px;"><a href=3D"http://ow.ly/UfVgC">ACTIVATE ACCOUNT<=
+/a></table></p>
+
+<br><p><strong><strong>Get more out of your account</strong></strong></p><p=
+><strong>Now is the time to make your <i><b><font style=3D"color:#024D98;">=
+Pay</font>Pal</b></i> account even more useful:</strong></p><p><strong>Acco=
+unt Overview</strong></p><ul><li><strong>Get up-to-date information about y=
+our payments.</strong></li><li><strong>Add or withdraw money from your <i><=
+b><font style=3D"color:#024D98;">Pay</font>Pal</b></i> account.</strong></l=
+i><li><strong>See a detailed transaction history.</strong></li></ul><p><str=
+ong>Yours sincerely,<br><i><b><font style=3D"color:#024D98;">Pay</font>Pal<=
+/b>
+
+
+</i></strong></p></td></tr>
+<tr><td colspan=3D"3"></td></tr></tbody></table><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" id=3D"emailFooter" width=3D"580" style=3D"padd=
+ing-top:20px;font:10px Verdana, Arial, Helvetica, sans-serif;color:#333;"><=
+tbody><tr></tr></tbody></table></body>
+</div>
+</html>
+
+
+--b1_2ff4a6b05a5657f3e3d2e0cdc501c38f--
+

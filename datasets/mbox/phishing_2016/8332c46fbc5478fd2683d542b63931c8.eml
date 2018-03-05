@@ -1,0 +1,47 @@
+Return-Path: lpettine@dimanregional.org
+Delivered-To: jose@monkey.org
+X-FDA: 71376640104.01.1E87526
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin01.b.hostedemail.com (Postfix) with ESMTP id 1388A257412;
+	Wed,  6 Apr 2016 18:48:52 +0000 (UTC)
+X-Spam-Summary: 50,0,0,4ea0fb6a3cc9aff1,d41d8cd98f00b204,lpettine@dimanregional.org,:::lpettine@dimanregional.org,RULES_HIT:41:72:355:379:474:582:962:967:973:978:983:988:989:1152:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1530:1534:1537:1569:1575:1588:1589:1592:1594:1711:1714:1730:1748:1774:1792:2525:2561:2564:2610:2682:2685:2859:2895:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4552:5007:6261:6642:6678:6687:8634:9025:9059:9080:9082:9388:9411:9416:9469:9873:9908:10004:10049:11257:11658:11914:12043:12521:12561:13235:13237:13439:14051:14181:14721:21080:30022:30037:30054:30070,0,RBL:96.89.217.202:@dimanregional.org:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:43,LUA_SUMMARY:none
+X-HE-Tag: stamp81_4d558ac461c36
+X-Filterd-Recvd-Size: 1484
+Received: from postman.dimanregional.org (unknown [96.89.217.202])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP;
+	Wed,  6 Apr 2016 18:48:51 +0000 (UTC)
+Received: from Mps-rdp-01.MPS.K12.AL.US (68.190.16.78) by
+ postman.dimanregional.org (172.16.200.4) with Microsoft SMTP Server (TLS) id
+ 14.3.224.2; Wed, 6 Apr 2016 14:48:49 -0400
+Content-Type: multipart/alternative; boundary="===============1253350582=="
+MIME-Version: 1.0
+Subject: Your password will expire soon
+To: Recipients <lpettine@dimanregional.org>
+From: Administrator <lpettine@dimanregional.org>
+Date: Wed, 6 Apr 2016 13:46:41 -0500
+Message-ID: <7692c499-754e-46d5-8855-384247446cc8@POSTMAN.DIMAN.LOCAL>
+X-Originating-IP: [68.190.16.78]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 153
+
+--===============1253350582==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<A href=3D"http://itzval.com/temp/" Click here to proceed with your Email u=
+pdate.
+
+--===============1253350582==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P><A href=3D"http://itzval.com/temp/" <STRONG=
+><B>Click here to proceed with your Email update.</A></P></B></BODY></HTML>
+--===============1253350582==--

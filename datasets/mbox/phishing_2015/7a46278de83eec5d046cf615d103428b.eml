@@ -1,0 +1,64 @@
+Return-Path: <jaume.garau@barcelonamedia.org>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 20DA3F4005
+	for <jose@login.monkey.org>; Thu, 16 Apr 2015 10:11:19 -0500 (CDT)
+Received: from smtpin02.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 0526B18478A
+	for <jose@login.monkey.org>; Thu, 16 Apr 2015 15:11:17 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70084239036.02.cream35_b33f8cfe4350
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=barcelonamedia.org
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 69,4.5,0,c5306ed55ac690bd,d41d8cd98f00b204,jaume.garau@barcelonamedia.org,:jaume.garau@barcelonamedia.org,RULES_HIT:41:72:355:379:474:962:967:978:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1530:1534:1538:1569:1575:1588:1589:1592:1594:1711:1714:1730:1748:1777:1792:2525:2560:2563:2610:2682:2685:2859:2895:2902:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4552:5007:6261:6642:6687:8957:9025:9080:9388:9411:9416:9873:9908:10004:10400:11658:11914:12043:12438:12521:12561:12953:13139:13235:13237:14051:14158:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: cream35_b33f8cfe4350
+X-Filterd-Recvd-Size: 1990
+Received: from MX01.barcelonamedia.org (mx01.barcelonamedia.org [84.88.79.60])
+	by imf27.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 16 Apr 2015 15:11:16 +0000 (UTC)
+Received: from fbmht01.corp.barcelonamedia.org ([84.88.79.40])
+  by fbmip01.barcelonamedia.org with ESMTP; 16 Apr 2015 17:11:16 +0200
+Received: from lgp-pty-mx-00.latin-gaming.corp (200.46.123.41) by
+ FBMHT01.corp.barcelonamedia.org (84.88.79.42) with Microsoft SMTP Server
+ (TLS) id 8.1.436.0; Thu, 16 Apr 2015 17:11:14 +0200
+Content-Type: multipart/alternative; boundary="===============0989653599=="
+MIME-Version: 1.0
+Subject: Your password will expire soon
+To: Recipients <jaume.garau@barcelonamedia.org>
+From: Administrator <jaume.garau@barcelonamedia.org>
+Date: Thu, 16 Apr 2015 10:10:53 -0500
+Message-ID: <26a740a7-2f98-4e1f-b31a-db3e807265b3@FBMHT01.corp.barcelonamedia.org>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 61
+
+--===============0989653599==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+    Click here to proceed with your Email update.
+--===============0989653599==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><DIV class=3DreadMsgBody>
+<DIV id=3DbodyreadMessagePartBodyControl998f class=3D"ExternalClass MsgBody=
+Container" data-link=3D"class{:~tag.cssClasses(PlainText, IsContentFiltered=
+)}">
+<DIV class=3DecxreadMsgBody>
+<DIV id=3DecxbodyreadMessagePartBodyControl879f class=3D"ecxExternalClass e=
+cxMsgBodyContainer">
+<DIV><A href=3D"http://www.sytek.de/wps/" target=3D_blank><STRONG>Click her=
+e to proceed with your Email update.</STRONG></A></DIV></DIV></DIV></DIV></=
+DIV></BODY></HTML>
+--===============0989653599==--

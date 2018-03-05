@@ -1,0 +1,118 @@
+Return-Path: prvs=742657b81=saundra.english@fdny.nyc.gov
+Delivered-To: jose@monkey.org
+X-FDA: 70814576406.10.cake77_92722e6c6610
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,prvs=742657b81=saundra.english@fdny.nyc.gov,:info@eeee.org,RULES_HIT:30021:30037:30054:30069:30070:30075,0,RBL:167.153.132.22:@fdny.nyc.gov:.lbl8.mailshell.net-62.18.0.2 64.30.201.30,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:76,LUA_SUMMARY:none
+X-HE-Tag: cake77_92722e6c6610
+X-Filterd-Recvd-Size: 4795
+Received: from vwall4-out-all1.nyc.gov (vwall4-out-all1.nyc.gov [167.153.132.22])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  3 Nov 2015 21:27:42 +0000 (UTC)
+Received-SPF: Fail (vwall4.nyc.gov: domain of
+  Saundra.English@fdny.nyc.gov does not designate 10.136.8.112
+  as permitted sender) identity=mailfrom;
+  client-ip=10.136.8.112; receiver=vwall4.nyc.gov;
+  envelope-from="Saundra.English@fdny.nyc.gov";
+  x-sender="Saundra.English@fdny.nyc.gov";
+  x-conformance=spf_only; x-record-type="v=spf1"
+Received-SPF: None (vwall4.nyc.gov: no sender authenticity
+  information available from domain of
+  postmaster@citymail4a.nycnet) identity=helo;
+  client-ip=10.136.8.112; receiver=vwall4.nyc.gov;
+  envelope-from="Saundra.English@fdny.nyc.gov";
+  x-sender="postmaster@citymail4a.nycnet";
+  x-conformance=spf_only
+X-IronPort-AV: E=Sophos;i="5.20,240,1444708800"; 
+   d="scan'208,217";a="240013196"
+Received: from unknown (HELO citymail4a.nycnet) ([10.136.8.112])
+  by vwall4.nyc.gov with ESMTP/TLS/DHE-RSA-AES256-SHA; 03 Nov 2015 16:27:41 -0500
+X-AuditID: 0a88081d-f79726d0000059f3-34-563926cc2ec8
+Received: from MTCSCEXCHHUB01.csc.nycnet ( [10.152.65.218])
+	(using TLS with cipher AES128-SHA (128/128 bits))
+	(Client did not present a certificate)
+	by citymail4a.nycnet (Symantec Messaging Gateway) with SMTP id EA.7E.23027.CC629365; Tue,  3 Nov 2015 16:27:40 -0500 (EST)
+Received: from CSCMAIL24.csc.nycnet ([fe80::2113:74bb:c253:643e]) by
+ MTCSCEXCHHUB01.csc.nycnet ([fe80::f884:bad7:1b34:33dc%14]) with mapi; Tue, 3
+ Nov 2015 16:27:39 -0500
+From: "English, Saundra (FDNY)" <Saundra.English@fdny.nyc.gov>
+To: "info@eeee.org" <info@eeee.org>
+Date: Tue, 3 Nov 2015 16:27:37 -0500
+Subject: Help Desk Password Update
+Thread-Topic: Help Desk Password Update
+Thread-Index: AQHRFn511KNswmDoS0abzBslRdaTEQ==
+Message-ID: <6DA4062E4F86C8438563DAC29C7B2BB80239E20652@CSCMAIL24.csc.nycnet>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_6DA4062E4F86C8438563DAC29C7B2BB80239E20652CSCMAIL24cscn_"
+MIME-Version: 1.0
+X-Brightmail-Tracker: H4sIAAAAAAAAA02Sf0xbVRTHc9+7fe/R2PhWBlyZJktnXNQMnaIeMjMlRn1GFzGZGHXONe7p
+	iFhm6VAMah0IiFLZUliLbBQsdEOlBdlASocUEmR0UAZT7BpWGNA2IyH7gawgjS0vJvz3ued8
+	7vecm1yOVoaYVC5HoxO1GnWuipFjuSnTt8PzQEb2o9aVJyFyqp4F269XaVho1SMIrHoQePWd
+	DHhLhxkoq65ioTuqgBnDTQy2/mEK9CPfYfD5vmbhTFkzAwu//cRAYOF7BPqGAAOmAQMLvXMR
+	GszBGzL49lgdgrHFMgwljgNw55YZw3TXTpjo5MASCFNg/+s4C9dP/oihMlrKgLEqFtH6RwcN
+	l6q/AIOhmAVPcQEYb70AruaLMnBOlFLQUBJE8OeUj4UefyYET8cWbl70UuCzXJJB+7Idg97h
+	wGAtCyEYsC9gaDxeyUBwyM+C4/IICyPdQQyjS7GZrkAGhGYS4UJnFEOL1YSh3OJhoHm4h4Vo
+	vZOGfxoCMvCON1HQeyr2kPCVCAZTuZ55NkQLJ/raaCHiXMPCuNuEhaaVfiSMT7wshM8P0YLL
+	6KKEOv87wu36FkaYvNGPhZXuGlpY7bBSwnTvE8LZqT5WGHe00sLNcw9mTdBvyZ8+KObmFIja
+	R3YfkB9aMlymDq8mfNp4bJDRozBXgRI4wqeTLns5I3Ey8U7ZYyznlHw1RY4u2ljp8Asipr9L
+	ZHGL4XeT4soOOs6b+W3kTtPMOmP+fuKaW2PjnMirSOCbQVyBuJiznVgtb0t6GqkJ+9cVBb+H
+	VAwY16+i2ODlCz9Tcab5FOKbraekhXhi7RmlJU4i4WtRmeQnEX+ZHUl+Hmmf70dS5iYyZJ7F
+	VUhZuyGqdoNWu0GT6mlkstrISPwwaW64Tku8g5iibryxbkFsC9r0XI6ucI86Jzc9M01T+J5G
+	1LWj+P8v5+7rQrYOcCOeQ6q7FO4tGdlKmbogv/AjNyIcrdqsEK9BtlJxUF34majNe1d7JFfM
+	d6MtHFalKL50P/W6kv9ArRM/FMXDovb/LsUlpOrRM6mqtvo+zfmikX3M+JAhOen3Rmek6PQr
+	+7ftenEwsa0n3UPMVxihRtj6/lpy8uS/zuUfjgjOqx/zn0zvC732OFUZ2K5j6/ZPbX1+tfJz
+	f2Bub2lR1pu59pfO9Kvmzz5mHNyVRZYu3hMaG/2q4tXlc+ajfNPs1Eye7e7b7FiKe/6Ne1U4
+	/5B650O0Nl/9H+wUA6/7AwAA
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 232
+
+--_000_6DA4062E4F86C8438563DAC29C7B2BB80239E20652CSCMAIL24cscn_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Password will expire in 3 days. Click Here<http://om123.jimdo.com/> To Vali=
+date E-mail Password
+
+Thank you,
+IT-Service Help Desk
+
+--_000_6DA4062E4F86C8438563DAC29C7B2BB80239E20652CSCMAIL24cscn_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style id=3D"owaTempEditStyle"></style><style title=3D"owaParaStyle"><!--P =
+{
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px
+}
+--></style>
+</head>
+<body ocsi=3D"x">
+<div style=3D"FONT-SIZE: x-small; FONT-FAMILY: Tahoma; COLOR: #000000; DIRE=
+CTION: ltr">
+<div></div>
+<div dir=3D"ltr"><font color=3D"#000000" size=3D"2" face=3D"Tahoma">
+<div dir=3D"ltr"><font color=3D"#000000" size=3D"2" face=3D"Tahoma">Passwor=
+d will expire in 3 days.
+<b><a href=3D"http://om123.jimdo.com/">Click Here</a></b> To Validate E-mai=
+l Password<br>
+<br>
+Thank you,<br>
+IT-Service Help Desk<br>
+</font></div>
+</font></div>
+</div>
+</body>
+</html>
+
+--_000_6DA4062E4F86C8438563DAC29C7B2BB80239E20652CSCMAIL24cscn_--

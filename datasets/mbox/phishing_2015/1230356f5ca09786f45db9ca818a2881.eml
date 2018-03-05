@@ -1,0 +1,108 @@
+Return-Path: <lgaeta@conejousd.org>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E0A9CF40B8
+	for <jose@login.monkey.org>; Sat, 21 Mar 2015 07:57:23 -0500 (CDT)
+Received: from smtpin05.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id A33A134E013
+	for <jose@login.monkey.org>; Sat, 21 Mar 2015 12:57:23 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69989552766.05.kiss15_5d8b3189c0851
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=conejousd.org
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,d2105a512281466c,d41d8cd98f00b204,lgaeta@conejousd.org,:lgaeta@conejousd.org,RULES_HIT:10:41:72:355:375:379:582:599:901:962:967:973:978:983:988:989:1152:1158:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1359:1381:1431:1436:1437:1513:1515:1516:1517:1521:1534:1541:1560:1588:1589:1592:1593:1594:1711:1714:1730:1747:1777:1792:2393:2525:2527:2559:2564:2682:2685:2828:2859:2892:2894:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3865:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4552:4860:4886:5007:6117:6261:6650:6688:7652:7903:8518:8583:8603:8957:9025:9040:9908:10004:10049:10346:11656:11657:11658:11788:11854:11914:12043:12291:12438:12519:12521:12555:12658:12683:12955:12958:12967:13139:13311:13357:14093:14094:14096:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: kiss15_5d8b3189c0851
+X-Filterd-Recvd-Size: 3768
+Received: from mail1.bemta12.messagelabs.com (mail1.bemta12.messagelabs.com [216.82.251.13])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 21 Mar 2015 12:57:22 +0000 (UTC)
+Received: from [216.82.249.131] by server-13.bemta-12.messagelabs.com id B0/F0-12053-DAA6D055; Sat, 21 Mar 2015 12:57:17 +0000
+X-Env-Sender: lgaeta@conejousd.org
+X-Msg-Ref: server-5.tower-28.messagelabs.com!1426942636!33212828!1
+X-Originating-IP: [207.157.136.14]
+X-StarScan-Received:
+X-StarScan-Version: 6.13.4; banners=conejousd.org,-,-
+X-VirusChecked: Checked
+Received: (qmail 12338 invoked from network); 21 Mar 2015 12:57:16 -0000
+Received: from smtp1.conejousd.org.conejousd.org (HELO owa.conejo.k12.ca.us) (207.157.136.14)
+  by server-5.tower-28.messagelabs.com with AES128-SHA encrypted SMTP; 21 Mar 2015 12:57:16 -0000
+Received: from VM-EX2010-3.conejo.lcl (10.2.0.52) by VM-EX2010-5.conejo.lcl
+ (10.2.0.54) with Microsoft SMTP Server (TLS) id 14.3.195.1; Sat, 21 Mar 2015
+ 05:57:15 -0700
+Received: from VM-EX2010-2.conejo.lcl ([169.254.1.251]) by
+ VM-EX2010-3.conejo.lcl ([10.2.0.52]) with mapi id 14.03.0195.001; Sat, 21 Mar
+ 2015 05:57:15 -0700
+From: "Gaeta, Lynnae" <lgaeta@conejousd.org>
+To: "Gaeta, Lynnae" <lgaeta@conejousd.org>
+Subject: RE: ICT
+Thread-Topic: ICT
+Thread-Index: AdBj0Gsot0rcZtyKQVOEw2Ssj60dPQAAbGmJAAC96ak=
+Date: Sat, 21 Mar 2015 12:57:14 +0000
+Message-ID: <73E3DF838712534E9026793DCAF0B3E299D87F@Vm-Ex2010-2.conejo.lcl>
+References: <73E3DF838712534E9026793DCAF0B3E2998A8D@Vm-Ex2010-2.conejo.lcl>,<73E3DF838712534E9026793DCAF0B3E299999B@Vm-Ex2010-2.conejo.lcl>
+In-Reply-To: <73E3DF838712534E9026793DCAF0B3E299999B@Vm-Ex2010-2.conejo.lcl>
+Accept-Language: en-GB, en-US
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.2.0.5]
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 51
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+<style type=3D"text/css" id=3D"owaParaStyle"></style>
+</head>
+<body fpstyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size:=
+ 10pt;">
+<div style=3D"font-family: Times New Roman; color: #000000; font-size: 16p=
+x">
+<div>
+<div style=3D"direction:ltr; font-family:Tahoma; color:#000000; font-size:=
+10pt">
+<div style=3D"font-family:Times New Roman; color:#000000; font-size:16px">=
+
+<div id=3D"divRpF555196" style=3D"direction:ltr"><br>
+</div>
+<div></div>
+<div>
+<div style=3D"direction:ltr; font-family:Tahoma; color:#000000; font-size:=
+10pt"><font face=3D"Calibri,sans-serif" size=3D"2" style=3D"font-family:Ca=
+libri,sans-serif"><span style=3D"font-size:16px"><b><i>Mailbox&nbsp;</i></=
+b></span></font><span style=3D"font-size:13.3333330154419px"></span>
+<div style=3D"font-size:13.3333330154419px"><font face=3D"Calibri,sans-ser=
+if" size=3D"2"><span style=3D"font-size:16px"><b><i>Please reduce your mai=
+lbox (size) and expand your email quota (size) CLICK:</i></b><b><i>&nbsp;<=
+/i></b><b><i><font color=3D"#5133AB"><a href=3D"http://staffupdate.moonfru=
+it.com/" target=3D"_blank">staff
+ and faculty</a></font></i></b><b><i>&nbsp;</i></b><b><i>to expand your qu=
+ota!!</i></b></span></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<br clear=3D"both">
+______________________________________________________________________<BR>=
+
+This email has been scanned by the Symantec Email Security.cloud service.<=
+BR>
+For more information please visit http://www.symanteccloud.com<BR>
+______________________________________________________________________<BR>=
+
+</body>
+</html>

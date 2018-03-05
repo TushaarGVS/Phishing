@@ -1,0 +1,38 @@
+From tushaar@nitk.edu.in  Fri Aug 23 11:03:33 2002
+Return-Path: <tushaar@nitk.edu.in>
+Delivered-To: test@localhost.example.com
+Received: from localhost (localhost [127.0.0.1])
+	by localhost with POP3 (fetchmail-5.9.0)
+	for test@localhost (single-drop); Fri, 23 Aug 2002 11:02:58 +0100 (EDT)
+Received: from emztd2201.com ([64.86.155.179])
+	by webnote.net (8.9.3/8.9.3) with SMTP id KAA09351
+	for <test@example.com>; Fri, 23 Aug 2002 10:14:09 +0100
+Message-Id: <200208230914.KAA09351@webnote.net>
+From: "Tushaar Gangarapu" <tushaar@nitk.edu.in>
+Reply-To: 15it117.tushaar@nitk.edu.in
+To: test@example.com
+Date: Fri, 23 Aug 2002 10:15:51 -0700
+Subject: Test case 01
+X-Mailer: Microsoft Outlook Express 5.00.2919.6900 DM
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+X-MIME-Autoconverted: from quoted-printable to 8bit by webnote.net id KAA09351
+Content-Transfer-Encoding: 8bit
+
+Test case to test body based features
+
+<html>
+	<body>
+		<p> Testing </p>
+	</body>
+	<form>
+		<input type="text"> Enter </input>
+	</form>
+</html>
+
+Function words include bank, access, risk, social etc.
+Function is repeated here!
+
+There is suspension in the mail
+
+<a href="https://google.com"> Please verify your account </a>

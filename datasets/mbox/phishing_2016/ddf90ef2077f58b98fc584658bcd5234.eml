@@ -1,0 +1,71 @@
+Return-Path: steve@awoc.ca
+Delivered-To: jose@monkey.org
+X-FDA: 72247240170.03.knee74_f3e06b1d655c
+X-Spam-Summary: 75,0,0,8e4bc4501b0a5526,d41d8cd98f00b204,steve@awoc.ca,:steve@awoc.ca,RULES_HIT:41:72:379:962:967:969:973:978:983:988:989:1189:1208:1221:1254:1260:1261:1263:1313:1314:1381:1431:1436:1437:1516:1517:1518:1534:1540:1559:1575:1588:1589:1592:1594:1711:1714:1719:1730:1749:1777:1792:2068:2069:2194:2199:2525:2538:2549:2565:2682:2685:2859:2890:2894:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3770:3867:3871:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4321:4552:4659:5007:6261:6671:6678:6687:7078:8985:9025:9203:9388:9908:10004:10049:10346:10400:11257:11658:11914:12043:12295:12438:12517:12519:12555:12561:12986:13007:13139:13237:13439:14051:14094:14181:14655:14686:14721:14849:21080:21433:21436:21450:21451:30001:30022:30026:30051:30054:30067:30069:30070,0,RBL:201.76.147.11-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0
+X-HE-Tag: knee74_f3e06b1d655c
+X-Filterd-Recvd-Size: 2807
+Received: from srv-cpanel.hybriddc.com.br (unknown [201.76.147.11])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  2 Dec 2016 16:45:04 +0000 (UTC)
+Received: from s91205186130.blix.com ([91.205.186.130]:65379 helo=[10.10.0.3])
+	by srv-cpanel.hybriddc.com.br with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <steve@awoc.ca>)
+	id 1cCqxA-0002BE-TY; Fri, 02 Dec 2016 13:44:53 -0300
+Content-Type: multipart/alternative; boundary="===============1362658193=="
+MIME-Version: 1.0
+Subject: Your Mailbox
+To: Recipients <steve@awoc.ca>
+From: "System Administrator"<steve@awoc.ca>
+Date: Fri, 02 Dec 2016 17:44:33 +0100
+Reply-To: emailx@mail2webmaster.com
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - srv-cpanel.hybriddc.com.br
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - awoc.ca
+X-Get-Message-Sender-Via: srv-cpanel.hybriddc.com.br: authenticated_id: robson@oab-rn.org.br
+X-Authenticated-Sender: srv-cpanel.hybriddc.com.br: robson@oab-rn.org.br
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 447
+
+You will not see this in a MIME-aware mail reader.
+--===============1362658193==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+  Dear email User,
+ There is a security alert on your EMAIL account.
+ Kindly click "Verify My Account" below to resolve this problem.
+ Verify My Account
+
+ http://indokegstes.tripod.com/
+
+ =A9 Copyright 2016 INC.
+
+--===============1362658193==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><DIV>
+<DIV>
+<P>Dear email User,</P>
+<P>There is a security alert on your EMAIL account.</P>
+<P>Kindly click "Verify My Account" below to resolve this problem.</P>
+<P><A href=3D"http://indokegstes.tripod.com/" rel=3Dnoreferrer target=3D_bl=
+ank data-saferedirecturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttp=
+://indokegstes.tripod.com/&amp;source=3Dgmail&amp;ust=3D1480781783945000&am=
+p;usg=3DAFQjCNGw5dKhr70SDRXXbUGiNJMAx8iOcg">Verify My Account</A><BR></P>
+<P><A href=3D"http://indokegstes.tripod.com/" target=3D_blank data-saferedi=
+recturl=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttp://indokegstes.tr=
+ipod.com/&amp;source=3Dgmail&amp;ust=3D1480781783945000&amp;usg=3DAFQjCNGw5=
+dKhr70SDRXXbUGiNJMAx8iOcg">http://indokegstes.tripod.com/</A><BR></P>
+<P>=A9 Copyright 2016 INC.</P></DIV></DIV></BODY></HTML>
+--===============1362658193==--

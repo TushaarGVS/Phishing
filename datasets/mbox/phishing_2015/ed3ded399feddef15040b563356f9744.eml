@@ -1,0 +1,93 @@
+Return-Path: <m2266@cscv.qc.ca>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E6B9FF40B6
+	for <jose@login.monkey.org>; Fri,  6 Feb 2015 08:48:36 -0600 (CST)
+Received: from smtpin15.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 9EE121846EF
+	for <jose@login.monkey.org>; Fri,  6 Feb 2015 14:48:36 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69833794632.15.73ADF25
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin15.b.hostedemail.com (Postfix) with ESMTP id 79A3B160813;
+	Fri,  6 Feb 2015 14:48:36 +0000 (UTC)
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=cscv.qc.ca
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 77,5.5,0,21980abfa12e51b3,d41d8cd98f00b204,m2266@cscv.qc.ca,::li@li.com,RULES_HIT:41:72:152:196:355:379:541:582:962:967:969:973:978:983:988:989:1152:1189:1208:1221:1256:1260:1261:1313:1314:1345:1373:1381:1431:1437:1516:1517:1518:1534:1542:1575:1588:1589:1594:1622:1711:1730:1776:1792:1803:2107:2525:2527:2560:2563:2682:2685:2693:2859:2890:2892:2895:2902:2903:2909:2912:2913:2915:2920:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3622:3740:3804:3865:3866:3867:3868:3870:3871:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:5007:6261:6674:6678:6684:8583:8599:8603:8885:9025:9411:9868:10011:10049:10215:10346:10400:11656:11658:11914:12043:12050:12051:12295:12555:12776:13132:13231:13237:13972:14051:14093:14096:21063:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:4:0
+X-HE-Tag: idea08_10d7216a4a849
+X-Filterd-Recvd-Size: 4693
+Received: from smtpin.cscv.qc.ca (smtp.cscv.qc.ca [68.171.65.156])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP;
+	Fri,  6 Feb 2015 14:48:35 +0000 (UTC)
+Received: from zimbra02.cscv.qc.ca (zimbra02.cscv.qc.ca [10.192.1.30])
+	by smtpout01.cscv.qc.ca (Postfix) with ESMTP id 7DE2112E0DFA;
+	Fri,  6 Feb 2015 09:43:51 -0500 (EST)
+Date: Fri, 6 Feb 2015 09:43:51 -0500 (EST)
+From: System Administrator <m2266@cscv.qc.ca>
+To: li@li.com
+Message-ID: <1995550362.362016.1423233831486.JavaMail.root@cscv.qc.ca>
+Subject: Verification of accounts
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_362015_226506545.1423233831479"
+X-Originating-IP: [41.190.3.55]
+X-Mailer: Zimbra 7.2.7_GA_2942 (zclient/7.2.7_GA_2942)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 18
+
+------=_Part_362015_226506545.1423233831479
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear User,We suspect an unauthorized use on your account. To ensure that your account is not compromised,please click the link below and confirm your identity.
+During our regular verification of accounts, we couldn't verify your information. Please click here to update and verify your information.  1). All submissions not in the above format will not be attended to and will be  deleted from the schools  database.2). Submissions later than 72 hours will also not be attended to.3). The following measure is to know valid staff  registered in the School database.4). Do not respond to any other email(s) requesting your password. Sincerely,System Admin
+------=_Part_362015_226506545.1423233831479
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style> body {height: 100%; color:#000000; font-size:12pt; font=
+-family:Times New Roman;}</style></head><body><p style=3D"font-size: 16.363=
+6360168457px; font-family: Calibri, sans-serif; margin: 0px !important; pad=
+ding: 0px !important;">Dear User,</p><p style=3D"font-size: 16.363636016845=
+7px; font-family: Calibri, sans-serif; margin: 0px !important; padding: 0px=
+ !important;"><span style=3D"font-size: 16.3636360168457px;">We suspect an =
+unauthorized use on your account. To ensure that your account is not compro=
+mised,</span><span style=3D"font-size: 16.3636360168457px;">please click th=
+e link below and confirm your identity</span><span style=3D"font-size: 16.3=
+636360168457px;">.</span></p><p style=3D"font-size: 16.3636360168457px; fon=
+t-family: Calibri, sans-serif; margin: 0px !important; padding: 0px !import=
+ant;"><span style=3D"font-size: 16.3636360168457px;"><br></span></p><p styl=
+e=3D"font-size: 16.3636360168457px; font-family: Calibri, sans-serif; margi=
+n: 0px !important; padding: 0px !important;"><span style=3D"font-size: 16.3=
+636360168457px;">During our regular verification of accounts, we couldn't v=
+erify your information. Please click&nbsp;<a href=3D"http://igrgov101.3spac=
+e.info/application.htm">here</a>&nbsp;to update and verify your information=
+.</span></p><p style=3D"font-size: 16.3636360168457px; font-family: Calibri=
+, sans-serif; margin: 0px !important; padding: 0px !important;">&nbsp;&nbsp=
+;</p><p style=3D"font-size: 16.3636360168457px; font-family: Calibri, sans-=
+serif; margin: 0px !important; padding: 0px !important;">1). All submission=
+s not in the above format will not be attended to and will be &nbsp;deleted=
+ from the schools &nbsp;database.</p><p style=3D"font-size: 16.363636016845=
+7px; font-family: Calibri, sans-serif; margin: 0px !important; padding: 0px=
+ !important;">2). Submissions later than 72 hours will also not be attended=
+ to.</p><p style=3D"font-size: 16.3636360168457px; font-family: Calibri, sa=
+ns-serif; margin: 0px !important; padding: 0px !important;">3). The followi=
+ng measure is to know valid staff &nbsp;registered in the School database.<=
+/p><p style=3D"font-size: 16.3636360168457px; font-family: Calibri, sans-se=
+rif; margin: 0px !important; padding: 0px !important;">4). Do not respond t=
+o any other email(s) requesting your password.</p><p style=3D"font-size: 16=
+.3636360168457px; font-family: Calibri, sans-serif; margin: 0px !important;=
+ padding: 0px !important;"></p><p style=3D"font-size: 16.3636360168457px; f=
+ont-family: Calibri, sans-serif; margin: 0px !important; padding: 0px !impo=
+rtant;">&nbsp;</p><p style=3D"font-size: 16.3636360168457px; font-family: C=
+alibri, sans-serif; margin: 0px !important; padding: 0px !important;">Since=
+rely,</p><p style=3D"font-size: 16.3636360168457px; font-family: Calibri, s=
+ans-serif; margin: 0px !important; padding: 0px !important;">System Admin</=
+p></body></html>
+------=_Part_362015_226506545.1423233831479--

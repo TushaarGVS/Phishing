@@ -1,0 +1,94 @@
+Return-Path: <aidonis@cpanel1.novahost.gr>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 606B9F4005
+	for <jose@login.monkey.org>; Sat, 20 Jun 2015 07:41:36 -0500 (CDT)
+Received: from smtpin08.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 07D24184530
+	for <jose@login.monkey.org>; Sat, 20 Jun 2015 12:41:36 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70319733792.08.crush49_ddec9cc81259
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 86,7.5,0,18eb153a00ab8dbb,d41d8cd98f00b204,aidonis@cpanel1.novahost.gr,:,RULES_HIT:41:46:72:150:153:355:375:379:421:960:962:967:969:973:978:983:988:989:1208:1224:1256:1260:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1534:1543:1571:1588:1589:1592:1593:1594:1623:1685:1711:1730:1747:1777:1792:1803:2194:2198:2199:2200:2393:2525:2527:2528:2543:2549:2560:2564:2682:2685:2693:2828:2859:2890:2892:2895:2897:2902:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3804:3865:3866:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4605:5007:6119:6261:6669:6688:7628:7903:8568:8603:9025:9121:9388:10013:10049:10176:10346:10919:11233:11473:11656:11658:11824:11914:12043:12295:12740:12955:12958:13132:13139:13231:13437:14037:14093:14096:14129:14149:14194:14250:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rul
+X-HE-Tag: crush49_ddec9cc81259
+X-Filterd-Recvd-Size: 4842
+Received: from cpanel1.novahost.gr (cpanel1.novahost.gr [174.123.3.82])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 20 Jun 2015 12:41:35 +0000 (UTC)
+Received: from aidonis by cpanel1.novahost.gr with local (Exim 4.82)
+	(envelope-from <aidonis@cpanel1.novahost.gr>)
+	id 1Z6I5R-0006ZZ-Hh
+	for jose@monkey.org; Sat, 20 Jun 2015 15:41:29 +0300
+To: jose@monkey.org
+Subject: Your Account has been limited please confirm it =?UTF-8?Q?=E2=9C=94_?=
+X-PHP-Script: 174.123.3.82/~aidonis/plugins/xmlrpc/blogger.php for 197.0.176.24
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Apple Inc. © <secure@cpanel1.novahost.gr>
+Message-Id: <E1Z6I5R-0006ZZ-Hh@cpanel1.novahost.gr>
+Date: Sat, 20 Jun 2015 15:41:29 +0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cpanel1.novahost.gr
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [923 920] / [47 12]
+X-AntiAbuse: Sender Address Domain - cpanel1.novahost.gr
+X-Get-Message-Sender-Via: cpanel1.novahost.gr: authenticated_id: aidonis/primary_hostname/system user
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 109
+
+<!DOCTYPE html>
+<html><head><title></title>
+<meta name="viewport" content="width=671" />
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<style type="text/css">
+a,a.aapl-link,a.aapl-link:link {text-decoration:none}
+a.aapl-link:hover {text-decoration:underline}
+
+@media only screen and (max-device-width: 768px) {
+ #aapl-eyebrow, #aapl-footer {-webkit-text-size-adjust:120%;}
+ #aapl-eyebrow a, #aapl-footer a {color:inherit}
+}
+</style>
+<!--[if gte mso 9]>
+<style type="text/css">
+table,td,div,p {font-family: Lucida Sans, Lucida Sans Unicode, Lucida Grande, Arial, Helvetica, Verdana, sans-serif !important;line-height:normal !important}
+</style>
+<![endif]--><!--[if lte mso 7]>
+<STYLE type=text/css>
+table,td,div,p {font-family: Lucida Grande, Lucida Sans, Lucida Sans Unicode, Arial, Helvetica, Verdana, sans-serif !important;line-height:normal}
+</STYLE>
+<![endif]-->
+</head>
+<body style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px" bgcolor="#ffffff">
+
+  <tbody>
+  <tr>
+
+<table style="text-transform: none; background-color: rgb(241,241,241); text-indent: 0px; margin: 0px auto; font: 13px arial, sans-serif; white-space: normal; letter-spacing: normal; color: rgb(34,34,34); word-spacing: 0px; -webkit-text-stroke-width: 0px" border="0" cellspacing="0" cellpadding="0" width="630" align="center">
+  <tbody>
+  <tr>
+    <td style="margin: 0px; font-family: arial, sans-serif">
+      <table style="background-color: rgb(241,241,241); margin: 0px auto" border="0" cellspacing="0" cellpadding="0" width="490" align="center">
+        <tbody>
+        <tr>
+          <td style="padding-bottom: 22px; margin: 0px; padding-left: 0px; padding-right: 0px; font-family: arial, sans-serif; padding-top: 0px" width="490" align="left">
+            <div style="line-height: 1.25em; font-family: 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Unicode', Arial, Helvetica, Verdana, sans-serif; color: rgb(51,51,51); font-size: 12px"><span style="font-weight: bold">Dear customer,</span><br /><br />You've placed 
+            your Apple ID under the risk of termination by not keeping your 
+            information up to date. <span style="text-transform: none; background-color: rgb(241,241,241); text-indent: 0px; display: inline !important; font: 12px/15px 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Unicode', Arial, Helvetica, Verdana, sans-serif; white-space: normal; float: none; letter-spacing: normal; color: rgb(51,51,51); word-spacing: 0px; -webkit-text-stroke-width: 0px">To 
+            complete the process, we just need to verify your information. 
+            Simply click the link below and sign in using your Apple ID and 
+            password to start the process.<br /></span><br /><a style="color: rgb(0,136,204); text-decoration: none" href="https://yoohoo.lunarbreeze.com/~dplwed0/us/app/" target="_blank">Verify Now 
+            ></a><br /><br /><b>Wondering why you got this email?</b><br />When 
+            you don't regularly update your Apple ID information, 
+            Apple will require you to sign in by following the link in a 
+            verification email and update your information. This is to help 
+            protect your identity and keep your account secure.<br /><br />For more 
+            information, see our<span class="Apple-converted-space"> </span><a style="color: rgb(0,136,204); text-decoration: none" href="http://www.apple.com/support/appleid/" target="_blank">frequently asked 
+            questions</a>.<br /><br />Thanks,<br />Apple Customer 
+        Support</div></td></tr></tbody></table></td></tr>

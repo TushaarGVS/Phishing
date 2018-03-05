@@ -1,0 +1,93 @@
+Return-Path: <info@orange.co.uk>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 5A7D0F41FA
+	for <jose@login.monkey.org>; Sat,  7 Feb 2015 13:59:25 -0600 (CST)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 27E7E27AB96
+	for <jose@login.monkey.org>; Sat,  7 Feb 2015 19:59:25 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69838206690.07.toy99_17ef4629c3d33
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=orange.co.uk
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 60,1.02778,0,81b90dac0562d94b,d41d8cd98f00b204,info@orange.co.uk,:,RULES_HIT:41:46:72:150:152:355:375:379:455:962:967:973:983:988:989:1021:1185:1189:1208:1224:1260:1311:1313:1314:1345:1381:1431:1432:1436:1437:1514:1515:1516:1517:1533:1534:1541:1565:1588:1589:1592:1593:1594:1711:1714:1730:1747:1777:1792:2393:2525:2543:2561:2564:2682:2685:2859:2910:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3148:3245:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4180:4181:5007:6117:6119:6216:6261:6650:6674:6678:7556:7903:8599:8603:9025:9072:9083:9388:9908:10004:10049:10167:10168:10346:10881:11256:11257:11638:11639:11651:11658:11914:11984:12043:12956:12958:12967:13139:13311:13357:14093:14094:14096:14196:21080,0,RBL:148.210.4.21-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: toy99_17ef4629c3d33
+X-Filterd-Recvd-Size: 4495
+Received: from mailgateway.uacj.mx (mailgateway.uacj.mx [148.210.4.21])
+	by imf08.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Sat,  7 Feb 2015 19:59:24 +0000 (UTC)
+X-ASG-Debug-ID: 1423339163-0832eb02258ce20001-6JlXpt
+Received: from mail.uacj.mx (ca1.uacj.mx [148.210.21.83]) by mailgateway.uacj.mx with ESMTP id BamWzw22VENgnA0L for <jose@monkey.org>; Sat, 07 Feb 2015 12:59:23 -0700 (MST)
+X-Barracuda-Envelope-From: info@orange.co.uk
+X-Barracuda-RBL-Trusted-Forwarder: 148.210.21.83
+Received: from 10-PC (194.105.9.85) by ca1.uacj.mx (148.210.21.74) with
+ Microsoft SMTP Server id 14.3.123.3; Sat, 7 Feb 2015 12:59:22 -0700
+MIME-Version: 1.0
+X-Barracuda-RBL-Trusted-Forwarder: 148.210.21.74
+From: Orange <info@orange.co.uk>
+To: <jose@monkey.org>
+Reply-To: <info@orange.co.uk>
+Date: Sat, 7 Feb 2015 20:59:23 +0100
+Subject: =?utf-8?B?zqTQntCgIFVQOiA5NzM3ODg0NTA=?=
+Content-Type: text/html; charset="utf-8"
+X-ASG-Orig-Subj: =?utf-8?B?zqTQntCgIFVQOiA5NzM3ODg0NTA=?=
+Content-Transfer-Encoding: base64
+Message-ID: <4e3897fe-bb6b-4470-8018-f607ca246335@CA1.uacj.mx>
+X-Barracuda-Connect: ca1.uacj.mx[148.210.21.83]
+X-Barracuda-Start-Time: 1423339163
+X-Barracuda-URL: http://148.210.4.21:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at uacj.mx
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 3.70
+X-Barracuda-Spam-Status: No, SCORE=3.70 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=6.0 tests=BSF_SC3_MV0164, HTML_IMAGE_ONLY_20, HTML_IMAGE_ONLY_20_2, HTML_MESSAGE, MIME_HTML_ONLY
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.15020
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_IMAGE_ONLY_20     BODY: HTML: images with 1600-2000 bytes of words
+	0.00 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.70 HTML_IMAGE_ONLY_20_2   HTML: images with 1600-2000 bytes of words
+	3.00 BSF_SC3_MV0164         Custom rule MV0164
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 19
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEvL0VOIiAiaHR0
+cDovL3d3dy53My5vcmcvVFIvaHRtbDQvc3RyaWN0LmR0ZCI+CjxodG1sPjxoZWFkPjxtZXRh
+IGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1JU08tODg1OS0xIiBodHRwLWVxdWl2PSJj
+b250ZW50LXR5cGUiPjx0aXRsZT5vcmFuaGU8L3RpdGxlPjwvaGVhZD48Ym9keT48aW1nIHN0
+eWxlPSJ3aWR0aDogMTQ3cHg7IGhlaWdodDogNTVweDsiIGFsdD0iT3JhbmdlIiBzcmM9Imh0
+dHA6Ly93d3cuYnJpYW4tbW9mZmF0dC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTMvMTAv
+b3JhbmdlLWxvZ28tMzAweDEzNy5qcGciPjxicj48YnI+PGRpdiBjbGFzcz0iaDMiIHN0eWxl
+PSJtYXJnaW46IDAuOGVtIDBweDsgZm9udC13ZWlnaHQ6IGJvbGQ7IGZvbnQtc2l6ZTogMS4y
+NWVtOyBmb250LWZhbWlseTogUnVicmlrLEFyaWFsLHNhbnMtc2VyaWY7IGxpbmUtaGVpZ2h0
+OiAxLjI1OyB0ZXh0LXRyYW5zZm9ybTogbm9uZTsgY29sb3I6IHJnYigwLCAxNTYsIDE1Nik7
+IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC12YXJpYW50OiBub3JtYWw7IGxldHRlci1zcGFj
+aW5nOiBub3JtYWw7IHRleHQtYWxpZ246IHN0YXJ0OyB0ZXh0LWluZGVudDogMHB4OyB3aGl0
+ZS1zcGFjZTogbm9ybWFsOyB3b3JkLXNwYWNpbmc6IDBweDsgYmFja2dyb3VuZC1jb2xvcjog
+cmdiKDI1NSwgMjU1LCAyNTUpOyBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0OyI+T3Jh
+bmdlIEJvbnVzPC9kaXY+PHAgc3R5bGU9Im1hcmdpbjogMWVtIDBweDsgY29sb3I6IHJnYigx
+MDksIDExMCwgMTEzKTsgZm9udC1mYW1pbHk6IEFyaWFsLHNhbnMtc2VyaWY7IGZvbnQtc2l6
+ZTogMTZweDsgZm9udC1zdHlsZTogbm9ybWFsOyBmb250LXZhcmlhbnQ6IG5vcm1hbDsgZm9u
+dC13ZWlnaHQ6IG5vcm1hbDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgbGluZS1oZWlnaHQ6
+IDI0cHg7IHRleHQtYWxpZ246IHN0YXJ0OyB0ZXh0LWluZGVudDogMHB4OyB0ZXh0LXRyYW5z
+Zm9ybTogbm9uZTsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgd29yZC1zcGFjaW5nOiAwcHg7IGJh
+Y2tncm91bmQtY29sb3I6IHJnYigyNTUsIDI1NSwgMjU1KTsgYmFja2dyb3VuZC1yZXBlYXQ6
+IG5vLXJlcGVhdDsiPlJlY2hhcmdlIG5vdyBhbmQgdSBnZXQgMTAwJSBCb251czwvcD48YSBj
+bGFzcz0iY3RhLWdyb3VwX19saW5rIiBocmVmPSJodHRwOi8vYml0Lmx5LzFEN1N2dVMiIHN0
+eWxlPSJiYWNrZ3JvdW5kOiByZ2IoMjU1LCAyNTUsIDI1NSkgbm9uZSByZXBlYXQgc2Nyb2xs
+IDAlIDUwJTsgLW1vei1iYWNrZ3JvdW5kLWNsaXA6IGluaXRpYWw7IC1tb3otYmFja2dyb3Vu
+ZC1vcmlnaW46IGluaXRpYWw7IC1tb3otYmFja2dyb3VuZC1pbmxpbmUtcG9saWN5OiBpbml0
+aWFsOyBjb2xvcjogcmdiKDAsIDE1NiwgMTU2KTsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyBm
+b250LXdlaWdodDogYm9sZDsgbGluZS1oZWlnaHQ6IDE7IGZvbnQtZmFtaWx5OiBBcmlhbCxz
+YW5zLXNlcmlmOyBmb250LXNpemU6IDE2cHg7IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC12
+YXJpYW50OiBub3JtYWw7IGxldHRlci1zcGFjaW5nOiBub3JtYWw7IHRleHQtYWxpZ246IHN0
+YXJ0OyB0ZXh0LWluZGVudDogMHB4OyB0ZXh0LXRyYW5zZm9ybTogbm9uZTsgd2hpdGUtc3Bh
+Y2U6IG5vcm1hbDsgd29yZC1zcGFjaW5nOiAwcHg7Ij4mbmJzcDtUb3AgVXAgTm93PC9hPjwv
+Ym9keT48L2h0bWw+

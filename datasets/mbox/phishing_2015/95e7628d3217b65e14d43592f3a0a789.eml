@@ -1,0 +1,60 @@
+Return-Path: <dp@dp.dp.ua>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 34A04F409E
+	for <jose@login.monkey.org>; Thu, 24 Sep 2015 10:23:20 -0500 (CDT)
+Received: from smtpin20.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id A81931845CD
+	for <jose@login.monkey.org>; Thu, 24 Sep 2015 15:23:19 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70668506118.20.dock69_1cf8bc6083c4b
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 57,3.5,0,5286d76406d722e0,d41d8cd98f00b204,dp@dp.dp.ua,:,RULES_HIT:41:72:355:375:379:962:967:973:978:983:988:989:994:1021:1147:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1390:1430:1431:1432:1433:1434:1435:1436:1437:1515:1516:1517:1534:1541:1560:1571:1588:1589:1592:1686:1711:1714:1730:1737:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2543:2560:2565:2610:2682:2685:2741:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3867:3868:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6117:6119:6261:6650:6669:6674:6688:7903:8568:8603:8824:8829:9025:9072:9388:9392:9416:9908:10004:10049:10346:11257:11657:11658:11914:12043:12555:12956:12958:12959:12960:12967:12968:13026:13095:13139:13311:13357:13366:13399:13868:13894:14093:14096:21063:21080:21222,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: dock69_1cf8bc6083c4b
+X-Filterd-Recvd-Size: 2186
+Received: from dp.dp.ua (dp.dp.ua [194.150.233.126])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 24 Sep 2015 15:23:18 +0000 (UTC)
+Received: by dp.dp.ua (Postfix, from userid 504)
+	id AA08732A99B9; Thu, 24 Sep 2015 17:55:18 +0300 (EEST)
+To: jose@monkey.org
+Subject: Compulsory Email Account Update
+From: Google Doc <GoogleDoc@Google.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20150924151835.AA08732A99B9@dp.dp.ua>
+Date: Thu, 24 Sep 2015 17:55:18 +0300 (EEST)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 186
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+<div id=":16c" class="ii gt m138537285c799dae adP adO"><div id=":u1" style="overflow: hidden;"><div class="adM">
+</div><div><div style="max-width:650px;background-color:#dbf0cc;font-family:Arial,sans-serif;padding:5px"><div style="min-height:36px;font-size:14px;font-weight:bold;padding-bottom:4px"><table style="display:inline;width:100%"><tbody><tr><td style="padding:0;padding-right:5px;text-align:center" height="35px" width="32px"><img src="https://ssl.gstatic.com/docs/documents/share/images/services/spreadsheet-1.png" alt="Spreadsheet"></td>
+<td style="padding:0" height="32px" valign="middle">You have a pending incoming download docs shared with you via Google docs</td></tr></tbody></table></div>
+<div style="font-size:13px;background-color:#fff;padding:10px 7px 7px 7px">
+Click to open: <a href="http://www.postroika56.ru/loc/">Secure Message</a>
+<br>
+<br />
+<span style="color:#898989">Google Docs makes it easy to create, store and share online documents, spreadsheets and presentations.</span>
+<div style="text-align:right"><a href="#" target="_blank"><img style="border:0;margin-top:10px" src="https://ssl.gstatic.com/docs/documents/share/images/services/docs_logo-1.gif" alt="Logo for Google Docs"></a></div></div></div></div></div><div class="yj6qo"></div></div>
+
+</body>
+</html>
+

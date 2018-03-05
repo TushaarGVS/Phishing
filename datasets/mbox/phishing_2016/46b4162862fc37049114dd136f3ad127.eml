@@ -1,0 +1,154 @@
+Return-Path: infoz@zimbra.com
+Delivered-To: jose@monkey.org
+X-FDA: 71258766222.25.rail56_18381ab99626
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,bc11b0199d5d726f,d41d8cd98f00b204,infoz@zimbra.com,:infoz@zimbra.com,RULES_HIT:41:72:355:379:962:966:967:973:978:983:988:989:1042:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1544:1575:1588:1589:1592:1594:1711:1714:1730:1776:1792:1803:2069:2070:2196:2198:2199:2200:2525:2527:2560:2565:2610:2682:2685:2731:2859:2890:2895:2899:2902:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3245:3351:3650:3866:3867:3868:3870:3871:3873:3874:3884:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4321:4361:4385:5007:6238:6261:6669:6687:7652:7903:8603:8985:9025:9388:9411:9416:9908:10010:10215:10398:10484:11212:11232:11257:11473:11651:11657:11658:11914:12043:12050:12051:12295:12517:12519:12555:12561:12740:13139:13235:13237:13374:13439:14096:14194:14721:21080:21259:21366:30001:30022:30025:30026:30054:30069:30070,0,RBL:222.126.214.99:@zimbra.com:.lbl8.mailshell.net-62.12.2.100 64.201
+X-HE-Tag: rail56_18381ab99626
+X-Filterd-Recvd-Size: 7830
+Received: from smtp2.wab.edu (smtp2.wab.edu [222.126.214.99])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  5 Mar 2016 07:13:30 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp2.wab.edu (Postfix) with ESMTP id E5FB563A4CF;
+	Sat,  5 Mar 2016 15:13:30 +0800 (HKT)
+X-Virus-Scanned: Debian amavisd-new at wab.edu
+Received: from smtp2.wab.edu ([127.0.0.1])
+	by localhost (smtp2.wab.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id hptXg2MToci2; Sat,  5 Mar 2016 15:13:25 +0800 (HKT)
+Received: from zimbra.wab.edu (zimbra2.wab.edu [10.0.0.201])
+	by smtp2.wab.edu (Postfix) with ESMTP id 48EB763A74A;
+	Sat,  5 Mar 2016 14:11:31 +0800 (HKT)
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra.wab.edu (Postfix) with ESMTP id 21F032E0E4B;
+	Sat,  5 Mar 2016 14:11:29 +0800 (CST)
+Received: from zimbra.wab.edu ([127.0.0.1])
+	by localhost (zimbra.wab.edu [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id kU1ltLeGa2I5; Sat,  5 Mar 2016 14:11:28 +0800 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra.wab.edu (Postfix) with ESMTP id A03272E0E32;
+	Sat,  5 Mar 2016 14:11:28 +0800 (CST)
+X-Virus-Scanned: amavisd-new at zimbra.wab.edu
+Received: from zimbra.wab.edu ([127.0.0.1])
+	by localhost (zimbra.wab.edu [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id TGSCawk81EoD; Sat,  5 Mar 2016 14:11:28 +0800 (CST)
+Received: from [172.20.10.5] (unknown [156.168.150.25])
+	by zimbra.wab.edu (Postfix) with ESMTPSA id 8ABF32E0E3C;
+	Sat,  5 Mar 2016 14:11:18 +0800 (CST)
+Content-Type: multipart/alternative; boundary="===============1055395937=="
+MIME-Version: 1.0
+Subject: Account Verification
+To: Recipients <infoz@zimbra.com>
+From: "Zimbra Alert"<infoz@zimbra.com>
+Date: Sat, 05 Mar 2016 07:10:41 +0100
+X-Antivirus: avast! (VPS 160304-1, 03/04/2016), Outbound message
+X-Antivirus-Status: Clean
+Message-Id: <20160305061118.8ABF32E0E3C@zimbra.wab.edu>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 100
+
+You will not see this in a MIME-aware mail reader.
+--===============1055395937==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+This is to inform you that someone else was trying to log into your Zimbra =
+account from a different location {IP:27.167.158.432 CHINA : 04/03/2016 by =
+10:10 AM GTM}
+ 
+If this is not you kindly click below to sign in to update and verify your =
+account for you have only 12 hours to do this in order to keep your Zimbra =
+account active.
+
+Click Here to verify your Account.
+ 
+ This Email is Subject to mandatory follow, Failure to comply would lead to=
+ Permanent closure of Account.
+Regards,
+Technical support team
+
+---
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+--===============1055395937==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDE=
+NT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; C=
+OLOR: rgb(0,0,0); WORD-SPACING: 0px"><SPAN style=3D"TEXT-TRANSFORM: none; T=
+EXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: n=
+ormal; COLOR: rgb(0,0,0); WORD-SPACING: 0px"><SPAN style=3D"TEXT-TRANSFORM:=
+ none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SP=
+ACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px"><SPAN><SPAN style=3D"C=
+OLOR: #550055"><SPAN style=3D"TEXT-ALIGN: left; TEXT-TRANSFORM: none; TEXT-=
+INDENT: 0px; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; LETTER-SP=
+ACING: normal; COLOR: #000000; WORD-SPACING: 0px"><SPAN style=3D"TEXT-TRANS=
+FORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETT=
+ER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px"><SPAN style=3D"TE=
+XT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: norm=
+al; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px"><SPAN sty=
+le=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPA=
+CE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px"><=
+SPAN>This is to inform you that someone else was trying to log into your <S=
+PAN>Zimbra</SPAN> account from a different location {IP:27.167.158.432&nbsp=
+;CHINA : <SPAN class=3DaBn tabIndex=3D0 data-term=3D"goog_1397587438"><SPAN=
+ class=3DaQJ>04/03/2016</SPAN></SPAN> by 10:10<SPAN> AM</SPAN> GTM}<SPAN st=
+yle=3D"COLOR: #550055"><BR></SPAN></SPAN></SPAN></SPAN>
+<DIV><BR></DIV><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT:=
+ 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,=
+0); WORD-SPACING: 0px"><SPAN style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0p=
+x; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: =
+rgb(0,0,0); WORD-SPACING: 0px"><SPAN><SPAN style=3D"COLOR: #550055">If this=
+ is not you kindly click below to sign in to update and verify your account=
+ for you have only 12 hours to do this in order to keep your <SPAN>Zimbra</=
+SPAN> account active.<BR style=3D"TEXT-ALIGN: left; TEXT-TRANSFORM: none; T=
+EXT-INDENT: 0px; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; LETTE=
+R-SPACING: normal; COLOR: #000000; WORD-SPACING: 0px"><BR style=3D"TEXT-ALI=
+GN: left; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: medium 'Times New R=
+oman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: #000000; WORD-SP=
+ACING: 0px"><SPAN style=3D"TEXT-ALIGN: left; TEXT-TRANSFORM: none; TEXT-IND=
+ENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: normal; =
+COLOR: #000000; WORD-SPACING: 0px"><SPAN style=3D"TEXT-TRANSFORM: none; TEX=
+T-INDENT: 0px; FONT: 10pt Verdana; WHITE-SPACE: normal; LETTER-SPACING: nor=
+mal; COLOR: #000000; WORD-SPACING: 0px">Click<SPAN>&nbsp;<A style=3D"FONT-W=
+EIGHT: bold" href=3D"http://ow.ly/YYiht" rel=3Dnofollow target=3D_blank><SP=
+AN>Here to verify your Account.</SPAN></A></SPAN></SPAN></SPAN><BR></SPAN><=
+/SPAN></SPAN></SPAN>
+<DIV><BR></DIV>
+<DIV style=3D"TEXT-ALIGN: left; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FON=
+T: medium 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; C=
+OLOR: #000000; WORD-SPACING: 0px">This Email is Subject to mandatory follow=
+, Failure to comply would lead to Permanent closure of Account.</DIV><SPAN =
+style=3D"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT: 10pt Verdana; WHITE-=
+SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px=
+"><SPAN><SPAN style=3D"COLOR: #550055"><BR style=3D"TEXT-ALIGN: left; TEXT-=
+TRANSFORM: none; TEXT-INDENT: 0px; FONT: medium 'Times New Roman'; WHITE-SP=
+ACE: normal; LETTER-SPACING: normal; COLOR: #000000; WORD-SPACING: 0px"><SP=
+AN style=3D"TEXT-ALIGN: left; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; FONT:=
+ medium 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COL=
+OR: #000000; WORD-SPACING: 0px">Regards,<BR>Technical support team</SPAN></=
+SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN>
+ <br />
+ <table style=3D"border-top: 1px solid #aaabb6;">
+	<tr>	
+		<td style=3D"width: 470px; padding-top: 20px; color: #41424e; font-size: =
+13px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">This e=
+mail has been sent from a virus-free computer protected by Avast. <br /><a =
+href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlin=
+k&utm_campaign=3Dsig-email&utm_content=3Demailclient" target=3D"_blank" sty=
+le=3D"color: #4453ea;">www.avast.com</a>
+		</td>
+	</tr>
+ </table>
+</BODY></HTML>
+--===============1055395937==--

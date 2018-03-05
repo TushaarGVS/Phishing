@@ -1,0 +1,656 @@
+Return-Path: noreply@familiasdeschoenstatt.org
+Delivered-To: jose@monkey.org
+X-FDA: 71200297938.10.tramp47_84387814d0c3f
+Authentication-Results: auth.b.hostedemail.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=familiasdeschoenstatt.org header.i=@familiasdeschoenstatt.org
+	header.b=25UeczCG; dkim-adsp=pass; dkim-atps=neutral
+X-Spam-Summary: 61,3.8,0,a39061ed34d6dc85,d41d8cd98f00b204,noreply@familiasdeschoenstatt.org,:,RULES_HIT:46:72:146:150:152:327:355:379:455:871:962:967:968:969:973:978:979:981:982:983:988:989:1000:1001:1021:1189:1208:1213:1221:1260:1263:1313:1314:1345:1381:1430:1431:1432:1433:1434:1436:1437:1516:1517:1545:1571:1575:1588:1589:1592:1594:1605:1676:1710:1730:1747:1777:1792:1801:2084:2107:2198:2199:2393:2525:2527:2528:2549:2565:2610:2682:2685:2692:2693:2859:2890:2892:2900:2901:2902:2911:2916:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:2975:3000:3022:3138:3139:3140:3141:3142:3148:3552:3586:3770:3863:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4180:4181:4383:4384:4395:4425:4506:4508:4509:4552:4605:4636:6096:6261:6354:6506:6653:6678:6688:6747:7215:7266:7281:7652:7875:8550:8583:8603:8885:8957:9025:9060:9080:9121:9163:9344:9388:9392:9468:9908:10019:10049:10128:10299:10346:11233:11257:11656:11657:11914:11984:12043:12114:12217:124
+X-HE-Tag: tramp47_84387814d0c3f
+X-Filterd-Recvd-Size: 46086
+Received: from ciri.browserbox.pt (browserbox.ibername.com [188.93.231.152])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 18 Feb 2016 04:31:48 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=familiasdeschoenstatt.org; s=default; h=Message-ID:Content-Type:
+	MIME-Version:Subject:Date:Reply-To:To:From;
+	bh=9R1sFIuZBqp5SpnoyJdaAKOPKshauYQ15Re8hIELQnQ=; b=25UeczCGbbr8jtz/8U30SMOmF8
+	devSsDmZ7nW0OrsOVALcZ6vTTS3C5l+dYb8D9yiFv8cPYNPddqb3B+Q2UpKtEgTrU2AX8Fls08bdu
+	UWTEin4wDtKqTNdvng0BULfU83a0IchPr+SiT0VVF+w5v4ZMgzVb8SfTvpU8Pa+o5IpQ=;
+Received: from [114.121.235.238] (port=54342 helo=AsusPC)
+	by ciri.browserbox.pt with esmtpsa (TLSv1:AES128-SHA:128)
+	(Exim 4.86)
+	(envelope-from <noreply@familiasdeschoenstatt.org>)
+	id 1aWGFl-000CmA-2C
+	for jose@monkey.org; Thu, 18 Feb 2016 04:31:46 +0000
+From: "=?utf-8?Q?Account=20Paypal?=" <noreply@familiasdeschoenstatt.org> 
+To: "jose@monkey.org" <jose@monkey.org>
+Reply-To: noreply@familiasdeschoenstatt.org
+Date: Wed, 17 Feb 2016 11:30:52 +0700
+Subject: =?utf-8?Q?We=27ve=20Iimited=20access=20to=20your=20Pa?=
+	=?utf-8?Q?yPaI=20account?=
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="_=aspNetEmail=_00924a31359843d78d99cde50a120bfb"
+Message-ID: <ASUSPC19bc216fec5c48d4a493cc0122b3a28a@AsusPC>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ciri.browserbox.pt
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - familiasdeschoenstatt.org
+X-Get-Message-Sender-Via: ciri.browserbox.pt: authenticated_id: noreply@familiasdeschoenstatt.org
+X-Authenticated-Sender: ciri.browserbox.pt: noreply@familiasdeschoenstatt.org
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 78
+
+--_=aspNetEmail=_00924a31359843d78d99cde50a120bfb
+Content-Type: multipart/alternative;
+	boundary="_=ALT_=aspNetEmail=_00924a31359843d78d99cde50a120bfb"
+
+
+--_=ALT_=aspNetEmail=_00924a31359843d78d99cde50a120bfb
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE HTML PUBLIC =22-//W3C//DTD HTML 4=2E0 Transitional//EN=22>=0D=
+=0A<HTML xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22><HEAD><=21-- NAME=
+: 1 COLUMN - BANDED -->=0D=0A<META content=3D=22text/html; charset=3Dunic=
+ode=22 http-equiv=3DContent-Type>=0D=0A<META name=3Dviewport content=3D=22=
+width=3Ddevice-width, initial-scale=3D1=2E0=22>=0D=0A<STYLE type=3Dtext/c=
+ss>=0A=09=09body,=23bodyTable,=23bodyCell=7B=0A=09=09=09height:100=25 =21=
+important;=0A=09=09=09margin:0;=0A=09=09=09padding:0;=0A=09=09=09width:10=
+0=25 =21important;=0A=09=09=7D=0A=09=09table=7B=0A=09=09=09border-collaps=
+e:collapse;=0A=09=09=7D=0A=09=09img,a img=7B=0A=09=09=09border:0;=0A=09=09=
+=09outline:none;=0A=09=09=09text-decoration:none;=0A=09=09=7D=0A=09=09h1,=
+h2,h3,h4,h5,h6=7B=0A=09=09=09margin:0;=0A=09=09=09padding:0;=0A=09=09=7D=0A=
+=09=09p=7B=0A=09=09=09margin:1em 0;=0A=09=09=09padding:0;=0A=09=09=7D=0A=09=
+=09a=7B=0A=09=09=09word-wrap:break-word;=0A=09=09=7D=0A=09=09=2EReadMsgBo=
+dy=7B=0A=09=09=09width:100=25;=0A=09=09=7D=0A=09=09=2EExternalClass=7B=0A=
+=09=09=09width:100=25;=0A=09=09=7D=0A=09=09=2EExternalClass,=2EExternalCl=
+ass p,=2EExternalClass span,=2EExternalClass font,=2EExternalClass td,=2E=
+ExternalClass div=7B=0A=09=09=09line-height:100=25;=0A=09=09=7D=0A=09=09t=
+able,td=7B=0A=09=09=09mso-table-lspace:0pt;=0A=09=09=09mso-table-rspace:0=
+pt;=0A=09=09=7D=0A=09=09=23outlook a=7B=0A=09=09=09padding:0;=0A=09=09=7D=
+=0A=09=09img=7B=0A=09=09=09-ms-interpolation-mode:bicubic;=0A=09=09=7D=0A=
+=09=09body,table,td,p,a,li,blockquote=7B=0A=09=09=09-ms-text-size-adjust:=
+100=25;=0A=09=09=09-webkit-text-size-adjust:100=25;=0A=09=09=7D=0A=09=09=23=
+bodyCell=7B=0A=09=09=09padding:0;=0A=09=09=7D=0A=09=09=2EmcnImage=7B=0A=09=
+=09=09vertical-align:bottom;=0A=09=09=7D=0A=09=09=2EmcnTextContent img=7B=
+=0A=09=09=09height:auto =21important;=0A=09=09=7D=0A=09/*=0A=09=40tab Pag=
+e=0A=09=40section background style=0A=09=40tip Set the background color a=
+nd top border for your email=2E You may want to choose colors that match =
+your company=27s branding=2E=0A=09*/=0A=09=09body,=23bodyTable=7B=0A=09=09=
+=09/*=40editable*/background-color:=23F2F2F2;=0A=09=09=7D=0A=09/*=0A=09=40=
+tab Page=0A=09=40section background style=0A=09=40tip Set the background =
+color and top border for your email=2E You may want to choose colors that=
+ match your company=27s branding=2E=0A=09*/=0A=09=09=23bodyCell=7B=0A=09=09=
+=09/*=40editable*/border-top:0;=0A=09=09=7D=0A=09/*=0A=09=40tab Page=0A=09=
+=40section heading 1=0A=09=40tip Set the styling for all first-level head=
+ings in your emails=2E These should be the largest of your headings=2E=0A=
+=09=40style heading 1=0A=09*/=0A=09=09h1=7B=0A=09=09=09/*=40editable*/col=
+or:=23606060 =21important;=0A=09=09=09display:block;=0A=09=09=09/*=40edit=
+able*/font-family:Helvetica;=0A=09=09=09/*=40editable*/font-size:40px;=0A=
+=09=09=09/*=40editable*/font-style:normal;=0A=09=09=09/*=40editable*/font=
+-weight:bold;=0A=09=09=09/*=40editable*/line-height:125=25;=0A=09=09=09/*=
+=40editable*/letter-spacing:-1px;=0A=09=09=09margin:0;=0A=09=09=09/*=40ed=
+itable*/text-align:left;=0A=09=09=7D=0A=09/*=0A=09=40tab Page=0A=09=40sec=
+tion heading 2=0A=09=40tip Set the styling for all second-level headings =
+in your emails=2E=0A=09=40style heading 2=0A=09*/=0A=09=09h2=7B=0A=09=09=09=
+/*=40editable*/color:=23404040 =21important;=0A=09=09=09display:block;=0A=
+=09=09=09/*=40editable*/font-family:Helvetica;=0A=09=09=09/*=40editable*/=
+font-size:26px;=0A=09=09=09/*=40editable*/font-style:normal;=0A=09=09=09/=
+*=40editable*/font-weight:bold;=0A=09=09=09/*=40editable*/line-height:125=
+=25;=0A=09=09=09/*=40editable*/letter-spacing:-=2E75px;=0A=09=09=09margin=
+:0;=0A=09=09=09/*=40editable*/text-align:left;=0A=09=09=7D=0A=09/*=0A=09=40=
+tab Page=0A=09=40section heading 3=0A=09=40tip Set the styling for all th=
+ird-level headings in your emails=2E=0A=09=40style heading 3=0A=09*/=0A=09=
+=09h3=7B=0A=09=09=09/*=40editable*/color:=23606060 =21important;=0A=09=09=
+=09display:block;=0A=09=09=09/*=40editable*/font-family:Helvetica;=0A=09=09=
+=09/*=40editable*/font-size:18px;=0A=09=09=09/*=40editable*/font-style:no=
+rmal;=0A=09=09=09/*=40editable*/font-weight:bold;=0A=09=09=09/*=40editabl=
+e*/line-height:125=25;=0A=09=09=09/*=40editable*/letter-spacing:-=2E5px;=0A=
+=09=09=09margin:0;=0A=09=09=09/*=40editable*/text-align:left;=0A=09=09=7D=
+=0A=09/*=0A=09=40tab Page=0A=09=40section heading 4=0A=09=40tip Set the s=
+tyling for all fourth-level headings in your emails=2E These should be th=
+e smallest of your headings=2E=0A=09=40style heading 4=0A=09*/=0A=09=09h4=
+=7B=0A=09=09=09/*=40editable*/color:=23808080 =21important;=0A=09=09=09di=
+splay:block;=0A=09=09=09/*=40editable*/font-family:Helvetica;=0A=09=09=09=
+/*=40editable*/font-size:16px;=0A=09=09=09/*=40editable*/font-style:norma=
+l;=0A=09=09=09/*=40editable*/font-weight:bold;=0A=09=09=09/*=40editable*/=
+line-height:125=25;=0A=09=09=09/*=40editable*/letter-spacing:normal;=0A=09=
+=09=09margin:0;=0A=09=09=09/*=40editable*/text-align:left;=0A=09=09=7D=0A=
+=09/*=0A=09=40tab Preheader=0A=09=40section preheader style=0A=09=40tip S=
+et the background color and borders for your email=27s preheader area=2E=0A=
+=09*/=0A=09=09=23templatePreheader=7B=0A=09=09=09/*=40editable*/backgroun=
+d-color:=23FFFFFF;=0A=09=09=09/*=40editable*/border-top:0;=0A=09=09=09/*=40=
+editable*/border-bottom:0;=0A=09=09=7D=0A=09/*=0A=09=40tab Preheader=0A=09=
+=40section preheader text=0A=09=40tip Set the styling for your email=27s =
+preheader text=2E Choose a size and color that is easy to read=2E=0A=09*/=
+=0A=09=09=2EpreheaderContainer =2EmcnTextContent,=2EpreheaderContainer =2E=
+mcnTextContent p=7B=0A=09=09=09/*=40editable*/color:=23606060;=0A=09=09=09=
+/*=40editable*/font-family:Helvetica;=0A=09=09=09/*=40editable*/font-size=
+:11px;=0A=09=09=09/*=40editable*/line-height:125=25;=0A=09=09=09/*=40edit=
+able*/text-align:left;=0A=09=09=7D=0A=09/*=0A=09=40tab Preheader=0A=09=40=
+section preheader link=0A=09=40tip Set the styling for your email=27s hea=
+der links=2E Choose a color that helps them stand out from your text=2E=0A=
+=09*/=0A=09=09=2EpreheaderContainer =2EmcnTextContent a=7B=0A=09=09=09/*=40=
+editable*/color:=23606060;=0A=09=09=09/*=40editable*/font-weight:normal;=0A=
+=09=09=09/*=40editable*/text-decoration:underline;=0A=09=09=7D=0A=09/*=0A=
+=09=40tab Header=0A=09=40section header style=0A=09=40tip Set the backgro=
+und color and borders for your email=27s header area=2E=0A=09*/=0A=09=09=23=
+templateHeader=7B=0A=09=09=09/*=40editable*/background-color:=23FFFFFF;=0A=
+=09=09=09/*=40editable*/border-top:0;=0A=09=09=09/*=40editable*/border-bo=
+ttom:0;=0A=09=09=7D=0A=09/*=0A=09=40tab Header=0A=09=40section header tex=
+t=0A=09=40tip Set the styling for your email=27s header text=2E Choose a =
+size and color that is easy to read=2E=0A=09*/=0A=09=09=2EheaderContainer=
+ =2EmcnTextContent,=2EheaderContainer =2EmcnTextContent p=7B=0A=09=09=09/=
+*=40editable*/color:=23606060;=0A=09=09=09/*=40editable*/font-family:Helv=
+etica;=0A=09=09=09/*=40editable*/font-size:15px;=0A=09=09=09/*=40editable=
+*/line-height:150=25;=0A=09=09=09/*=40editable*/text-align:left;=0A=09=09=
+=7D=0A=09/*=0A=09=40tab Header=0A=09=40section header link=0A=09=40tip Se=
+t the styling for your email=27s header links=2E Choose a color that help=
+s them stand out from your text=2E=0A=09*/=0A=09=09=2EheaderContainer =2E=
+mcnTextContent a=7B=0A=09=09=09/*=40editable*/color:=236DC6DD;=0A=09=09=09=
+/*=40editable*/font-weight:normal;=0A=09=09=09/*=40editable*/text-decorat=
+ion:underline;=0A=09=09=7D=0A=09/*=0A=09=40tab Body=0A=09=40section body =
+style=0A=09=40tip Set the background color and borders for your email=27s=
+ body area=2E=0A=09*/=0A=09=09=23templateBody=7B=0A=09=09=09/*=40editable=
+*/background-color:=23FFFFFF;=0A=09=09=09/*=40editable*/border-top:0;=0A=09=
+=09=09/*=40editable*/border-bottom:0;=0A=09=09=7D=0A=09/*=0A=09=40tab Bod=
+y=0A=09=40section body text=0A=09=40tip Set the styling for your email=27=
+s body text=2E Choose a size and color that is easy to read=2E=0A=09*/=0A=
+=09=09=2EbodyContainer =2EmcnTextContent,=2EbodyContainer =2EmcnTextConte=
+nt p=7B=0A=09=09=09/*=40editable*/color:=23606060;=0A=09=09=09/*=40editab=
+le*/font-family:Helvetica;=0A=09=09=09/*=40editable*/font-size:15px;=0A=09=
+=09=09/*=40editable*/line-height:150=25;=0A=09=09=09/*=40editable*/text-a=
+lign:left;=0A=09=09=7D=0A=09/*=0A=09=40tab Body=0A=09=40section body link=
+=0A=09=40tip Set the styling for your email=27s body links=2E Choose a co=
+lor that helps them stand out from your text=2E=0A=09*/=0A=09=09=2EbodyCo=
+ntainer =2EmcnTextContent a=7B=0A=09=09=09/*=40editable*/color:=236DC6DD;=
+=0A=09=09=09/*=40editable*/font-weight:normal;=0A=09=09=09/*=40editable*/=
+text-decoration:underline;=0A=09=09=7D=0A=09/*=0A=09=40tab Footer=0A=09=40=
+section footer style=0A=09=40tip Set the background color and borders for=
+ your email=27s footer area=2E=0A=09*/=0A=09=09=23templateFooter=7B=0A=09=
+=09=09/*=40editable*/background-color:=23F2F2F2;=0A=09=09=09/*=40editable=
+*/border-top:0;=0A=09=09=09/*=40editable*/border-bottom:0;=0A=09=09=7D=0A=
+=09/*=0A=09=40tab Footer=0A=09=40section footer text=0A=09=40tip Set the =
+styling for your email=27s footer text=2E Choose a size and color that is=
+ easy to read=2E=0A=09*/=0A=09=09=2EfooterContainer =2EmcnTextContent,=2E=
+footerContainer =2EmcnTextContent p=7B=0A=09=09=09/*=40editable*/color:=23=
+606060;=0A=09=09=09/*=40editable*/font-family:Helvetica;=0A=09=09=09/*=40=
+editable*/font-size:11px;=0A=09=09=09/*=40editable*/line-height:125=25;=0A=
+=09=09=09/*=40editable*/text-align:left;=0A=09=09=7D=0A=09/*=0A=09=40tab =
+Footer=0A=09=40section footer link=0A=09=40tip Set the styling for your e=
+mail=27s footer links=2E Choose a color that helps them stand out from yo=
+ur text=2E=0A=09*/=0A=09=09=2EfooterContainer =2EmcnTextContent a=7B=0A=09=
+=09=09/*=40editable*/color:=23606060;=0A=09=09=09/*=40editable*/font-weig=
+ht:normal;=0A=09=09=09/*=40editable*/text-decoration:underline;=0A=09=09=7D=
+=0A=09=40media only screen and (max-width: 480px)=7B=0A=09=09body,table,t=
+d,p,a,li,blockquote=7B=0A=09=09=09-webkit-text-size-adjust:none =21import=
+ant;=0A=09=09=7D=0A=0A=7D=09=40media only screen and (max-width: 480px)=7B=
+=0A=09=09body=7B=0A=09=09=09width:100=25 =21important;=0A=09=09=09min-wid=
+th:100=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media only screen and (=
+max-width: 480px)=7B=0A=09=09table=5Bclass=3DmcnTextContentContainer=5D=7B=
+=0A=09=09=09width:100=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media on=
+ly screen and (max-width: 480px)=7B=0A=09=09table=5Bclass=3DmcnBoxedTextC=
+ontentContainer=5D=7B=0A=09=09=09width:100=25 =21important;=0A=09=09=7D=0A=
+=0A=7D=09=40media only screen and (max-width: 480px)=7B=0A=09=09table=5Bc=
+lass=3Dmcpreview-image-uploader=5D=7B=0A=09=09=09width:100=25 =21importan=
+t;=0A=09=09=09display:none =21important;=0A=09=09=7D=0A=0A=7D=09=40media =
+only screen and (max-width: 480px)=7B=0A=09=09img=5Bclass=3DmcnImage=5D=7B=
+=0A=09=09=09width:100=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media on=
+ly screen and (max-width: 480px)=7B=0A=09=09table=5Bclass=3DmcnImageGroup=
+ContentContainer=5D=7B=0A=09=09=09width:100=25 =21important;=0A=09=09=7D=0A=
+=0A=7D=09=40media only screen and (max-width: 480px)=7B=0A=09=09td=5Bclas=
+s=3DmcnImageGroupContent=5D=7B=0A=09=09=09padding:9px =21important;=0A=09=
+=09=7D=0A=0A=7D=09=40media only screen and (max-width: 480px)=7B=0A=09=09=
+td=5Bclass=3DmcnImageGroupBlockInner=5D=7B=0A=09=09=09padding-bottom:0 =21=
+important;=0A=09=09=09padding-top:0 =21important;=0A=09=09=7D=0A=0A=7D=09=
+=40media only screen and (max-width: 480px)=7B=0A=09=09tbody=5Bclass=3Dmc=
+nImageGroupBlockOuter=5D=7B=0A=09=09=09padding-bottom:9px =21important;=0A=
+=09=09=09padding-top:9px =21important;=0A=09=09=7D=0A=0A=7D=09=40media on=
+ly screen and (max-width: 480px)=7B=0A=09=09table=5Bclass=3DmcnCaptionTop=
+Content=5D,table=5Bclass=3DmcnCaptionBottomContent=5D=7B=0A=09=09=09width=
+:100=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media only screen and (ma=
+x-width: 480px)=7B=0A=09=09table=5Bclass=3DmcnCaptionLeftTextContentConta=
+iner=5D,table=5Bclass=3DmcnCaptionRightTextContentContainer=5D,table=5Bcl=
+ass=3DmcnCaptionLeftImageContentContainer=5D,table=5Bclass=3DmcnCaptionRi=
+ghtImageContentContainer=5D,table=5Bclass=3DmcnImageCardLeftTextContentCo=
+ntainer=5D,table=5Bclass=3DmcnImageCardRightTextContentContainer=5D=7B=0A=
+=09=09=09width:100=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media only =
+screen and (max-width: 480px)=7B=0A=09=09td=5Bclass=3DmcnImageCardLeftIma=
+geContent=5D,td=5Bclass=3DmcnImageCardRightImageContent=5D=7B=0A=09=09=09=
+padding-right:18px =21important;=0A=09=09=09padding-left:18px =21importan=
+t;=0A=09=09=09padding-bottom:0 =21important;=0A=09=09=7D=0A=0A=7D=09=40me=
+dia only screen and (max-width: 480px)=7B=0A=09=09td=5Bclass=3DmcnImageCa=
+rdBottomImageContent=5D=7B=0A=09=09=09padding-bottom:9px =21important;=0A=
+=09=09=7D=0A=0A=7D=09=40media only screen and (max-width: 480px)=7B=0A=09=
+=09td=5Bclass=3DmcnImageCardTopImageContent=5D=7B=0A=09=09=09padding-top:=
+18px =21important;=0A=09=09=7D=0A=0A=7D=09=40media only screen and (max-w=
+idth: 480px)=7B=0A=09=09td=5Bclass=3DmcnImageCardLeftImageContent=5D,td=5B=
+class=3DmcnImageCardRightImageContent=5D=7B=0A=09=09=09padding-right:18px=
+ =21important;=0A=09=09=09padding-left:18px =21important;=0A=09=09=09padd=
+ing-bottom:0 =21important;=0A=09=09=7D=0A=0A=7D=09=40media only screen an=
+d (max-width: 480px)=7B=0A=09=09td=5Bclass=3DmcnImageCardBottomImageConte=
+nt=5D=7B=0A=09=09=09padding-bottom:9px =21important;=0A=09=09=7D=0A=0A=7D=
+=09=40media only screen and (max-width: 480px)=7B=0A=09=09td=5Bclass=3Dmc=
+nImageCardTopImageContent=5D=7B=0A=09=09=09padding-top:18px =21important;=
+=0A=09=09=7D=0A=0A=7D=09=40media only screen and (max-width: 480px)=7B=0A=
+=09=09table=5Bclass=3DmcnCaptionLeftContentOuter=5D td=5Bclass=3DmcnTextC=
+ontent=5D,table=5Bclass=3DmcnCaptionRightContentOuter=5D td=5Bclass=3Dmcn=
+TextContent=5D=7B=0A=09=09=09padding-top:9px =21important;=0A=09=09=7D=0A=
+=0A=7D=09=40media only screen and (max-width: 480px)=7B=0A=09=09td=5Bclas=
+s=3DmcnCaptionBlockInner=5D table=5Bclass=3DmcnCaptionTopContent=5D:last-=
+child td=5Bclass=3DmcnTextContent=5D=7B=0A=09=09=09padding-top:18px =21im=
+portant;=0A=09=09=7D=0A=0A=7D=09=40media only screen and (max-width: 480p=
+x)=7B=0A=09=09td=5Bclass=3DmcnBoxedTextContentColumn=5D=7B=0A=09=09=09pad=
+ding-left:18px =21important;=0A=09=09=09padding-right:18px =21important;=0A=
+=09=09=7D=0A=0A=7D=09=40media only screen and (max-width: 480px)=7B=0A=09=
+=09td=5Bclass=3DmcnTextContent=5D=7B=0A=09=09=09padding-right:18px =21imp=
+ortant;=0A=09=09=09padding-left:18px =21important;=0A=09=09=7D=0A=0A=7D=09=
+=40media only screen and (max-width: 480px)=7B=0A=09/*=0A=09=40tab Mobile=
+ Styles=0A=09=40section template width=0A=09=40tip Make the template flui=
+d for portrait or landscape view adaptability=2E If a fluid layout doesn=27=
+t work for you, set the width to 300px instead=2E=0A=09*/=0A=09=09table=5B=
+class=3DtemplateContainer=5D=7B=0A=09=09=09/*=40tab Mobile Styles=0A=40se=
+ction template width=0A=40tip Make the template fluid for portrait or lan=
+dscape view adaptability=2E If a fluid layout doesn=27t work for you, set=
+ the width to 300px instead=2E*/max-width:600px =21important;=0A=09=09=09=
+/*=40editable*/width:100=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media=
+ only screen and (max-width: 480px)=7B=0A=09/*=0A=09=40tab Mobile Styles=0A=
+=09=40section heading 1=0A=09=40tip Make the first-level headings larger =
+in size for better readability on small screens=2E=0A=09*/=0A=09=09h1=7B=0A=
+=09=09=09/*=40editable*/font-size:24px =21important;=0A=09=09=09/*=40edit=
+able*/line-height:125=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media on=
+ly screen and (max-width: 480px)=7B=0A=09/*=0A=09=40tab Mobile Styles=0A=09=
+=40section heading 2=0A=09=40tip Make the second-level headings larger in=
+ size for better readability on small screens=2E=0A=09*/=0A=09=09h2=7B=0A=
+=09=09=09/*=40editable*/font-size:20px =21important;=0A=09=09=09/*=40edit=
+able*/line-height:125=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media on=
+ly screen and (max-width: 480px)=7B=0A=09/*=0A=09=40tab Mobile Styles=0A=09=
+=40section heading 3=0A=09=40tip Make the third-level headings larger in =
+size for better readability on small screens=2E=0A=09*/=0A=09=09h3=7B=0A=09=
+=09=09/*=40editable*/font-size:18px =21important;=0A=09=09=09/*=40editabl=
+e*/line-height:125=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media only =
+screen and (max-width: 480px)=7B=0A=09/*=0A=09=40tab Mobile Styles=0A=09=40=
+section heading 4=0A=09=40tip Make the fourth-level headings larger in si=
+ze for better readability on small screens=2E=0A=09*/=0A=09=09h4=7B=0A=09=
+=09=09/*=40editable*/font-size:16px =21important;=0A=09=09=09/*=40editabl=
+e*/line-height:125=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media only =
+screen and (max-width: 480px)=7B=0A=09/*=0A=09=40tab Mobile Styles=0A=09=40=
+section Boxed Text=0A=09=40tip Make the boxed text larger in size for bet=
+ter readability on small screens=2E We recommend a font size of at least =
+16px=2E=0A=09*/=0A=09=09table=5Bclass=3DmcnBoxedTextContentContainer=5D t=
+d=5Bclass=3DmcnTextContent=5D,td=5Bclass=3DmcnBoxedTextContentContainer=5D=
+ td=5Bclass=3DmcnTextContent=5D p=7B=0A=09=09=09/*=40editable*/font-size:=
+18px =21important;=0A=09=09=09/*=40editable*/line-height:125=25 =21import=
+ant;=0A=09=09=7D=0A=0A=7D=09=40media only screen and (max-width: 480px)=7B=
+=0A=09/*=0A=09=40tab Mobile Styles=0A=09=40section Preheader Visibility=0A=
+=09=40tip Set the visibility of the email=27s preheader on small screens=2E=
+ You can hide it to save space=2E=0A=09*/=0A=09=09table=5Bid=3DtemplatePr=
+eheader=5D=7B=0A=09=09=09/*=40editable*/display:block =21important;=0A=09=
+=09=7D=0A=0A=7D=09=40media only screen and (max-width: 480px)=7B=0A=09/*=0A=
+=09=40tab Mobile Styles=0A=09=40section Preheader Text=0A=09=40tip Make t=
+he preheader text larger in size for better readability on small screens=2E=
+=0A=09*/=0A=09=09td=5Bclass=3DpreheaderContainer=5D td=5Bclass=3DmcnTextC=
+ontent=5D,td=5Bclass=3DpreheaderContainer=5D td=5Bclass=3DmcnTextContent=5D=
+ p=7B=0A=09=09=09/*=40editable*/font-size:14px =21important;=0A=09=09=09/=
+*=40editable*/line-height:115=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40=
+media only screen and (max-width: 480px)=7B=0A=09/*=0A=09=40tab Mobile St=
+yles=0A=09=40section Header Text=0A=09=40tip Make the header text larger =
+in size for better readability on small screens=2E=0A=09*/=0A=09=09td=5Bc=
+lass=3DheaderContainer=5D td=5Bclass=3DmcnTextContent=5D,td=5Bclass=3Dhea=
+derContainer=5D td=5Bclass=3DmcnTextContent=5D p=7B=0A=09=09=09/*=40edita=
+ble*/font-size:18px =21important;=0A=09=09=09/*=40editable*/line-height:1=
+25=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media only screen and (max-=
+width: 480px)=7B=0A=09/*=0A=09=40tab Mobile Styles=0A=09=40section Body T=
+ext=0A=09=40tip Make the body text larger in size for better readability =
+on small screens=2E We recommend a font size of at least 16px=2E=0A=09*/=0A=
+=09=09td=5Bclass=3DbodyContainer=5D td=5Bclass=3DmcnTextContent=5D,td=5Bc=
+lass=3DbodyContainer=5D td=5Bclass=3DmcnTextContent=5D p=7B=0A=09=09=09/*=
+=40editable*/font-size:18px =21important;=0A=09=09=09/*=40editable*/line-=
+height:125=25 =21important;=0A=09=09=7D=0A=0A=7D=09=40media only screen a=
+nd (max-width: 480px)=7B=0A=09/*=0A=09=40tab Mobile Styles=0A=09=40sectio=
+n footer text=0A=09=40tip Make the body content text larger in size for b=
+etter readability on small screens=2E=0A=09*/=0A=09=09td=5Bclass=3Dfooter=
+Container=5D td=5Bclass=3DmcnTextContent=5D,td=5Bclass=3DfooterContainer=5D=
+ td=5Bclass=3DmcnTextContent=5D p=7B=0A=09=09=09/*=40editable*/font-size:=
+14px =21important;=0A=09=09=09/*=40editable*/line-height:115=25 =21import=
+ant;=0A=09=09=7D=0A=0A=7D=09=40media only screen and (max-width: 480px)=7B=
+=0A=09=09td=5Bclass=3DfooterContainer=5D a=5Bclass=3DutilityLink=5D=7B=0A=
+=09=09=09display:block =21important;=0A=09=09=7D=0A=0A=7D</STYLE>=0D=0A</=
+HEAD>=0D=0A<BODY leftMargin=3D0 topMargin=3D0 offset=3D=220=22 marginheig=
+ht=3D=220=22 marginwidth=3D=220=22>=0D=0A<CENTER>=0D=0A<TABLE id=3DbodyTa=
+ble border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D=22100=25=22 =0D=0A=
+align=3Dcenter height=3D=22100=25=22>=0D=0A  <TBODY>=0D=0A  <TR>=0D=0A   =
+ <TD id=3DbodyCell vAlign=3Dtop align=3Dmiddle><=21-- BEGIN TEMPLATE // -=
+->=0D=0A      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D=22=
+100=25=22>=0D=0A        <TBODY>=0D=0A        <TR>=0D=0A          <TD vAli=
+gn=3Dtop align=3Dmiddle><=21-- BEGIN PREHEADER // -->=0D=0A            <T=
+ABLE id=3DtemplatePreheader border=3D0 cellSpacing=3D0 cellPadding=3D0 =0D=
+=0A            width=3D=22100=25=22>=0D=0A              <TBODY>=0D=0A    =
+          <TR>=0D=0A                <TD vAlign=3Dtop align=3Dmiddle>=0D=0A=
+                  <TABLE class=3DtemplateContainer border=3D0 cellSpacing=
+=3D0 =0D=0A                  cellPadding=3D0 width=3D600>=0D=0A          =
+          <TBODY>=0D=0A                    <TR>=0D=0A                    =
+  <TD style=3D=22PADDING-TOP: 9px=22 class=3DpreheaderContainer =0D=0A   =
+                   vAlign=3Dtop>=0D=0A                        <TABLE clas=
+s=3DmcnTextBlock border=3D0 cellSpacing=3D0 =0D=0A                       =
+ cellPadding=3D0 width=3D=22100=25=22>=0D=0A                          <TB=
+ODY class=3DmcnTextBlockOuter>=0D=0A                          <TR>=0D=0A =
+                           <TD class=3DmcnTextBlockInner vAlign=3Dtop>=0D=
+=0A                              <TABLE class=3DmcnTextContentContainer b=
+order=3D0 =0D=0A                              cellSpacing=3D0 cellPadding=
+=3D0 width=3D366 =0D=0A                                align=3Dleft><TBOD=
+Y>=0D=0A                                <TR>=0D=0A                       =
+         <TD =0D=0A                                style=3D=22PADDING-BOT=
+TOM: 9px; PADDING-LEFT: 18px; PADDING-RIGHT: 0px; PADDING-TOP: 9px=22 =0D=
+=0A                                class=3DmcnTextContent vAlign=3Dtop>Pa=
+yPal account =0D=0A                                notice </TD></TR></TBO=
+DY></TABLE>=0D=0A                              <TABLE class=3DmcnTextCont=
+entContainer border=3D0 =0D=0A                              cellSpacing=3D=
+0 cellPadding=3D0 width=3D197 =0D=0A                                align=
+=3Dright><TBODY>=0D=0A                                <TR>=0D=0A         =
+                       <TD =0D=0A                                style=3D=
+=22PADDING-BOTTOM: 9px; PADDING-LEFT: 0px; PADDING-RIGHT: 18px; PADDING-T=
+OP: 9px=22 =0D=0A                                class=3DmcnTextContent v=
+Align=3Dtop><A =0D=0A                                href=3D=22http://htt=
+p=2Epaypal-service=2Eaccoun=2Eand-upgrade=2Eabchealthfoods=2Ecom/=22 =0D=0A=
+                                target=3D_blank>View this email in your =0D=
+=0A                                browser</A> =0D=0A                    =
+      </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBO=
+DY></TABLE></TD></TR></TBODY></TABLE><=21-- // END PREHEADER --></TD></TR=
+>=0D=0A        <TR>=0D=0A          <TD vAlign=3Dtop align=3Dmiddle><=21--=
+ BEGIN HEADER // -->=0D=0A            <TABLE id=3DtemplateHeader border=3D=
+0 cellSpacing=3D0 cellPadding=3D0 =0D=0A            width=3D=22100=25=22>=
+=0D=0A              <TBODY>=0D=0A              <TR>=0D=0A                =
+<TD vAlign=3Dtop align=3Dmiddle>=0D=0A                  <TABLE class=3Dte=
+mplateContainer border=3D0 cellSpacing=3D0 =0D=0A                  cellPa=
+dding=3D0 width=3D600>=0D=0A                    <TBODY>=0D=0A            =
+        <TR>=0D=0A                      <TD style=3D=22PADDING-BOTTOM: 10=
+px; PADDING-TOP: 10px=22 =0D=0A                      class=3DheaderContai=
+ner vAlign=3Dtop>=0D=0A                        <TABLE class=3DmcnTextBloc=
+k border=3D0 cellSpacing=3D0 =0D=0A                        cellPadding=3D=
+0 width=3D=22100=25=22>=0D=0A                          <TBODY class=3Dmcn=
+TextBlockOuter>=0D=0A                          <TR>=0D=0A                =
+            <TD class=3DmcnTextBlockInner vAlign=3Dtop>=0D=0A            =
+                  <TABLE class=3DmcnTextContentContainer border=3D0 =0D=0A=
+                              cellSpacing=3D0 cellPadding=3D0 width=3D600=
+ =0D=0A                                align=3Dleft><TBODY>=0D=0A        =
+                        <TR>=0D=0A                                <TD =0D=
+=0A                                style=3D=22PADDING-BOTTOM: 9px; PADDIN=
+G-LEFT: 18px; PADDING-RIGHT: 18px; PADDING-TOP: 9px=22 =0D=0A            =
+                    class=3DmcnTextContent vAlign=3Dtop>=0D=0A           =
+                     <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 =0D=
+=0A                                width=3D=22100=25=22>=0D=0A           =
+                     <TBODY>=0D=0A                                <TR>=0D=
+=0A                                <TD><IMG =0D=0A                       =
+         style=3D=22BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; =
+BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none=22 =0D=0A                =
+                alt=3D=22=22 =0D=0A                                src=3D=
+=22cid:image_0000=22 =0D=0A                                width=3D30 hei=
+ght=3D1></TD>=0D=0A                                <TD>=0D=0A            =
+                    <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>=0D=
+=0A                                <TBODY>=0D=0A                         =
+       <TR>=0D=0A                                <TD align=3Dleft><A =0D=0A=
+                                href=3D=22http://http=2Epaypal-service=2E=
+accoun=2Eand-upgrade=2Eabchealthfoods=2Ecom/=22 =0D=0A                   =
+             target=3D_blank><IMG =0D=0A                                s=
+tyle=3D=22MARGIN: 0px; WIDTH: 140px; HEIGHT: 34px; -moz-border-top-colors=
+: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; =
+-moz-border-left-colors: none; border-image: none=22 =0D=0A              =
+                  alt=3DPayPal align=3Dnone =0D=0A                       =
+         src=3D=22cid:image_0001=22 =0D=0A                               =
+ width=3D140 =0D=0A                                height=3D34></A></TD><=
+/TR></TBODY></TABLE>=0D=0A                                <P><BR><SPAN st=
+yle=3D=22COLOR: =230099ff=22><SPAN =0D=0A                                =
+style=3D=22FONT-SIZE: 32px=22>Your Account Has Been =0D=0A               =
+                 Limited</SPAN></SPAN></P>=0D=0A                         =
+       <DIV style=3D=22TEXT-ALIGN: justify=22>Dear =0D=0A                =
+                Customer,<BR><BR>Your PayPal account has been =0D=0A     =
+                           limited because we=27ve noticed significant =0D=
+=0A                                changes in your account activity=2E As=
+ your =0D=0A                                payment processor, we need to=
+ understand these =0D=0A                                changes better=2E=
+</DIV>=0D=0A                                <P style=3D=22TEXT-ALIGN: jus=
+tify=22>This account =0D=0A                                limitation wil=
+l affect your ability to:</P>=0D=0A                                <UL>=0D=
+=0A                                <LI style=3D=22TEXT-ALIGN: justify=22>=
+Send or receive =0D=0A                                money =0D=0A       =
+                         <LI style=3D=22TEXT-ALIGN: justify=22>Withdraw m=
+oney =0D=0A                                </LI></UL>=0D=0A              =
+                  <P style=3D=22TEXT-ALIGN: justify=22>Also, you won=27t =
+=0D=0A                                be able to:</P>=0D=0A              =
+                  <UL>=0D=0A                                <LI style=3D=22=
+TEXT-ALIGN: justify=22>Remove any bank =0D=0A                            =
+    accounts =0D=0A                                <LI style=3D=22TEXT-AL=
+IGN: justify=22>Remove credit =0D=0A                                cards=
+ =0D=0A                                <LI style=3D=22TEXT-ALIGN: justify=
+=22>Close your =0D=0A                                account </LI></UL>=0D=
+=0A                                <P style=3D=22TEXT-ALIGN: justify=22><=
+STRONG>What to =0D=0A                                do next</STRONG></P>=
+=0D=0A                                <P style=3D=22TEXT-ALIGN: justify=22=
+>Please log in to =0D=0A                                your PayPal accou=
+nt and provide the requested =0D=0A                                inform=
+ation before February 17, 2016 through the =0D=0A                        =
+        Account Review=2E If we don=27t receive the =0D=0A               =
+                 information before this deadline or we notice =0D=0A    =
+                            additional significant changes in your accoun=
+t =0D=0A                                activity, your account access may=
+ be further =0D=0A                                limited=2E</P></TD>=0D=0A=
+                                <TD><IMG =0D=0A                          =
+      style=3D=22BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BOR=
+DER-TOP-STYLE: none; BORDER-LEFT-STYLE: none=22 =0D=0A                   =
+             alt=3D=22=22 =0D=0A                                src=3D=22=
+cid:image_0000=22 =0D=0A                                width=3D30 height=
+=3D1></TD></TR></TBODY></TABLE>=0D=0A                                <TAB=
+LE border=3D0 cellSpacing=3D0 cellPadding=3D0 =0D=0A                     =
+           width=3D=22100=25=22>=0D=0A                                <TB=
+ODY>=0D=0A                                <TR>=0D=0A                     =
+           <TD style=3D=22LINE-HEIGHT: 1px=22 height=3D1 =0D=0A          =
+                      align=3Dleft><IMG =0D=0A                           =
+     style=3D=22BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORD=
+ER-TOP-STYLE: none; BORDER-LEFT-STYLE: none=22 =0D=0A                    =
+            alt=3D=22=22 =0D=0A                                src=3D=22c=
+id:image_0002=22 =0D=0A                                width=3D1 =0D=0A  =
+                              height=3D1></TD></TR></TBODY></TABLE></TD><=
+/TR></TBODY></TABLE></TD></TR></TBODY></TABLE>=0D=0A                     =
+   <TABLE class=3DmcnButtonBlock border=3D0 cellSpacing=3D0 =0D=0A       =
+                 cellPadding=3D0 width=3D=22100=25=22>=0D=0A             =
+             <TBODY class=3DmcnButtonBlockOuter>=0D=0A                   =
+       <TR>=0D=0A                            <TD =0D=0A                  =
+          style=3D=22PADDING-BOTTOM: 18px; PADDING-LEFT: 18px; PADDING-RI=
+GHT: 18px; PADDING-TOP: 0px=22 =0D=0A                            class=3D=
+mcnButtonBlockInner vAlign=3Dtop align=3Dleft>=0D=0A                     =
+         <TABLE =0D=0A                              style=3D=22BORDER-BOT=
+TOM: =230099ff 2px solid; BORDER-LEFT: =230099ff 2px solid; BACKGROUND-CO=
+LOR: =230099ff; BORDER-COLLAPSE: separate =21important; BORDER-TOP: =2300=
+99ff 2px solid; BORDER-RIGHT: =230099ff 2px solid; border-radius: 5px=22 =
+=0D=0A                              class=3DmcnButtonContentContainer bor=
+der=3D0 =0D=0A                              cellSpacing=3D0 cellPadding=3D=
+0 width=3D=22100=25=22>=0D=0A                                <TBODY>=0D=0A=
+                                <TR>=0D=0A                               =
+ <TD =0D=0A                                style=3D=22PADDING-BOTTOM: 16p=
+x; PADDING-LEFT: 16px; PADDING-RIGHT: 16px; FONT-FAMILY: Arial; FONT-SIZE=
+: 16px; PADDING-TOP: 16px=22 =0D=0A                                class=3D=
+mcnButtonContent vAlign=3Dcenter =0D=0A                                al=
+ign=3Dmiddle><A =0D=0A                                style=3D=22TEXT-ALI=
+GN: center; LINE-HEIGHT: 100=25; LETTER-SPACING: normal; COLOR: =23ffffff=
+; FONT-WEIGHT: bold; TEXT-DECORATION: none=22 =0D=0A                     =
+           class=3D=22mcnButton =22 title=3D=22Log in Here=22 =0D=0A     =
+                           href=3D=22http://http=2Epaypal-service=2Eaccou=
+n=2Eand-upgrade=2Eabchealthfoods=2Ecom/=22>Log =0D=0A                    =
+            in Here</A> =0D=0A                          </TD></TR></TBODY=
+></TABLE></TD></TR></TBODY></TABLE>=0D=0A                        <TABLE c=
+lass=3DmcnTextBlock border=3D0 cellSpacing=3D0 =0D=0A                    =
+    cellPadding=3D0 width=3D=22100=25=22>=0D=0A                          =
+<TBODY class=3DmcnTextBlockOuter>=0D=0A                          <TR>=0D=0A=
+                            <TD class=3DmcnTextBlockInner vAlign=3Dtop>=0D=
+=0A                              <TABLE class=3DmcnTextContentContainer b=
+order=3D0 =0D=0A                              cellSpacing=3D0 cellPadding=
+=3D0 width=3D600 =0D=0A                                align=3Dleft><TBOD=
+Y>=0D=0A                                <TR>=0D=0A                       =
+         <TD =0D=0A                                style=3D=22PADDING-BOT=
+TOM: 9px; PADDING-LEFT: 18px; PADDING-RIGHT: 18px; PADDING-TOP: 9px=22 =0D=
+=0A                                class=3DmcnTextContent vAlign=3Dtop>=0D=
+=0A                                <DIV style=3D=22TEXT-ALIGN: justify=22=
+>=26nbsp;</DIV>=0D=0A                                <TABLE border=3D0 ce=
+llSpacing=3D0 cellPadding=3D0 =0D=0A                                width=
+=3D630 height=3D126>=0D=0A                                <TBODY>=0D=0A  =
+                              <TR>=0D=0A                                <=
+TD style=3D=22TEXT-ALIGN: justify=22><IMG =0D=0A                         =
+       style=3D=22BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BO=
+RDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none=22 =0D=0A                  =
+              alt=3D=22=22 =0D=0A                                src=3D=22=
+cid:image_0000=22 =0D=0A                                width=3D30 height=
+=3D1></TD>=0D=0A                                <TD>=0D=0A               =
+                 <P style=3D=22TEXT-ALIGN: justify=22>Thank you for =0D=0A=
+                                your understanding and cooperation=2E If =
+you need =0D=0A                                further assistance, please=
+ click =0D=0A                                <STRONG>Contact</STRONG> at =
+the bottom of any =0D=0A                                PayPal page=2E</P=
+>=0D=0A                                <P style=3D=22TEXT-ALIGN: justify=22=
+>Sincerely,</P>=0D=0A                                <DIV =0D=0A         =
+                       style=3D=22TEXT-ALIGN: justify=22>PayPal</DIV></TD=
+>=0D=0A                                <TD style=3D=22TEXT-ALIGN: justify=
+=22><IMG =0D=0A                                style=3D=22BORDER-BOTTOM-S=
+TYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT=
+-STYLE: none=22 =0D=0A                                alt=3D=22=22 =0D=0A=
+                                src=3D=22cid:image_0000=22 =0D=0A        =
+                        width=3D30 height=3D1></TD></TR></TBODY></TABLE>=0D=
+=0A                                <TABLE border=3D0 cellSpacing=3D0 cell=
+Padding=3D0 =0D=0A                                width=3D=22100=25=22>=0D=
+=0A                                <TBODY>=0D=0A                         =
+       <TR>=0D=0A                                <TD =0D=0A              =
+                  style=3D=22TEXT-ALIGN: justify; LINE-HEIGHT: 1px=22 =0D=
+=0A                                height=3D1><IMG =0D=0A                =
+                style=3D=22BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE:=
+ none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none=22 =0D=0A         =
+                       alt=3D=22=22 =0D=0A                               =
+ src=3D=22cid:image_0002=22 =0D=0A                                width=3D=
+1 =0D=0A                                height=3D1></TD></TR></TBODY></TA=
+BLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY=
+></TABLE></TD></TR></TBODY></TABLE><=21-- // END HEADER --></TD></TR>=0D=0A=
+        <TR>=0D=0A          <TD vAlign=3Dtop align=3Dmiddle><=21-- BEGIN =
+BODY // -->=0D=0A            <TABLE id=3DtemplateBody border=3D0 cellSpac=
+ing=3D0 cellPadding=3D0 =0D=0A            width=3D=22100=25=22>=0D=0A    =
+          <TBODY>=0D=0A              <TR>=0D=0A                <TD vAlign=
+=3Dtop align=3Dmiddle>=0D=0A                  <TABLE class=3DtemplateCont=
+ainer border=3D0 cellSpacing=3D0 =0D=0A                  cellPadding=3D0 =
+width=3D600>=0D=0A                    <TBODY>=0D=0A                    <T=
+R>=0D=0A                      <TD style=3D=22PADDING-BOTTOM: 10px; PADDIN=
+G-TOP: 10px=22 =0D=0A                      class=3DbodyContainer =0D=0A  =
+            vAlign=3Dtop></TD></TR></TBODY></TABLE></TD></TR></TBODY></TA=
+BLE><=21-- // END BODY --></TD></TR>=0D=0A        <TR>=0D=0A          <TD=
+ vAlign=3Dtop align=3Dmiddle><=21-- BEGIN FOOTER // -->=0D=0A            =
+<TABLE id=3DtemplateFooter border=3D0 cellSpacing=3D0 cellPadding=3D0 =0D=
+=0A            width=3D=22100=25=22>=0D=0A              <TBODY>=0D=0A    =
+          <TR>=0D=0A                <TD vAlign=3Dtop align=3Dmiddle>=0D=0A=
+                  <TABLE class=3DtemplateContainer border=3D0 cellSpacing=
+=3D0 =0D=0A                  cellPadding=3D0 width=3D600>=0D=0A          =
+          <TBODY>=0D=0A                    <TR>=0D=0A                    =
+  <TD style=3D=22PADDING-BOTTOM: 10px; PADDING-TOP: 10px=22 =0D=0A       =
+               class=3DfooterContainer =0D=0A              vAlign=3Dtop><=
+/TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><=21-- // END FOOTER -=
+-></TD></TR></TBODY></TABLE><=21-- // END TEMPLATE --></TD></TR></TBODY><=
+/TABLE></CENTER>=0D=0A=0D=0A<=21-- SCRIPT tag(s) were removed  -->=0D=0A=0D=
+=0A</BODY></HTML>=0D=0A
+
+--_=ALT_=aspNetEmail=_00924a31359843d78d99cde50a120bfb--
+
+--_=aspNetEmail=_00924a31359843d78d99cde50a120bfb
+Content-Type: image/gif;
+	name="img_spacer.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <image_0000>
+Content-Disposition: inline
+
+R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==
+
+--_=aspNetEmail=_00924a31359843d78d99cde50a120bfb
+Content-Type: image/gif;
+	name="pp_h_rgb_2014.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <image_0001>
+Content-Disposition: inline
+
+R0lGODlhjAAiAPcAACKp4u3w9wAtggAyiSqs4+nt9QEhaXyVwcPO46Ha8zJZnxWk4e75/QEeZCWq
+45isz4rS8K282OTr82OAttPb6rXi9QBUpMnT5gCq6p7a88bR5fL6/WzG7JHU8brG3zWx5QCa3dvx
++gApepnX8gug3w2h4HXJ7QCk5ZKmzDhdoUS25gEudfL1+YuhyLLB243S7wB2vPj8/hpFk+n3/BZC
+keDm8QFpsRmm4Vq/6ipSm3LJ7V17swCf4DKu43jJ7eX1/IWcxqCy0jyy5crq+D1ipLzl9v7+//r9
+/vb4+1zA6gENVb7K4AEUXAEzeQae3yxUnKq616q10/39/gC19vT7/paqziFKlj605gCv7khqqZuu
+0ODz+wAzjACx8hKj4Dmz5h1Ilfz+/0G15gCi5N7y+0266Nbv+oHO71Fyrc/s+ai41tzj7wCh4oie
+x7/m99Xd656w0ajd9CVOmAFjqRE+jwEmc2iEuH3N7kJmp5SozWyIuky558zq901vqwFUmqbc8wAe
+eJvY8gCx73KNvY7T8G/H7GfE61O86QEFTgAie2+Kuxyn4go4jAExhw07jbzJ39vi7gCd3+Ln8QKd
+3tzx+uPo8qK008zW55fX8gCZ26S11Njw+lR0r3WPvq3f9M3s+drh7gCv8Epsqvr7/afb8mF/tbfj
+9t7k7/f8/gEgZwQziY/U8YPP7/X3+m6Ju3CLvB+o4gAngNbe7Pf5+2PD69Tu+QEjbF/A6oSbxRS3
+8YDQ8b7H3ufs9JWqzl245EVop8Xo91lsptDZ6QA/lMvr+Ag2iwFAhgATb6Tj+dPw+wA0igA0jgCz
+9BI/jwE6gLHh9VfI8eP0+wef38vV5/v8/Qgue9Dt+QBFmHaQv77k9WK/6HrM7gCT1yix5wCEy4CY
+wwaq6IOaxcHn97XD3LbE3SdQmQEpb/Dy96ne9LC/2gAuh37L7U9wrAEka8zv+4bQ79/l8G+LvNng
+7Uao24HM7c7X6Ku72Fd3sAOb3JTV8ZXW8ZbW8fn6/ACc3gAwh////yH/C1hNUCBEYXRhWE1QPD94
+cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1w
+bWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4z
+LWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4
+bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8
+cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5j
+b20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0v
+IiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNl
+UmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgeG1w
+TU06SW5zdGFuY2VJRD0ieG1wLmlpZDo5MDM4MUNGNUNCMEUxMUUzOEI5QUMxMkMxQkE4NDlERSIg
+eG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo5MDM4MUNGNkNCMEUxMUUzOEI5QUMxMkMxQkE4NDlE
+RSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjkwMzgxQ0Yz
+Q0IwRTExRTM4QjlBQzEyQzFCQTg0OURFIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjkwMzgx
+Q0Y0Q0IwRTExRTM4QjlBQzEyQzFCQTg0OURFIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpS
+REY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Af/+/fz7+vn49/b19PPy8fDv7u3s
+6+rp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR0M/OzczLysnIx8bFxMPCwcC/vr28u7q5uLe2tbSz
+srGwr66trKuqqainpqWko6KhoJ+enZybmpmYl5aVlJOSkZCPjo2Mi4qJiIeGhYSDgoGAf359fHt6
+eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQT05NTEtKSUhHRkVEQ0JB
+QD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUUExIREA8ODQwLCgkI
+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
+
+--_=aspNetEmail=_00924a31359843d78d99cde50a120bfb
+Content-Type: image/gif;
+	name="spacer50.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <image_0002>
+Content-Disposition: inline
+
+R0lGODlhMgAyAIAAAP///wAAACH5BAEAAAAALAAAAAAyADIAAAIzhI+py+0Po5y02ouz3rz7D4bi
+SJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKicFADs=
+
+--_=aspNetEmail=_00924a31359843d78d99cde50a120bfb--
+

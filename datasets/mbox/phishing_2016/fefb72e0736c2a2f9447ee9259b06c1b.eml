@@ -1,0 +1,56 @@
+Return-Path: jtc@eservices.virginia.edu
+Delivered-To: jose@monkey.org
+X-FDA: 71195731740.06.queen44_1babca86b7d5a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 40,2.5,0,ac476112ac289b83,d41d8cd98f00b204,jtc@eservices.virginia.edu,:jtc@virginia.edu,RULES_HIT:41:72:355:379:582:962:967:973:978:983:988:989:994:995:1152:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1436:1437:1516:1517:1518:1522:1534:1537:1575:1588:1589:1592:1594:1692:1711:1730:1737:1748:1766:1792:2194:2198:2199:2200:2525:2560:2563:2610:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:5007:6261:6642:6674:6678:6687:8599:9025:9077:9388:10004:10049:10086:11026:11257:11658:11914:12043:12521:12561:12663:12776:13095:13234:13236:13253:14515:14651:21080:21251:30054:30055:30069:30070,0,RBL:128.143.2.17:@eservices.virginia.edu:.lbl8.mailshell.net-62.16.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:71,LUA_SUMMARY:none
+X-HE-Tag: queen44_1babca86b7d5a
+X-Filterd-Recvd-Size: 1567
+Received: from adams1.eservices.virginia.edu (adams1.eservices.Virginia.EDU [128.143.2.17])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 16 Feb 2016 22:19:50 +0000 (UTC)
+Received: from HIVE00-8033.view.eservices.virginia.edu (128.143.187.7) by
+ adams1.eservices.virginia.edu (10.250.205.17) with Microsoft SMTP Server
+ (TLS) id 14.3.279.2; Tue, 16 Feb 2016 17:19:49 -0500
+Content-Type: multipart/alternative; boundary="===============1762895527=="
+MIME-Version: 1.0
+Subject: IMPORTANT- Online Banking Access Restricted
+To: Recipients <jtc@virginia.edu>
+From: USAA <jtc@virginia.edu>
+Date: Tue, 16 Feb 2016 15:19:19 -0700
+Message-ID: <abd5a03a-45ac-404b-9e7f-c809173c31bf@ADAMS1.eservices.virginia.edu>
+Return-Path: jtc@virginia.edu
+X-Originating-IP: [128.143.187.7]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 76
+
+--===============1762895527==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+    =
+
+=20
+--===============1762895527==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><body>
+
+<p>
+<a href=3D"http://richellebrooks.com/Servsn.htm">
+<img alt=3D"Click on Show Images to Read Secured Message" src=3D"http://s10=
+.postimg.org/dvtu79k15/New_Usaa_msg_2.png" border=3D"0" ></a>
+</p>
+
+</body></html>
+
+--===============1762895527==--

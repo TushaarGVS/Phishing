@@ -1,0 +1,151 @@
+Return-Path: vperez@mc.edu.ph
+Delivered-To: jose@monkey.org
+X-FDA: 70911559782.06.hate72_1bb2339e54d10
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,613294f223c87d95,d41d8cd98f00b204,vperez@mc.edu.ph,,RULES_HIT:10:41:72:355:379:387:582:960:962:967:973:978:983:988:989:1021:1029:1152:1158:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1535:1543:1561:1575:1588:1589:1592:1594:1691:1711:1714:1730:1749:1777:1792:2525:2526:2527:2528:2561:2564:2610:2682:2685:2693:2859:2890:2902:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3392:3866:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4379:4552:5007:6117:6261:6630:6658:6678:7688:8603:8957:9025:9163:9388:9855:9868:10004:10026:10049:10197:10234:10346:10400:10919:11656:11658:11855:11914:12043:12438:12519:12555:13139:13163:13199:13229:13237:14094:14106:14659:21212:30001:30022:30026:30054:30069:30070:30083,0,RBL:121.97.83.17:@mc.edu.ph:.lbl8.mailshell.net-62.12.186.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fe,MSBL:0,DNSBL:neutral,Custom_
+X-HE-Tag: hate72_1bb2339e54d10
+X-Filterd-Recvd-Size: 5180
+Received: from mcemail.mc.edu.ph (mcemail.mc.edu.ph [121.97.83.17])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 30 Nov 2015 14:53:10 +0000 (UTC)
+Received: from MCEMAIL.mc.edu.ph ([172.27.35.5]) by MCEMAIL.mc.edu.ph
+ ([172.27.35.5]) with mapi id 14.03.0123.003; Mon, 30 Nov 2015 22:43:48 +0800
+From: "Perez, Vicka Rosary E." <vperez@mc.edu.ph>
+Subject: Your mailbox size notification
+Thread-Topic: Your mailbox size notification
+Thread-Index: AdErffc3xB2vWmn4R7GT3aLQrdnjMw==
+Date: Mon, 30 Nov 2015 14:43:46 +0000
+Message-ID: <3B56A4BF5B710E49B4F05E603A0BA66E032B9707@MCEMAIL.mc.edu.ph>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [209.197.30.87]
+Content-Type: multipart/alternative;
+	boundary="_000_3B56A4BF5B710E49B4F05E603A0BA66E032B9707MCEMAILmceduph_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 272
+
+--_000_3B56A4BF5B710E49B4F05E603A0BA66E032B9707MCEMAILmceduph_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your email account has used 23.7 GB (95%) of 25 GB.
+
+You will be unable to send and receive messages if you do not reset your ac=
+count storage space to a higher limit.
+
+Click Manage<http://allinit.net.au/~arabictr/wp-admin/a1122> to reset and v=
+alidate your account.
+
+Mail Desk
+
+
+--_000_3B56A4BF5B710E49B4F05E603A0BA66E032B9707MCEMAILmceduph_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+h2
+	{mso-style-priority:9;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 2";
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:EN-GB;
+	font-weight:bold;}
+span.EmailStyle18
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-GB" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">Your email account has used 23.7 GB (95%) of 25 GB.&nbsp=
+;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">You will be unable to send and receive messages if you d=
+o not reset your account storage space to a higher limit.<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">Click<span class=3D"apple-converted-space">&nbsp;</span>=
+<a href=3D"http://allinit.net.au/~arabictr/wp-admin/a1122" target=3D"_blank=
+"><span style=3D"color:#1155CC">Manage</span></a><span class=3D"apple-conve=
+rted-space">&nbsp;</span>to
+ reset and validate your account.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">Mail Desk<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_3B56A4BF5B710E49B4F05E603A0BA66E032B9707MCEMAILmceduph_--

@@ -1,0 +1,99 @@
+Return-Path: www@www.e5.physik.tu-dortmund.de
+Delivered-To: jose@monkey.org
+X-FDA: 70820086512.16.magic53_2531277e7e406
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,0d3ef76616142726,d41d8cd98f00b204,www@www.e5.physik.tu-dortmund.de,:,RULES_HIT:41:72:355:375:379:962:967:969:973:978:983:988:989:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1515:1516:1517:1534:1542:1566:1588:1589:1592:1711:1714:1730:1747:1777:1792:2198:2199:2393:2525:2527:2538:2539:2543:2560:2563:2682:2685:2859:2890:2896:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3362:3866:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4416:4552:4605:5007:6261:6669:6674:6703:8518:8583:8603:8634:8784:8957:9025:9072:9388:10004:10030:10049:10249:10346:10489:11658:11914:12043:12050:12051:12555:12764:12776:12955:12958:13139:13894:14051:14093:21080:30001:30021:30022:30026:30051:30054:30067:30070,0,RBL:129.217.160.7-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:70,LUA_SUMMARY:none
+X-HE-Tag: magic53_2531277e7e406
+X-Filterd-Recvd-Size: 3798
+Received: from www.e5.physik.tu-dortmund.de (www.e5.physik.tu-dortmund.de [129.217.160.7])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  5 Nov 2015 09:54:15 +0000 (UTC)
+Received: from www.e5.physik.tu-dortmund.de (www.e5.physik.tu-dortmund.de [129.217.160.7])
+	by www.e5.physik.tu-dortmund.de (8.14.5/8.14.5) with ESMTP id tA59sBBS014771
+	for <jose@monkey.org>; Thu, 5 Nov 2015 09:54:11 GMT
+	(envelope-from www@www.e5.physik.tu-dortmund.de)
+Received: (from www@localhost)
+	by www.e5.physik.tu-dortmund.de (8.14.5/8.14.5/Submit) id tA59sBjE014770;
+	Thu, 5 Nov 2015 09:54:11 GMT
+	(envelope-from www)
+Date: Thu, 5 Nov 2015 09:54:11 GMT
+Message-Id: <201511050954.tA59sBjE014770@www.e5.physik.tu-dortmund.de>
+To: jose@monkey.org
+Subject: Administrator
+From: Administrator <mail@admin.com>
+Reply-To: mail@admin.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 236
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 2</title>
+</head>
+
+<body>
+
+<font face="Arial, Helvetica, sans-serif" color="black" size="2">
+<div class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal">
+	<span style="font-size:13.0pt">Dear User,</span> 
+  </div>
+<div class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal">
+	<span style="font-size:9.0pt"> </span> 
+  </div>
+</font>
+<font face="Arial, Helvetica, sans-serif" color="black" style="font-size: 13pt">
+<div class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal">
+	Your E-mail account has exceeded its limit and needs to be verified, if not 
+	verified<br>
+	within 24 hours.</font><font face="Arial, Helvetica, sans-serif" color="black" size="2"></div>
+<table style="border-collapse:collapse;border:none" border="1" cellpadding="0" cellspacing="0">
+	<tr style="height:24.25pt">
+		<td style="width: 189.9pt; height: 24.25pt; border: 1.0pt solid black; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in; background: #ffc000" valign="top" width="253">
+		<div class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal">
+			<span style="font-size:4.0pt"> </span> 
+      	</div>
+		<div class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal">
+			<span style="font-size: 14pt"><b>4890</b></span><b><span style="font-size:14.0pt">MB 
+			Space used</span></b> 
+      	</div>
+		</td>
+		<td style="width:13.1pt;border:solid black 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:24.25pt" valign="top" width="17">
+		<div class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal">
+			  
+      	</div>
+		</td>
+	</tr>
+</table>
+<div class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt">
+	Current used space of 4000MB 
+  </div>
+<div class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal">
+	<br>
+ </div>
+<div class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:normal">
+	<font face="Arial, Helvetica, sans-serif" color="black" style="font-size: 13pt">
+	we shall suspend your account
+	<a href="http://www.gassogasso.com/modules/mod_custom/loud/loud/index.html">Click</a> 
+	Here to verify your email account</font><span style="font-size:12.0pt">
+	</span></div>
+<div class="MsoNormal" style="line-height:normal">
+	<span style="font-size:7.5pt;color:#666666">Copyright © 2015 </span>
+	<span style="font-size:7.5pt;color:#003399">Email Administrator</span>
+	<span style="font-size:7.5pt;color:#666666">. All rights reserved.</span>
+  </div>
+</font>
+
+</body>
+
+</html>
+
+

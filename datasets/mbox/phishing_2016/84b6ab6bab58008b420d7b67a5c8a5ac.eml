@@ -1,0 +1,106 @@
+Return-Path: chel@online.no
+Delivered-To: jose@monkey.org
+X-FDA: 71297985948.17.shoes94_76278a88a1a06
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,b1b24050130c94c8,d41d8cd98f00b204,chel@online.no,:,RULES_HIT:41:72:355:375:379:474:543:967:973:978:983:988:989:1212:1216:1224:1256:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1437:1515:1516:1517:1534:1543:1571:1685:1699:1711:1714:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2561:2564:2682:2685:2859:2890:2894:2911:2916:2919:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3351:3586:3865:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4362:4425:5007:6261:6650:6669:8603:8885:9025:9059:9165:9388:9411:9908:10004:10346:10400:11473:11658:11914:12043:12219:12262:12679:12740:12955:12958:12967:13110:13139:13141:13161:13229:13230:14094:14096:14159:14721:21080:30001:30003:30020:30022:30037:30051:30054:30065:30070:30074,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:error,Custom_rules:0:0:0,LFtime:2000,LUA_SUMMARY:none
+X-HE-Tag: shoes94_76278a88a1a06
+X-Filterd-Recvd-Size: 4182
+Received: from nmsh3.e.nsc.no (nmsh3.e.nsc.no [193.213.121.74])
+	by imf08.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Wed, 16 Mar 2016 02:36:51 +0000 (UTC)
+Received: from LPGPORSGRUNN_PO (ti0023a400-4051.bb.online.no [88.89.191.239])
+	by nmsh3.nsc.no (8.14.7/8.14.7) with ESMTP id u2G2anvu017571
+	for <jose@monkey.org>; Wed, 16 Mar 2016 03:36:50 +0100 (MET)
+Message-ID: <03e59602-42445-5c721505560995@lpgporsgrunn_po>
+From: "Apple" <chel@online.no>
+To: jose@monkey.org
+Subject: Apple account unusual sign-in activity
+Date: Wed, 16 Mar 2016 03:35:49 +0100
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 116
+
+</div>
+<div>
+<table dir="ltr">
+<tbody>
+<tr>
+<td style="padding: 0pt; font-family: 'Segoe UI Semibold','Segoe UI Bold','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size: 17px; color: rgb(112, 112, 112);">
+Apple account</td>
+</tr>
+<tr>
+<td style="padding: 0pt; font-family: 'Segoe UI Light','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size: 41px; color: rgb(38, 114, 236);">
+Unusual sign-in activity</td>
+</tr>
+<tr>
+<td style="padding: 25px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+
+We detected something unusual about a recent sign-in to the Apple account. <a dir="ltr" href="" style="color: rgb(38, 114, 236); text-decoration: none;" target="_blank" rel="noreferrer">
+ To help keep you safe, we required an extra security challenge.</td>
+</tr>
+<tr>
+<td style="padding: 25px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+Sign-in details:</td>
+</tr>
+<tr>
+<td style="padding: 6px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+Country/region: Russia Federation</td>
+</tr>
+<tr>
+
+<td style="padding: 6px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+IP address: 46.36.17.5</td>
+</tr>
+<tr>
+<td style="padding: 6px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+Date: 3/16/2016 02:49 (EST)</td>
+</tr>
+<tr>
+<td style="padding: 25px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+If this was you, then you can safely ignore this email.</td>
+</tr>
+<tr>
+<td style="padding: 25px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+If you're not sure this was you, a malicious user might have your password. Please review your recent activity and we'll help you take corrective action.</td>
+
+</tr>
+<tr>
+<td style="padding: 25px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+<table border="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: rgb(38, 114, 236); padding: 5px 20px; min-width: 50px;" bgcolor="#2672ec">
+<a href="http://pyhklitr.com/qr/f" style="font-family: 'Segoe UI Semibold','Segoe UI Bold','Segoe UI','Helvetica Neue Medium',Arial,sans-serif; font-size: 14px; text-align: center; text-decoration: none; font-weight: 600; letter-spacing: 0.02em; color: rgb(255, 255, 255);" target="_blank" rel="noreferrer">Review
+recent activity</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 25px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+To opt out or change where you receive security notifications, <a href="http://pyhklitr.com/qr/" style="color: rgb(38, 114, 236); text-decoration: none;" target="_blank" rel="noreferrer">
+
+click here</a>.</td>
+</tr>
+<tr>
+<td style="padding: 25px 0pt 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+Thanks,</td>
+</tr>
+<tr>
+<td style="padding: 0pt; font-family: 'Segoe UI',Tahoma,Verdana,Arial,sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+The Apple account team</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+</div>
+

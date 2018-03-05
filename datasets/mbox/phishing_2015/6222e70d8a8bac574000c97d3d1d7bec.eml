@@ -1,0 +1,215 @@
+Return-Path: <fileshare@dropbox.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 8D687F4005
+	for <jose@login.monkey.org>; Wed, 26 Aug 2015 13:40:29 -0500 (CDT)
+Received: from smtpin05.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 6021C34E382
+	for <jose@login.monkey.org>; Wed, 26 Aug 2015 18:40:26 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70563767652.05.cats38_3dedc207e794b
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,4028deda69e6493f,d41d8cd98f00b204,fileshare@dropbox.com,:fileshare@dropbox.com,RULES_HIT:2:41:72:379:455:800:962:966:967:973:983:988:989:1189:1208:1221:1254:1260:1261:1263:1313:1314:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1567:1570:1571:1575:1588:1589:1592:1594:1714:1730:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2549:2566:2610:2682:2685:2741:2859:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3585:3867:3868:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4119:4180:4181:4385:4552:4699:5007:6261:6650:6678:6687:7652:7903:8568:8603:8957:9025:9040:9388:9416:9908:10004:10049:10214:10234:10346:11233:11473:11657:11658:11914:12043:12438:12517:12519:12561:12679:12740:13110:13235:13236:13237:14106:14195:14515:21063:21080:21212:21222,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: cats38_3dedc207e794b
+X-Filterd-Recvd-Size: 8632
+Received: from server.flowsocietylacrosse.com (server.flowsocietylacrosse.com [192.163.229.113])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 26 Aug 2015 18:40:25 +0000 (UTC)
+Received: from [50.252.200.121] (port=60981 helo=[172.16.32.30])
+	by server.flowsocietylacrosse.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <fileshare@dropbox.com>)
+	id 1ZUfcK-0005uA-FC; Wed, 26 Aug 2015 18:40:13 +0000
+Content-Type: multipart/alternative; boundary="===============0811323890=="
+MIME-Version: 1.0
+Subject: PENDING NOTIFICATION 
+To: Recipients <fileshare@dropbox.com>
+From: "DROPBOX"<fileshare@dropbox.com>>
+Date: Wed, 26 Aug 2015 14:40:07 -0400
+Reply-To: jake_tu
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.flowsocietylacrosse.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - dropbox.com
+X-Get-Message-Sender-Via: server.flowsocietylacrosse.com: authenticated_id: smtp@flowsocietylacrosse.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 159
+
+You will not see this in a MIME-aware mail reader.
+--===============0811323890==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ =
+
+   =
+
+  =
+
+   =
+
+   =
+
+  	 Someone just shared some Document with you via Dropbox, =
+
+
+We need to verify your email address to be sure Document is been viewed by =
+You.
+
+
+ View shared Document
+ =
+
+  NOTE : You are accessing a highly secured important Document.
+
+  =
+
+   Welcome to Dropbox! =
+
+Dropbox makes it easy to create, store and share online documents, spreadsh=
+eets and presentations.
+Dropbox Team Note: Get more free capacity .
+
+	 =
+
+  =
+
+ =
+
+   =
+
+   =
+
+   	 =A9 2015 Dropbox
+ =
+
+
+
+--===============0811323890==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P>
+<TABLE style=3D"BORDER-TOP: rgb(220,234,245) 1px solid; BORDER-RIGHT: rgb(2=
+20,234,245) 1px solid; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-BOTTO=
+M: rgb(220,234,245) 1px solid; TEXT-TRANSFORM: none; COLOR: rgb(34,34,34); =
+FONT: 14px arial, sans-serif; BORDER-LEFT: rgb(220,234,245) 1px solid; LETT=
+ER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -=
+webkit-text-stroke-width: 0px; border-radius: 4px" cellSpacing=3D0 cellPadd=
+ing=3D0 align=3Dcenter border=3D0>
+<TBODY>
+<TR>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" height=3D6 colSpa=
+n=3D3></TD></TR>
+<TR style=3D"LINE-HEIGHT: 0px">
+<TD style=3D"FONT-SIZE: 0px; FONT-FAMILY: arial, sans-serif; MARGIN: 0px" h=
+eight=3D1 width=3D"100%" align=3Dcenter><IMG class=3DCToWUd style=3D"WIDTH:=
+ 40px; MAX-HEIGHT: 73px" alt=3D"" src=3D"https://ci6.googleusercontent.com/=
+proxy/qWDXNAP_TOSBYiPU0LLlaL20XyvHYpR5Wjt7ZrwC7sFGXFV9xwWcU6EZz4ADjZGpDlKQp=
+KcYslWST3yhyOTp_Qja9pmMsiVEEC_kBkYk2erqGyElr0-6YQ=3Ds0-d-e1-ft#https://www.=
+dropbox.com/static/images/emails/glyph/glyph_34@2x.png" width=3D40></TD></T=
+R>
+<TR>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px">
+<TABLE style=3D"LINE-HEIGHT: 25px" cellSpacing=3D0 cellPadding=3D0 align=3D=
+center border=3D0>
+<TBODY>
+<TR>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" height=3D30 colSp=
+an=3D3></TD></TR>
+<TR>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" width=3D36></TD>
+<TD style=3D"FONT-SIZE: 11pt; MAX-WIDTH: 454px; FONT-FAMILY: proxima_nova, =
+'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unic=
+ode', Tahoma, 'Sans Serif'; BORDER-COLLAPSE: collapse; COLOR: rgb(68,68,68)=
+; MARGIN: 0px" vAlign=3Dtop width=3D454 align=3Dleft><FONT size=3D+0><FONT =
+size=3D+0>Someone just<SPAN class=3DApple-converted-space>&nbsp;</SPAN></FO=
+NT><FONT size=3D+0>shared some Document with you via Dropbox, <BR><BR>We ne=
+ed to verify your email address to be sure Document is been viewed by You.<=
+/FONT><FONT size=3D+0></FONT></FONT><BR><BR><FONT size=3D+0></FONT><BR>
+<CENTER><A style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; MAX-WIDTH: 210p=
+x; BORDER-TOP: rgb(19,115,181) 1px solid; FONT-FAMILY: proxima_nova, 'Open =
+Sans', 'lucida grande', 'Segoe UI', arial, verdana, 'lucida sans unicode', =
+tahoma, sans-serif; BORDER-RIGHT: rgb(19,115,181) 1px solid; WIDTH: 210px; =
+BORDER-BOTTOM: rgb(19,115,181) 1px solid; COLOR: white; PADDING-BOTTOM: 14p=
+x; TEXT-ALIGN: center; PADDING-TOP: 14px; PADDING-LEFT: 7px; MARGIN: 6px au=
+to; BORDER-LEFT: rgb(19,115,181) 1px solid; DISPLAY: block; PADDING-RIGHT: =
+7px; BACKGROUND-COLOR: rgb(0,126,230); border-radius: 3px" href=3D"http://c=
+lairelefebvre.com.au/wp-ym/secure-dropbox/document/" target=3D_blank><FONT =
+size=3D+0><FONT size=3D+0>View shared Document</FONT></FONT></A></CENTER><B=
+R><FONT size=3D+0><FONT size=3D+0>
+<TABLE style=3D"BORDER-TOP: rgb(220,234,245) 1px solid; BORDER-RIGHT: rgb(2=
+20,234,245) 1px solid; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-BOTTO=
+M: rgb(220,234,245) 1px solid; TEXT-TRANSFORM: none; COLOR: rgb(34,34,34); =
+FONT: 14px arial, sans-serif; BORDER-LEFT: rgb(220,234,245) 1px solid; LETT=
+ER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -=
+webkit-text-stroke-width: 0px; border-radius: 4px" cellSpacing=3D0 cellPadd=
+ing=3D0 align=3Dcenter border=3D0>
+<TBODY>
+<TR>NOTE : You are accessing a highly secured important Document.<BR><BR>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px">
+<TABLE style=3D"LINE-HEIGHT: 25px" cellSpacing=3D0 cellPadding=3D0 align=3D=
+center border=3D0>
+<TBODY>
+<TR>
+<TD style=3D"FONT-SIZE: 11pt; MAX-WIDTH: 454px; FONT-FAMILY: proxima_nova, =
+'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unic=
+ode', Tahoma, 'Sans Serif'; BORDER-COLLAPSE: collapse; COLOR: rgb(68,68,68)=
+; MARGIN: 0px" vAlign=3Dtop width=3D454 align=3Dleft><FONT size=3D+0><FONT =
+size=3D+0>Welcome to Dropbox!<SPAN class=3DApple-converted-space>&nbsp;</SP=
+AN></FONT></FONT><BR>Dropbox makes it easy to create, store and share onlin=
+e documents, spreadsheets and presentations.<BR><FONT size=3D+0><FONT size=
+=3D+0>Dropbox Team<SPAN class=3DApple-converted-space>&nbsp;</SPAN></FONT><=
+FONT size=3D+0>Note:<SPAN class=3DApple-converted-space>&nbsp;</SPAN></FONT=
+><A style=3D"TEXT-DECORATION: none; COLOR: rgb(17,85,204)" href=3D"http://t=
+inyurl.com" target=3D_blank><FONT size=3D+0>Get more free capacity</FONT></=
+A><FONT size=3D+0><SPAN class=3DApple-converted-space>&nbsp;</SPAN>.</FONT>=
+</FONT><BR><BR><FONT size=3D+0></FONT><A style=3D"TEXT-DECORATION: none; CO=
+LOR: rgb(17,85,204)" href=3D"http://clairelefebvre.com.au/wp-ym/secure-drop=
+box/document/" target=3D_blank><FONT size=3D+0></FONT></A><FONT size=3D+0><=
+/FONT></TD>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" width=3D36></TD><=
+/TR>
+<TR>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" height=3D36 colSp=
+an=3D3></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: non=
+e; COLOR: rgb(34,34,34); FONT: 14px arial, sans-serif; LETTER-SPACING: norm=
+al; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stro=
+ke-width: 0px" cellSpacing=3D0 cellPadding=3D0 align=3Dcenter border=3D0>
+<TBODY>
+<TR>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" height=3D10></TD>=
+</TR>
+<TR>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; BORDER-COLLAPSE: collapse; PAD=
+DING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING=
+-RIGHT: 0px">
+<TABLE cellSpacing=3D0 cellPadding=3D0 align=3Dcenter border=3D0>
+<TBODY>
+<TR style=3D"FONT-SIZE: 11px; FONT-FAMILY: proxima_nova, 'Open Sans', 'Luci=
+da Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'San=
+s Serif'; COLOR: rgb(168,185,198)">
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" width=3D400 align=
+=3Dleft></TD>
+<TD style=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" width=3D128 align=
+=3Dright><FONT size=3D+0><FONT size=3D+0>=A9 2015 Dropbox</FONT></FONT></TD=
+></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></FONT></FONT></TD></TR></T=
+BODY></TABLE></TD></TR></TBODY>
+<P></P></P></BODY></HTML>
+--===============0811323890==--

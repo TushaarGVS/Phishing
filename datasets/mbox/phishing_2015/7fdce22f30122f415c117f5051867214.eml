@@ -1,0 +1,163 @@
+Return-Path: <cs@sevr.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 19F94F4169
+	for <jose@login.monkey.org>; Thu, 15 Oct 2015 12:59:13 -0500 (CDT)
+Received: from smtpin18.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id AC6E327AB92
+	for <jose@login.monkey.org>; Thu, 15 Oct 2015 17:59:12 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70745103744.18.horse01_8a7c392327c19
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,3e2a4e9ac43bd76e,d41d8cd98f00b204,cs@sevr.com,:,RULES_HIT:2:41:46:72:150:152:355:379:800:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1433:1434:1437:1516:1517:1535:1571:1575:1588:1589:1594:1676:1710:1714:1730:1747:1777:1792:1801:1803:2194:2198:2199:2200:2393:2525:2527:2538:2539:2553:2568:2610:2627:2682:2685:2859:2890:2892:2895:2901:2902:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3154:3245:3350:3586:3804:3865:3866:3867:3870:3872:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4120:4321:4605:5007:6117:6119:6238:6261:6300:6650:6671:6678:7266:7652:7809:8550:8568:8583:8603:8778:8957:9025:9080:9121:9388:9908:10346:10398:10484:10522:11233:11256:11473:11480:11651:11657:11658:11914:11984:12043:12050:12114:12295:12517:12519:12555:12740:13007:13139:13374:14096:14246:21080:21094,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:
+X-HE-Tag: horse01_8a7c392327c19
+X-Filterd-Recvd-Size: 9889
+Received: from smtp-out0128-sv3.telkom.net (smtp-out0128-sv3.telkom.net [125.160.6.128])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 15 Oct 2015 17:59:11 +0000 (UTC)
+Received: from [222.124.18.76] (helo=fm1.smtp.telkom.net)
+	by smtp-out0128-sv3.telkom.net with esmtps (TLSv1:AES256-SHA:256)
+	id 1Zmmnv-0001ac-Bt
+	for jose@monkey.org; Fri, 16 Oct 2015 00:59:03 +0700
+Received: from IrfanPC ([180.254.108.73])
+	by fm1.smtp.telkom.net  with SMTP id t9FHx0sJ023509-t9FHx0sK023509
+	for <jose@monkey.org>; Fri, 16 Oct 2015 00:59:01 +0700
+From: "=?utf-8?Q?Paypal=20Inc=2E?=" <cs@sevr.com>
+To: "jose@monkey.org" <jose@monkey.org>
+Date: Fri, 16 Oct 2015 00:59:50 +0700
+Subject: =?utf-8?Q?We=27ve=20limit=20your=20account=20access?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_5e7271fbed7a4074913a300c51489cb6"
+Message-ID: <IRFANPC7363005988d748c0a0649a8423ce2113@IrfanPC>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 202
+
+--_=aspNetEmail=_5e7271fbed7a4074913a300c51489cb6
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE HTML PUBLIC =22-//W3C//DTD HTML 4=2E0 Transitional//EN=22>=0D=
+=0A<HTML><HEAD></HEAD>=0D=0A<BODY>=0D=0A<TABLE =0D=0Astyle=3D=22FONT-SIZE=
+: 14px; FONT-FAMILY: arial, sans-serif; COLOR: rgb(34,34,34); LINE-HEIGHT=
+: 20px; BACKGROUND-COLOR: rgb(253,253,253)=22 =0D=0AcellSpacing=3D0 cellP=
+adding=3D0 width=3D640>=0D=0A  <TBODY>=0D=0A  <TR>=0D=0A    <TD =0D=0A   =
+ style=3D=22PADDING-BOTTOM: 20px; TEXT-ALIGN: center; PADDING-TOP: 20px; =
+PADDING-LEFT: 20px; MARGIN: 0px; PADDING-RIGHT: 20px=22><SPAN =0D=0A     =
+ style=3D=22FONT-FAMILY: tahoma,geneva,sans-serif=22><SPAN =0D=0A      st=
+yle=3D=22FONT-SIZE: 38px; FONT-WEIGHT: bold; COLOR: rgb(0,51,102); FONT-S=
+TYLE: italic; BACKGROUND-COLOR: rgb(255,255,255)=22>Pay</SPAN><SPAN =0D=0A=
+      style=3D=22FONT-SIZE: 38px; FONT-WEIGHT: bold; COLOR: rgb(0,156,222=
+); FONT-STYLE: italic; BACKGROUND-COLOR: rgb(255,255,255)=22>Pal</SPAN></=
+SPAN></TD></TR>=0D=0A  <TR>=0D=0A    <TD style=3D=22MARGIN: 0px=22>=0D=0A=
+      <TABLE =0D=0A      style=3D=22BORDER-TOP: rgb(237,237,237) 1px soli=
+d; BORDER-RIGHT: rgb(237,237,237) 1px solid; BORDER-COLLAPSE: collapse; B=
+ORDER-BOTTOM: rgb(237,237,237) 1px solid; BORDER-LEFT: rgb(237,237,237) 1=
+px solid; BACKGROUND-COLOR: rgb(255,255,255)=22 =0D=0A      cellSpacing=3D=
+0 cellPadding=3D0 width=3D=22100=25=22 border=3D0>=0D=0A        <TBODY>=0D=
+=0A        <TR>=0D=0A          <TD style=3D=22MARGIN: 0px=22>=0D=0A      =
+      <TABLE style=3D=22BORDER-COLLAPSE: collapse=22 cellSpacing=3D0 cell=
+Padding=3D0 =0D=0A            width=3D=22100=25=22 align=3Dcenter border=3D=
+0>=0D=0A              <TBODY>=0D=0A              <TR>=0D=0A              =
+  <TD =0D=0A                style=3D=22PADDING-BOTTOM: 30px; PADDING-TOP:=
+ 55px; PADDING-LEFT: 10px; MARGIN: 0px; PADDING-RIGHT: 10px=22 =0D=0A    =
+            align=3Dcenter>=0D=0A                  <H2 =0D=0A            =
+      style=3D=22FONT-SIZE: 23px; FONT-WEIGHT: 400; COLOR: rgb(46,54,69);=
+ TEXT-ALIGN: center; MARGIN: 0px=22><SPAN =0D=0A                  style=3D=
+=22FONT-SIZE: 42px; FONT-FAMILY: HelveticaNeueLight, =27Helvetica Neue Li=
+ght=27, Arial, sans-serif; COLOR: rgb(0,156,222); BACKGROUND-COLOR: rgb(2=
+55,255,255)=22>Update =0D=0A                  Your Account</SPAN></H2></T=
+D></TR>=0D=0A              <TR>=0D=0A                <TD style=3D=22PADDI=
+NG-BOTTOM: 30px; MARGIN: 0px=22 align=3Dcenter>=0D=0A                  <P=
+ =0D=0A                  style=3D=22FONT-SIZE: 11px; FONT-FAMILY: Verdana=
+, Arial, Helvetica, sans-serif; COLOR: rgb(51,51,51)=22>Hello =0D=0A     =
+             Dear jose=40monkey=2Eorg,</P>=0D=0A                  <P =0D=0A=
+                  style=3D=22FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial=
+, Helvetica, sans-serif; COLOR: rgb(51,51,51)=22>To =0D=0A               =
+   get back into your =26=23929;ay=26=23929;al=26nbsp;account, you=27ll n=
+eed to relog =0D=0A                  in your account=2E</P>=0D=0A        =
+          <TABLE class=3Dyiv1853218147howTo =0D=0A                  style=
+=3D=22FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif=
+; font-stretch: normal=22 =0D=0A                  cellSpacing=3D0 cellPad=
+ding=3D10 width=3D=22100=25=22 border=3D0>=0D=0A                    <TBOD=
+Y>=0D=0A                    <TR>=0D=0A                      <TD style=3D=22=
+BACKGROUND-COLOR: rgb(255,255,255)=22>=0D=0A                        <P>It=
+=27s easy:</P>=0D=0A                        <OL>=0D=0A                   =
+       <LI>Click the link below to open a secure browser =0D=0A          =
+                window=2E =0D=0A                          <LI>You have 2 =
+days from the date of your =26=23929;ay=26=23929;al =0D=0A               =
+           restrictions to fully restore your account access =0D=0A      =
+                    through the <A =0D=0A                          style=3D=
+=22TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: =23333333=22 =0D=0A  =
+                        href=3D=22http://ow=2Ely/TrMIW=22 rel=3Dnofollow =
+=0D=0A                          target=3D_blank>Resolution Center</A>=2E =
+If we don=27t =0D=0A                          receive the information bef=
+ore this deadline, your =0D=0A                          account access ma=
+y be further limited=2E =0D=0A                    </LI></OL></TD></TR></T=
+BODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>=0D=0A        <TR>=0D=0A=
+          <TD =0D=0A          style=3D=22BORDER-BOTTOM: rgb(237,237,237) =
+1px solid; PADDING-BOTTOM: 40px; MARGIN: 0px=22>=0D=0A            <TABLE =
+style=3D=22HEIGHT: 45px; TABLE-LAYOUT: fixed; MARGIN: 0px auto=22 =0D=0A =
+           cellSpacing=3D0 cellPadding=3D0 width=3D280 align=3Dcenter bor=
+der=3D0>=0D=0A              <DIV =0D=0A              style=3D=22COLOR: =23=
+757575; PADDING-LEFT: 200px; PADDING-RIGHT: 200px=22>=0D=0A              =
+<P id=3Dbutton_text class=3Dbutton_style =0D=0A              style=3D=22F=
+ONT-SIZE: 13px; FONT-FAMILY: Arial,sans-serif; BACKGROUND: =23009cde; FON=
+T-WEIGHT: bold; COLOR: =23fff; TEXT-ALIGN: center; font-stretch: normal; =
+border-radius: 7px; -webkit-border-radius: 7px; -moz-border-radius: 7px; =
+-o-border-radius: 7px; -ms-border-radius: 7px=22 =0D=0A              alig=
+n=3Dcenter><A =0D=0A              style=3D=22TEXT-DECORATION: none; FONT-=
+WEIGHT: bold; COLOR: =23fff; DISPLAY: block=22 =0D=0A              href=3D=
+=22http://ow=2Ely/TrMIW=22><SPAN =0D=0A              style=3D=22FONT-SIZE=
+: 15px; TEXT-DECORATION: none; FONT-FAMILY: Arial,sans-serif; FONT-WEIGHT=
+: bold; COLOR: =23fff; DISPLAY: block; LINE-HEIGHT: 40px =21important=22>=
+Update=26nbsp;Your=26nbsp;Account</SPAN></A></P></DIV>=0D=0A             =
+ <TBODY></TBODY></TABLE><BR></TD></TR></TBODY></TABLE></TD></TR>=0D=0A  <=
+TR>=0D=0A    <TD style=3D=22PADDING-BOTTOM: 50px; PADDING-TOP: 20px; MARG=
+IN: 0px=22>=0D=0A      <TABLE =0D=0A      style=3D=22BORDER-TOP: rgb(225,=
+225,225) 1px dotted; BORDER-COLLAPSE: collapse; COLOR: rgb(165,165,165)=22=
+ =0D=0A      cellSpacing=3D0 cellPadding=3D0 width=3D=22100=25=22 border=3D=
+0>=0D=0A        <TBODY>=0D=0A        <TR>=0D=0A          <TD =0D=0A      =
+    style=3D=22PADDING-BOTTOM: 30px; TEXT-ALIGN: center; PADDING-TOP: 10p=
+x; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px=22>PayPal =0D=0A   =
+         inc=2E</TD></TR>=0D=0A        <TR>=0D=0A          <TD style=3D=22=
+TEXT-ALIGN: center; MARGIN: 0px=22>=26=23169; <SPAN =0D=0A            sty=
+le=3D=22FONT-SIZE: 11px=22><STRONG><SPAN =0D=0A            style=3D=22FON=
+T-FAMILY: arial, sans-serif; COLOR: rgb(51,51,51); BACKGROUND-COLOR: rgb(=
+255,255,255)=22>Copyright =0D=0A            =26=23169; 1999-2015=26nbsp;<=
+/SPAN><SPAN class=3Dil =0D=0A            style=3D=22FONT-FAMILY: arial, s=
+ans-serif; COLOR: rgb(51,51,51); BACKGROUND-COLOR: rgb(255,255,255)=22>Pa=
+yPal</SPAN><SPAN =0D=0A            style=3D=22FONT-FAMILY: arial, sans-se=
+rif; COLOR: rgb(51,51,51); BACKGROUND-COLOR: rgb(255,255,255)=22>, =0D=0A=
+            Inc=2E All rights reserved=2E</SPAN></STRONG></SPAN></TD></TR=
+>=0D=0A        <TR>=0D=0A          <TD style=3D=22PADDING-TOP: 10px; MARG=
+IN: 0px=22 align=3Dcenter>=0D=0A            <TABLE cellSpacing=3D0 cellPa=
+dding=3D0 width=3D300 border=3D0>=0D=0A              <TBODY>=0D=0A       =
+       <TR>=0D=0A                <TD style=3D=22TEXT-ALIGN: center; MARGI=
+N: 0px=22 width=3D55><A =0D=0A                  style=3D=22TEXT-DECORATIO=
+N: none; COLOR: rgb(165,165,165)=22 =0D=0A                  href=3D=22htt=
+ps://github=2Ecom/paypal=22 target=3D_blank>Github</A></TD>=0D=0A        =
+        <TD style=3D=22TEXT-ALIGN: center; MARGIN: 0px=22 width=3D55><A =0D=
+=0A                  style=3D=22TEXT-DECORATION: none; COLOR: rgb(165,165=
+,165)=22 =0D=0A                  href=3D=22https://twitter=2Ecom/paypal=22=
+ target=3D_blank>Twitter</A></TD>=0D=0A                <TD style=3D=22TEX=
+T-ALIGN: center; MARGIN: 0px=22 width=3D68><A =0D=0A                  sty=
+le=3D=22TEXT-DECORATION: none; COLOR: rgb(165,165,165)=22 =0D=0A         =
+         href=3D=22https://www=2Efacebook=2Ecom/PayPalYalla?brand_redir=3D=
+589464587749730=22 =0D=0A                  target=3D_blank>Facebook</A></=
+TD>=0D=0A                <TD style=3D=22TEXT-ALIGN: center; MARGIN: 0px=22=
+ width=3D67><A =0D=0A                  style=3D=22TEXT-DECORATION: none; =
+COLOR: rgb(165,165,165)=22 =0D=0A                  href=3D=22https://www=2E=
+linkedin=2Ecom/company/paypal=22 =0D=0A                  target=3D_blank>=
+LinkedIn</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>=0D=0A   =
+   <P style=3D=22TEXT-ALIGN: center=22>=26nbsp;</P></TD></TR></TBODY></TA=
+BLE>=0D=0A<P>=26nbsp;</P></BODY></HTML>=0D=0A
+
+--_=aspNetEmail=_5e7271fbed7a4074913a300c51489cb6--

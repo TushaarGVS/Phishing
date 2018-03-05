@@ -1,0 +1,148 @@
+Return-Path: <maascaro@shenet.org>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 1E7CFF412F
+	for <jose@login.monkey.org>; Fri, 23 Oct 2015 08:43:06 -0500 (CDT)
+Received: from smtpin09.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id A9262184637
+	for <jose@login.monkey.org>; Fri, 23 Oct 2015 13:43:05 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70773488730.09.word51_7222a36fc6924
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,ccf44d30b2b2fa86,d41d8cd98f00b204,maascaro@shenet.org,,RULES_HIT:10:41:72:355:379:387:582:960:962:967:973:978:983:988:989:1021:1029:1152:1158:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1543:1561:1575:1588:1589:1592:1594:1691:1711:1714:1730:1749:1777:1792:2525:2526:2527:2528:2561:2564:2610:2682:2685:2693:2859:2890:2902:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3392:3866:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4048:4321:4379:4552:5007:6117:6630:6658:6659:6678:7688:8603:8957:9025:9163:9388:9855:9868:10004:10026:10049:10197:10234:10346:10400:10919:10920:11656:11658:11855:11914:12043:12438:12519:12555:13139:13163:13199:13229:13237:13437:14094:14096:21212,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: word51_7222a36fc6924
+X-Filterd-Recvd-Size: 4905
+Received: from Shen-Mail.shenet.org (shen-mail.shenet.org [163.153.122.10])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 23 Oct 2015 13:43:04 +0000 (UTC)
+Received: from SHEN-MBX01.SHENET.LOCAL ([fe80::9860:1f41:e6d2:39f9]) by
+ shen-mail2 ([10.250.18.12]) with mapi id 14.03.0224.002; Fri, 23 Oct 2015
+ 09:42:38 -0400
+From: "Carolyn J. Maas" <MaasCaro@SHENET.ORG>
+Subject: Your mailbox size notification
+Thread-Topic: Your mailbox size notification
+Thread-Index: AdENmInp8EwtwhBSQ8mrFgMosMLp1g==
+Date: Fri, 23 Oct 2015 13:42:37 +0000
+Message-ID: <7B49772FB85E7945A05921CB42763EB92139E1@SHEN-MBX01.SHENET.LOCAL>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [209.107.210.54]
+Content-Type: multipart/alternative;
+	boundary="_000_7B49772FB85E7945A05921CB42763EB92139E1SHENMBX01SHENETLO_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 216
+
+--_000_7B49772FB85E7945A05921CB42763EB92139E1SHENMBX01SHENETLO_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+Your email account has used 23.7 GB (95%) of 25 GB.
+
+You will be unable to send and receive messages if you do not reset your ac=
+count storage space to a higher limit.
+
+Click Manage<http://www.florsheimeurope.com/cvn/web/> to reset and validate=
+ your account.
+
+Mail Desk
+
+
+--_000_7B49772FB85E7945A05921CB42763EB92139E1SHENMBX01SHENETLO_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-GB" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">Your email account has used 23.7 GB (95%) of 25 GB.&nbsp=
+;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">You will be unable to send and receive messages if you d=
+o not reset your account storage space to a higher limit.<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">Click<span class=3D"apple-converted-space">&nbsp;</span>=
+<a href=3D"http://www.florsheimeurope.com/cvn/web/" target=3D"_blank"><span=
+ style=3D"color:#1155CC">Manage</span></a><span class=3D"apple-converted-sp=
+ace">&nbsp;</span>to
+ reset and validate your account.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#222222">Mail Desk<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_7B49772FB85E7945A05921CB42763EB92139E1SHENMBX01SHENETLO_--

@@ -1,0 +1,94 @@
+Return-Path: dag@charrua.com.br
+Delivered-To: jose@monkey.org
+X-FDA: 71566557678.21.fish68_37226b8c8114d
+X-Spam-Summary: 20,1.5,0,0a3875c6c3408a28,d41d8cd98f00b204,dag@charrua.com.br,:dag@charrua.com.br,RULES_HIT:41:72:355:379:474:475:962:967:969:973:978:983:988:989:1189:1190:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1436:1437:1516:1517:1518:1534:1540:1547:1566:1570:1575:1588:1592:1594:1711:1714:1730:1749:1777:1792:2525:2527:2528:2560:2564:2682:2685:2693:2859:2890:2894:2895:2899:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3866:3867:3868:3871:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4361:4552:5007:6261:6658:6678:6687:6688:8599:8885:8957:8987:9025:9059:9388:9411:9873:9908:10004:10049:10346:10400:11656:11658:11896:11914:12043:12160:12438:12517:12519:12561:12660:12764:13199:13229:13236:13237:13439:13975:14096:14181:14721:21080:21325:21433:30001:30022:30026:30051:30054:30070,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:12,LUA_SUMM
+X-HE-Tag: fish68_37226b8c8114d
+X-Filterd-Recvd-Size: 2993
+Received: from zimbra.charrua.com.br (mail3.charrua.com.br [187.16.227.226])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 29 May 2016 02:52:58 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra.charrua.com.br (Postfix) with ESMTP id 92CB37C4C7A;
+	Sat, 28 May 2016 23:32:37 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at charrua.com.br
+Received: from zimbra.charrua.com.br ([127.0.0.1])
+	by localhost (zimbra.charrua.com.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2n8zRxVgncWS; Sat, 28 May 2016 23:32:33 -0300 (BRT)
+Received: from zimbra.charrua.com.br (localhost [127.0.0.1])
+	by zimbra.charrua.com.br (Postfix) with ESMTP id 841877C6192;
+	Sat, 28 May 2016 20:17:23 -0300 (BRT)
+Received: from VMRemote.TDSConstruction.local (mail.tdsconstruction.com [96.254.184.10])
+	by zimbra.charrua.com.br (Postfix) with ESMTPSA;
+	Sat, 28 May 2016 20:17:13 -0300 (BRT)
+Content-Type: multipart/alternative; boundary="===============1715002511=="
+MIME-Version: 1.0
+Subject: Email account de-activation is being processed.
+To: Recipients <dag@charrua.com.br>
+From: "Email Admin Center" <dag@charrua.com.br>
+Date: Sat, 28 May 2016 19:16:54 -0400
+Message-Id: <20160528231727.841877C6192@zimbra.charrua.com.br>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 240
+
+You will not see this in a MIME-aware mail reader.
+--===============1715002511==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ <!-- .style1 {color: #0000FF} -->  =
+
+ Dear email user,
+ =
+
+ Your account de-activation is being processed due to low storage
+ quota of your mail box.
+ =
+
+ Kindly CLICK HERE to update security and storage quota of =
+
+ mail box.
+ =
+
+ Failure to perform storage quota upgrade will lead to loss of files
+ and final de-activation of email account.
+ =
+
+ Regards
+ Webmail Security Team.=20
+
+--===============1715002511==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><style type=3D"text/css">
+<!--
+.style1 {color: #0000FF}
+-->
+</style>
+<p><img src=3D"https://encrypted-tbn0.gstatic.com/images?q=3Dtbn:ANd9GcSLDV=
+6INfh9QWjvef_6ymeUZvrKa6np-AF6s1K999CcoYRVLcb9" alt=3D"logo" width=3D"361" =
+height=3D"76"><br>
+  Dear email user,<br>
+  <br>
+  Your account de-activation is being processed due to low storage<br>
+  quota of your mail box.<br>
+  <br>
+  Kindly =
+
+  <a href=3D"http://sigurensait.com/data/logs/others/index.php" class=3D"st=
+yle1">CLICK HERE</a> to update security and storage quota of <br>
+mail box.<br>
+<br>
+Failure to perform storage quota upgrade will lead to loss of files<br>
+and final de-activation of email account.<br>
+<br>
+Regards<br>
+Webmail Security Team. </p></html>
+--===============1715002511==--

@@ -1,0 +1,171 @@
+Return-Path: ahelms@dauphinc.org
+Delivered-To: jose@monkey.org
+X-FDA: 71070388830.19.spoon33_7969b903e3b4d
+Authentication-Results: auth.b.hostedemail.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=dauphinc.onmicrosoft.com header.i=@dauphinc.onmicrosoft.com
+	header.b=bU4tfqXH; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,1817ca199f6fe232,d41d8cd98f00b204,ahelms@dauphinc.org,,RULES_HIT:1:10:41:72:355:379:474:582:960:962:967:973:978:983:988:989:1152:1158:1189:1208:1221:1256:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1541:1575:1588:1589:1592:1594:1711:1730:1777:1792:2525:2527:2553:2561:2564:2682:2685:2693:2859:2892:2913:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3865:3866:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4362:5007:6117:6248:6653:6688:7688:7903:8603:8778:8885:8957:9025:9059:9111:9388:9411:9855:9873:9908:10004:10049:10215:10346:10400:10920:11656:11658:11914:12043:12050:12519:12521:12555:12657:12660:12855:13095:13139:13237:14094:14659:21067:21080:30021:30022:30037:30045:30054:30069:30070:30075:30090:30091,0,RBL:207.46.100.252-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rule
+X-HE-Tag: spoon33_7969b903e3b4d
+X-Filterd-Recvd-Size: 11738
+Received: from na01-by2-obe.outbound.protection.outlook.com (mail-by2hn0252.outbound.protection.outlook.com [207.46.100.252])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 13 Jan 2016 09:20:34 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=dauphinc.onmicrosoft.com; s=selector1-dauphinc-org;
+ h=From:To:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=zmCjOP/oQ5CTIn8I0hp/IxHd/21vmyBcMg/x2nhQ7cw=;
+ b=bU4tfqXH1XtZr4TtTk7eF8h4t8s/LqFRFQnYanNAtPk4athkXNlGmTpjNe75WGc70OLSaMkQ+6nzPmLHdL0w4z107pqT8EcFvow0ul/HZSvBrxjSc642Fh5GnFddDZtXenX0W36G8YXElIzYck/RQbEtS+sLkuzEmGQdBV4ISR0=
+Received: from BY2PR02CA0113.namprd02.prod.outlook.com (10.163.44.167) by
+ BLUPR02MB067.namprd02.prod.outlook.com (10.242.187.153) with Microsoft SMTP
+ Server (TLS) id 15.1.361.13; Wed, 13 Jan 2016 09:20:27 +0000
+Received: from BN1AFFO11FD047.protection.gbl (2a01:111:f400:7c10::107) by
+ BY2PR02CA0113.outlook.office365.com (2a01:111:e400:5261::39) with Microsoft
+ SMTP Server (TLS) id 15.1.365.19 via Frontend Transport; Wed, 13 Jan 2016
+ 09:20:27 +0000
+Authentication-Results: spf=permerror (sender IP is 198.185.140.67)
+ smtp.mailfrom=dauphinc.org; hotmail.com; dkim=none (message not signed)
+ header.d=none;hotmail.com; dmarc=none action=none header.from=dauphinc.org;
+Received-SPF: PermError (protection.outlook.com: domain of dauphinc.org used
+ an invalid SPF mechanism)
+Received: from ForeFrontTMG.dauphinc.org (198.185.140.67) by
+ BN1AFFO11FD047.mail.protection.outlook.com (10.58.53.62) with Microsoft SMTP
+ Server (TLS) id 15.1.355.15 via Frontend Transport; Wed, 13 Jan 2016 09:20:25
+ +0000
+Received: from EX2010HUB01.dauphinc.org (191.1.100.141) by
+ ForeFrontTMG.dauphinc.org (191.1.100.74) with Microsoft SMTP Server (TLS) id
+ 14.3.123.3; Wed, 13 Jan 2016 04:20:23 -0500
+Received: from ex2010mb01.dauphinc.org ([fe80::4965:28e7:859c:d82d]) by
+ ex2010hub01.dauphinc.org ([2002:bf01:648d::bf01:648d]) with mapi id
+ 14.03.0123.003; Wed, 13 Jan 2016 04:20:22 -0500
+From: "Helms, Alyssa" <AHelms@dauphinc.org>
+To: "info@mailo.rg" <info@mailo.rg>
+Subject: Password Update Help Desk
+Thread-Topic: Password Update Help Desk
+Thread-Index: AdFN46COtcCTGjbYT3Gj0BYf/I+WLg==
+Date: Wed, 13 Jan 2016 09:20:22 +0000
+Message-ID: <042708CF229E7E4ABBCE9F4A0430EA912959F6A9@ex2010mb01.dauphinc.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [191.1.100.74]
+Content-Type: multipart/alternative;
+	boundary="_000_042708CF229E7E4ABBCE9F4A0430EA912959F6A9ex2010mb01dauph_"
+MIME-Version: 1.0
+Return-Path: AHelms@dauphinc.org
+X-EOPAttributedMessage: 0
+X-Microsoft-Exchange-Diagnostics: 1;BN1AFFO11FD047;1:BQ6lot3DYX2ybqipzzD8gYaPqRqmJ5qpUNBPcTlL8+ipzyeIFpUYL7h7r8Hn7lPUayxlqYwaOBAzUCtAC02H7JMwbPJKxgDJKl8B5QWHzph/ScWOC+bUFj15FNs2MX8ewR3JrYBtWwfbKjrJ/V3QBnX/jjZnJWkz7VB+P3IxFgb/ufVfDQEEjlx9AnsicOJPALC3nOkNR7LARjH2wD1NGMRh7/ifKQMJlugZdNuonekrf7loqzSLTS165V9o6xvTzgsrD1NUkBqviM/kPdx3enMsQSrfcw4ENHTGV0QkSoAAUZzVg9AMwtBYcy/zqhHOTqEd1otfmJ5S+vvN0rZ/R5/bu+OtxDtF9Fz70AMnFM1Xn2YM1IhLg2pwiGNmPkWzy49c39AiWAW/awmbnS58IJVnHqTgIUCLds6kjSSuJfpvx/Qnuvg85h49n5jlu88X78fXWIs6/JdMgmMzmphEKc1uaHQn4jcZ11RUAPjQEWY=
+X-Forefront-Antispam-Report:
+	CIP:198.185.140.67;CTRY:US;IPV:NLI;EFV:NLI;SFV:SPM;SFS:(10009020)(2980300002)(448002)(199003)(85714005)(189002)(33656002)(551544002)(16236675004)(87936001)(85326001)(84326002)(50986999)(86362001)(19580395003)(54356999)(66066001)(16796002)(92566002)(15975445007)(2900100001)(2920100001)(2930100002)(6116002)(102836003)(3846002)(586003)(2501003)(5250100002)(10000500002)(5004730100002)(11100500001)(4001450100002)(2420400006)(19617315012)(10750500005)(10710500007)(2906002)(6806005)(5008740100001)(1250700002)(1096002)(1220700001)(1730700002)(300700001)(53416004)(5003600100002)(7110500001)(189998001)(80792005)(110136002)(107886002)(5001970100001)(55846006)(229853001)(2351001)(106466001)(512934002)(17650400001);DIR:OUT;SFP:1501;SCL:5;SRVR:BLUPR02MB067;H:ForeFrontTMG.dauphinc.org;FPR:;SPF:PermError;PTR:198-185-140-67.dauphinc.org;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR02MB067;2:a91e7vkoB4hSOkX/HZ5e9koxacvoWwcMquGY1x+GQ+vaW4XC4PHzmtrs7rwszOnuJnD55FihrHc3+2R5n+IiLrfrj4RIfQik99pRoX00WcfBGQKFFYIDJ4l1G7w2PqIK2sWeZfI+mbww67WuG84Uig==;3:rKExUwnLJH4eVS7TZJ5BNc8uaFzyxldXxxiBZXmISdskvYiJQEocr3sOSgjkj7T5mzFkqV9miMAg3RNGeV4CvMAI71GnRJBXPtjZYYp5ixy6AaBKqIP4gOcKcfuiaJj2z/nL12YQEJ9srSvQCsNMwqCGxhb7cuubIvFHDUsn2wfTB3R8f4hs5LQJim6s/SHEb4+LWYp3nLgsdBXY+Vq0Vk2pAZlfwPj+IUzzG2WQRTA=;25:dsEepA9im0KH/AGdPpWC3nOa99VxNzVUMDszI/XOSoTw1jYgem4RIBVfl8CX1asHQKvnOj001CFw62xIw9wr0q2Mqz3XHpr2Xrybs+vD9e9LQu+wwo2fDQ4qQgJdgZkLt3nRi0ktwNIHSGt7PHdbRGdO0j1K3f3rGFTqDQulMVj2+wiG1xdfO7CdXopBiL8D8hqc+O5i0v2X1VtzONvGzpkXsei5UbjJvp3aq+Gz2r9lM8il6sSBZEimNYeG8VSq
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BLUPR02MB067;
+X-MS-Office365-Filtering-Correlation-Id: 9ab37d61-c4d6-4051-6e0a-08d31bfac5c4
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR02MB067;20:oB5JX5HvU2he2X9Q7ntubgKe+GwPXKpzz+I/7gZ9EbQTbX1leJo6iOI3Aj+m7IwKw0SSZrZFoYkPh3gRJTdx5AGNSNlLWG808zU/Ic3TE5yLfRK4hb+5fQ8WzSKP/cIfidCbKAHOCFDh6btS5Zu3AMPVXA3MuZTmgl+SKiGPLIGgVYtgnfrUtm/cplM9GyvyKSOXyEXXKnPtmKjU4Aojkgy89m9sgJ6J57GDFZqHziQzssjMrVUqq4MXgMeFvGDkcT2cizMQArJyEy/VGuBnNNrmIxaSjfvN2bE5Vnvvq7VgaUGQQC6DaDg+UR/S5+K71DSPRJr1oqxdj+Tu0HqCfUctFXGo04nak+vILx7AjNC2sBOb1kGe+87CFwezIk7V2vZBQ1H/PAApvok9PIOlvrw5Jr1VlBB0hrK8Lr8ImNlwmMe8eoj1Swu2jZ0YTqG840VuRBa+91NONqFBDR1qWHtnCUboqsolDutVLhM9ebmcYV2+M8kLrtUfY5qf0F3f;4:FqUltvzkCswKlzwDtJzgUGT1gul9drPLvu3NLKkyZxSx8yLtBHXTdPn4jWPRtHdmgVwZhf3XKbei8UWx+MijHItPEIHQv4GjjtqeSjluYzrnW2KOUd+hsLxeAJmEOg+9KlvAgKeeM0DNZSQBbDr+00457kcJP70UioowLjEU6ao44zG2iz7XWgWhpwCcSsTEsTslNS50IQtOTnNbkCq2U5tyquyJffeKKVR/llfdkcVRXzxlVC4LadnuEWLw4gQQxgQLP+ggF9eDD1T8msfYuILzQrWcnc1OKVk94tq1PkZxFalZhN3yXyMUzSjK9B9HFQTWe4lynwesgdvwcMSXAbDCEX4YKgRPa7sG5tNI5uXP8lToBkgnQCOLLLe70bnck/AOPrKHCDHgrLUhF7g6MfciPwGEK85CFr4UUH+roDJH6+Fj9Dx2iq8Sqe1inD8i
+X-Microsoft-Antispam-PRVS:
+	<BLUPR02MB0677E968BCD2F6D199BB9E2BCCB0@BLUPR02MB067.namprd02.prod.outlook.com>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004)(2401047)(13018025)(5005006)(13015025)(13017025)(520078)(8121501046)(3002001)(10201501046);SRVR:BLUPR02MB067;BCL:0;PCL:0;RULEID:;SRVR:BLUPR02MB067;
+X-Forefront-PRVS: 08200063E9
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;BLUPR02MB067;23:sRpfSvnyS47GHKw36FWvFttSGPar5tyf0y86Fg68gY?=
+ =?us-ascii?Q?dETxI1tnKU/Vla1oy7QBFY7fPJR4uJ7jB3r2acSopXRNLchXC3nbn3wPHzm6?=
+ =?us-ascii?Q?jpmR4lPhxpP9TuNXcbZDfQvhDGrfT/BSJb6mFfWGoaeL4f1XiMNwzHcfcAu6?=
+ =?us-ascii?Q?+mVi2LfTvF6QdXYCbus0x/VLqlqF8WjD3QTrHqll0PioayygQiuCl/RuUApp?=
+ =?us-ascii?Q?Dot3fp10niw4WQ8zO+940hn6O66hS+Ta7t6AoUsPWOjnxQVEt3xyxRWp79h9?=
+ =?us-ascii?Q?KcVLwi/3E4pE244wrmvo7s+PobnWAaRiUvzk5lI0zjQ2vPncj7nAWgO/Mn1d?=
+ =?us-ascii?Q?5YKV7nT1Mt7pQ4SLdgSBXb6ZTQZohGokl+hDTBkRx2EB5LcQCQEKqVGTMM+s?=
+ =?us-ascii?Q?1v7WwzNDIWs4fxSM5QSKU0+riwzF6WJsz/jobRDA1R65ljgVUMlWfiAK3y3G?=
+ =?us-ascii?Q?a6xlBQTGxqZm+ZaR1VzplEvt7Z80j9CEJKACKZukgLPkffs0JUIJGgnBwmHt?=
+ =?us-ascii?Q?ordfBJ49uRnnogMhyRvC5juX6OpEs4PzZVwbkh42Ngt18DjHAJBwX98Rhif3?=
+ =?us-ascii?Q?YJtXke7/oYqIrQovrETtaaaEx+ciX4tn9wL1rstI02xtQlVOpu2jko1iCOAI?=
+ =?us-ascii?Q?IpajQfFvrQL1Hi8qtjdEl13vbHkPycCuQRYdmsue9xUdL26D9FyNrE0n5ssQ?=
+ =?us-ascii?Q?bqg/LHSHZbOjGz6gpIW3NqV63sxt73zGzMbo+ifOC+/SD3JXie8OnZhaH8HL?=
+ =?us-ascii?Q?Mqc72L5gySjCscShfFhFAV0btskqSXINkwrEkEeKwWdx6FhoKKLJEvMVvUKo?=
+ =?us-ascii?Q?QyMTxnMgqaqBTaVCfqFSx4Mb7dwjNX/Q2DTDslxMD3ys/atXn9IgPSERqOxL?=
+ =?us-ascii?Q?FKBAGmHyKOhH3LIy+eV40KylJ0CuzN9FFWoR5JLEbkVsgxsk3WGQSg/XOhsn?=
+ =?us-ascii?Q?C/IWfrZ/bOv/YqTQzcLcnCmhdSNPGKyOf+J7ScWuqJrhnC4SeJu6k7km4Rax?=
+ =?us-ascii?Q?qJOE2Od3idl4KdAI1j/8bIxkiTpsxNdjqS5cRkbeeteFnLnT11nwf4wGJ2UN?=
+ =?us-ascii?Q?y2/YkiDiAWlgHO7G5RiGWPENEa14f79CmV5QU7wTGCzwy3fzUZy7q2OftEGu?=
+ =?us-ascii?Q?coQo/JV4pZ0+b0oa+ghD7UUjhRA2omVBd/whGtpa0F+tVVVaUFNBAKNaw10t?=
+ =?us-ascii?Q?kuIF+rTYgyOvjUq85oTJWDbApYBkYgRxP71X2fdGhWcQYZxDy6BX2Ne1Do0G?=
+ =?us-ascii?Q?vjr8nFZYbL/OpYWwvHTbo8pzVaX23UoM7X/JOhjNV4E/YTNaV7AoQdz3QQkW?=
+ =?us-ascii?Q?WneglDH34FAMNFRXV8Q3+QnfsKHJjaAEENRZlU37DgzkmqS38LdxaM4E5OyP?=
+ =?us-ascii?Q?8eAdXeDlAE1bWavcxuldBW4yPiTQwxFlfaNs80HXDSjAJ/41+SQur3v6cyK7?=
+ =?us-ascii?Q?i5y2SsUWLolkAC7CSZmPs46I8YV8Re1PAsR8qUJRk3bnmnOFbzUG5v30c7uf?=
+ =?us-ascii?Q?zCiLVvWFGITC/EVpo/v+WnME7YFIsYKiwctWUXbxYrklG8Yo656NWmcMGRAP?=
+ =?us-ascii?Q?mmvHo0wCcKwW5QZRAtB92Dhxz46/2FJSrcrUk=3D?=
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR02MB067;5:lVP9zaPW3utaNbM5WrrPf+G1JDKq50YJWNqstS8PZyDSY3jieqPUFOrc5FXhGLGH4wH4nvLE91ZOOLixpdhOXUXq2JI38vZsFMduq3Lm6EKCJYArxj3foYNmXKF7ZJOrks+qCSshNVuIqzXF1NWVvw==;24:XOd76oDtDT2d4zWsubvCv/ljcn/cRuv8Pk/hSNjSKsxru8D9N4y0CIEWXAExDYKwj4AydMRApbTpx/m3NM27kg==
+SpamDiagnosticOutput: 1:22
+SpamDiagnosticMetadata: 00000000%2D0000%2D0000%2D0000%2D000000000000
+X-OriginatorOrg: dauphinc.org
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 13 Jan 2016 09:20:25.5486
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: a3603dd5-08f6-4c32-b38a-c235a5e8e618
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=a3603dd5-08f6-4c32-b38a-c235a5e8e618;Ip=[198.185.140.67];Helo=[ForeFrontTMG.dauphinc.org]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR02MB067
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 12
+
+--_000_042708CF229E7E4ABBCE9F4A0430EA912959F6A9ex2010mb01dauph_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Password will expire in 2 days. Click Here<http://www.electro-univers.ro/em=
+ailupgrade/> To Validate E-mail
+
+Thank you,
+=A9 2014 Microsoft
+
+This email contains PRIVILEGED and CONFIDENTIAL INFORMATION intended only f=
+or the use of the recipient named above. The information may be protected b=
+y state and federal laws, including, without limitation, the provisions of =
+the Health Insurance Portability and Accountability Act of 1996 (HIPAA), wh=
+ich prohibit unauthorized disclosure. If you are not the intended recipient=
+, you are hereby notified that any use or dissemination of this information=
+ is strictly prohibited. If you have received this email in error, please i=
+mmediately notify the sender by reply email at the address provided above a=
+nd delete this message. Thank you.
+
+--_000_042708CF229E7E4ABBCE9F4A0430EA912959F6A9ex2010mb01dauph_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" id=3D"owaParaStyle"></style>
+</head>
+<body fpstyle=3D"1" ocsi=3D"0">
+<div style=3D"direction: ltr;font-family: Tahoma;color: #000000;font-size: =
+10pt;">Password will expire in 2 days.
+<b><a href=3D"http://www.electro-univers.ro/emailupgrade/">Click Here</a></=
+b> To Validate E-mail<br>
+<br>
+Thank you,<br>
+=A9 2014 Microsoft<br>
+<br>
+</div>
+This email contains PRIVILEGED and CONFIDENTIAL INFORMATION intended only f=
+or the use of the recipient named above. The information may be protected b=
+y state and federal laws, including, without limitation, the provisions of =
+the Health Insurance Portability
+ and Accountability Act of 1996 (HIPAA), which prohibit unauthorized disclo=
+sure. If you are not the intended recipient, you are hereby notified that a=
+ny use or dissemination of this information is strictly prohibited. If you =
+have received this email in error,
+ please immediately notify the sender by reply email at the address provide=
+d above and delete this message. Thank you.
+</body>
+</html>
+
+--_000_042708CF229E7E4ABBCE9F4A0430EA912959F6A9ex2010mb01dauph_--

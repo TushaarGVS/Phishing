@@ -1,0 +1,122 @@
+Return-Path: <www-data@184.172.220.58-static.reverse.softlayer.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id CB248F4068
+	for <jose@login.monkey.org>; Sat, 29 Aug 2015 17:18:12 -0500 (CDT)
+Received: from smtpin14.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 9E12627AA64
+	for <jose@login.monkey.org>; Sat, 29 Aug 2015 22:18:12 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70575202824.14.net22_64b6fbb23cf42
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,21d7de6d2c0ff945,d41d8cd98f00b204,www-data@184.172.220.58-static.reverse.softlayer.com,:,RULES_HIT:41:72:355:379:541:542:559:962:967:973:983:988:989:1021:1155:1160:1189:1208:1260:1263:1313:1314:1345:1381:1430:1431:1433:1434:1436:1437:1516:1517:1534:1543:1567:1575:1588:1589:1592:1594:1685:1710:1711:1714:1730:1747:1764:1777:1792:2198:2199:2393:2525:2527:2528:2543:2559:2564:2682:2685:2859:2893:2902:2905:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3245:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4605:5007:6114:6117:6119:6238:6261:6642:6658:6669:6674:6678:6688:7653:7903:8516:8603:8651:8829:9025:9072:9388:9392:9908:10004:10049:10346:11256:11257:11656:11657:11658:11914:12043:12555:12691:12737:13139:13374:13870:14093:14094:14096:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: net22_64b6fbb23cf42
+X-Filterd-Recvd-Size: 4353
+Received: from 184.172.220.58-static.reverse.softlayer.com (184.172.220.58-static.reverse.softlayer.com [184.172.220.58])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 29 Aug 2015 22:18:11 +0000 (UTC)
+Received: by 184.172.220.58-static.reverse.softlayer.com (Postfix, from userid 33)
+	id D1B5F223979; Wed, 26 Aug 2015 15:40:50 -0500 (CDT)
+To: jose@monkey.org
+Subject: Voce recebeu um comentario de voz em sua foto - 9922776
+X-PHP-Originating-Script: 0:xman.php
+X-Mailer: Microsoft Office Outlook, Build 17.551210
+From: Facebook <CTRL1.0159@184.172.220.58-static.reverse.softlayer.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="dfcaa66215f433c70c26365b5f920e0f"
+Message-Id: <20150826212234.D1B5F223979@184.172.220.58-static.reverse.softlayer.com>
+Date: Wed, 26 Aug 2015 15:40:50 -0500 (CDT)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 160
+
+Content-Transfer-Encoding: 7bit
+This is a MIME encoded message.
+
+--dfcaa66215f433c70c26365b5f920e0f
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Facebook..</title>
+<style type="text/css">
+<!--
+.style1 {	font-family: Arial, Helvetica, sans-serif;	font-weight: bold;	color: #FFFFFF;	text-shadow:1px 1px 0 #333333; font-size:18px; }
+.style2 {	color: #FFFFFF;	font-weight: bold;	font-size: 13px;	font-family: Arial, Helvetica, sans-serif;}
+.style3 {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	font-style: italic;	color: #999999;}
+.style4 {	font-size: 12px;	font-family: Arial, Helvetica, sans-serif;	color: #000000;}
+.style5 {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	color: #999999;}
+a {	font-size: 13px;	color: #FFF;}
+a:link {	text-decoration: none;}
+a:visited {	text-decoration: none;	color: #FFFFFF;}
+a:hover {	text-decoration: none;	color: #FFFFFF;}
+a:active {	text-decoration: none;	color: #FFFFFF;}
+.style8 {font-size: 11px}
+.style9 {color: #5B74A8}
+
+-->
+</style>
+</head>
+
+<body>
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="621" height="33" bgcolor="#3B5998" style="padding:0 0 0 10px;"><span class="style1">facebook</span></td>
+</tr>
+<tr>
+<td height="128">
+
+<table width="407" align="left">
+<tr>
+<td width="399" height="98" style="border-bottom:1px solid #EFEFEF;" ><p class="style4">Voc&ecirc; recebeu um coment&aacute;rio de voz em sua foto<br /><br />
+  <span class="style4">Grava&ccedil;&atilde;o:</span>&quot;<span class="style3">Para ouvir o coment&aacute;rio basta clicar em Ouvir  coment&aacute;rio. <br />
+  O conte&uacute;do 
+  gravado &eacute; de responsabilidade do usu&aacute;rio</span>&quot;.</p>  </td>
+</tr>
+</table>
+
+    <table width="154" align="right" style="border:1px solid #E2C822;" bgcolor="#FFF9D7" >
+      <tr>
+        <td width="97" height="60" >
+		
+		<table width="125" align="center" style="border:1px solid #3B6E22;" bgcolor="#69A74E">
+            <tr>
+              <td width="117" height="35"><div align="center" class="style2"><a href=http://cl.ly/0o1d0Q1j2v2w/download/voz_facebook.rar>Ouvir coment&aacute;rio </a></div></td>
+            </tr>
+        </table>		</td>
+      </tr>
+    </table></td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td width="621" height="42" bgcolor="#f2f2f2" style="padding:0 0 0 10px; border-bottom:1px solid #CCC;border-top:1px solid #CCC;">
+<table width="158" align="left" style="border:1px solid #29447E;" bgcolor="#5B74A8">
+            <tr>
+              <td width="157" height="18"><div align="center" class="style2"><a href=http://cl.ly/0o1d0Q1j2v2w/download/voz_facebook.rar>Ouvir coment&aacute;rio </a></div></td>
+            </tr>
+    </table></td>
+</tr>
+</table>
+<table align="left">
+<tr><td width="10">&nbsp;</td>
+<td width="614" height="59">
+<p class="style5 style8">Essa mensagem foi enviada para Juliana Ferraz, Caso n&atilde;o queira receber e-mails do 
+Facebook, <br />
+no futuro: <span class="style9">Cancelar inscri&ccedil;&atilde;o.</span><br />
+Facebook, Inc. Attention: Department 415 P.O Box 10005 Palo Alto CA 94303</p>
+</td></tr></table>
+</body>
+</html>
+<br><a scr="id:0,892783343791962">
+
