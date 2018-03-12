@@ -1,11 +1,11 @@
 ---Validation of mRMR Technique for Feature Selection---
 
 INPUT:
-      A      B	 C	      D  	label
-0	True	25	3.88	56.44	0
-1	False	36	2.94	63.54	1
-2	False	42	5.12	44.79	0
-3	True	60	1.86	38.23	1
+        A     B	 C	  D  	label
+0	True	 25   3.88	56.44  0
+1	False	 36   2.94	63.54	 1
+2	False	 42   5.12	44.79  0
+3	True	 60   1.86	38.23	 1
 
 Initial Array: [0 3]
 
