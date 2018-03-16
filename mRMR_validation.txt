@@ -1,0 +1,198 @@
+---Validation of mRMR Technique for Feature Selection---
+
+INPUT:
+        A       B       C       D       label
+0       True    25      3.88    56.44   0
+1       False   36      2.94    63.54   1
+2       False   42      5.12    44.79   0
+3       True    60      1.86    38.23   1
+
+Initial Array: [0 3]
+
+---Step (0, 1)
+n = 4
+IQR = 35.0
+h = 44.0972367463
+bins = 0.793700525984 => int(bins) = 0
+bins to be used = 2
+xy = [[ 2.  0.]
+ [ 1.  1.]]
+x = [2 2]
+y = [3 1]
+shannon entropy (x) = 1.0
+shannon entropy (y) = 0.811278124459
+shannon entropy (xy) = 1.5
+MI = 0.311278124459
+MI[0, 1] = 0.311278124459
+==========================
+
+---Step (0, 2)
+n = 4
+IQR = 3.26
+h = 4.10734262266
+bins = 0.793700525984 => int(bins) = 0
+bins to be used = 2
+xy = [[ 1.  1.]
+ [ 1.  1.]]
+x = [2 2]
+y = [2 2]
+shannon entropy (x) = 1.0
+shannon entropy (y) = 1.0
+shannon entropy (xy) = 2.0
+MI = 0.0
+MI[0, 2] = 0.0
+==========================
+
+---Step (0, 3)
+n = 4
+IQR = 25.31
+h = 31.8886017728
+bins = 0.793700525984 => int(bins) = 0
+bins to be used = 2
+xy = [[ 1.  1.]
+ [ 1.  1.]]
+x = [2 2]
+y = [2 2]
+shannon entropy (x) = 1.0
+shannon entropy (y) = 1.0
+shannon entropy (xy) = 2.0
+MI = 0.0
+MI[0, 3] = 0.0
+==========================
+
+---Step (0, 4)
+bins to be used = 2
+xy = [[ 1.  1.]
+ [ 1.  1.]]
+x = [2 2]
+y = [2 2]
+shannon entropy (x) = 1.0
+shannon entropy (y) = 1.0
+shannon entropy (xy) = 2.0
+MI = 0.0
+MI[0, 4] = 0.0
+==========================
+
+---Step (1, 2)
+n = 4
+IQR = 35.0
+h = 44.0972367463
+bins = 0.793700525984 => int(bins) = 0
+n = 4
+IQR = 3.26
+h = 4.10734262266
+bins = 0.793700525984 => int(bins) = 0
+bins to be used = 2
+xy = [[ 1.  2.]
+ [ 1.  0.]]
+x = [3 1]
+y = [2 2]
+shannon entropy (x) = 0.811278124459
+shannon entropy (y) = 1.0
+shannon entropy (xy) = 1.5
+MI = 0.311278124459
+MI[1, 2] = 0.311278124459
+==========================
+
+---Step (1, 3)
+n = 4
+IQR = 35.0
+h = 44.0972367463
+bins = 0.793700525984 => int(bins) = 0
+n = 4
+IQR = 25.31
+h = 31.8886017728
+bins = 0.793700525984 => int(bins) = 0
+bins to be used = 2
+xy = [[ 1.  2.]
+ [ 1.  0.]]
+x = [3 1]
+y = [2 2]
+shannon entropy (x) = 0.811278124459
+shannon entropy (y) = 1.0
+shannon entropy (xy) = 1.5
+MI = 0.311278124459
+MI[1, 3] = 0.311278124459
+==========================
+
+---Step (1, 4)
+n = 4
+IQR = 35.0
+h = 44.0972367463
+bins = 0.793700525984 => int(bins) = 0
+bins to be used = 2
+xy = [[ 2.  1.]
+ [ 0.  1.]]
+x = [3 1]
+y = [2 2]
+shannon entropy (x) = 0.811278124459
+shannon entropy (y) = 1.0
+shannon entropy (xy) = 1.5
+MI = 0.311278124459
+MI[1, 4] = 0.311278124459
+==========================
+
+---Step (2, 3)
+n = 4
+IQR = 3.26
+h = 4.10734262266
+bins = 0.793700525984 => int(bins) = 0
+n = 4
+IQR = 25.31
+h = 31.8886017728
+bins = 0.793700525984 => int(bins) = 0
+bins to be used = 2
+xy = [[ 1.  1.]
+ [ 1.  1.]]
+x = [2 2]
+y = [2 2]
+shannon entropy (x) = 1.0
+shannon entropy (y) = 1.0
+shannon entropy (xy) = 2.0
+MI = 0.0
+MI[2, 3] = 0.0
+==========================
+
+---Step (2, 4)
+n = 4
+IQR = 3.26
+h = 4.10734262266
+bins = 0.793700525984 => int(bins) = 0
+bins to be used = 2
+xy = [[ 0.  2.]
+ [ 2.  0.]]
+x = [2 2]
+y = [2 2]
+shannon entropy (x) = 1.0
+shannon entropy (y) = 1.0
+shannon entropy (xy) = 1.0
+MI = 1.0
+MI[2, 4] = 1.0
+==========================
+
+---Step (3, 4)
+n = 4
+IQR = 25.31
+h = 31.8886017728
+bins = 0.793700525984 => int(bins) = 0
+bins to be used = 2
+xy = [[ 1.  1.]
+ [ 1.  1.]]
+x = [2 2]
+y = [2 2]
+shannon entropy (x) = 1.0
+shannon entropy (y) = 1.0
+shannon entropy (xy) = 2.0
+MI = 0.0
+MI[3, 4] = 0.0
+==========================
+INFORMATION
+[[ 0.          0.31127812  0.          0.          0.        ]
+ [ 0.          0.          0.31127812  0.31127812  0.31127812]
+ [ 0.          0.          0.          0.          1.        ]
+ [ 0.          0.          0.          0.          0.        ]
+ [ 0.          0.          0.          0.          0.        ]]
+
+New Array of features: [0 3 2]
+Newly added feature depending upon MI value: [2]
+
